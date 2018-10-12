@@ -1,0 +1,84 @@
+[Region]
+0=Japan,FF8204,0
+1=USA,FF8204,2
+2=Asia,FF8204,4
+3=Hispanic,FF8204,6
+4=Euro,FF8204,8
+
+
+[0]
+Name=Title Screen
+0=Vampire,FF8215,0
+1=Darkstalkers,FF8215,1
+
+[1]
+Name=Infinite Time Limit
+0=Off,0,0
+1=On,FF9408,99
+
+[2]
+Name=Infinite Health
+0=Off,0,0
+1=P1,FF83CA,90
+2=P2,FF87CA,90
+3=P1&P2,FF83CA,90,FF87CA,90
+
+[3]
+Name=Infinite Special
+0=Off,0,0
+1=P1,FF855E,4F
+2=P2,FF895E,4F
+3=P1&P2,FF855E,4F,FF895E,4F
+
+[4]
+Name=P1 Character
+0=Off,0,0
+1=Demitori,FF8728,1
+2=Gallon,FF8728,2
+3=Victor,FF8728,3
+4=Zabel,FF8728,4
+5=Morrigan,FF8728,5
+6=Anakaris,FF8728,6
+7=Fericia,FF8728,7
+8=Bishamon,FF8728,8
+9=Aulbath,FF8728,9
+10=Sasqatch,FF8728,A
+11=Phobos,FF8728,B
+12=Pyron,FF8728,C
+
+[5]
+Name=P2 Character
+0=Off,0,0
+1=Demitori,FF8B28,1
+2=Gallon,FF8B28,2
+3=Victor,FF8B28,3
+4=Zabel,FF8B28,4
+5=Morrigan,FF8B28,5
+6=Anakaris,FF8B28,6
+7=Fericia,FF8B28,7
+8=Bishamon,FF8B28,8
+9=Aulbath,FF8B28,9
+10=Sasqatch,FF8B28,A
+11=Phobos,FF8B28,B
+12=Pyron,FF8B28,C
+
+[6]
+Name=Action Speed Up
+0=Off,0,0
+1=P1,FF8396,01
+2=P2,FF8796,01
+3=P1&P2,FF8396,01,FF8796,01
+
+[7]
+Name=No Hit Stop
+0=Off,0,0
+1=P1,FF83D2,01
+2=P2,FF87D2,01
+3=P1&P2,FF83D2,01,FF87D2,01
+
+[8]
+Name=Chain Combo Limit Off
+0=Off,0,0
+1=P1,FF84E2,00
+2=P2,FF88E2,00
+3=P1&P2,FF84E2,00,FF88E2,00

@@ -1,0 +1,654 @@
+[0]
+Name=Region
+0=Disabled
+1=Japan,FF8090,00
+2=USA,FF8090,02
+3=Hispanic,FF8090,04
+4=Oceania,FF8090,06
+5=Asia,FF8090,08
+6=Euro,FF8090,0A
+7=Brazil,FF8090,0C
+Default=0
+
+[1]
+Name=Title
+0=Disabled
+1=Vampire Saviour,FF8088,00
+2=Darkstalkers,FF8088,01
+Default=0
+
+[2]
+Name=Infinite Battle Time
+0=Disabled
+1=Enabled,FF8108,63
+Default=0
+
+[3]
+Name=Sound Test Timer Stop
+0=Disabled
+1=Enabled,FF800A,FF
+Default=0
+
+[4]
+Name=P1 Inf Health
+0=Disabled
+1=Enabled,FF8451,02,FF8450,40,FF8453,02,FF8452,40
+Default=0
+
+[5]
+Name=P1 Inf Power Level
+0=Disabled
+1=Enabled,FF8508,63
+Default=0
+
+[6]
+Name=P1 Inf Power Gauge
+0=Disabled
+1=Enabled,FF850A,90
+Default=0
+
+[7]
+Name=P1 Soul Keeper
+0=Disabled
+1=Enabled,FF87BD,FF
+Default=0
+
+[8]
+Name=P1 Eternal Dark Force Mode
+0=Disabled
+1=Enabled,FF8576,70
+Default=0
+
+[9]
+Name=P1 Air Moves
+0=Disabled
+1=Enabled,FF8439,00
+Default=0
+
+[10]
+Name=P1 No Shot Limit
+0=Disabled
+1=Enabled,FF8548,00,FF8580,00
+Default=0
+
+[11]
+Name=P1 Action Speed Up
+0=Disabled
+1=Enabled,FF8421,01
+Default=0
+
+[12]
+Name=P1 No Hit Stop
+0=Disabled
+1=Enabled,FF845D,00
+Default=0
+
+[13]
+Name=P1 No Guard Stop
+0=Disabled
+1=Enabled,FF8568,00
+Default=0
+
+[14]
+Name=P1 Auto Combo
+0=Disabled
+1=Enabled,FF886D,01
+Default=0
+
+[15]
+Name=P1 Controller Mode
+0=Disabled
+1=User Play,FF87B5,00
+2=Computer Play,FF87B5,01
+Default=0
+
+[16]
+Name=P1 Char Select
+0=Disabled
+1=Anakaris,FF8783,06
+2=Aulbath,FF8783,09
+3=Bishamon,FF8783,08
+4=Bulleta,FF8783,00
+5=Dark Gallon,FF8783,12
+6=Demitri,FF8783,01
+7=Felicia,FF8783,07
+8=Gallon,FF8783,02
+9=Jedah,FF8783,0F
+10=Lei-Lei,FF8783,0D
+11=Lilith,FF8783,0E
+12=Morrigan,FF8783,05
+13=Oboro Bishamon,FF8783,18
+14=Q-Bee,FF8783,0C
+15=Sasquatch,FF8783,0A
+16=Victor,FF8783,03
+17=Zabel,FF8783,04
+18=Zabel (Gold)*,FF8783,0B
+Default=0
+
+[17]
+Name=P1 Colours
+0=Disabled
+1=Colour 1,FF87AF,00
+2=Colour 2,FF87AF,01
+3=Colour 3,FF87AF,02
+4=Colour 4,FF87AF,03
+5=Colour 5,FF87AF,04
+6=Colour 6,FF87AF,05
+7=Colour 7,FF87AF,06
+8=Colour 8,FF87AF,07
+Default=0
+
+[18]
+Name=P1 Palette Effect
+0=Disabled
+1=No Flash,FF854E,00,FF854F,00
+2=Es Flash,FF854E,1C,FF854F,1C
+3=Ex Flash,FF854E,1E,FF854F,1E
+Default=0
+
+[19]
+Name=P1 Anakaris - Inf Airfloat
+0=Disabled
+1=Enabled,FF8553,77
+Default=0
+
+[20]
+Name=P1 Anakaris - Shot Type
+0=Disabled
+1=Aulbath,FF84A6,09,FF84A7,1E,FF84A8,10,FF84AA,00,FF84AB,60
+2=Bulleta,FF84A6,00,FF84A7,02,FF84A8,10,FF84AA,00,FF84AB,60
+3=Demitri,FF84A6,01,FF84A7,04,FF84A8,10,FF84AA,00,FF84AB,60
+4=Jedah,FF84A6,0F,FF84A7,38,FF84A8,10,FF84AA,00,FF84AB,40
+5=Lei-Lei,FF84A6,0D,FF84A7,2D,FF84A8,10,FF84AA,00,FF84AB,00
+6=Lilith,FF84A6,0E,FF84A7,33,FF84A8,10,FF84AA,00,FF84AB,00
+7=Morrigan,FF84A6,05,FF84A7,0B,FF84A8,10,FF84AA,00,FF84AB,00
+Default=0
+
+[21]
+Name=P1 Lei-Lei - Weapon Type
+0=Disabled
+1=Axe,FF859C,00
+2=Axe & Rock,FF859C,3E
+3=Blade,FF859C,0C
+4=Blade & Hammer,FF859C,24
+5=Blade & Rock,FF859C,1C
+6=Boomerang,FF859C,0A
+7=Boomerang & Hammer,FF859C,08
+8=Boomerang & Special,FF859C,0E
+9=Knife,FF859C,02
+10=Knife & Special,FF859C,14
+11=Shuriken,FF859C,04
+12=Statue,FF859C,06
+Default=0
+
+[22]
+Name=P1 Lilith - Dark Force Mode
+0=Disabled
+1=Mirror Doll,FF8435,00
+2=Mimic Doll,FF8435,01
+Default=0
+
+[23]
+Name=P1 Lilith - Puppet Show Points
+0=Disabled
+1=255 Points,FF844A,FF,FF844B,00
+2=500 Points,FF844A,F4,FF844B,01
+3=999 Points,FF844A,E7,FF844B,03
+Default=0
+
+[24]
+Name=P1 Easy Moves
+0=Disabled
+1=Anakaris - Hitsugi no Mai,FF8701,02,FF8700,04
+2=Anakaris - Kotodama Gaeshi Suu & Ouke no Sabaki & Cobra Blow,FF8709,04,FF8708,06,FF8719,04,FF8718,06,FF8721,08,FF8720,06,FF8723,FF
+3=Anakaris - Kotodama Gaeshi Haku & Ouke no Sabaki & Cobra Blow,FF8711,04,FF8710,06,FF8719,04,FF8718,06,FF8721,08,FF8720,06,FF8723,FF
+4=Anakaris - Togame no Ana & Ouke no Sabaki & Cobra Blow,FF8731,04,FF8730,06,FF8719,04,FF8718,06,FF8721,08,FF8720,06,FF8723,FF
+5=Anakaris - Kotodama Gaeshi Suu & Ouke no Sabaki & Miira Drop,FF8709,04,FF8708,06,FF8719,04,FF8718,06,FF8729,04,FF8728,06
+6=Anakaris - Kotodama Gaeshi Haku & Ouke no Sabaki & Miira Drop,FF8711,04,FF8710,06,FF8719,04,FF8718,06,FF8729,04,FF8728,06
+7=Anakaris - Togame no Ana & Ouke no Sabaki & Miira Drop,FF8731,04,FF8730,06,FF8719,04,FF8718,06,FF8729,04,FF8728,06
+8=Aulbath - Sonic Wave & Poison Breath,FF8701,08,FF8700,06,FF8703,FF,FF8709,08,FF8708,06,FF870B,FF
+9=Aulbath - Crystal Lancer & Poison Breath,FF8711,04,FF8710,08,FF8709,08,FF8708,06,FF870B,FF
+10=Aulbath - Gem's Anger & Poison Breath,FF8719,04,FF8718,08,FF8709,08,FF8708,06,FF870B,FF
+11=Aulbath - Sonic Wave & Trick Fish,FF8701,08,FF8700,06,FF8703,FF,FF8749,04,FF8748,06
+12=Aulbath - Crystal Lancer & Trick Fish,FF8711,04,FF8710,08,FF8749,04,FF8748,06
+13=Aulbath - Gem's Anger & Trick Fish,FF8719,04,FF8718,08,FF8749,04,FF8748,06
+14=Bishamon - Kien Zan & Iai Giri Gedan,FF8701,04,FF8700,06,FF8711,08,FF8710,06,FF8713,FF
+15=Bishamon - Iai Giri Joudan & Gedan,FF8709,08,FF8708,06,FF870B,FF,FF8711,08,FF8710,06,FF8713,FF
+16=Bishamon - Karame Dama & Iai Giri Gedan,FF8719,04,FF8718,08,FF8711,08,FF8710,06,FF8713,FF
+17=Bishamon - Kirisuite Gomen & Iai Giri Gedan,FF8721,08,FF8720,00,FF8711,08,FF8710,06,FF8713,FF
+18=Bishamon - Tsuji Hayate & Iai Giri Gedan,FF8731,04,FF8730,06,FF8711,08,FF8710,06,FF8713,FF
+19=Bulleta - Smile & Missile 1 & 2,FF8701,08,FF8700,06,FF8703,FF,FF8709,08,FF8708,06,FF870B,FF
+20=Bulleta - Happy & Missile & Smile & Missile 2,FF8729,08,FF8728,06,FF872B,FF,FF8709,08,FF8708,06,FF870B,FF
+21=Bulleta - Cheer & Fire & Smile & Missile 2,FF8711,04,FF8710,06,FF8709,08,FF8708,06,FF870B,FF
+22=Bulleta - Shyness & Strike & Smile & Missile 2,FF8719,04,FF8718,06,FF8709,08,FF8708,06,FF870B,FF
+23=Bulleta - Smile & Missile 1 & Sentimental Typhoon,FF8701,08,FF8700,06,FF8703,FF,FF8739,04,FF8738,08
+24=Bulleta - Happy & Missile & Sentimental Typhoon,FF8729,08,FF8728,06,FF872B,FF,FF8739,04,FF8738,08
+25=Bulleta - Cheer & Fire & Sentimental Typhoon,FF8711,04,FF8710,06,FF8739,04,FF8738,08
+26=Bulleta - Shyness & Strike & Sentimental Typhoon,FF8719,04,FF8718,06,FF8739,04,FF8738,08
+27=Bulleta - Smile & Missile 1 & Jealousy & Fake,FF8701,08,FF8700,06,FF8703,FF,FF8741,04,FF8740,06
+28=Bulleta - Happy & Missile & Jealousy & Fake,FF8729,08,FF8728,06,FF872B,FF,FF8741,04,FF8740,06
+29=Bulleta - Cheer & Fire & Jealousy & Fake,FF8711,04,FF8710,06,FF8741,04,FF8740,06
+30=Bulleta - Shyness & Strike & Jealousy & Fake,FF8719,04,FF8718,06,FF8741,04,FF8740,06
+31=Demitri - Chaos Flare & Bat Spin,FF8701,04,FF8700,06,FF8719,04,FF8718,06
+32=Demitri - Demon Cradle & Bat Spin,FF8709,04,FF8708,06,FF8719,04,FF8718,06
+33=Demitri - Negative Stolen & Bat Spin,FF8711,08,FF8710,00,FF8719,04,FF8718,06
+34=Felicia - EX Charge & Rolling Buckler,FF8701,02,FF8700,04,FF8709,04,FF8708,06
+35=Felicia - Delta Kick & Rolling Buckler,FF8711,04,FF8710,06,FF8709,04,FF8708,06
+36=Felicia - Hell Cat & Rolling Buckler,FF8721,04,FF8720,08,FF8709,04,FF8708,06
+37=Felicia - EX Charge & Cat Spike,FF8701,02,FF8700,04,FF8719,04,FF8718,06
+38=Felicia - Delta Kick & Cat Spike,FF8711,04,FF8710,06,FF8719,04,FF8718,06
+39=Felicia - Hell Cat & Cat Spike,FF8721,04,FF8720,08,FF8719,04,FF8718,06
+40=Felicia - EX Charge & Rolling Buckler,FF8701,02,FF8700,04,FF8739,02,FF8738,04
+41=Felicia - Delta Kick & Rolling Buckler,FF8711,04,FF8710,06,FF8739,02,FF8738,04
+42=Felicia - Hell Cat & Rolling Buckler,FF8721,04,FF8720,08,FF8739,02,FF8738,04
+43=Gallon - Climb Razor & Million Flicker & Air Beast Cannon,FF8701,08,FF8700,06,FF8703,FF,FF8709,04,FF8708,06,FF8731,04,FF8730,06
+44=Gallon - Climb Razor & Air & Beast Cannon,FF8701,08,FF8700,06,FF8703,FF,FF8721,04,FF8720,06,FF8731,04,FF8730,06
+45=Gallon - Climb Razor & Air & Beast Cannon Taikuu,FF8701,08,FF8700,06,FF8703,FF,FF8729,04,FF8728,06,FF8731,04,FF8730,06
+46=Gallon - Climb Razor & Wild Circular & Air Beast Cannon,FF8701,08,FF8700,06,FF8703,FF,FF8739,04,FF8738,08,FF8731,04,FF8730,06
+47=Jedah - DioSaga & IraSpinta & SanPassare,FF8701,04,FF8700,06,FF8721,04,FF8720,08,FF8731,04,FF8730,08
+48=Jedah - Spregio & IraSpinta & SanPassare,FF8709,04,FF8708,06,FF8721,04,FF8720,08,FF8731,04,FF8730,08
+49=Jedah - NeroFatica & IraSpinta & SanPassare,FF8729,04,FF8728,06,FF8721,04,FF8720,08,FF8731,04,FF8730,08
+50=Lei-Lei - Anki Hou,FF8701,04,FF8700,06
+51=Lei-Lei - Henkyou Ki,FF8709,04,FF8708,06
+52=Lei-Lei - Senpuu Bu,FF8711,04,FF8710,06
+53=Lei-Lei - Houten Geki,FF8721,04,FF8720,08
+54=Lilith - Air & Soul Flash & Merry Turn & High Jump,FF8701,04,FF8700,06,FF8709,04,FF8708,06,FF8719,04,FF8718,06,FF8729,02,FF8728,02
+55=Lilith - Shining Blade & Air Soul Flash & Merry Turn & High Jump,FF8711,04,FF8710,06,FF8709,04,FF8708,06,FF8719,04,FF8718,06,FF8729,02,FF8728,02
+56=Lilith - Mystic Arrow & Air Soul Flash & Merry Turn & High Jump,FF8731,04,FF8730,08,FF8709,04,FF8708,06,FF8719,04,FF8718,06,FF8729,02,FF8728,02
+57=Morrigan - Air & Soul Fist & Vertical Dash,FF8709,04,FF8708,06,FF8711,04,FF8710,06,FF8749,02,FF8748,02
+58=Morrigan - Shadow Blade & Air Soul Fist & Vertical Dash,FF8719,04,FF8718,06,FF8711,04,FF8710,06,FF8749,02,FF8748,02
+59=Morrigan - Vector Drain & Air Soul Fist & Vertical Dash,FF8721,04,FF8720,08,FF8711,04,FF8710,06,FF8749,02,FF8748,02
+60=Oboro Bishamon - Kien Zan & Iai Giri Gedan,FF8701,04,FF8700,06,FF8711,08,FF8710,06,FF8713,FF
+61=Oboro Bishamon - Iai Giri Joudan & Gedan,FF8709,08,FF8708,06,FF870B,FF,FF8711,08,FF8710,06,FF8713,FF
+62=Oboro Bishamon - Oni Naburi & Iai Giri Gedan,FF8719,04,FF8718,08,FF8711,08,FF8710,06,FF8713,FF
+63=Oboro Bishamon - Kirisuite Gomen & Iai Giri Gedan,FF8721,08,FF8720,00,FF8711,08,FF8710,06,FF8713,FF
+64=Oboro Bishamon - Nu Kien Zan & Iai Giri Gedan,FF8731,04,FF8730,08,FF8711,08,FF8710,06,FF8713,FF
+65=Oboro Bishamon - Kien Zan & Iai Giri Gedan,FF8701,04,FF8700,06,FF8759,04,FF8758,06
+66=Oboro Bishamon - Iai Giri Joudan & Gedan,FF8709,08,FF8708,06,FF870B,FF,FF8759,04,FF8758,06
+67=Oboro Bishamon - Oni Naburi & Iai Giri Gedan,FF8719,04,FF8718,08,FF8759,04,FF8758,06
+68=Oboro Bishamon - Kirisuite Gomen & Iai Giri Gedan,FF8721,08,FF8720,00,FF8759,04,FF8758,06
+69=Oboro Bishamon - Nu Kien Zan & Iai Giri Gedan,FF8731,04,FF8730,08,FF8759,04,FF8758,06
+70=Q-Bee - O.M. & DA,FF8711,04,FF8710,08,FF8701,04,FF8700,06
+71=Q-Bee - C.R. & DA,FF8719,04,FF8718,08,FF8701,04,FF8700,06
+72=Q-Bee - O.M. & Sxp,FF8711,04,FF8710,08,FF870A,04,FF870C,04,FF870E,04
+73=Q-Bee - C.R. & Sxp,FF8719,04,FF8718,08,FF870A,04,FF870C,04,FF870E,04
+74=Q-Bee - O.M. & R.M.,FF8711,04,FF8710,08,FF8731,04,FF8730,06
+75=Q-Bee - C.R. & R.M.,FF8719,04,FF8718,08,FF8731,04,FF8730,06
+76=Sasquatch - Big Towers & Typhoon,FF8701,02,FF8700,04,FF8709,04,FF8708,06
+77=Sasquatch - Big Brunch & Typhoon,FF8711,04,FF8710,08,FF8709,04,FF8708,06
+78=Sasquatch - Big Breath & Typhoon,FF8739,04,FF8738,06,FF8709,04,FF8708,06
+79=Sasquatch - Big Blow & Typhoon,FF8741,04,FF8740,06,FF8709,04,FF8708,06
+80=Sasquatch - Big Towers & Swing,FF8701,02,FF8700,04,FF8719,08,FF8718,00
+81=Sasquatch - Big Brunch & Swing,FF8711,04,FF8710,08,FF8719,08,FF8718,00
+82=Sasquatch - Big Breath & Swing,FF8739,04,FF8738,06,FF8719,08,FF8718,00
+83=Sasquatch - Big Blow & Swing,FF8741,04,FF8740,06,FF8719,08,FF8718,00
+84=Victor - Gyro Crush & Giga Burn,FF8701,04,FF8700,06,FF8709,04,FF8708,06
+85=Victor - Mega Spike & Giga Burn,FF8721,08,FF8720,00,FF8709,04,FF8708,06
+86=Victor - Mega Forrid & Giga Burn,FF8741,08,FF8740,06,FF8743,FF,FF8709,04,FF8708,06
+87=Victor - Mega Stake & Giga Burn,FF8749,08,FF8748,06,FF874B,FF,FF8709,04,FF8708,06
+88=Victor - Gyro Crush & Mega Shock,FF8701,04,FF8700,06,FF8729,04,FF8728,06
+89=Victor - Mega Spike & Shock,FF8721,08,FF8720,00,FF8729,04,FF8728,06
+90=Victor - Mega Forrid & Shock,FF8741,08,FF8740,06,FF8743,FF,FF8729,04,FF8728,06
+91=Victor - Mega Stake & Shock,FF8749,08,FF8748,06,FF874B,FF,FF8729,04,FF8728,06
+92=Zabel - Skull Sting & Punish,FF8701,08,FF8700,06,FF8703,FF,FF8721,04,FF8720,08
+93=Zabel - Death Hurricane & Skull Punish,FF8709,04,FF8708,06,FF8721,04,FF8720,08
+94=Zabel - Hell's Gate & Skull Punish,FF8729,04,FF8728,08,FF8721,04,FF8720,08
+95=Zabel - Death Phrase & Skull Punish,FF8739,04,FF8738,06,FF8721,04,FF8720,08
+Default=0
+
+[25]
+Name=P1 Easy EX Moves
+0=Disabled
+1=Anakaris - Naraku no Ana & Pharaoh Magic & Salvation - Yujuu Mahou,FF8739,04,FF8738,08,FF8741,02,FF8740,08,FF8749,02,FF8748,08
+2=Anakaris - Naraku no Ana & Pharaoh Magic & Decoration - Bijo Mahou,FF8739,04,FF8738,08,FF8741,02,FF8740,08,FF8759,02,FF8758,0C
+3=Anakaris - Naraku no Ana & Pharaoh Magic & Decoration - Bijo Mahou,FF8739,04,FF8738,08,FF8751,04,FF8750,06
+4=Aulbath - Aqua Spread 1 & 2,FF8721,04,FF8720,06,FF8729,04,FF8728,06
+5=Aulbath - Aqua Spread 1 & Direct Scissors,FF8721,04,FF8720,06,FF8731,02,FF8730,04
+6=Aulbath - Aqua Spread 1 & Sea Rage,FF8721,04,FF8720,06,FF8739,04,FF8738,08
+7=Aulbath - Aqua Spread 1 & Water Jail,FF8721,04,FF8720,06,FF8741,04,FF8740,06
+8=Bishamon - Togakubi Sarashi & Enma Ishi,FF8739,02,FF8738,04,FF8741,04,FF8740,08
+9=Bishamon - Oni Kubi Hineri & Enma Ishi,FF8749,04,FF8748,08,FF8741,04,FF8740,08
+10=Bulleta - Apple For You & Cool Hunting,FF8721,04,FF8720,08,FF8749,04,FF8748,08
+11=Bulleta - Beautiful Memory & Cool Hunting,FF8731,04,FF8730,08,FF8749,04,FF8748,08
+12=Demitri - Demon Billion & Midnight Bliss,FF8729,04,FF8728,06,FF8721,04,FF8720,06
+13=Demitri - Midnight Pleasure & Bliss,FF8729,04,FF8728,06,FF8731,02,FF8730,08
+14=Felicia - Dancing Flash & Please Help Me,FF8729,04,FF8728,08,FF8731,04,FF8730,08
+15=Gallon - Dragon Cannon,FF8711,04,FF8710,08
+16=Gallon - Moment Slice,FF8741,02,FF8740,08
+17=Jedah - ProvaDiServo & FinaleRosso,FF8711,04,FF8710,08,FF8719,02,FF8718,04
+18=Lei-Lei - Chuuka Dan & Chirei Tou & Tenrai Ha,FF8719,04,FF8718,08,FF8729,04,FF8728,08,FF8731,02,FF8730,08
+19=Lilith - Splendor Love & Luminous Illusion,FF8721,04,FF8720,06,FF8749,02,FF8748,08
+20=Lilith - Gloomy Puppet Show & Luminous Illusion,FF8741,04,FF8740,08,FF8749,02,FF8748,08
+21=Morrigan - Finishing Shower & Darkness Illusion & Cryptic Needle,FF8701,02,FF8700,08,FF8731,02,FF8730,08,FF8741,02,FF8740,08
+22=Morrigan - Valkyrie Turn & Darkness Illusion & Cryptic Needle,FF8739,04,FF8738,0A,FF8731,02,FF8730,08,FF8741,02,FF8740,08
+23=Oboro Bishamon - Togakubi Sarashi & Enma Ishi,FF8739,02,FF8738,04,FF8741,04,FF8740,08
+24=Oboro Bishamon - Oni Kubi Hineri & Enma Ishi,FF8749,04,FF8748,08,FF8741,04,FF8740,08
+25=Q-Bee - Qj & +B,FF8721,04,FF8720,06,FF8729,04,FF8728,08
+26=Sasquatch - Big Freezer & Ice Burn & Trap,FF8721,04,FF8720,08,FF8729,04,FF8728,08,FF8731,04,FF8730,0A
+27=Sasquatch - Big Freezer & Sledge & Trap,FF8721,04,FF8720,08,FF8749,08,FF8748,00,FF8731,04,FF8730,0A
+28=Victor - Thunder Break,FF8739,08,FF8738,06,FF873B,FF
+29=Victor - Geldenheim 3,FF8751,08,FF8750,00
+30=Zabel - Death Voltage & Evil Scream,FF8711,04,FF8710,08,FF8719,08,FF8718,06,FF871B,FF
+31=Zabel - Death Voltage & Hell Dunk,FF8711,04,FF8710,08,FF8731,04,FF8730,06
+Default=0
+
+[26]
+Name=P2 Inf Health
+0=Disabled
+1=Enabled,FF8851,02,FF8850,40,FF8853,02,FF8852,40
+Default=0
+
+[27]
+Name=P2 Inf Power Level
+0=Disabled
+1=Enabled,FF8908,63
+Default=0
+
+[28]
+Name=P2 Inf Power Gauge
+0=Disabled
+1=Enabled,FF890A,90
+Default=0
+
+[29]
+Name=P2 Soul Keeper
+0=Disabled
+1=Enabled,FF8BBD,FF
+Default=0
+
+[30]
+Name=P2 Eternal Dark Force Mode
+0=Disabled
+1=Enabled,FF8976,70
+Default=0
+
+[31]
+Name=P2 Air Moves
+0=Disabled
+1=Enabled,FF8839,00
+Default=0
+
+[32]
+Name=P2 No Shot Limit
+0=Disabled
+1=Enabled,FF8948,00,FF8980,00
+Default=0
+
+[33]
+Name=P2 Action Speed Up
+0=Disabled
+1=Enabled,FF8821,01
+Default=0
+
+[34]
+Name=P2 No Hit Stop
+0=Disabled
+1=Enabled,FF885D,00
+Default=0
+
+[35]
+Name=P2 No Guard Stop
+0=Disabled
+1=Enabled,FF8968,00
+Default=0
+
+[36]
+Name=P2 Auto Combo
+0=Disabled
+1=Enabled,FF846D,01
+Default=0
+
+[37]
+Name=P2 Controller Mode
+0=Disabled
+1=User Play,FF8BB5,00
+2=Computer Play,FF8BB5,01
+Default=0
+
+[38]
+Name=P2 Char Select
+0=Disabled
+1=Anakaris,FF8B83,06
+2=Aulbath,FF8B83,09
+3=Bishamon,FF8B83,08
+4=Bulleta,FF8B83,00
+5=Dark Gallon,FF8B83,12
+6=Demitri,FF8B83,01
+7=Felicia,FF8B83,07
+8=Gallon,FF8B83,02
+9=Jedah,FF8B83,0F
+10=Lei-Lei,FF8B83,0D
+11=Lilith,FF8B83,0E
+12=Morrigan,FF8B83,05
+13=Oboro Bishamon,FF8B83,18
+14=Q-Bee,FF8B83,0C
+15=Sasquatch,FF8B83,0A
+16=Victor,FF8B83,03
+17=Zabel,FF8B83,04
+18=Zabel (Gold)*,FF8B83,0B
+Default=0
+
+[39]
+Name=P2 Colours
+0=Disabled
+1=Colour 1,FF8BAF,00
+2=Colour 2,FF8BAF,01
+3=Colour 3,FF8BAF,02
+4=Colour 4,FF8BAF,03
+5=Colour 5,FF8BAF,04
+6=Colour 6,FF8BAF,05
+7=Colour 7,FF8BAF,06
+8=Colour 8,FF8BAF,07
+Default=0
+
+[40]
+Name=P2 Palette Effect
+0=Disabled
+1=No Flash,FF894E,00,FF894F,00
+2=Es Flash,FF894E,1C,FF894F,1C
+3=Ex Flash,FF894E,1E,FF894F,1E
+Default=0
+
+[41]
+Name=P2 Anakaris - Inf Airfloat
+0=Disabled
+1=Enabled,FF8953,77
+Default=0
+
+[42]
+Name=P2 Anakaris - Shot Type
+0=Disabled
+1=Aulbath,FF88A6,09,FF88A7,1E,FF88A8,10,FF88AA,00,FF88AB,60
+2=Bulleta,FF88A6,00,FF88A7,02,FF88A8,10,FF88AA,00,FF88AB,60
+3=Demitri,FF88A6,01,FF88A7,04,FF88A8,10,FF88AA,00,FF88AB,60
+4=Jedah,FF88A6,0F,FF88A7,38,FF88A8,10,FF88AA,00,FF88AB,40
+5=Lei-Lei,FF88A6,0D,FF88A7,2D,FF88A8,10,FF88AA,00,FF88AB,00
+6=Lilith,FF88A6,0E,FF88A7,33,FF88A8,10,FF88AA,00,FF88AB,00
+7=Morrigan,FF88A6,05,FF88A7,0B,FF88A8,10,FF88AA,00,FF88AB,00
+Default=0
+
+[43]
+Name=P2 Lei-Lei - Weapon Type
+0=Disabled
+1=Axe,FF899C,00
+2=Axe & Rock,FF899C,3E
+3=Blade,FF899C,0C
+4=Blade & Hammer,FF899C,24
+5=Blade & Rock,FF899C,1C
+6=Boomerang,FF899C,0A
+7=Boomerang & Hammer,FF899C,08
+8=Boomerang & Special,FF899C,0E
+9=Knife,FF899C,02
+10=Knife & Special,FF899C,14
+11=Shuriken,FF899C,04
+12=Statue,FF899C,06
+Default=0
+
+[44]
+Name=P2 Lilith - Dark Force Mode
+0=Disabled
+1=Mirror Doll,FF8835,00
+2=Mimic Doll,FF8835,01
+Default=0
+
+[45]
+Name=P2 Lilith - Puppet Show Points
+0=Disabled
+1=255 Points,FF884A,FF,FF884B,00
+2=500 Points,FF884A,F4,FF884B,01
+3=999 Points,FF884A,E7,FF884B,03
+Default=0
+
+[46]
+Name=P2 Easy Moves
+0=Disabled
+1=Anakaris - Hitsugi no Mai,FF8B01,02,FF8B00,04
+2=Anakaris - Kotodama Gaeshi Suu & Ouke no Sabaki & Cobra Blow,FF8B09,04,FF8B08,06,FF8B19,04,FF8B18,06,FF8B21,08,FF8B20,06,FF8B23,FF
+3=Anakaris - Kotodama Gaeshi Haku & Ouke no Sabaki & Cobra Blow,FF8B11,04,FF8B10,06,FF8B19,04,FF8B18,06,FF8B21,08,FF8B20,06,FF8B23,FF
+4=Anakaris - Togame no Ana & Ouke no Sabaki & Cobra Blow,FF8B31,04,FF8B30,06,FF8B19,04,FF8B18,06,FF8B21,08,FF8B20,06,FF8B23,FF
+5=Anakaris - Kotodama Gaeshi Suu & Ouke no Sabaki & Miira Drop,FF8B09,04,FF8B08,06,FF8B19,04,FF8B18,06,FF8B29,04,FF8B28,06
+6=Anakaris - Kotodama Gaeshi Haku & Ouke no Sabaki & Miira Drop,FF8B11,04,FF8B10,06,FF8B19,04,FF8B18,06,FF8B29,04,FF8B28,06
+7=Anakaris - Togame no Ana & Ouke no Sabaki & Miira Drop,FF8B31,04,FF8B30,06,FF8B19,04,FF8B18,06,FF8B29,04,FF8B28,06
+8=Aulbath - Sonic Wave & Poison Breath,FF8B01,08,FF8B00,06,FF8B03,FF,FF8B09,08,FF8B08,06,FF8B0B,FF
+9=Aulbath - Crystal Lancer & Poison Breath,FF8B11,04,FF8B10,08,FF8B09,08,FF8B08,06,FF8B0B,FF
+10=Aulbath - Gem's Anger & Poison Breath,FF8B19,04,FF8B18,08,FF8B09,08,FF8B08,06,FF8B0B,FF
+11=Aulbath - Sonic Wave & Trick Fish,FF8B01,08,FF8B00,06,FF8B03,FF,FF8B49,04,FF8B48,06
+12=Aulbath - Crystal Lancer & Trick Fish,FF8B11,04,FF8B10,08,FF8B49,04,FF8B48,06
+13=Aulbath - Gem's Anger & Trick Fish,FF8B19,04,FF8B18,08,FF8B49,04,FF8B48,06
+14=Bishamon - Kien Zan & Iai Giri Gedan,FF8B01,04,FF8B00,06,FF8B11,08,FF8B10,06,FF8B13,FF
+15=Bishamon - Iai Giri Joudan & Gedan,FF8B09,08,FF8B08,06,FF8B0B,FF,FF8B11,08,FF8B10,06,FF8B13,FF
+16=Bishamon - Karame Dama & Iai Giri Gedan,FF8B19,04,FF8B18,08,FF8B11,08,FF8B10,06,FF8B13,FF
+17=Bishamon - Kirisuite Gomen & Iai Giri Gedan,FF8B21,08,FF8B20,00,FF8B11,08,FF8B10,06,FF8B13,FF
+18=Bishamon - Tsuji Hayate & Iai Giri Gedan,FF8B31,04,FF8B30,06,FF8B11,08,FF8B10,06,FF8B13,FF
+19=Bulleta - Smile & Missile 1 & 2,FF8B01,08,FF8B00,06,FF8B03,FF,FF8B09,08,FF8B08,06,FF8B0B,FF
+20=Bulleta - Happy & Missile & Smile & Missile 2,FF8B29,08,FF8B28,06,FF8B2B,FF,FF8B09,08,FF8B08,06,FF8B0B,FF
+21=Bulleta - Cheer & Fire & Smile & Missile 2,FF8B11,04,FF8B10,06,FF8B09,08,FF8B08,06,FF8B0B,FF
+22=Bulleta - Shyness & Strike & Smile & Missile 2,FF8B19,04,FF8B18,06,FF8B09,08,FF8B08,06,FF8B0B,FF
+23=Bulleta - Smile & Missile 1 & Sentimental Typhoon,FF8B01,08,FF8B00,06,FF8B03,FF,FF8B39,04,FF8B38,08
+24=Bulleta - Happy & Missile & Sentimental Typhoon,FF8B29,08,FF8B28,06,FF8B2B,FF,FF8B39,04,FF8B38,08
+25=Bulleta - Cheer & Fire & Sentimental Typhoon,FF8B11,04,FF8B10,06,FF8B39,04,FF8B38,08
+26=Bulleta - Shyness & Strike & Sentimental Typhoon,FF8B19,04,FF8B18,06,FF8B39,04,FF8B38,08
+27=Bulleta - Smile & Missile 1 & Jealousy & Fake,FF8B01,08,FF8B00,06,FF8B03,FF,FF8B41,04,FF8B40,06
+28=Bulleta - Happy & Missile & Jealousy & Fake,FF8B29,08,FF8B28,06,FF8B2B,FF,FF8B41,04,FF8B40,06
+29=Bulleta - Cheer & Fire & Jealousy & Fake,FF8B11,04,FF8B10,06,FF8B41,04,FF8B40,06
+30=Bulleta - Shyness & Strike & Jealousy & Fake,FF8B19,04,FF8B18,06,FF8B41,04,FF8B40,06
+31=Demitri - Chaos Flare & Bat Spin,FF8B01,04,FF8B00,06,FF8B19,04,FF8B18,06
+32=Demitri - Demon Cradle & Bat Spin,FF8B09,04,FF8B08,06,FF8B19,04,FF8B18,06
+33=Demitri - Negative Stolen & Bat Spin,FF8B11,08,FF8B10,00,FF8B19,04,FF8B18,06
+34=Felicia - EX Charge & Rolling Buckler,FF8B01,02,FF8B00,04,FF8B09,04,FF8B08,06
+35=Felicia - Delta Kick & Rolling Buckler,FF8B11,04,FF8B10,06,FF8B09,04,FF8B08,06
+36=Felicia - Hell Cat & Rolling Buckler,FF8B21,04,FF8B20,08,FF8B09,04,FF8B08,06
+37=Felicia - EX Charge & Cat Spike,FF8B01,02,FF8B00,04,FF8B19,04,FF8B18,06
+38=Felicia - Delta Kick & Cat Spike,FF8B11,04,FF8B10,06,FF8B19,04,FF8B18,06
+39=Felicia - Hell Cat & Cat Spike,FF8B21,04,FF8B20,08,FF8B19,04,FF8B18,06
+40=Felicia - EX Charge & Rolling Buckler,FF8B01,02,FF8B00,04,FF8B39,02,FF8B38,04
+41=Felicia - Delta Kick & Rolling Buckler,FF8B11,04,FF8B10,06,FF8B39,02,FF8B38,04
+42=Felicia - Hell Cat & Rolling Buckler,FF8B21,04,FF8B20,08,FF8B39,02,FF8B38,04
+43=Gallon - Climb Razor & Million Flicker & Air Beast Cannon,FF8B01,08,FF8B00,06,FF8B03,FF,FF8B09,04,FF8B08,06,FF8B31,04,FF8B30,06
+44=Gallon - Climb Razor & Air & Beast Cannon,FF8B01,08,FF8B00,06,FF8B03,FF,FF8B21,04,FF8B20,06,FF8B31,04,FF8B30,06
+45=Gallon - Climb Razor & Air & Beast Cannon Taikuu,FF8B01,08,FF8B00,06,FF8B03,FF,FF8B29,04,FF8B28,06,FF8B31,04,FF8B30,06
+46=Gallon - Climb Razor & Wild Circular & Air Beast Cannon,FF8B01,08,FF8B00,06,FF8B03,FF,FF8B39,04,FF8B38,08,FF8B31,04,FF8B30,06
+47=Jedah - DioSaga & IraSpinta & SanPassare,FF8B01,04,FF8B00,06,FF8B21,04,FF8B20,08,FF8B31,04,FF8B30,08
+48=Jedah - Spregio & IraSpinta & SanPassare,FF8B09,04,FF8B08,06,FF8B21,04,FF8B20,08,FF8B31,04,FF8B30,08
+49=Jedah - NeroFatica & IraSpinta & SanPassare,FF8B29,04,FF8B28,06,FF8B21,04,FF8B20,08,FF8B31,04,FF8B30,08
+50=Lei-Lei - Anki Hou,FF8B01,04,FF8B00,06
+51=Lei-Lei - Henkyou Ki,FF8B09,04,FF8B08,06
+52=Lei-Lei - Senpuu Bu,FF8B11,04,FF8B10,06
+53=Lei-Lei - Houten Geki,FF8B21,04,FF8B20,08
+54=Lilith - Air & Soul Flash & Merry Turn & High Jump,FF8B01,04,FF8B00,06,FF8B09,04,FF8B08,06,FF8B19,04,FF8B18,06,FF8B29,02,FF8B28,02
+55=Lilith - Shining Blade & Air Soul Flash & Merry Turn & High Jump,FF8B11,04,FF8B10,06,FF8B09,04,FF8B08,06,FF8B19,04,FF8B18,06,FF8B29,02,FF8B28,02
+56=Lilith - Mystic Arrow & Air Soul Flash & Merry Turn & High Jump,FF8B31,04,FF8B30,08,FF8B09,04,FF8B08,06,FF8B19,04,FF8B18,06,FF8B29,02,FF8B28,02
+57=Morrigan - Air & Soul Fist & Vertical Dash,FF8B09,04,FF8B08,06,FF8B11,04,FF8B10,06,FF8B49,02,FF8B48,02
+58=Morrigan - Shadow Blade & Air Soul Fist & Vertical Dash,FF8B19,04,FF8B18,06,FF8B11,04,FF8B10,06,FF8B49,02,FF8B48,02
+59=Morrigan - Vector Drain & Air Soul Fist & Vertical Dash,FF8B21,04,FF8B20,08,FF8B11,04,FF8B10,06,FF8B49,02,FF8B48,02
+60=Oboro Bishamon - Kien Zan & Iai Giri Gedan,FF8B01,04,FF8B00,06,FF8B11,08,FF8B10,06,FF8B13,FF
+61=Oboro Bishamon - Iai Giri Joudan & Gedan,FF8B09,08,FF8B08,06,FF8B0B,FF,FF8B11,08,FF8B10,06,FF8B13,FF
+62=Oboro Bishamon - Oni Naburi & Iai Giri Gedan,FF8B19,04,FF8B18,08,FF8B11,08,FF8B10,06,FF8B13,FF
+63=Oboro Bishamon - Kirisuite Gomen & Iai Giri Gedan,FF8B21,08,FF8B20,00,FF8B11,08,FF8B10,06,FF8B13,FF
+64=Oboro Bishamon - Nu Kien Zan & Iai Giri Gedan,FF8B31,04,FF8B30,08,FF8B11,08,FF8B10,06,FF8B13,FF
+65=Oboro Bishamon - Kien Zan & Iai Giri Gedan,FF8B01,04,FF8B00,06,FF8B59,04,FF8B58,06
+66=Oboro Bishamon - Iai Giri Joudan & Gedan,FF8B09,08,FF8B08,06,FF8B0B,FF,FF8B59,04,FF8B58,06
+67=Oboro Bishamon - Oni Naburi & Iai Giri Gedan,FF8B19,04,FF8B18,08,FF8B59,04,FF8B58,06
+68=Oboro Bishamon - Kirisuite Gomen & Iai Giri Gedan,FF8B21,08,FF8B20,00,FF8B59,04,FF8B58,06
+69=Oboro Bishamon - Nu Kien Zan & Iai Giri Gedan,FF8B31,04,FF8B30,08,FF8B59,04,FF8B58,06
+70=Q-Bee - O.M. & DA,FF8B11,04,FF8B10,08,FF8B01,04,FF8B00,06
+71=Q-Bee - C.R. & DA,FF8B19,04,FF8B18,08,FF8B01,04,FF8B00,06
+72=Q-Bee - O.M. & Sxp,FF8B11,04,FF8B10,08,FF8B0A,04,FF8B0C,04,FF8B0E,04
+73=Q-Bee - C.R. & Sxp,FF8B19,04,FF8B18,08,FF8B0A,04,FF8B0C,04,FF8B0E,04
+74=Q-Bee - O.M. & R.M.,FF8B11,04,FF8B10,08,FF8B31,04,FF8B30,06
+75=Q-Bee - C.R. & R.M.,FF8B19,04,FF8B18,08,FF8B31,04,FF8B30,06
+76=Sasquatch - Big Towers & Typhoon,FF8B01,02,FF8B00,04,FF8B09,04,FF8B08,06
+77=Sasquatch - Big Brunch & Typhoon,FF8B11,04,FF8B10,08,FF8B09,04,FF8B08,06
+78=Sasquatch - Big Breath & Typhoon,FF8B39,04,FF8B38,06,FF8B09,04,FF8B08,06
+79=Sasquatch - Big Blow & Typhoon,FF8B41,04,FF8B40,06,FF8B09,04,FF8B08,06
+80=Sasquatch - Big Towers & Swing,FF8B01,02,FF8B00,04,FF8B19,08,FF8B18,00
+81=Sasquatch - Big Brunch & Swing,FF8B11,04,FF8B10,08,FF8B19,08,FF8B18,00
+82=Sasquatch - Big Breath & Swing,FF8B39,04,FF8B38,06,FF8B19,08,FF8B18,00
+83=Sasquatch - Big Blow & Swing,FF8B41,04,FF8B40,06,FF8B19,08,FF8B18,00
+84=Victor - Gyro Crush & Giga Burn,FF8B01,04,FF8B00,06,FF8B09,04,FF8B08,06
+85=Victor - Mega Spike & Giga Burn,FF8B21,08,FF8B20,00,FF8B09,04,FF8B08,06
+86=Victor - Mega Forrid & Giga Burn,FF8B41,08,FF8B40,06,FF8B43,FF,FF8B09,04,FF8B08,06
+87=Victor - Mega Stake & Giga Burn,FF8B49,08,FF8B48,06,FF8B4B,FF,FF8B09,04,FF8B08,06
+88=Victor - Gyro Crush & Mega Shock,FF8B01,04,FF8B00,06,FF8B29,04,FF8B28,06
+89=Victor - Mega Spike & Shock,FF8B21,08,FF8B20,00,FF8B29,04,FF8B28,06
+90=Victor - Mega Forrid & Shock,FF8B41,08,FF8B40,06,FF8B43,FF,FF8B29,04,FF8B28,06
+91=Victor - Mega Stake & Shock,FF8B49,08,FF8B48,06,FF8B4B,FF,FF8B29,04,FF8B28,06
+92=Zabel - Skull Sting & Punish,FF8B01,08,FF8B00,06,FF8B03,FF,FF8B21,04,FF8B20,08
+93=Zabel - Death Hurricane & Skull Punish,FF8B09,04,FF8B08,06,FF8B21,04,FF8B20,08
+94=Zabel - Hell's Gate & Skull Punish,FF8B29,04,FF8B28,08,FF8B21,04,FF8B20,08
+95=Zabel - Death Phrase & Skull Punish,FF8B39,04,FF8B38,06,FF8B21,04,FF8B20,08
+Default=0
+
+[47]
+Name=P2 Easy EX Moves
+0=Disabled
+1=Anakaris - Naraku no Ana & Pharaoh Magic & Salvation - Yujuu Mahou,FF8B39,04,FF8B38,08,FF8B41,02,FF8B40,08,FF8B49,02,FF8B48,08
+2=Anakaris - Naraku no Ana & Pharaoh Magic & Decoration - Bijo Mahou,FF8B39,04,FF8B38,08,FF8B41,02,FF8B40,08,FF8B59,02,FF8B58,0C
+3=Anakaris - Naraku no Ana & Pharaoh Magic & Decoration - Bijo Mahou,FF8B39,04,FF8B38,08,FF8B51,04,FF8B50,06
+4=Aulbath - Aqua Spread 1 & 2,FF8B21,04,FF8B20,06,FF8B29,04,FF8B28,06
+5=Aulbath - Aqua Spread 1 & Direct Scissors,FF8B21,04,FF8B20,06,FF8B31,02,FF8B30,04
+6=Aulbath - Aqua Spread 1 & Sea Rage,FF8B21,04,FF8B20,06,FF8B39,04,FF8B38,08
+7=Aulbath - Aqua Spread 1 & Water Jail,FF8B21,04,FF8B20,06,FF8B41,04,FF8B40,06
+8=Bishamon - Togakubi Sarashi & Enma Ishi,FF8B39,02,FF8B38,04,FF8B41,04,FF8B40,08
+9=Bishamon - Oni Kubi Hineri & Enma Ishi,FF8B49,04,FF8B48,08,FF8B41,04,FF8B40,08
+10=Bulleta - Apple For You & Cool Hunting,FF8B21,04,FF8B20,08,FF8B49,04,FF8B48,08
+11=Bulleta - Beautiful Memory & Cool Hunting,FF8B31,04,FF8B30,08,FF8B49,04,FF8B48,08
+12=Demitri - Demon Billion & Midnight Bliss,FF8B29,04,FF8B28,06,FF8B21,04,FF8B20,06
+13=Demitri - Midnight Pleasure & Bliss,FF8B29,04,FF8B28,06,FF8B31,02,FF8B30,08
+14=Felicia - Dancing Flash & Please Help Me,FF8B29,04,FF8B28,08,FF8B31,04,FF8B30,08
+15=Gallon - Dragon Cannon,FF8B11,04,FF8B10,08
+16=Gallon - Moment Slice,FF8B41,02,FF8B40,08
+17=Jedah - ProvaDiServo & FinaleRosso,FF8B11,04,FF8B10,08,FF8B19,02,FF8B18,04
+18=Lei-Lei - Chuuka Dan & Chirei Tou & Tenrai Ha,FF8B19,04,FF8B18,08,FF8B29,04,FF8B28,08,FF8B31,02,FF8B30,08
+19=Lilith - Splendor Love & Luminous Illusion,FF8B21,04,FF8B20,06,FF8B49,02,FF8B48,08
+20=Lilith - Gloomy Puppet Show & Luminous Illusion,FF8B41,04,FF8B40,08,FF8B49,02,FF8B48,08
+21=Morrigan - Finishing Shower & Darkness Illusion & Cryptic Needle,FF8B01,02,FF8B00,08,FF8B31,02,FF8B30,08,FF8B41,02,FF8B40,08
+22=Morrigan - Valkyrie Turn & Darkness Illusion & Cryptic Needle,FF8B39,04,FF8B38,0A,FF8B31,02,FF8B30,08,FF8B41,02,FF8B40,08
+23=Oboro Bishamon - Togakubi Sarashi & Enma Ishi,FF8B39,02,FF8B38,04,FF8B41,04,FF8B40,08
+24=Oboro Bishamon - Oni Kubi Hineri & Enma Ishi,FF8B49,04,FF8B48,08,FF8B41,04,FF8B40,08
+25=Q-Bee - Qj & +B,FF8B21,04,FF8B20,06,FF8B29,04,FF8B28,08
+26=Sasquatch - Big Freezer & Ice Burn & Trap,FF8B21,04,FF8B20,08,FF8B29,04,FF8B28,08,FF8B31,04,FF8B30,0A
+27=Sasquatch - Big Freezer & Sledge & Trap,FF8B21,04,FF8B20,08,FF8B49,08,FF8B48,00,FF8B31,04,FF8B30,0A
+28=Victor - Thunder Break,FF8B39,08,FF8B38,06,FF8B3B,FF
+29=Victor - Geldenheim 3,FF8B51,08,FF8B50,00
+30=Zabel - Death Voltage & Evil Scream,FF8B11,04,FF8B10,08,FF8B19,08,FF8B18,06,FF8B1B,FF
+31=Zabel - Death Voltage & Hell Dunk,FF8B11,04,FF8B10,08,FF8B31,04,FF8B30,06
+Default=0
+
+[48]
+Name=BackGround Select
+0=Disabled
+1=Abaraya,FF8100,0A
+2=Concrete Cave,FF8100,02
+3=Deserted Chateau,FF8100,08
+4=Feast of the Damned,FF8100,00
+5=Fetus of God,FF8100,16
+6=Forever Torment,FF8100,10
+7=Green Scream,FF8100,12
+8=Iron Horse & Iron Terror,FF8100,14
+9=Red Thirst,FF8100,06
+10=Tower of Arrogance,FF8100,04
+11=Vanity Paradise,FF8100,0C
+12=War Agony,FF8100,0E
+Default=0
+

@@ -1,0 +1,563 @@
+[0]
+Name=Region
+0=Disabled
+1=Japan,FF82CE,00
+2=USA,FF82CE,02
+3=ETC,FF82CE,04
+4=Hispanic,FF82CE,06
+5=Asia,FF82CE,08
+6=Asia TW,FF82CE,0A
+Default=0
+
+[1]
+Name=Infinite Time
+0=Disabled
+1=Enabled,FF8DCF,99
+Default=0
+
+[2]
+Name=Time Counter
+0=Disabled
+1=Stop Counter,FF8DD1,01
+2=Continue Counter,FF8DD1,00
+Default=0
+
+[3]
+Name=Game Speed
+0=Disabled
+1=Slow Speed,FF82F3,01
+2=SSF2 Speed,FF8CD2,FF
+3=Max Speed,FF8CD2,00
+4=Ultra Speed,FF82EC,01
+Default=0
+
+[4]
+Name=Last Boss
+0=Disabled
+1=M.Bison,FF831B,01
+2=Akuma,FF831B,00
+Default=0
+
+[5]
+Name=Ending
+0=Disabled
+1=Normal,FF8CA0,01
+2=Special,FF8CA0,00
+Default=0
+
+[6]
+Name=Most Projectiles Non-Erase
+0=Disabled
+1=Enabled,FF9D30,01
+Default=0
+
+[7]
+Name=Move Around Announce
+0=Disabled
+1=Enabled,FF82F2,00,FF82C6,01
+Default=0
+
+[8]
+Name=P1 Inf Health
+0=Disabled
+1=Enabled,FF8478,90,FF860A,90
+Default=0
+
+[9]
+Name=P1 Die Hard
+0=Disabled
+1=Enabled,FF8478,90,FF860B,01
+Default=0
+
+[10]
+Name=P1 Invincible
+0=Disabled
+1=Enabled,FF860C,01
+Default=0
+
+[11]
+Name=P1 Inf Super
+0=Disabled
+1=Enabled,FF8703,30
+Default=0
+
+[12]
+Name=P1 1 Win Match
+0=Disabled
+1=Enabled,FF87DF,02
+Default=0
+
+[13]
+Name=P1 Air Moves
+0=Disabled
+1=Enabled,FF85CE,00
+Default=0
+
+[14]
+Name=P1 Inf Fireball
+0=Disabled
+1=Enabled,FF8623,00,FF8622,00
+Default=0
+
+[15]
+Name=P1 No Hit Stop
+0=Disabled
+1=Enabled,FF8894,00
+Default=0
+
+[16]
+Name=P1 Auto Combo
+0=Disabled
+1=Enabled,FF8899,00
+Default=0
+
+[17]
+Name=P1 Never Faint
+0=Disabled
+1=Enabled,FF84AE,01
+Default=0
+
+[18]
+Name=P1 Action Speed Up
+0=Disabled
+1=Enabled,FF8466,01
+Default=0
+
+[19]
+Name=P1 Sprite Trails
+0=Disabled
+1=Enabled,FF8702,01
+Default=0
+
+[20]
+Name=P1 Quick Shot*
+0=Disabled
+1=Enabled,FF846D,01
+Default=0
+
+[21]
+Name=P1 All Cancel
+0=Disabled
+1=Enabled,FF85E1,01,FF85E2,01
+Default=0
+
+[22]
+Name=P1 Classic Mode
+0=Disabled
+1=Enabled,FF8805,01
+Default=0
+
+[23]
+Name=P1 Akuma Flag (S+Px3)
+0=Disabled
+1=Enabled,FF84F1,01
+Default=0
+
+[24]
+Name=P1 Char Select
+0=Disabled
+1=Akuma,FF880A,01
+2=Balrog,FF87DE,0A
+3=Blanka,FF87DE,02
+4=Cammy,FF87DE,0C
+5=Chun Li,FF87DE,05
+6=Dee Jay,FF87DE,0F
+7=Dhalsim,FF87DE,07
+8=E.Honda,FF87DE,01
+9=Fei Long,FF87DE,0E
+10=Guile,FF87DE,03
+11=Ken,FF87DE,04
+12=M.Bison,FF87DE,08
+13=Ryu,FF87DE,00
+14=Sagat,FF87DE,09
+15=T.Hawk,FF87DE,0D
+16=Vega,FF87DE,0B
+17=Zangief,FF87DE,06
+Default=0
+
+[25]
+Name=P1 Colour Select
+0=Disabled
+1=Colour 1,FF87FE,00
+2=Colour 2,FF87FE,01
+3=Colour 3,FF87FE,02
+4=Colour 4,FF87FE,03
+5=Colour 5,FF87FE,04
+6=Colour 6,FF87FE,05
+7=Colour 7,FF87FE,06
+8=Colour 8,FF87FE,07
+9=Classic 1,FF87FE,08
+10=Classic 2,FF87FE,09
+11=Akuma Colour 1,FF87FE,0A
+12=Akuma Colour 2,FF87FE,0B
+Default=0
+
+[26]
+Name=P1 Balrog - Auto Turnpunch
+0=Disabled
+1=Turnpunch 1,FF84FF,04
+2=Turnpunch 2,FF84FE,04
+Default=0
+
+[27]
+Name=P1 Balrog - Turnpunch
+0=Disabled
+1=Max Turnpunch,FF8505,09,FF8504,61,FF8507,09,FF8506,61
+2=Min Turnpunch,FF8505,00,FF8504,00,FF8507,00,FF8506,00
+Default=0
+
+[28]
+Name=P1 Easy Moves
+0=Disabled
+1=Akuma - Gou Hadou Ken & Tatsumaki Zankuu Kyaku & Ashura Senkuu 1,FF84E3,06,FF84E2,06,FF84DF,06,FF84DE,06,FF84ED,06,FF84EC,06,FF84EF,00
+2=Akuma - Gou Shoryuu Ken & Tatsumaki Zankuu Kyaku & Ashura Senkuu 1,FF84E7,06,FF84E6,06,FF84DF,06,FF84DE,06,FF84ED,06,FF84EC,06,FF84EF,00
+3=Akuma - Shakunetsu Hadou Ken & Tatsumaki Zankuu Kyaku & Ashura Senkuu 1,FF852F,0A,FF852E,06,FF84DF,06,FF84DE,06,FF84ED,06,FF84EC,06,FF84EF,00
+4=Akuma - Gou Hadou Ken & Tatsumaki Zankuu Kyaku & Ashura Senkuu 2,FF84E3,06,FF84E2,06,FF84DF,06,FF84DE,06,FF84ED,06,FF84EC,06,FF84EF,02
+5=Akuma - Gou Shoryuu Ken & Tatsumaki Zankuu Kyaku & Ashura Senkuu 2,FF84E7,06,FF84E6,06,FF84DF,06,FF84DE,06,FF84ED,06,FF84EC,06,FF84EF,02
+6=Akuma - Shakunetsu Hadou Ken & Tatsumaki Zankuu Kyaku & Ashura Senkuu 2,FF852F,0A,FF852E,06,FF84DF,06,FF84DE,06,FF84ED,06,FF84EC,06,FF84EF,02
+7=Balrog - Dash Straight & Upper,FF84CF,08,FF84D0,01,FF84D7,08,FF84D8,01
+8=Balrog - Buffalo Head & Dash Upper,FF850F,08,FF8510,01,FF84D7,08,FF84D8,01
+9=Balrog - Dash Ground Straight & Upper,FF8525,08,FF8526,01,FF84D7,08,FF84D8,01
+10=Balrog - Dash Straight & Ground Upper,FF84CF,08,FF84D0,01,FF852A,08,FF852F,01
+11=Balrog - Buffalo Head & Dash Ground Upper,FF850F,08,FF8510,01,FF852A,08,FF852F,01
+12=Balrog - Dash Ground Straight & Ground Upper,FF8525,08,FF8526,01,FF852A,08,FF852F,01
+13=Blanka - Vertical & Rolling Attack,FF84CF,08,FF84D0,01,FF84FF,08,FF8502,01
+14=Blanka - Electric Thunder & Vertical Rolling,FF84E9,04,FF84EB,04,FF84ED,04,FF84FF,08,FF8502,01
+15=Blanka - Backstep & Rolling Attack,FF84CF,08,FF84D0,01,FF8506,08,FF850B,01
+16=Blanka - Electric Thunder & Backstep Rolling,FF84E9,04,FF84EB,04,FF84ED,04,FF8506,08,FF850B,01
+17=Cammy - Axle Spin Knuckle & Cannon Spike,FF84F1,06,FF84F0,06,FF84E1,06,FF84E0,06
+18=Cammy - Hooligan Combination & Cannon Spike,FF84F6,08,FF84F9,06,FF84E1,06,FF84E0,06
+19=Cammy - Axle Spin Knuckle & Spiral Arrow,FF84F1,06,FF84F0,06,FF84E5,06,FF84E4,06
+20=Cammy - Hooligan Combination & Spiral Arrow,FF84F6,08,FF84F9,06,FF84E5,06,FF84E4,06
+21=Chun-Li - Kikou Ken & Spinning Bird Kick,FF84FF,08,FF84FE,06,FF84CF,08,FF84D0,01
+22=Chun-Li - Kikou Ken & Hyakuretsu Kyaku,FF84FF,08,FF84FE,06,FF84E9,04,FF84EB,04,FF84ED,04
+23=Chun-Li - Kikou Ken & Tenshou Kyaku,FF84FF,08,FF84FE,06,FF8509,08,FF8510,01
+24=Dee Jay - Machine Gun Upper & Double Rolling Sobat,FF84E5,08,FF84E4,06,FF84E1,08,FF84E0,06
+25=Dee Jay - Air Slasher & Double Rolling Sobat,FF84F5,08,FF84F4,06,FF84E1,08,FF84E0,06
+26=Dee Jay - Machine Gun Upper & Jackknife Maximum,FF84E5,08,FF84E4,06,FF84F8,08,FF84FB,06
+27=Dee Jay - Air Slasher & Jackknife Maximum,FF84F5,08,FF84F4,06,FF84F8,08,FF84FB,06
+28=Dhalsim - Yoga Fire & Blast,FF84CF,06,FF84CE,06,FF84E9,0A,FF84E8,06
+29=Dhalsim - Yoga Flame & Blast,FF84D3,0A,FF84D2,0A,FF84E9,0A,FF84E8,06
+30=Dhalsim - Yoga Teleport 1,FF84D7,06,FF84D6,06,FF84DF,00
+31=Dhalsim - Yoga Teleport 2,FF84D7,06,FF84D6,06,FF84DF,01
+32=E.Honda - Super Hyakkan Otoshi & Zutsuki,FF84DF,08,FF84DE,06,FF84D7,08,FF84D6,06
+33=E.Honda - Super Hyakkan Otoshi & Ooichou Nage,FF84DF,08,FF84DE,06,FF84E5,08,FF84E4,06
+34=E.Honda - Super Hyakkan Otoshi & Hyakuretsu Harite,FF84DF,08,FF84DE,06,FF8515,03,FF8517,03,FF8519,03
+35=Fei Long - Rekka Ken & Shien Kyaku,FF84DF,06,FF84DE,06,FF84EF,06,FF84EE,06,FF84E3,06,FF84E2,06
+36=Fei Long - Rekka Ken & Rekkuu Kyaku,FF84DF,06,FF84DE,06,FF84EF,06,FF84EE,06,FF8503,08,FF8502,06
+37=Guile - Sonic Boom & Somersault Kick,FF84CF,08,FF84D0,01,FF84D5,08,FF84D6,01
+38=Ken - Hadou Ken & Tatsumaki Senpuu Kyaku,FF84DF,06,FF84DE,06,FF84E3,06,FF84E2,06
+39=Ken - Shoryuu Ken & Tatsumaki Senpuu Kyaku,FF84E7,06,FF84E6,06,FF84E3,06,FF84E2,06
+40=M.Bison - Psycho Crusher Attack & Double Knee Press,FF84CF,08,FF84D0,01,FF84D7,08,FF84D8,01
+41=M.Bison - Devil Reverse & Double Knee Press,FF84FB,08,FF84FA,06,FF84D7,08,FF84D8,01
+42=M.Bison - Psycho Crusher Attack & Head Press,FF84CF,08,FF84D0,01,FF84DE,08,FF84E3,01
+43=M.Bison - Devil Reverse & Head Press,FF84FB,08,FF84FA,06,FF84DE,08,FF84E3,01
+44=Ryu - Hadou Ken & Tatsumaki Senpuu Kyaku,FF84E3,06,FF84E2,06,FF84DF,06,FF84DE,06
+45=Ryu - Shoryuu Ken & Tatsumaki Senpuu Kyaku,FF84E7,06,FF84E6,06,FF84DF,06,FF84DE,06
+46=Ryu - Shakunetsu Hadou Ken & Tatsumaki Senpuu Kyaku,FF852F,0A,FF852E,06,FF84DF,06,FF84DE,06
+47=Sagat - Tiger Uppercut & Knee,FF84CF,06,FF84CE,06,FF84D3,06,FF84D2,06
+48=Sagat - Tiger Shot & Knee,FF84D7,06,FF84D6,06,FF84D3,06,FF84D2,06
+49=Sagat - Tiger Uppercut & Ground Shot,FF84CF,06,FF84CE,06,FF84DB,06,FF84DA,06
+50=Sagat - Tiger Shot & Ground Shot,FF84D7,06,FF84D6,06,FF84DB,06,FF84DA,06
+51=T.Hawk - Tomahawk Buster,FF84DA,06,FF84DD,06
+52=T.Hawk - Mexican Typhoon,FF84E1,08,FF84E0,06
+53=Vega - Rolling Crystal Flash & Kabe Hari Tsuki,FF84D7,08,FF84D6,06,FF84DB,08,FF84DA,06
+54=Vega - Sky High Claw & Kabe Hari Tsuki,FF84DF,08,FF84DE,06,FF84DB,08,FF84DA,06
+55=Vega - Rolling Crystal Flash & Scarlet Terror,FF84D7,08,FF84D6,06,FF84EA,08,FF84ED,06
+56=Vega - Sky High Claw & Scarlet Terror,FF84DF,08,FF84DE,06,FF84EA,08,FF84ED,06
+57=Zangief - Screw Piledriver & Flying Powerbomb & Atomic Suplex,FF84CF,08,FF84D1,06,FF84E8,08,FF84EA,06
+58=Zangief - Banishing Flat & Flying Powerbomb & Atomic Suplex,FF8500,06,FF8503,06,FF84E8,08,FF84EA,06
+Default=0
+
+[29]
+Name=P1 Easy Super Combo
+0=Disabled
+1=Balrog - Crazy Buffalo,FF8523,0C,FF8522,06
+2=Blanka - Ground Shave Rolling,FF850E,0C,FF8511,06
+3=Cammy - Spin Drive Smasher,FF84F5,0A,FF84F4,06
+4=Chun-Li - Senretsu Kyaku,FF850C,0C,FF850F,06
+5=Dee Jay - Sobat Carnival,FF84FC,0C,FF84FF,08
+6=Dhalsim - Yoga Inferno,FF84E5,12,FF84E4,09
+7=E.Honda - Oni Musou,FF84E3,0C,FF84E2,06
+8=Fei Long - Rekka Shin Ken,FF84FF,0C,FF84FE,06
+9=Guile - Somersault Strike,FF84E3,0C,FF84E2,06
+10=Ken - Shoryuu Reppa,FF84EF,0A,FF84EE,06
+11=M.Bison - Knee Press Nightmare,FF8512,0C,FF8515,06
+12=Ryu - Shinkuu Hadou Ken,FF84EF,0C,FF84EE,06
+13=Sagat - Tiger Genocide,FF84ED,0A,FF84EC,06
+14=T.Hawk - Raging Typhoon,FF84ED,10,FF84EF,06
+15=Vega - Hari Tsuki Rolling,FF84E6,0C,FF84E9,06
+16=Zangief - Final Atomic Buster,FF84FB,10,FF84FD,06
+Default=0
+
+[30]
+Name=P2 Inf Health
+0=Disabled
+1=Enabled,FF8878,90,FF8A0A,90
+Default=0
+
+[31]
+Name=P2 Die Hard
+0=Disabled
+1=Enabled,FF8878,90,FF8A0B,01
+Default=0
+
+[32]
+Name=P2 Invincible
+0=Disabled
+1=Enabled,FF8A0C,01
+Default=0
+
+[33]
+Name=P2 Inf Super
+0=Disabled
+1=Enabled,FF8B03,30
+Default=0
+
+[34]
+Name=P2 1 Win Match
+0=Disabled
+1=Enabled,FF8BDF,02
+Default=0
+
+[35]
+Name=P2 Air Moves
+0=Disabled
+1=Enabled,FF89CE,00
+Default=0
+
+[36]
+Name=P2 Inf Fireball
+0=Disabled
+1=Enabled,FF8A23,00,FF8A22,00
+Default=0
+
+[37]
+Name=P2 No Hit Stop
+0=Disabled
+1=Enabled,FF8494,00
+Default=0
+
+[38]
+Name=P2 Auto Combo
+0=Disabled
+1=Enabled,FF8499,00
+Default=0
+
+[39]
+Name=P2 Never Faint
+0=Disabled
+1=Enabled,FF88AE,01
+Default=0
+
+[40]
+Name=P2 Action Speed Up
+0=Disabled
+1=Enabled,FF8866,01
+Default=0
+
+[41]
+Name=P2 Sprite Trails
+0=Disabled
+1=Enabled,FF8B02,01
+Default=0
+
+[42]
+Name=P2 Quick Shot*
+0=Disabled
+1=Enabled,FF886D,01
+Default=0
+
+[43]
+Name=P2 All Cancel
+0=Disabled
+1=Enabled,FF89E1,01,FF89E2,01
+Default=0
+
+[44]
+Name=P2 Classic Mode
+0=Disabled
+1=Enabled,FF8C05,01
+Default=0
+
+[45]
+Name=P2 Akuma Flag (S+Px3)
+0=Disabled
+1=Enabled,FF88F1,01
+Default=0
+
+[46]
+Name=P2 Char Select
+0=Disabled
+1=Akuma,FF8C0A,01
+2=Balrog,FF8BDE,0A
+3=Blanka,FF8BDE,02
+4=Cammy,FF8BDE,0C
+5=Chun Li,FF8BDE,05
+6=Dee Jay,FF8BDE,0F
+7=Dhalsim,FF8BDE,07
+8=E.Honda,FF8BDE,01
+9=Fei Long,FF8BDE,0E
+10=Guile,FF8BDE,03
+11=Ken,FF8BDE,04
+12=M.Bison,FF8BDE,08
+13=Ryu,FF8BDE,00
+14=Sagat,FF8BDE,09
+15=T.Hawk,FF8BDE,0D
+16=Vega,FF8BDE,0B
+17=Zangief,FF8BDE,06
+Default=0
+
+[47]
+Name=P2 Colour Select
+0=Disabled
+1=Colour 1,FF8BFE,00
+2=Colour 2,FF8BFE,01
+3=Colour 3,FF8BFE,02
+4=Colour 4,FF8BFE,03
+5=Colour 5,FF8BFE,04
+6=Colour 6,FF8BFE,05
+7=Colour 7,FF8BFE,06
+8=Colour 8,FF8BFE,07
+9=Classic 1,FF8BFE,08
+10=Classic 2,FF8BFE,09
+11=Akuma Colour 1,FF8BFE,0A
+12=Akuma Colour 2,FF8BFE,0B
+Default=0
+
+[48]
+Name=P2 Balrog - Auto Turnpunch
+0=Disabled
+1=Turnpunch 1,FF88FF,04
+2=Turnpunch 2,FF88FE,04
+Default=0
+
+[49]
+Name=P2 Balrog - Turnpunch
+0=Disabled
+1=Max Turnpunch,FF8905,09,FF8904,61,FF8907,09,FF8906,61
+2=Min Turnpunch,FF8905,00,FF8904,00,FF8907,00,FF8906,00
+Default=0
+
+[50]
+Name=P2 Easy Moves
+0=Disabled
+1=Akuma - Gou Hadou Ken & Tatsumaki Zankuu Kyaku & Ashura Senkuu 1,FF88E3,06,FF88E2,06,FF88DF,06,FF88DE,06,FF88ED,06,FF88EC,06,FF88EF,00
+2=Akuma - Gou Shoryuu Ken & Tatsumaki Zankuu Kyaku & Ashura Senkuu 1,FF88E7,06,FF88E6,06,FF88DF,06,FF88DE,06,FF88ED,06,FF88EC,06,FF88EF,00
+3=Akuma - Shakunetsu Hadou Ken & Tatsumaki Zankuu Kyaku & Ashura Senkuu 1,FF892F,0A,FF892E,06,FF88DF,06,FF88DE,06,FF88ED,06,FF88EC,06,FF88EF,00
+4=Akuma - Gou Hadou Ken & Tatsumaki Zankuu Kyaku & Ashura Senkuu 2,FF88E3,06,FF88E2,06,FF88DF,06,FF88DE,06,FF88ED,06,FF88EC,06,FF88EF,02
+5=Akuma - Gou Shoryuu Ken & Tatsumaki Zankuu Kyaku & Ashura Senkuu 2,FF88E7,06,FF88E6,06,FF88DF,06,FF88DE,06,FF88ED,06,FF88EC,06,FF88EF,02
+6=Akuma - Shakunetsu Hadou Ken & Tatsumaki Zankuu Kyaku & Ashura Senkuu 2,FF892F,0A,FF892E,06,FF88DF,06,FF88DE,06,FF88ED,06,FF88EC,06,FF88EF,02
+7=Balrog - Dash Straight & Upper,FF88CF,08,FF88D0,01,FF88D7,08,FF88D8,01
+8=Balrog - Buffalo Head & Dash Upper,FF890F,08,FF8910,01,FF88D7,08,FF88D8,01
+9=Balrog - Dash Ground Straight & Upper,FF8925,08,FF8926,01,FF88D7,08,FF88D8,01
+10=Balrog - Dash Straight & Ground Upper,FF88CF,08,FF88D0,01,FF892A,08,FF892F,01
+11=Balrog - Buffalo Head & Dash Ground Upper,FF890F,08,FF8910,01,FF892A,08,FF892F,01
+12=Balrog - Dash Ground Straight & Ground Upper,FF8925,08,FF8926,01,FF892A,08,FF892F,01
+13=Blanka - Vertical & Rolling Attack,FF88CF,08,FF88D0,01,FF88FF,08,FF8902,01
+14=Blanka - Electric Thunder & Vertical Rolling,FF88E9,04,FF88EB,04,FF88ED,04,FF88FF,08,FF8902,01
+15=Blanka - Backstep & Rolling Attack,FF88CF,08,FF88D0,01,FF8906,08,FF890B,01
+16=Blanka - Electric Thunder & Backstep Rolling,FF88E9,04,FF88EB,04,FF88ED,04,FF8906,08,FF890B,01
+17=Cammy - Axle Spin Knuckle & Cannon Spike,FF88F1,06,FF88F0,06,FF88E1,06,FF88E0,06
+18=Cammy - Hooligan Combination & Cannon Spike,FF88F6,08,FF88F9,06,FF88E1,06,FF88E0,06
+19=Cammy - Axle Spin Knuckle & Spiral Arrow,FF88F1,06,FF88F0,06,FF88E5,06,FF88E4,06
+20=Cammy - Hooligan Combination & Spiral Arrow,FF88F6,08,FF88F9,06,FF88E5,06,FF88E4,06
+21=Chun-Li - Kikou Ken & Spinning Bird Kick,FF88FF,08,FF88FE,06,FF88CF,08,FF88D0,01
+22=Chun-Li - Kikou Ken & Hyakuretsu Kyaku,FF88FF,08,FF88FE,06,FF88E9,04,FF88EB,04,FF88ED,04
+23=Chun-Li - Kikou Ken & Tenshou Kyaku,FF88FF,08,FF88FE,06,FF8909,08,FF8910,01
+24=Dee Jay - Machine Gun Upper & Double Rolling Sobat,FF88E5,08,FF88E4,06,FF88E1,08,FF88E0,06
+25=Dee Jay - Air Slasher & Double Rolling Sobat,FF88F5,08,FF88F4,06,FF88E1,08,FF88E0,06
+26=Dee Jay - Machine Gun Upper & Jackknife Maximum,FF88E5,08,FF88E4,06,FF88F8,08,FF88FB,06
+27=Dee Jay - Air Slasher & Jackknife Maximum,FF88F5,08,FF88F4,06,FF88F8,08,FF88FB,06
+28=Dhalsim - Yoga Fire & Blast,FF88CF,06,FF88CE,06,FF88E9,0A,FF88E8,06
+29=Dhalsim - Yoga Flame & Blast,FF88D3,0A,FF88D2,0A,FF88E9,0A,FF88E8,06
+30=Dhalsim - Yoga Teleport 1,FF88D7,06,FF88D6,06,FF88DF,00
+31=Dhalsim - Yoga Teleport 2,FF88D7,06,FF88D6,06,FF88DF,01
+32=E.Honda - Super Hyakkan Otoshi & Zutsuki,FF88DF,08,FF88DE,06,FF88D7,08,FF88D6,06
+33=E.Honda - Super Hyakkan Otoshi & Ooichou Nage,FF88DF,08,FF88DE,06,FF88E5,08,FF88E4,06
+34=E.Honda - Super Hyakkan Otoshi & Hyakuretsu Harite,FF88DF,08,FF88DE,06,FF8915,03,FF8917,03,FF8919,03
+35=Fei Long - Rekka Ken & Shien Kyaku,FF88DF,06,FF88DE,06,FF88EF,06,FF88EE,06,FF88E3,06,FF88E2,06
+36=Fei Long - Rekka Ken & Rekkuu Kyaku,FF88DF,06,FF88DE,06,FF88EF,06,FF88EE,06,FF8903,08,FF8902,06
+37=Guile - Sonic Boom & Somersault Kick,FF88CF,08,FF88D0,01,FF88D5,08,FF88D6,01
+38=Ken - Hadou Ken & Tatsumaki Senpuu Kyaku,FF88DF,06,FF88DE,06,FF88E3,06,FF88E2,06
+39=Ken - Shoryuu Ken & Tatsumaki Senpuu Kyaku,FF88E7,06,FF88E6,06,FF88E3,06,FF88E2,06
+40=M.Bison - Psycho Crusher Attack & Double Knee Press,FF88CF,08,FF88D0,01,FF88D7,08,FF88D8,01
+41=M.Bison - Devil Reverse & Double Knee Press,FF88FB,08,FF88FA,06,FF88D7,08,FF88D8,01
+42=M.Bison - Psycho Crusher Attack & Head Press,FF88CF,08,FF88D0,01,FF88DE,08,FF88E3,01
+43=M.Bison - Devil Reverse & Head Press,FF88FB,08,FF88FA,06,FF88DE,08,FF88E3,01
+44=Ryu - Hadou Ken & Tatsumaki Senpuu Kyaku,FF88E3,06,FF88E2,06,FF88DF,06,FF88DE,06
+45=Ryu - Shoryuu Ken & Tatsumaki Senpuu Kyaku,FF88E7,06,FF88E6,06,FF88DF,06,FF88DE,06
+46=Ryu - Shakunetsu Hadou Ken & Tatsumaki Senpuu Kyaku,FF892F,0A,FF892E,06,FF88DF,06,FF88DE,06
+47=Sagat - Tiger Uppercut & Knee,FF88CF,06,FF88CE,06,FF88D3,06,FF88D2,06
+48=Sagat - Tiger Shot & Knee,FF88D7,06,FF88D6,06,FF88D3,06,FF88D2,06
+49=Sagat - Tiger Uppercut & Ground Shot,FF88CF,06,FF88CE,06,FF88DB,06,FF88DA,06
+50=Sagat - Tiger Shot & Ground Shot,FF88D7,06,FF88D6,06,FF88DB,06,FF88DA,06
+51=T.Hawk - Tomahawk Buster,FF88DA,06,FF88DD,06
+52=T.Hawk - Mexican Typhoon,FF88E1,08,FF88E0,06
+53=Vega - Rolling Crystal Flash & Kabe Hari Tsuki,FF88D7,08,FF88D6,06,FF88DB,08,FF88DA,06
+54=Vega - Sky High Claw & Kabe Hari Tsuki,FF88DF,08,FF88DE,06,FF88DB,08,FF88DA,06
+55=Vega - Rolling Crystal Flash & Scarlet Terror,FF88D7,08,FF88D6,06,FF88EA,08,FF88ED,06
+56=Vega - Sky High Claw & Scarlet Terror,FF88DF,08,FF88DE,06,FF88EA,08,FF88ED,06
+57=Zangief - Screw Piledriver & Flying Powerbomb & Atomic Suplex,FF88CF,08,FF88D1,06,FF88E8,08,FF88EA,06
+58=Zangief - Banishing Flat & Flying Powerbomb & Atomic Suplex,FF8900,06,FF8903,06,FF88E8,08,FF88EA,06
+Default=0
+
+[51]
+Name=P2 Easy Super Combo
+0=Disabled
+1=Balrog - Crazy Buffalo,FF8923,0C,FF8922,06
+2=Blanka - Ground Shave Rolling,FF890E,0C,FF8911,06
+3=Cammy - Spin Drive Smasher,FF88F5,0A,FF88F4,06
+4=Chun-Li - Senretsu Kyaku,FF890C,0C,FF890F,06
+5=Dee Jay - Sobat Carnival,FF88FC,0C,FF88FF,08
+6=Dhalsim - Yoga Inferno,FF88E5,12,FF88E4,09
+7=E.Honda - Oni Musou,FF88E3,0C,FF88E2,06
+8=Fei Long - Rekka Shin Ken,FF88FF,0C,FF88FE,06
+9=Guile - Somersault Strike,FF88E3,0C,FF88E2,06
+10=Ken - Shoryuu Reppa,FF88EF,0A,FF88EE,06
+11=M.Bison - Knee Press Nightmare,FF8912,0C,FF8915,06
+12=Ryu - Shinkuu Hadou Ken,FF88EF,0C,FF88EE,06
+13=Sagat - Tiger Genocide,FF88ED,0A,FF88EC,06
+14=T.Hawk - Raging Typhoon,FF88ED,10,FF88EF,06
+15=Vega - Hari Tsuki Rolling,FF88E6,0C,FF88E9,06
+16=Zangief - Final Atomic Buster,FF88FB,10,FF88FD,06
+Default=0
+
+[52]
+Name=BackGround Select
+0=Disabled
+1=Balrog,FFE18A,0A
+2=Blanka,FFE18A,02
+3=Cammy,FFE18A,0C
+4=Chun Li,FFE18A,05
+5=Dee Jay,FFE18A,0F
+6=Dhalsim,FFE18A,07
+7=E.Honda,FFE18A,01
+8=Fei Long,FFE18A,0E
+9=Guile,FFE18A,03
+10=Ken,FFE18A,04
+11=M.Bison,FFE18A,08
+12=Ryu,FFE18A,00
+13=Sagat,FFE18A,09
+14=T.Hawk,FFE18A,0D
+15=Vega,FFE18A,0B
+16=Zangief,FFE18A,06
+Default=0
+
+[53]
+Name=Stage Select
+0=Disabled
+1=Stage 1,FF8C50,00
+2=Stage 2,FF8C50,01
+3=Stage 3,FF8C50,02
+4=Stage 4,FF8C50,03
+5=Stage 5,FF8C50,04
+6=Stage 6,FF8C50,05
+7=Stage 7,FF8C50,06
+8=Stage 8,FF8C50,07
+9=Stage 9,FF8C50,08
+10=Stage 10,FF8C50,09
+11=Stage 11,FF8C50,0A
+12=Stage 12,FF8C50,0B
+Default=0
+

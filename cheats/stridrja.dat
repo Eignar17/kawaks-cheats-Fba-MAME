@@ -1,0 +1,61 @@
+[0]
+Name=Infinite Time
+0=Disabled
+1=Enabled,FF0F6B,02,FF0F6A,58
+Default=0
+
+[1]
+Name=Infinite Lives
+0=Disabled
+1=Enabled,FF0CA9,03
+Default=0
+
+[2]
+Name=Invincible
+0=Disabled
+1=Invincible,FF10E9,00
+2=No Hit Invincible,FF0CF4,6B
+Default=0
+
+[3]
+Name=Infinite Health
+0=Disabled
+1=Enabled,FF0CE7,81,FF0CE6,81,FF0CE9,81,FF0CE8,81,FF0CEB,81
+Default=0
+
+[4]
+Name=Infinite Psyfer (Sword Power)
+0=Disabled
+1=Enabled,FF0CE2,FF
+Default=0
+
+[5]
+Name=Infinite Shadow
+0=Disabled
+1=Enabled,FF0CE0,76
+Default=0
+
+[6]
+Name=Infinite Wolf Time
+0=Disabled
+1=Enabled,FF0CF9,00,FF0CF8,FF
+Default=0
+
+[7]
+Name=Pods
+0=Disabled
+1=One Pod,FF0CE5,01
+2=Two Pods,FF0CE5,02
+3=Wolf,FF0CE5,00,FF0CF9,FF
+Default=0
+
+[8]
+Name=Stage Select
+0=Disabled
+1=Stage 1,FF0CB3,00
+2=Stage 2,FF0CB3,01
+3=Stage 3,FF0CB3,02
+4=Stage 4,FF0CB3,03
+5=Stage 5,FF0CB3,04
+Default=0
+

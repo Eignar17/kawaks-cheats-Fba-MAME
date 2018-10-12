@@ -1,0 +1,165 @@
+[0]
+Name=Infinite Credits
+0=Disabled
+1=Enabled,FF0FFF,09
+Default=0
+
+[1]
+Name=Infinite Shop Time*
+0=Disabled
+1=Enabled,FFE00A,02
+Default=0
+
+[2]
+Name=Infinite Shield
+0=Disabled
+1=Enabled,FF2F01,05,FF2F02,05,FF15D6,02,FF2EA1,05,FF2EA2,05,FF1656,02
+Default=0
+
+[3]
+Name=Always Face
+0=Disabled
+1=Face Right,FF10D7,00
+2=Face Left,FF10D7,04
+Default=0
+
+[4]
+Name=P1 Inf Health
+0=Disabled
+1=Enabled,FF15CC,40
+Default=0
+
+[5]
+Name=P1 Second Weapon Max Level
+0=Disabled
+1=Enabled,FF15D2,06
+Default=0
+
+[6]
+Name=P1 Inf Second Weapon
+0=Disabled
+1=Enabled,FF15E2,63
+Default=0
+
+[7]
+Name=P1 Inf Money
+0=Disabled
+1=Enabled,FF160A,09
+Default=0
+
+[8]
+Name=P1 Hyper Rabbit Shot
+0=Disabled
+1=Enabled,FF15D8,00
+Default=0
+
+[9]
+Name=P1 Fighter Type
+0=Disabled
+1=A-10 Thunderbolt,FF15A2,F2
+2=F-14 Tomcat,FF15A2,F1
+3=F-20 Tiger Shark,FF15A2,F0
+Default=0
+
+[10]
+Name=P1 Weapon Type
+0=Disabled
+1=Phoenix,FF15E0,00
+2=Falcon,FF15E0,04
+3=Bomb,FF15E0,08
+4=Bomb II,FF15E0,0C
+5=Napalm,FF15E0,10
+6=Napalm II,FF15E0,14
+7=Bulpup,FF15E0,1C
+8=Bulpup II,FF15E0,20
+9=Thunder Laser,FF15E0,24
+10=Thunder Laser II,FF15E0,28
+11=Round Laser,FF15E0,2C
+12=Super Shell,FF15E0,34
+13=Super Shell II,FF15E0,38
+14=Gunpod,FF15E0,3C
+15=Bigboy,FF15E0,40
+16=16Way,FF15E0,44
+Default=0
+
+[11]
+Name=P2 Inf Health
+0=Disabled
+1=Enabled,FF164C,40
+Default=0
+
+[12]
+Name=P2 Second Weapon Max Level
+0=Disabled
+1=Enabled,FF1652,06
+Default=0
+
+[13]
+Name=P2 Inf Second Weapon
+0=Disabled
+1=Enabled,FF1662,63
+Default=0
+
+[14]
+Name=P2 Inf Money
+0=Disabled
+1=Enabled,FF168A,09
+Default=0
+
+[15]
+Name=P2 Hyper Rabbit Shot
+0=Disabled
+1=Enabled,FF1658,00
+Default=0
+
+[16]
+Name=P2 Fighter Type
+0=Disabled
+1=A-10 Thunderbolt,FF1622,F2
+2=F-14 Tomcat,FF1622,F1
+3=F-20 Tiger Shark,FF1622,F0
+Default=0
+
+[17]
+Name=P2 Weapon Type
+0=Disabled
+1=Phoenix,FF1660,00
+2=Falcon,FF1660,04
+3=Bomb,FF1660,08
+4=Bomb II,FF1660,0C
+5=Napalm,FF1660,10
+6=Napalm II,FF1660,14
+7=Bulpup,FF1660,1C
+8=Bulpup II,FF1660,20
+9=Thunder Laser,FF1660,24
+10=Thunder Laser II,FF1660,28
+11=Round Laser,FF1660,2C
+12=Super Shell,FF1660,34
+13=Super Shell II,FF1660,38
+14=Gunpod,FF1660,3C
+15=Bigboy,FF1660,40
+16=16Way,FF1660,44
+Default=0
+
+[18]
+Name=End Stage*
+0=Disabled
+1=Enabled,FF10D8,01
+Default=0
+
+[19]
+Name=Stage Select
+0=Disabled
+1=Stage 1,FF10D9,00
+2=Stage 2,FF10D9,01
+3=Stage 3,FF10D9,02
+4=Stage 4,FF10D9,03
+5=Stage 5,FF10D9,04
+6=Stage 6,FF10D9,05
+7=Stage 7,FF10D9,06
+8=Stage 8,FF10D9,07
+9=Stage 9,FF10D9,08
+10=Stage 10,FF10D9,09
+11=Special Stage,FF10D9,0A
+Default=0
+

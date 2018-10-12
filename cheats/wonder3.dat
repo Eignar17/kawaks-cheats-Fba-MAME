@@ -1,0 +1,244 @@
+[0]
+Name=Infinite Credits
+0=Disabled
+1=Enabled,FF0D58,09
+Default=0
+
+[1]
+Name=P1 Inf Lives*
+0=Disabled
+1=Enabled,FF0DE6,03
+Default=0
+
+[2]
+Name=P2 Inf Lives*
+0=Disabled
+1=Enabled,FF0DE9,03
+Default=0
+
+[3]
+Name=Midnight Warriors - Infinite Time
+0=Disabled
+1=Enabled,FF1010,09
+Default=0
+
+[4]
+Name=Midnight Warriors - P1 Invincible
+0=Disabled
+1=Enabled,FF1839,B4,FF17BB,80
+Default=0
+
+[5]
+Name=Midnight Warriors - P1 Inf Super Bomb Ammo
+0=Disabled
+1=Enabled,FF0E37,FF
+Default=0
+
+[6]
+Name=Midnight Warriors - P1 1 Heart = Extra Life
+0=Disabled
+1=Enabled,FF0E16,63,FF0E18,64
+Default=0
+
+[7]
+Name=Midnight Warriors - P1 Weapon
+0=Disabled
+1=Normal,FF0E15,01
+2=Hyper Shot,FF0E15,02
+3=Tail Shot,FF0E15,03
+4=Bound Shot,FF0E15,04
+5=Super Bomb,FF0E15,00
+Default=0
+
+[8]
+Name=Midnight Warriors - P1 Option
+0=Disabled
+1=Flames,FF0DE2,01
+2=Circular,FF0DE2,02
+Default=0
+
+[9]
+Name=Midnight Warriors - P2 Invincible
+0=Disabled
+1=Enabled,FF18D9,B4,FF185B,80
+Default=0
+
+[10]
+Name=Midnight Warriors - P2 Inf Super Bomb Ammo
+0=Disabled
+1=Enabled,FF0E39,FF
+Default=0
+
+[11]
+Name=Midnight Warriors - P2 1 Heart = Extra Life
+0=Disabled
+1=Enabled,FF0E1A,63,FF0E1C,64
+Default=0
+
+[12]
+Name=Midnight Warriors - P2 Weapon
+0=Disabled
+1=Normal,FF0E14,01
+2=Hyper Shot,FF0E14,02
+3=Tail Shot,FF0E14,03
+4=Bound Shot,FF0E14,04
+5=Super Bomb,FF0E14,00
+Default=0
+
+[13]
+Name=Midnight Warriors - P2 Option
+0=Disabled
+1=Flames,FF0DE4,01
+2=Circular,FF0DE4,02
+Default=0
+
+[14]
+Name=Midnight Warriors - Stage Select
+0=Disabled
+1=Stage 1,FF0DC8,00
+2=Stage 2,FF0DC8,01
+3=Stage 3,FF0DC8,02
+4=Stage 4,FF0DC8,03
+5=Stage 5,FF0DC8,04
+Default=0
+
+[15]
+Name=Chariot - Unlimited Boss Time
+0=Disabled
+1=Enabled,FF1003,27,FF1002,0F
+Default=0
+
+[16]
+Name=Chariot - P1 Invincible
+0=Disabled
+1=Enabled,FF1839,B4,FF17BB,80
+Default=0
+
+[17]
+Name=Chariot - P1 Max Options
+0=Disabled
+1=Enabled,FF183A,06,FF183C,07
+Default=0
+
+[18]
+Name=Chariot - P1 Max Fire Power
+0=Disabled
+1=Enabled,FF1844,04,FF1846,04
+Default=0
+
+[19]
+Name=Chariot - P1 Max Bomb Power
+0=Disabled
+1=Enabled,FF1843,02
+Default=0
+
+[20]
+Name=Chariot - P1 Protection
+0=Disabled
+1=Enabled,FF183F,01
+Default=0
+
+[21]
+Name=Chariot - P1 1 Heart = Extra Life*
+0=Disabled
+1=Enabled,FF184C,59,FF184D,5A
+Default=0
+
+[22]
+Name=Chariot - P1 Fire
+0=Disabled
+1=Rapid Shot,FF183E,01
+2=Wide Shot,FF183E,02
+Default=0
+
+[23]
+Name=Chariot - P2 Invincible
+0=Disabled
+1=Enabled,FF18D9,B4,FF185B,80
+Default=0
+
+[24]
+Name=Chariot - P2 Max Options
+0=Disabled
+1=Enabled,FF18DA,06,FF18DC,07
+Default=0
+
+[25]
+Name=Chariot - P2 Max Fire Power
+0=Disabled
+1=Enabled,FF18E4,04,FF18E6,04
+Default=0
+
+[26]
+Name=Chariot - P2 Max Bomb Power
+0=Disabled
+1=Enabled,FF18E3,02
+Default=0
+
+[27]
+Name=Chariot - P2 Protection
+0=Disabled
+1=Enabled,FF18DF,01
+Default=0
+
+[28]
+Name=Chariot - P2 1 Heart = Extra Life*
+0=Disabled
+1=Enabled,FF18EC,59,FF18ED,5A
+Default=0
+
+[29]
+Name=Chariot - P2 Fire
+0=Disabled
+1=Rapid Shot,FF18DE,01
+2=Wide Shot,FF18DE,02
+Default=0
+
+[30]
+Name=Chariot - Stage Select
+0=Disabled
+1=Stage 1,FF0DC8,00
+2=Stage 2,FF0DC8,01
+3=Stage 3,FF0DC8,02
+4=Stage 4,FF0DC8,03
+5=Stage 5,FF0DC8,04
+6=Stage 6,FF0DC8,05
+7=Stage 7,FF0DC8,06
+Default=0
+
+[31]
+Name=Don't Pull - Skip Rounds
+0=Disabled
+1=Enabled,FF104B,00
+Default=0
+
+[32]
+Name=Don't Pull - Fruit = 100000
+0=Disabled
+1=Enabled,FF0EC2,2C
+Default=0
+
+[33]
+Name=Don't Pull - P1 Invincible
+0=Disabled
+1=Enabled,FF17D3,01,FF17D2,2C
+Default=0
+
+[34]
+Name=Don't Pull - P1 1 Fruit = Extra Life
+0=Disabled
+1=Enabled,FF0EBD,62,FF0EBF,63
+Default=0
+
+[35]
+Name=Don't Pull - P2 Invincible
+0=Disabled
+1=Enabled,FF1873,01,FF1872,2C
+Default=0
+
+[36]
+Name=Don't Pull - P2 1 Fruit = Extra Life
+0=Disabled
+1=Enabled,FF0EBC,62,FF0EBE,63
+Default=0
+

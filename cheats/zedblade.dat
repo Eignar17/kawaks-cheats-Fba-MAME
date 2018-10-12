@@ -1,0 +1,67 @@
+[0]
+Name=Infinite Lives
+0=Off,0,0
+1=P1 On,100228,63
+
+[1]
+Name=Infinite Bomber
+0=Off,0,0
+1=P1 Normal,10022E,09,10021C,00
+2=P1 Hyper,10022E,09,10021C,01
+
+[2]
+Name=Invulnerabirity
+0=Off,0,0
+1=P1 On,10022C,30
+
+[3]
+Name=P1 (P) Level
+0=Off,0,0
+1=Level 0,100260,00
+2=Level 1,100260,01
+3=Level 2,100260,02
+4=Level 3,100260,03
+
+[4]
+Name=P1 (M) Level
+0=Off,0,0
+1=Level 0,100264,00
+2=Level 1,100264,01
+3=Level 2,100264,02
+4=Level 3,100264,03
+
+[5]
+Name=P1 (R) Level
+0=Off,0,0
+1=Level 0,100268,00
+2=Level 1,100268,01
+3=Level 2,100268,02
+4=Level 3,100268,03
+
+[6]
+Name=P1 Speed Level
+0=Off,0,0
+1=Low,100218,00
+2=Middle,100218,01
+3=High,100218,02
+
+[7]
+Name=P1 (P) Type
+0=Off,0,0
+1=3WAY,100262,00
+2=WAVE,100262,01
+3=VERTICAL,100262,02
+
+[8]
+Name=P1 (M) Type
+0=Off,0,0
+1=HOMING,0,00
+2=A.S.,0,01
+3=A.A.,0,02
+
+[9]
+Name=P1 (R) Type
+0=Off,0,0
+1=2WAY,0,00
+2=WAVE,0,01
+3=TWIN,0,02

@@ -1,0 +1,125 @@
+[0]
+Name=Infinite Credits
+0=Disabled
+1=Enabled,FF82A3,09
+Default=0
+
+[1]
+Name=Infinite Time
+0=Disabled
+1=Enabled,FF83C6,99,FF83C7,99
+Default=0
+
+[2]
+Name=Infinite Lives
+0=Disabled
+1=Enabled,FF8343,0A
+Default=0
+
+[3]
+Name=Infinite Energy
+0=Disabled
+1=Enabled,FF8362,06,FF8363,06
+Default=0
+
+[4]
+Name=Infinite Money
+0=Disabled
+1=Enabled,FF8368,99,FF836A,99,FF836B,99
+Default=0
+
+[5]
+Name=Infinite Rings
+0=Disabled
+1=Enabled,FF835B,02
+Default=0
+
+[6]
+Name=Infinite Pendants
+0=Disabled
+1=Enabled,FF835D,01
+Default=0
+
+[7]
+Name=Infinite Bracelets
+0=Disabled
+1=Enabled,FF835C,03
+Default=0
+
+[8]
+Name=Invulnerable
+0=Disabled
+1=On (Damage Type),FF987C,FF
+2=On (System Type),FF9896,FF
+Default=0
+
+[9]
+Name=Shot Count Limit
+0=Disabled
+1=No Shot Count Limit,FFF99C,00
+2=No Shot Count Limit + Quick Shot,FFF99C,00,FF9893,00
+Default=0
+
+[10]
+Name=Autofire Sword Attack
+0=Disabled
+1=Enabled,FFC786,01,FFC787,01
+Default=0
+
+[11]
+Name=Gauge Level
+0=Disabled
+1=Nothing,FF8376,00,FF8377,00
+2=Ultimate,FF8376,01,FF8377,8F
+Default=0
+
+[12]
+Name=Char Select
+0=Disabled
+1=Willow,FF9867,00
+2=Madmartigan,FF9867,04
+Default=0
+
+[13]
+Name=Willow Magic
+0=Disabled
+1=Nothing,FF8367,00
+2=Moon Shot,FF8367,01
+3=Tyfoon,FF8367,02
+4=Change Gold,FF8367,03
+5=Time Stop,FF8367,04
+6=Explosion,FF8367,05
+7=Barrier,FF8367,06
+Default=0
+
+[14]
+Name=Magic Type
+0=Disabled
+1=Type 1,FF8376,E4,FF8377,29
+2=Type 2,FF8376,C0,FF8377,5F
+3=Type 3,FF8376,AE,FF8377,7A
+4=Type 4,FF8376,17,FF8377,9D
+5=Type 5,FF8376,8E,FF8377,AA
+Default=0
+
+[15]
+Name=Madmartigan Sword
+0=Disabled
+1=Level 1,FF8366,00
+2=Level 2,FF8366,01
+3=Level 3,FF8366,02
+4=Level 4,FF8366,03
+5=Level 5,FF8366,04
+Default=0
+
+[16]
+Name=Stage Select
+0=Disabled
+1=Stage 1,FF8344,00
+2=Stage 2,FF8344,01
+3=Stage 3,FF8344,02
+4=Stage 4,FF8344,03
+5=Stage 5,FF8344,04
+6=Stage 6,FF8344,05
+Default=0
+

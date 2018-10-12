@@ -1,0 +1,433 @@
+cheats snk vs capcom
+
+
+[0]
+Name=Mai's ( .)(. ) !!!
+0=Normal,0,0
+1=Bouncy,10AC23,00
+2=Off,10AC23,01
+
+[1]
+Name=PLUS Text
+0=Blinking,0,0
+1=Always Off,10fff0,19
+2=Always On,10fff0,00
+Default=1
+
+[2]
+Name=Infinite Select Time
+0=Off,0,0
+1=On,10cd6d,63
+
+[3]
+Name=Infinite Battle Time
+0=Off,0,0
+1=On,101033,59,10ac15,59
+
+[4]
+Name=P1 Health
+0=Off,0,0
+1=Full,101b38,E0,10a238,E0
+2=Half,101b38,70,10a238,70
+3=Empty,101b38,00,10a238,00
+
+[5]
+Name=P1 Power Gauge
+0=Off,0,0
+1=Level 0,10a1e9,00
+2=Level 1,10a1e9,21
+3=Level 2,10a1e9,42
+4=Maximum,10a1e9,63
+
+[6]
+Name=P1 Guard Limit
+0=Off,0,0
+1=Infinity,10a246,70
+2=None,10a246,00
+
+[7]
+Name=P1 Infinite Exceed
+0=Off,0,0
+1=On,1000a5,01
+
+[8]
+Name=P1 Pallete
+0=Off,0,0
+1=Color 1,10ac2d,00
+2=Color 2,10ac2d,01
+
+[9]
+Name=P1 Char
+0=Off,0,0
+1=Kyo,10ac31,00,10ac29,00,101352,00
+2=Iori,10ac31,01,10ac29,01,101352,01
+3=Ryo,10ac31,02,10ac29,02,101352,02
+4=Terry,10ac31,03,10ac29,03,101352,03
+5=Mai,10ac31,04,10ac29,04,101352,04
+6=Kasumi,10ac31,05,10ac29,05,101352,05
+7=Kim,10ac31,06,10ac29,06,101352,06
+8=Mr. Karate,10ac31,07,10ac29,07,101352,07
+9=Choi,10ac31,08,10ac29,08,101352,08
+10=Earthquake,10ac31,09,10ac29,09,101352,09
+11=Genjyuro,10ac31,0a,10ac29,0a,101352,0A
+12=Shiki,10ac31,0b,10ac29,0b,101352,0B
+13=Ryu,10ac31,10,10ac29,10,101352,10
+14=Ken,10ac31,11,10ac29,11,101352,11
+15=Chun-li,10ac31,12,10ac29,12,101352,12
+16=Guile,10ac31,13,10ac29,13,101352,13
+17=Dhalsim,10ac31,14,10ac29,14,101352,14
+18=Balrog,10ac31,15,10ac29,15,101352,15
+19=Vega,10ac31,16,10ac29,16,101352,16
+20=Sagat,10ac31,17,10ac29,17,101352,17
+21=M Bison,10ac31,18,10ac29,18,101352,18
+22=Akuma,10ac31,19,10ac29,19,101352,19
+23=Hugo,10ac31,1A,10ac29,1A,101352,1A
+24=Tabasa,10ac31,1B,10ac29,1B,101352,1B
+25=Geese,10ac31,0c,10ac29,0c,101352,0C
+26=Mars People,10ac31,0d,10ac29,0d,101352,0D
+27=Goenitz,10ac31,0e,10ac29,0e,101352,0E
+28=Orochi Iori,10ac31,20,10ac29,20,101352,20
+29=Zero,10ac31,1C,10ac29,1C,101352,1C
+30=Demitri,10ac31,1D,10ac29,1D,101352,1D
+31=Dan,10ac31,1E,10ac29,1E,101352,1E
+32=Violent Ken,10ac31,22,10ac29,22,101352,22
+33=Shin Mr. Karate,10ac31,21,10ac29,21,101352,21
+34=Shin Akuma,10ac31,23,10ac29,23,101352,23
+35=Athena,10ac31,0f,10ac29,0f,101352,0F
+36=Red Arremer,10ac31,1F,10ac29,1F,101352,1F
+
+[10]
+Name=P2 Health
+0=Off,0,0
+1=Full,1013b8,E0,10a4b8,E0
+2=Half,1013b8,70,10a4b8,70
+3=Empty,1013b8,00,10a4b8,00
+
+[11]
+Name=P2 Power Gauge
+0=Off,0,0
+1=Level 0,10a469,00
+2=Level 1,10a469,21
+3=Level 2,10a469,42
+4=Maximum,10a469,63
+
+[12]
+Name=P2 Guard Limit
+0=Off,0,0
+1=Infinity,10a4c6,70
+2=None,10a4c6,00
+
+[13]
+Name=P2 Infinite Exceed
+0=Off,0,0
+1=On,1000a4,01
+
+[14]
+Name=P2 Pallete
+0=Off,0,0
+1=Color 1,10ac51,00
+2=Color 2,10ac51,01
+
+[15]
+Name=P2 Char
+0=Off,0,0
+1=Kyo,10ac4d,00,10ac55,00,1015d2,00
+2=Iori,10ac4d,01,10ac55,01,1015d2,01
+3=Ryo,10ac4d,02,10ac55,02,1015d2,02
+4=Terry,10ac4d,03,10ac55,03,1015d2,03
+5=Mai,10ac4d,04,10ac55,04,1015d2,04
+6=Kasumi,10ac4d,05,10ac55,05,1015d2,05
+7=Kim,10ac4d,06,10ac55,06,1015d2,06
+8=Mr. Karate,10ac4d,07,10ac55,07,1015d2,07
+9=Choi,10ac4d,08,10ac55,08,1015d2,08
+10=Earthquake,10ac4d,09,10ac55,09,1015d2,09
+11=Genjyuro,10ac4d,0a,10ac55,0a,1015d2,0A
+12=Shiki,10ac4d,0b,10ac55,0b,1015d2,0B
+13=Ryu,10ac4d,10,10ac55,10,1015d2,10
+14=Ken,10ac4d,11,10ac55,11,1015d2,11
+15=Chun-li,10ac4d,12,10ac55,12,1015d2,12
+16=Guile,10ac4d,13,10ac55,13,1015d2,13
+17=Dhalsim,10ac4d,14,10ac55,14,1015d2,14
+18=Balrog,10ac4d,15,10ac55,15,1015d2,15
+19=Vega,10ac4d,16,10ac55,16,1015d2,16
+20=Sagat,10ac4d,17,10ac55,17,1015d2,17
+21=M Bison,10ac4d,18,10ac55,18,1015d2,18
+22=Akuma,10ac4d,19,10ac55,19,1015d2,19
+23=Hugo,10ac4d,1A,10ac55,1A,1015d2,1A
+24=Tabasa,10ac4d,1B,10ac55,1B,1015d2,1B
+25=Geese,10ac4d,0c,10ac55,0c,1015d2,0C
+26=Mars People,10ac4d,0d,10ac55,0d,1015d2,0D
+27=Goenitz,10ac4d,0e,10ac55,0e,1015d2,0E
+28=Orochi Iori,10ac4d,20,10ac55,20,1015d2,20
+29=Zero,10ac4d,1C,10ac55,1C,1015d2,1C
+30=Demitri,10ac4d,1D,10ac55,1D,1015d2,1D
+31=Dan,10ac4d,1E,10ac55,1E,1015d2,1E
+32=Violent Ken,10ac4d,22,10ac55,22,1015d2,22
+33=Shin Mr. Karate,10ac4d,21,10ac55,21,1015d2,21
+34=Shin Akuma,10ac4d,23,10ac55,23,1015d2,23
+35=Athena,10ac4d,0f,10ac55,0f,1015d2,0F
+36=Red Arremer,10ac4d,1F,10ac55,1F,1015d2,1F
+
+[16]
+Name=Stage Select
+0=Off,0,0
+1=Stage 1,10cda6,00,10abdc,00
+2=Stage 2,10cda6,01,10abdc,01
+3=Stage 3,10cda6,02,10abdc,02
+4=Stage 4,10cda6,03,10abdc,03
+5=Stage 5,10cda6,04,10abdc,04
+6=Stage 6,10cda6,05,10abdc,05
+7=Mid Boss,10cda6,06,10abdc,06
+8=Boss,10cda6,07,10abdc,07
+9=Secret Boss,10cda6,08,10abdc,08
+
+[17]
+Name=4th Battle
+0=Normal,0,0
+1=Dan / Goenitz,10ac42,00
+2=Demitri / Geese,10ac42,01
+3=Mars People / Zero,10ac42,03
+
+[18]
+Name=8th Battle
+0=Normal,0,0
+1=None,10cde9,ff
+2=Red Arremer,10cde9,1f
+3=Athena,10cde9,0f
+
+[19]
+Name=Background Select
+0=Off,0,0
+1=Factory abandoned,10abdd,00
+2=Station obsolete,10abdd,01
+3=Nude place,10abdd,02
+4=Green of forest,10abdd,03
+5=Crystal shrine,10abdd,04
+6=Power generation room,10abdd,05
+7=Guardian - Dogs Temple,10abdd,06
+8=Athena's holy world,10abdd,07
+9=The village in the maniac world,10abdd,08
+
+[20]
+Name=Game Mode
+0=Normal,0,0
+1=1 Point,10fd8e,00
+2=2 Points,10fd8e,01
+3=3 Points,10fd8e,02
+
+[21]
+Name=Blood / Flash
+0=Normal,0,0
+1=Off/Off,10FD90,00
+2=On/Off,10FD90,01
+3=Off/On,10FD90,02
+4=On/On,10FD90,03
+
+[22]
+Name=Game Level
+0=Off,0,0
+1=Level 1,10fd8c,00
+2=Level 2,10fd8c,01
+3=Level 3,10fd8c,02
+4=Level 4,10fd8c,03
+5=Level 5,10fd8c,04
+6=Level 6,10fd8c,05
+7=Level 7,10fd8c,06
+8=Level 8,10fd8c,07
+
+[23]
+Name=If a Cheat Does not work
+0=Try to reset the game,0,0
+
+=================================================
+
+Samurai Shodown V (special) - cheat.dat
+---------------------------------------
+...sorry but the 4 last voices are in cinese
+tis cheat.dat downloaded from a cinese site !!! :-?
+---------------------------------------
+[0]
+Name=P1 Health Gauge
+0=OFF,0,0
+1=ON,108444,7D
+2=Death,108444,00
+Default=0
+
+[1]
+Name=P2 Health Gauge
+0=OFF,0,0
+1=ON,108654,7D
+2=Death,108654,00
+Default=0
+
+[2]
+Name=Infinite Time Limit
+0=OFF,0,0
+1=ON,10836B,60
+2=Over,10836B,00
+Default=0
+
+[3]
+Name=P1 Character Select
+0=OFF,0,0
+1=*AMAKUSA,108323,0B
+2=*MIZUKI,108323,1B
+3=*ZANKURO,108323,0D
+4=*GAOH,108323,1A
+5=HAOH MARU,108323,00
+6=NAKO RURU,108323,01
+7=RIMU RURU,108323,02
+8=HANZO,108323,03
+9=GALFORD,108323,04
+10=KYOSHIRO,108323,05
+11=UKYO,108323,06
+12=GENJURO,108323,07
+13=BASARA,108323,08
+14=SHIZUMARU,108323,09
+15=GAIRA,108323,0A
+16=JUBEI,108323,0C
+17=CHARLOTTE,108323,0E
+18=TAM TAM,108323,0F
+19=KAZUKI,108323,10
+20=SOGETSU,108323,11
+21=RASETSUMARU,108323,12
+22=RERA,108323,13
+23=ENJA,108323,14
+24=SUIJA,108323,15
+25=YOSHITORA,108323,16
+26=YUNFEI,108323,17
+27=MINA,108323,18
+28=KUSAREGEDO,108323,19
+Default=0
+
+[4]
+Name=P2 Character Select
+0=OFF,0,0
+1=*AMAKUSA,108322,0B
+2=*MIZUKI,108322,1B
+3=*ZANKURO,108322,0D
+4=*GAOH,108322,1A
+5=HAOH MARU,108322,00
+6=NAKO RURU,108322,01
+7=RIMU RURU,108322,02
+8=HANZO,108322,03
+9=GALFORD,108322,04
+10=KYOSHIRO,108322,05
+11=UKYO,108322,06
+12=GENJURO,108322,07
+13=BASARA,108322,08
+14=SHIZUMARU,108322,09
+15=GAIRA,108322,0A
+16=JUBEI,108322,0C
+17=CHARLOTTE,108322,0E
+18=TAM TAM,108322,0F
+19=KAZUKI,108322,10
+20=SOGETSU,108322,11
+21=RASETSUMARU,108322,12
+22=RERA,108322,13
+23=ENJA,108322,14
+24=SUIJA,108322,15
+25=YOSHITORA,108322,16
+26=YUNFEI,108322,17
+27=MINA,108322,18
+28=KUSAREGEDO,108322,19
+Default=0
+
+[5]
+Name=P1 Sword Value BJ_!
+0=OFF,0,0
+1=ON,1085F9,78
+Default=0
+
+[6]
+Name=P1 Power Gauge
+0=OFF,0,0
+1=Max,10844F,40
+Default=0
+
+[7]
+Name=P1 Power Value BJ
+0=OFF,0,0
+1=Full,108555,82
+Default=0
+
+[8]
+Name=P1 Zero Condition
+0=OFF,0,0
+1=ON,1085FF,7C
+Default=1
+
+[9]
+Name=P2 Sword Value BJ_!
+0=OFF,0,0
+1=ON,108809,78
+Default=0
+
+[10]
+Name=P2 Power Gauge
+0=OFF,0,0
+1=Max,10865F,40
+Default=0
+
+[11]
+Name=P2 Power Value BJ
+0=OFF,0,0
+1=Full,108765,82
+Default=1
+
+[12]
+Name=P2 Zero Condition
+0=OFF,0,0
+1=ON,10880F,7C
+Default=1
+
+[13]
+Name=Select Scene
+0=OFF,0,0
+1=????-????,108B4C,00
+2=????-???,108B4C,01
+3=????-????,108B4C,02
+4=????-???,108B4C,03
+5=??????-????,108B4C,04
+6=??????-???,108B4C,05
+7=?????,108B4C,08
+8=????,108B4C,09
+9=???????,108B4C,0A
+10=??????,108B4C,0B
+11=???????,108B4C,0C
+12=??????,108B4C,0D
+13=?????,108B4C,0E
+14=???,108B4C,12
+15=????,108B4C,13
+16=????(??),108B4C,11
+17=Black Stage,108B4C,06
+Default=0
+
+[14]
+Name=??????????
+0=OFF,0,0
+1=ON,10E010,02
+2=OFF,10E010,00
+Default=1
+
+[15]
+Name=?o????W/?l??o?????
+0=OFF,0,0
+1=P1 ??W,108600,EC,108603,01
+2=P2 ??W,108810,EC,108813,01
+3=P1 & P2 ??W,108600,EC,108603,01,108810,EC,108813,01
+4=P1 ?o??,108603,00
+5=P2 ?o??,108813,00
+6=P1 & P2 ?o??,108603,00,108813,00
+Default=0
+
+[16]
+Name=--Special Skill MAX--
+0=OFF,0,0
+1=?´? ???7,10860A,3F,10881A,3F
+2=????????MAX,108539,03,108749,03
+3=???w ?o????? & ??????,10860D,00,10881D,00,10860B,01,10881B,01
+4=???R?? ???O?? & ?o?????,108608,03,108818,03,109474,01,109478,01
+5=*?????? ??????C???????,109345,05,1093C5,05
+6=ALL for P1,10860A,3F,108539,03,10860D,00,10860B,01,108608,03,109474,01
+Default=6

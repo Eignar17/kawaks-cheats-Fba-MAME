@@ -1,0 +1,476 @@
+[0]
+Name=Region
+0=Disabled
+1=Japan,FF4BF6,00
+2=USA,FF4BF6,02
+3=Euro,FF4BF6,04
+4=Asia,FF4BF6,06
+5=Hispanic,FF4BF6,08
+6=Brazil,FF4BF6,0A
+Default=0
+
+[1]
+Name=Infinite Battle Time
+0=Disabled
+1=Enabled,FF4808,63
+Default=0
+
+[2]
+Name=P1 Inf Health
+0=Disabled
+1=Enabled,FF4190,8F
+Default=0
+
+[3]
+Name=P1 Inf Power
+0=Disabled
+1=Enabled,FF4194,8E
+Default=0
+
+[4]
+Name=P1 No Faint
+0=Disabled
+1=Enabled,FF40FC,00
+Default=0
+
+[5]
+Name=P1 Action Speed Up
+0=Disabled
+1=Enabled,FF403E,01
+Default=0
+
+[6]
+Name=P1 Controller Mode
+0=Disabled
+1=User Play,FF4002,01
+2=Computer Play,FF4002,00
+Default=0
+
+[7]
+Name=P1 Char Select
+0=Disabled
+1=Akuma,FF4901,0C
+2=Colossus,FF4901,06
+3=Cyclops,FF4901,01
+4=Iceman,FF4901,05
+5=Juggernaut,FF4901,0A
+6=Magneto,FF4901,0B
+7=Omega Red,FF4901,03
+8=Psylocke,FF4901,07
+9=Sentinel,FF4901,04
+10=Silver Samurai,FF4901,08
+11=Spiral,FF4901,09
+12=Storm,FF4901,00
+13=Wolverine,FF4901,02
+Default=0
+
+[8]
+Name=P1 Colossus - Super Armour
+0=Disabled
+1=Always,FF4323,01,FF4320,A0,FF4321,01
+2=Never,FF4323,00,FF4320,01,FF4321,00
+Default=0
+
+[9]
+Name=P1 Cyclops & Psylocke - Infinite Double Jump
+0=Disabled
+1=Enabled,FF4307,00
+Default=0
+
+[10]
+Name=P1 Magneto & Sentinel & Storm - Flying
+0=Disabled
+1=Infinite Time,FF40DA,85,FF40DB,03
+2=Quick Finish,FF40DA,01,FF40DB,00
+Default=0
+
+[11]
+Name=P1 Sentinel - Plasma Storm Level
+0=Disabled
+1=Level 1,FF4309,00
+2=Level 2,FF4309,01
+3=Level 3,FF4309,02
+4=Level 4,FF4309,03
+5=Level Max,FF4309,04
+Default=0
+
+[12]
+Name=P1 Sentinel - Endless Plasma Storm Time
+0=Disabled
+1=Enabled,FF400A,00
+Default=0
+
+[13]
+Name=P1 Silver Samurai - Shadow
+0=Disabled
+1=Infinite Time,FF4304,FF,FF4305,01
+2=Force End,FF4304,01,FF4305,00,FF4303,00
+Default=0
+
+[14]
+Name=P1 Silver Samurai - Sword
+0=Disabled
+1=Normal Sword,FF430A,00,FF4308,00,FF4309,00
+2=Thunder Sword,FF430A,01,FF4308,FF,FF4309,02
+3=Ice Sword,FF430A,02,FF4308,FF,FF4309,02
+4=Flame Sword,FF430A,03,FF4308,FF,FF4309,02
+Default=0
+
+[15]
+Name=P1 Spiral - Power Dance
+0=Disabled
+1=Always,FF4108,06,FF4109,0A
+2=Never,FF4108,00,FF4109,00
+Default=0
+
+[16]
+Name=P1 Spiral - Speed Dance
+0=Disabled
+1=Always,FF40D9,01,FF431A,52,FF431B,02
+2=Never,FF40D9,00
+Default=0
+
+[17]
+Name=P1 Spiral - Dimensional Dance
+0=Disabled
+1=Always,FF4047,00
+2=Never,FF4047,C0
+Default=0
+
+[18]
+Name=P1 Spiral - Metamorphosis
+0=Disabled
+1=Always,FF4308,01,FF430A,58,FF430B,02
+2=Never,FF4308,00,FF4300,58,FF430B,00
+Default=0
+
+[19]
+Name=P1 Wolverine - Berserker Charge
+0=Disabled
+1=Always,FF40D9,01,FF4300,57,FF4301,02
+2=Never,FF40D9,00,FF4300,01,FF4301,00
+Default=0
+
+[20]
+Name=P1 Easy Super Jump
+0=Disabled
+1=Enabled,FF41F9,04,FF41F8,04
+Default=0
+
+[21]
+Name=P1 Easy Dash
+0=Disabled
+1=Forward Dash,FF41F1,04,FF41F0,04,FF41F4,02
+2=Backward Dash,FF41F1,04,FF41F0,04,FF41F4,01
+Default=0
+
+[22]
+Name=P1 Easy Moves
+0=Disabled
+1=Akuma - Ashura Senkuu 1 & Ashura Senkuu 3,FF4221,06,FF4220,06,FF4231,06,FF4230,06
+2=Akuma - Ashura Senkuu 1 & Ashura Senkuu 4,FF4221,06,FF4220,06,FF4239,06,FF4238,06
+3=Akuma - Ashura Senkuu 2 & Ashura Senkuu 3,FF4229,06,FF4228,06,FF4231,06,FF4230,06
+4=Akuma - Ashura Senkuu 2 & Ashura Senkuu 4,FF4229,06,FF4228,06,FF4239,06,FF4238,06
+5=Akuma - Gou Shoryuu Ken & Tatsumaki Zankuu Kyaku,FF4201,06,FF4200,06,FF4209,06,FF4208,06
+6=Akuma - Gou Hadou Ken & Tatsumaki Zankuu Kyaku,FF4211,06,FF4210,06,FF4209,06,FF4208,06
+7=Akuma - Shakunetsu Hadou Ken & Tatsumaki Zankuu Kyaku,FF4219,0A,FF4218,0A,FF4209,06,FF4208,06
+8=Akuma - Tatsumaki Zankuu Kyaku & Alpha Counter XS,FF4369,06,FF4368,06,FF4209,06,FF4208,06
+9=Akuma - Gou Shoryuu Ken & Tenma Kuujin Kyaku XS,FF4201,06,FF4200,06,FF4361,06,FF4360,06
+10=Akuma - Gou Hadou Ken & Tenma Kuujin Kyaku XS,FF4211,06,FF4210,06,FF4361,06,FF4360,06
+11=Akuma - Shakunetsu Hadou Ken & Tenma Kuujin Kyaku XS,FF4219,0A,FF4218,0A,000007,00
+12=Akuma - Alpha Counter XS & Tenma Kuujin Kyaku XS,FF4369,06,FF4368,06,FF4361,06,FF4360,06
+13=Colossus - Giant Swing & Power Tackle & Super Armor XS,FF4219,06,FF4218,06,FF4201,06,FF4200,06,FF4211,06,FF4210,06
+14=Colossus - Flying Knee & Power Tackle & Super Armor XS,FF4221,04,FF4220,04,FF4201,06,FF4200,06,FF4211,06,FF4210,06
+15=Cyclops - Rising Uppercut,FF4209,06,FF4208,06
+16=Cyclops - Rapid Punch,FF4211,06,FF4210,06
+17=Cyclops - Optic Blast,FF4219,06,FF4218,06
+18=Cyclops - Running Neckbreaker Drop,FF4221,06,FF4220,06
+19=Iceman - Ice Beam & Fist XS,FF4211,06,FF4210,06,FF4229,06,FF4228,06
+20=Juggernaut - Chohatsu,FF4201,06,FF4200,06
+21=Juggernaut - Double Fist Punch,FF4209,06,FF4208,06
+22=Juggernaut - Earthquake Punch,FF4219,06,FF4218,06
+23=Juggernaut - Cyttorak Powerup XS,FF4229,06,FF4228,06
+24=Juggernaut - Pick Up & Drop Girder,FF4221,06,FF4220,06,FF4231,06,FF4230,06
+25=Magneto - EM Shock & Hyper Gravitation & Chohatsu & Magnetic Tempest & Force Field XS,FF4219,06,FF4218,06,FF4211,06,FF4210,06,FF4221,06,FF4220,06,FF4229,06,FF4228,06,FF4209,06,FF4208,06
+26=Magneto - EM Shock & Hyper Gravitation & Chohatsu & Magnetic Tempest & Background Change,FF4219,06,FF4218,06,FF4211,06,FF4210,06,FF4221,06,FF4220,06,FF4229,06,FF4228,06,FF4239,06,FF4238,06
+27=Magneto - EM Shock & Hyper Gravitation & Chohatsu & Hikou XS & Magnetic Force Field XS,FF4219,06,FF4218,06,FF4211,06,FF4210,06,FF4221,06,FF4220,06,FF4231,06,FF4230,06,FF4209,06,FF4208,06
+28=Magneto - EM Shock & Hyper Gravitation & Chohatsu & Background Change & Hikou XS,FF4219,06,FF4218,06,FF4211,06,FF4210,06,FF4221,06,FF4220,06,FF4231,06,FF4230,06,FF4239,06,FF4238,06
+29=Omega Red - Air & Carbonadium Coil,FF4201,06,FF4200,06,FF4209,06,FF4208,06
+30=Omega Red - Carbonadium Coil & Omega Strike,FF4201,06,FF4200,06,FF4211,06,FF4210,06
+31=Omega Red - Chohatsu & Air Carbonadium Coil,FF4221,08,FF4220,08,FF4209,06,FF4208,06
+32=Omega Red - Chohatsu & Omega Strike,FF4221,08,FF4220,08,FF4211,06,FF4210,06
+33=Psylocke - Psi-Blast & Psi-Blade Spin,FF4201,06,FF4200,06,FF4209,06,FF4208,06
+34=Psylocke - Ninjitsu Split XS,FF4221,06,FF4220,06
+35=Sentinel - Rocket Punch & Sentinel Force & Hikou XS,FF4209,06,FF4208,06,FF4211,06,FF4210,06
+36=Sentinel - Sentinel Force & Hikou XS,FF4211,06,FF4210,06,FF4221,06,FF4220,06
+37=Silver Samurai - Shuriken & Bushin XS & Samurai Teleport XS,FF4201,06,FF4200,06,FF431B,06,FF431A,06,FF4221,06,FF4220,06
+38=Silver Samurai - Hyakuretsu Tou & Bushin XS & Samurai Teleport XS,FF4323,06,FF4322,06,FF431B,06,FF431A,06,FF4221,06,FF4220,06
+39=Silver Samurai - Touki XS & Bushin XS & Samurai Teleport XS,FF4229,06,FF4228,06,FF431B,06,FF431A,06,FF4221,06,FF4220,06
+40=Spiral - Dancing Sword & Tsurugi Tobashi,FF4211,06,FF4210,06,FF4219,06,FF4218,06
+41=Spiral - Six-Hand Grapple,FF4229,06,FF4228,06
+42=Spiral - Dances XS,FF4201,06,FF4200,06
+43=Storm - Whirlwind & Quick Recovery & Cyclone XS,FF4201,06,FF4200,06,FF4211,06,FF4210,06,FF4315,06,FF4314,06
+44=Storm - Quick Recovery & Hikou XS & Cyclone XS,FF4211,06,FF4210,06,FF4229,06,FF4228,06,FF4315,06,FF4314,06
+45=Wolverine - Tornado Claw & Berserker Charge XS & Healing Factor XS,FF4201,06,FF4200,06,FF4211,06,FF4210,06,FF4219,06,FF4218,06
+46=Wolverine - Chohatsu & Berserker Charge XS & Healing Factor XS,FF4221,08,FF4220,08,FF4211,06,FF4210,06,FF4219,06,FF4218,06
+Default=0
+
+[23]
+Name=P1 Easy Hyper X Attacks
+0=Disabled
+1=Akuma - Messatsu Gou Hadou,FF4371,0C,FF4370,0C
+2=Akuma - Messatsu Gou Shoryuu,FF4379,0A,FF4378,0A
+3=Colossus - Super Dive,FF4209,06,FF4208,06
+4=Cyclops - Super Optic Blast,FF4201,06,FF4200,06
+5=Cyclops - Mega Optic Blast,FF4229,06,FF4228,06
+6=Iceman - Arctic Attack,FF4219,06,FF4218,06
+7=Juggernaut - Juggernaut Head Crush,FF4211,0A,FF4210,0A
+8=Magneto - Magnetic Shockwave,FF4201,06,FF4200,06
+9=Omega Red - Omega Destroyer,FF4219,06,FF4218,06
+10=Psylocke - Psi-Thrust,FF4211,06,FF4210,06
+11=Sentinel - Plasma Storm,FF4201,06,FF4200,06
+12=Silver Samurai - Raimei Ken,FF4209,06,FF4208,06
+13=Silver Samurai - Chou Shuriken,FF4239,06,FF4238,06
+14=Spiral - Metamorphosis,FF4231,06,FF4230,06
+15=Storm - Lightning & Ice Storm,FF4221,06,FF4220,06,FF4231,04,FF4230,04
+16=Wolverine - Berserker Barrage X,FF4209,06,FF4208,06
+Default=0
+
+[24]
+Name=P2 Inf Health
+0=Disabled
+1=Enabled,FF4590,8F
+Default=0
+
+[25]
+Name=P2 Inf Power
+0=Disabled
+1=Enabled,FF4594,8E
+Default=0
+
+[26]
+Name=P2 No Faint
+0=Disabled
+1=Enabled,FF44FC,00
+Default=0
+
+[27]
+Name=P2 Action Speed Up
+0=Disabled
+1=Enabled,FF443E,01
+Default=0
+
+[28]
+Name=P2 Controller Mode
+0=Disabled
+1=User Play,FF4402,01
+2=Computer Play,FF4402,00
+Default=0
+
+[29]
+Name=P2 Char Select
+0=Disabled
+1=Akuma,FF4903,0C
+2=Colossus,FF4903,06
+3=Cyclops,FF4903,01
+4=Iceman,FF4903,05
+5=Juggernaut,FF4903,0A
+6=Magneto,FF4903,0B
+7=Omega Red,FF4903,03
+8=Psylocke,FF4903,07
+9=Sentinel,FF4903,04
+10=Silver Samurai,FF4903,08
+11=Spiral,FF4903,09
+12=Storm,FF4903,00
+13=Wolverine,FF4903,02
+Default=0
+
+[30]
+Name=P2 Colossus - Super Armour
+0=Disabled
+1=Always,FF4723,01,FF4720,A0,FF4721,01
+2=Never,FF4723,00,FF4720,01,FF4721,00
+Default=0
+
+[31]
+Name=P2 Cyclops & Psylocke - Infinite Double Jump
+0=Disabled
+1=Enabled,FF4707,00
+Default=0
+
+[32]
+Name=P2 Magneto & Sentinel & Storm - Flying
+0=Disabled
+1=Infinite Time,FF44DA,85,FF44DB,03
+2=Quick Finish,FF44DA,01,FF44DB,00
+Default=0
+
+[33]
+Name=P2 Sentinel - Plasma Storm Level
+0=Disabled
+1=Level 1,FF4709,00
+2=Level 2,FF4709,01
+3=Level 3,FF4709,02
+4=Level 4,FF4709,03
+5=Level Max,FF4709,04
+Default=0
+
+[34]
+Name=P2 Sentinel - Endless Plasma Storm Time
+0=Disabled
+1=Enabled,FF440A,00
+Default=0
+
+[35]
+Name=P2 Silver Samurai - Shadow
+0=Disabled
+1=Infinite Time,FF4704,FF,FF4705,01
+2=Force End,FF4704,01,FF4705,00,FF4703,00
+Default=0
+
+[36]
+Name=P2 Silver Samurai - Sword
+0=Disabled
+1=Normal Sword,FF470A,00,FF4708,00,FF4709,00
+2=Thunder Sword,FF470A,01,FF4708,FF,FF4709,02
+3=Ice Sword,FF470A,02,FF4708,FF,FF4709,02
+4=Flame Sword,FF470A,03,FF4708,FF,FF4709,02
+Default=0
+
+[37]
+Name=P2 Spiral - Power Dance
+0=Disabled
+1=Always,FF4508,06,FF4509,0A
+2=Never,FF4508,00,FF4509,00
+Default=0
+
+[38]
+Name=P2 Spiral - Speed Dance
+0=Disabled
+1=Always,FF44D9,01,FF471A,52,FF471B,02
+2=Never,FF44D9,00
+Default=0
+
+[39]
+Name=P2 Spiral - Dimensional Dance
+0=Disabled
+1=Always,FF4447,00
+2=Never,FF4447,C0
+Default=0
+
+[40]
+Name=P2 Spiral - Metamorphosis
+0=Disabled
+1=Always,FF4708,01,FF470A,58,FF470B,02
+2=Never,FF4708,00,FF4700,58,FF470B,00
+Default=0
+
+[41]
+Name=P2 Wolverine - Berserker Charge
+0=Disabled
+1=Always,FF44D9,01,FF4700,57,FF4701,02
+2=Never,FF44D9,00,FF4700,01,FF4701,00
+Default=0
+
+[42]
+Name=P2 Easy Super Jump
+0=Disabled
+1=Enabled,FF45F9,04,FF45F8,04
+Default=0
+
+[43]
+Name=P2 Easy Dash
+0=Disabled
+1=Forward Dash,FF45F1,04,FF45F0,04,FF45F4,02
+2=Backward Dash,FF45F1,04,FF45F0,04,FF45F4,01
+Default=0
+
+[44]
+Name=P2 Easy Moves
+0=Disabled
+1=Akuma - Ashura Senkuu 1 & Ashura Senkuu 3,FF4621,06,FF4620,06,FF4631,06,FF4630,06
+2=Akuma - Ashura Senkuu 1 & Ashura Senkuu 4,FF4621,06,FF4620,06,FF4639,06,FF4638,06
+3=Akuma - Ashura Senkuu 2 & Ashura Senkuu 3,FF4629,06,FF4628,06,FF4631,06,FF4630,06
+4=Akuma - Ashura Senkuu 2 & Ashura Senkuu 4,FF4629,06,FF4628,06,FF4639,06,FF4638,06
+5=Akuma - Gou Shoryuu Ken & Tatsumaki Zankuu Kyaku,FF4601,06,FF4600,06,FF4609,06,FF4608,06
+6=Akuma - Gou Hadou Ken & Tatsumaki Zankuu Kyaku,FF4611,06,FF4610,06,FF4609,06,FF4608,06
+7=Akuma - Shakunetsu Hadou Ken & Tatsumaki Zankuu Kyaku,FF4619,0A,FF4618,0A,FF4609,06,FF4608,06
+8=Akuma - Tatsumaki Zankuu Kyaku & Alpha Counter XS,FF4769,06,FF4768,06,FF4609,06,FF4608,06
+9=Akuma - Gou Shoryuu Ken & Tenma Kuujin Kyaku XS,FF4601,06,FF4600,06,FF4761,06,FF4760,06
+10=Akuma - Gou Hadou Ken & Tenma Kuujin Kyaku XS,FF4611,06,FF4610,06,FF4761,06,FF4760,06
+11=Akuma - Shakunetsu Hadou Ken & Tenma Kuujin Kyaku XS,FF4619,0A,FF4618,0A,000007,00
+12=Akuma - Alpha Counter XS & Tenma Kuujin Kyaku XS,FF4769,06,FF4768,06,FF4761,06,FF4760,06
+13=Colossus - Giant Swing & Power Tackle & Super Armor XS,FF4619,06,FF4618,06,FF4601,06,FF4600,06,FF4611,06,FF4610,06
+14=Colossus - Flying Knee & Power Tackle & Super Armor XS,FF4621,04,FF4620,04,FF4601,06,FF4600,06,FF4611,06,FF4610,06
+15=Cyclops - Rising Uppercut,FF4609,06,FF4608,06
+16=Cyclops - Rapid Punch,FF4611,06,FF4610,06
+17=Cyclops - Optic Blast,FF4619,06,FF4618,06
+18=Cyclops - Running Neckbreaker Drop,FF4621,06,FF4620,06
+19=Iceman - Ice Beam & Fist XS,FF4611,06,FF4610,06,FF4629,06,FF4628,06
+20=Juggernaut - Chohatsu,FF4601,06,FF4600,06
+21=Juggernaut - Double Fist Punch,FF4609,06,FF4608,06
+22=Juggernaut - Earthquake Punch,FF4619,06,FF4618,06
+23=Juggernaut - Cyttorak Powerup XS,FF4629,06,FF4628,06
+24=Juggernaut - Pick Up & Drop Girder,FF4621,06,FF4620,06,FF4631,06,FF4630,06
+25=Magneto - EM Shock & Hyper Gravitation & Chohatsu & Magnetic Tempest & Force Field XS,FF4619,06,FF4618,06,FF4611,06,FF4610,06,FF4621,06,FF4620,06,FF4629,06,FF4628,06,FF4609,06,FF4608,06
+26=Magneto - EM Shock & Hyper Gravitation & Chohatsu & Magnetic Tempest & Background Change,FF4619,06,FF4618,06,FF4611,06,FF4610,06,FF4621,06,FF4620,06,FF4629,06,FF4628,06,FF4639,06,FF4638,06
+27=Magneto - EM Shock & Hyper Gravitation & Chohatsu & Hikou XS & Magnetic Force Field XS,FF4619,06,FF4618,06,FF4611,06,FF4610,06,FF4621,06,FF4620,06,FF4631,06,FF4630,06,FF4609,06,FF4608,06
+28=Magneto - EM Shock & Hyper Gravitation & Chohatsu & Background Change & Hikou XS,FF4619,06,FF4618,06,FF4611,06,FF4610,06,FF4621,06,FF4620,06,FF4631,06,FF4630,06,FF4639,06,FF4638,06
+29=Omega Red - Air & Carbonadium Coil,FF4601,06,FF4600,06,FF4609,06,FF4608,06
+30=Omega Red - Carbonadium Coil & Omega Strike,FF4601,06,FF4600,06,FF4611,06,FF4610,06
+31=Omega Red - Chohatsu & Air Carbonadium Coil,FF4621,08,FF4620,08,FF4609,06,FF4608,06
+32=Omega Red - Chohatsu & Omega Strike,FF4621,08,FF4620,08,FF4611,06,FF4610,06
+33=Psylocke - Psi-Blast & Psi-Blade Spin,FF4601,06,FF4600,06,FF4609,06,FF4608,06
+34=Psylocke - Ninjitsu Split XS,FF4621,06,FF4620,06
+35=Sentinel - Rocket Punch & Sentinel Force & Hikou XS,FF4609,06,FF4608,06,FF4611,06,FF4610,06
+36=Sentinel - Sentinel Force & Hikou XS,FF4611,06,FF4610,06,FF4621,06,FF4620,06
+37=Silver Samurai - Shuriken & Bushin XS & Samurai Teleport XS,FF4601,06,FF4600,06,FF471B,06,FF471A,06,FF4621,06,FF4620,06
+38=Silver Samurai - Hyakuretsu Tou & Bushin XS & Samurai Teleport XS,FF4723,06,FF4722,06,FF471B,06,FF471A,06,FF4621,06,FF4620,06
+39=Silver Samurai - Touki XS & Bushin XS & Samurai Teleport XS,FF4629,06,FF4628,06,FF471B,06,FF471A,06,FF4621,06,FF4620,06
+40=Spiral - Dancing Sword & Tsurugi Tobashi,FF4611,06,FF4610,06,FF4619,06,FF4618,06
+41=Spiral - Six-Hand Grapple,FF4629,06,FF4628,06
+42=Spiral - Dances XS,FF4601,06,FF4600,06
+43=Storm - Whirlwind & Quick Recovery & Cyclone XS,FF4601,06,FF4600,06,FF4611,06,FF4610,06,FF4715,06,FF4714,06
+44=Storm - Quick Recovery & Hikou XS & Cyclone XS,FF4611,06,FF4610,06,FF4629,06,FF4628,06,FF4715,06,FF4714,06
+45=Wolverine - Tornado Claw & Berserker Charge XS & Healing Factor XS,FF4601,06,FF4600,06,FF4611,06,FF4610,06,FF4619,06,FF4618,06
+46=Wolverine - Chohatsu & Berserker Charge XS & Healing Factor XS,FF4621,08,FF4620,08,FF4611,06,FF4610,06,FF4619,06,FF4618,06
+Default=0
+
+[45]
+Name=P2 Easy Hyper X Attacks
+0=Disabled
+1=Akuma - Messatsu Gou Hadou,FF4771,0C,FF4770,0C
+2=Akuma - Messatsu Gou Shoryuu,FF4779,0A,FF4778,0A
+3=Colossus - Super Dive,FF4609,06,FF4608,06
+4=Cyclops - Super Optic Blast,FF4601,06,FF4600,06
+5=Cyclops - Mega Optic Blast,FF4629,06,FF4628,06
+6=Iceman - Arctic Attack,FF4619,06,FF4618,06
+7=Juggernaut - Juggernaut Head Crush,FF4611,0A,FF4610,0A
+8=Magneto - Magnetic Shockwave,FF4601,06,FF4600,06
+9=Omega Red - Omega Destroyer,FF4619,06,FF4618,06
+10=Psylocke - Psi-Thrust,FF4611,06,FF4610,06
+11=Sentinel - Plasma Storm,FF4601,06,FF4600,06
+12=Silver Samurai - Raimei Ken,FF4609,06,FF4608,06
+13=Silver Samurai - Chou Shuriken,FF4639,06,FF4638,06
+14=Spiral - Metamorphosis,FF4631,06,FF4630,06
+15=Storm - Lightning & Ice Storm,FF4621,06,FF4620,06,FF4631,04,FF4630,04
+16=Wolverine - Berserker Barrage X,FF4609,06,FF4608,06
+Default=0
+
+[46]
+Name=BackGround Select
+0=Disabled
+1=Colossus,FF488E,02
+2=Cyclops,FF488E,03
+3=Iceman,FF488E,05
+4=Juggernaut,FF488E,0A
+5=Magneto,FF488E,0B
+6=Omega Red,FF488E,08
+7=Psylocke,FF488E,01
+8=Sentinel,FF488E,09
+9=Silver Samurai,FF488E,07
+10=Spiral,FF488E,06
+11=Storm,FF488E,04
+12=Wolverine,FF488E,00
+Default=0
+

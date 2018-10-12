@@ -1,0 +1,730 @@
+[0]
+Name=Region
+0=Disabled
+1=Japan,FF5478,00
+2=USA,FF5478,02
+3=Hispanic,FF5478,04
+4=Asia,FF5478,06
+5=Euro,FF5478,08
+6=Brazil,FF5478,0A
+Default=0
+
+[1]
+Name=Infinite Battle Time
+0=Disabled
+1=Enabled,FF5008,63
+Default=0
+
+[2]
+Name=Single Character Fighting Mode
+0=Disabled
+1=Enabled,FF4A10,00,FF4A1A,00,FF4E10,00,FF4E1A,00
+Default=0
+
+[3]
+Name=Game Speed Up
+0=Disabled
+1=Enabled,FF5118,01
+Default=0
+
+[4]
+Name=Player Join In
+0=Disabled
+1=None,FF5100,00
+2=Player 1,FF5100,01
+3=Player 2,FF5100,02
+4=Both Players,FF5100,03
+Default=0
+
+[5]
+Name=P1 Inf Health
+0=Disabled
+1=Enabled,FF4210,90
+Default=0
+
+[6]
+Name=P1 Inf Power
+0=Disabled
+1=Enabled,FF4215,03
+Default=0
+
+[7]
+Name=P1 Inf Double Jump
+0=Disabled
+1=Enabled,FF4142,FF,FF4143,00
+Default=0
+
+[8]
+Name=P1 Inf Recovery Bar
+0=Disabled
+1=Enabled,FF421A,90
+Default=0
+
+[9]
+Name=P1 No Hyper Combo Wait
+0=Disabled
+1=Enabled,FF4341,00
+Default=0
+
+[10]
+Name=P1 No Hyper Combo Wait (Alt)
+0=Disabled
+1=Enabled,FF9DCE,00,FFA5CE,00,FF9B8E,00
+Default=0
+
+[11]
+Name=P1 Cause Max Damage
+0=Disabled
+1=Enabled,FF4102,FF
+Default=0
+
+[12]
+Name=P1 No Hit Stop
+0=Disabled
+1=Enabled,FF4084,01
+Default=0
+
+[13]
+Name=P1 No Jump Attack Limit
+0=Disabled
+1=Enabled,FF4103,11
+Default=0
+
+[14]
+Name=P1 Action Speed Up
+0=Disabled
+1=Enabled,FF403E,01
+Default=0
+
+[15]
+Name=P1 Easy Combo
+0=Disabled
+1=Enabled,FF4189,04,FF4181,04,FF4191,04,FF4199,04,FF41A1,04,FF41A9,04,FF41B1,04,FF41B9,04,FF41D9,04,FF5083,04,FF41C1,04,FF41D1,04,FF41C9,08,FF41F1,04
+Default=0
+
+[16]
+Name=P1 No Chain Combo Limit
+0=Disabled
+1=Enabled,FF40A6,00
+Default=0
+
+[17]
+Name=P1 Hobber
+0=Disabled
+1=No Hobber,FF4344,01,FF4345,00
+2=Endless Hobber,FF4344,FF,FF4345,03
+Default=0
+
+[18]
+Name=P1 Faint Damage
+0=Disabled
+1=No Faint,FF40B8,3C
+2=Full Faint,FF40B8,01
+Default=0
+
+[19]
+Name=P1 Faint Recover
+0=Disabled
+1=Quick Recover,FF4138,01
+2=No Recover,FF4138,FF
+Default=0
+
+[20]
+Name=P1 Auto Guard After Faint
+0=Disabled
+1=Enabled,FF4146,FF
+Default=0
+
+[21]
+Name=P1 1 Character
+0=Disabled
+1=Enabled,FF4A10,00,FF4A1A,00
+Default=0
+
+[22]
+Name=P1 Controller Mode
+0=Disabled
+1=User Play,FF4002,01
+2=Computer Play,FF4002,00
+Default=0
+
+[23]
+Name=P1 Is Apocalypse
+0=Disabled
+1=Enabled,FF5112,00,FF4052,10,FF4852,10,FF50B0,10,FF50B2,10
+Default=0
+
+[24]
+Name=P1 Char 1 Select
+0=Disabled
+1=Akuma,FF4052,1E
+2=Cammy,FF4052,22
+3=Charlie,FF4052,20
+4=Chun-Li,FF4052,16
+5=Chun-Li (SFA),FF4052,24
+6=Cyclops,FF4052,02
+7=Dhalsim,FF4052,18
+8=Gambit,FF4052,08
+9=Juggernaut,FF4052,0C
+10=Ken,FF4052,14
+11=M.Bison,FF4052,1C
+12=Magneto,FF4052,0E
+13=Rogue,FF4052,06
+14=Ryu,FF4052,12
+15=Sabretooth,FF4052,0A
+16=Storm,FF4052,04
+17=Wolverine,FF4052,00
+18=Zangief,FF4052,1A
+Default=0
+
+[25]
+Name=P1 Char 2 Select
+0=Disabled
+1=Akuma,FF4852,1E
+2=Cammy,FF4852,22
+3=Charlie,FF4852,20
+4=Chun-Li,FF4852,16
+5=Chun-Li (SFA),FF4852,24
+6=Cyclops,FF4852,02
+7=Dhalsim,FF4852,18
+8=Gambit,FF4852,08
+9=Juggernaut,FF4852,0C
+10=Ken,FF4852,14
+11=M.Bison,FF4852,1C
+12=Magneto,FF4852,0E
+13=Rogue,FF4852,06
+14=Ryu,FF4852,12
+15=Sabretooth,FF4852,0A
+16=Storm,FF4852,04
+17=Wolverine,FF4852,00
+18=Zangief,FF4852,1A
+Default=0
+
+[26]
+Name=P1 Chun-Li - Hyakuretsu Kyaku Strength
+0=Disabled
+1=Light,FF41B3,01
+2=Medium,FF41B3,02
+3=Heavy,FF41B3,04
+Default=0
+
+[27]
+Name=P1 Juggernaut - PowerUp
+0=Disabled
+1=Enabled,FF4102,30,FF4344,01,FF4345,02
+Default=0
+
+[28]
+Name=P1 Rogue - Enemy Power
+0=Disabled
+1=Nothing,FF4343,FF,FF4342,00
+2=Hadouken & Syungokusatsu (Akuma),FF4343,00,FF4342,1E
+3=Cannon Drill (Cammy),FF4343,00,FF4342,22
+4=Sonic Boom (Charlie),FF4343,00,FF4342,20
+5=Kikouken (Chun-Li),FF4343,00,FF4342,16
+6=Kikouken (Chun-Li SFA),FF4343,00,FF4342,24
+7=Optic Blast (Cyclops),FF4343,00,FF4342,02
+8=Yoga Frame (Dhalsim),FF4343,00,FF4342,18
+9=Kinetic Card (Gambit),FF4343,00,FF4342,08
+10=Earthquake Punch (Juggernaut),FF4343,00,FF4342,0C
+11=Syoryuken (Ken),FF4343,00,FF4342,14
+12=Psycho Shot (M.Bison),FF4343,00,FF4342,1C
+13=Hyper Gravitation (Magneto),FF4343,00,FF4342,0E
+14=Hadouken (Ryu),FF4343,00,FF4342,12
+15=Berserker Craw (Sabretooth),FF4343,00,FF4342,0A
+16=Wahl Wind (Storm),FF4343,00,FF4342,04
+17=Berserker Barrage (Wolverine),FF4343,00,FF4342,00
+18=Screw Pile Driver (Zangief),FF4343,00,FF4342,1A
+Default=0
+
+[29]
+Name=P1 Easy Variable Counter & Roll Recovery
+0=Disabled
+1=Enabled,FF41D9,06,FF41D8,06,FF49D9,06,FF49D8,06
+Default=0
+
+[30]
+Name=P1 Easy Super Jump
+0=Disabled
+1=Enabled,FF4179,04,FF4178,04,FF4979,04,FF4978,04
+Default=0
+
+[31]
+Name=P1 Easy Dash
+0=Disabled
+1=Forward Dash,FF4171,04,FF4170,04,FF4174,01,FF4971,04,FF4970,04,FF4974,01
+2=Backward Dash,FF4171,04,FF4170,04,FF4174,03,FF4971,04,FF4970,04,FF4974,03
+Default=0
+
+[32]
+Name=P1 Easy Crossover Combination
+0=Disabled
+1=Enabled,FF41F1,06,FF41F0,06
+Default=0
+
+[33]
+Name=P1 Easy Moves
+0=Disabled
+1=Akuma - Gou & Zankuu Hadou Ken & Ashura Senkuu 1 & (Kuuchuu) Tatsumaki Zankuu Kyaku,FF4181,06,FF4180,06,FF41B1,06,FF41B0,06,FF4191,06,FF4190,06,FF4199,06,FF4198,06,FF41A1,06,FF41A0,06
+2=Akuma - Gou Shoryuu Ken & Ashura Senkuu 1 & (Kuuchuu) Tatsumaki Zankuu Kyaku & Zankuu Hadou Ken,FF4189,06,FF4188,06,FF41B1,06,FF41B0,06,FF4191,06,FF4190,06,FF4199,06,FF4198,06,FF41A1,06,FF41A0,06
+3=Akuma - Gou & Zankuu Hadou Ken & Ashura Senkuu 2 & (Kuuchuu) Tatsumaki Zankuu Kyaku,FF4181,06,FF4180,06,FF41B9,06,FF41B8,06,FF4191,06,FF4190,06,FF4199,06,FF4198,06,FF41A1,06,FF41A0,06
+4=Akuma - Gou Shoryuu Ken & Ashura Senkuu 2 & (Kuuchuu) Tatsumaki Zankuu Kyaku & Zankuu Hadou Ken,FF4189,06,FF4188,06,FF41B9,06,FF41B8,06,FF4191,06,FF4190,06,FF4199,06,FF4198,06,FF41A1,06,FF41A0,06
+5=Apocalypse - Energy Bolts & Earthquake Fist,FF4181,06,FF4180,06,FF4199,06,FF4198,06,FF41A1,06,FF41A0,06
+6=Apocalypse - Energy Bolts & Mace Fist,FF4189,06,FF4188,06,FF4199,06,FF4198,06,FF41A1,06,FF41A0,06
+7=Apocalypse - Energy Bolts & Mega Drill,FF4191,06,FF4190,06,FF4199,06,FF4198,06,FF41A1,06,FF41A0,06
+8=Cammy - Cannon Spike & Strike & Axle Spin Knuckle,FF4181,06,FF4180,06,FF4191,06,FF4190,06,FF41B1,06,FF41B0,06
+9=Cammy - Cannon Drill & Strike & Axle Spin Knuckle,FF4189,06,FF4188,06,FF4191,06,FF4190,06,FF41B1,06,FF41B0,06
+10=Cammy - Hooligan Combination & Axle Spin Knuckle & Cannon Strike,FF4199,06,FF4198,06,FF4191,06,FF4190,06,FF41B1,06,FF41B0,06
+11=Cammy - Cannon Spike & Revenge & Strike,FF4181,06,FF4180,06,FF41A1,0A,FF41A0,0A,FF41B1,06,FF41B0,06
+12=Cammy - Cannon Drill & Revenge & Strike,FF4189,06,FF4188,06,FF41A1,0A,FF41A0,0A,FF41B1,06,FF41B0,06
+13=Cammy - Hooligan Combination & Cannon Revenge & Strike,FF4199,06,FF4198,06,FF41A1,0A,FF41A0,0A,FF41B1,06,FF41B0,06
+14=Cammy - Cannon Spike & Air Drill & Axle Spin Knuckle & ,FF4181,06,FF4180,06,FF4191,06,FF4190,06,FF41B9,06,FF41B8,06
+15=Cammy - Cannon Drill & Air Drill & Axle Spin Knuckle,FF4189,06,FF4188,06,FF4191,06,FF4190,06,FF41B9,06,FF41B8,06
+16=Cammy - Hooligan Combination & Axle Spin Knuckle & Air Cannon Drill,FF4199,06,FF4198,06,FF4191,06,FF4190,06,FF41B9,06,FF41B8,06
+17=Cammy - Cannon Spike & Air Drill & Revenge,FF4181,06,FF4180,06,FF41A1,0A,FF41A0,0A,FF41B9,06,FF41B8,06
+18=Cammy - Cannon Drill & Air Drill & Revenge,FF4189,06,FF4188,06,FF41A1,0A,FF41A0,0A,FF41B9,06,FF41B8,06
+19=Cammy - Hooligan Combination & Cannon Revenge & Air Drill,FF4199,06,FF4198,06,FF41A1,0A,FF41A0,0A,FF41B9,06,FF41B8,06
+20=Charlie - Sonic Boom & Somersault Shell & Moonsault Slash,FF4181,08,FF4180,08,FF4189,08,FF4188,08,FF41A9,06,FF41A8,06
+21=Chun-Li - Kikou Ken & Tenshou Kyaku,FF4181,0A,FF4180,0A,FF4189,08,FF4188,08
+22=Chun-Li - Kikou Ken & Se'en Shuu,FF4181,0A,FF4180,0A,FF4191,0A,FF4190,0A
+23=Chun-Li - Kikou Ken & Hyakuretsu Kyaku,FF4181,0A,FF4180,0A,FF41B1,06,FF41B0,06
+24=Cyclops - Running Neckbreaker Drop & Rapid Punch & Optic Blast,FF4181,06,FF4180,06,FF41A1,06,FF41A0,06,FF41B9,06,FF41B8,06
+25=Cyclops - Running Neckbreaker Drop & Rapid Punch & Rising Uppercut,FF4199,06,FF4198,06,FF41A1,06,FF41A0,06,FF41B9,06,FF41B8,06
+26=Cyclops - Running Neckbreaker Drop & Rapid Punch & Optic Sweep,FF41A9,06,FF41A8,06,FF41A1,06,FF41A0,06,FF41B9,06,FF41B8,06
+27=Cyclops - Running Neckbreaker Drop & Rapid Punch & Cyclone Kick,FF41B1,06,FF41B0,06,FF41A1,06,FF41A0,06,FF41B9,06,FF41B8,06
+28=Dhalsim - Yoga Fire & Blast & Teleport 1 & 3,FF4181,06,FF4180,06,FF4191,0A,FF4190,0A,FF4199,06,FF4198,06,FF41A9,06,FF41A8,06
+29=Dhalsim - Yoga Fire & Blast & Teleport 1 & 4,FF4181,06,FF4180,06,FF4191,0A,FF4190,0A,FF4199,06,FF4198,06,FF41B1,06,FF41B0,06
+30=Dhalsim - Yoga Fire & Blast & Teleport 2 & 3,FF4181,06,FF4180,06,FF4191,0A,FF4190,0A,FF41A1,06,FF41A0,06,FF41A9,06,FF41A8,06
+31=Dhalsim - Yoga Fire & Blast & Teleport 2 & 4,FF4181,06,FF4180,06,FF4191,0A,FF4190,0A,FF41A1,06,FF41A0,06,FF41B1,06,FF41B0,06
+32=Dhalsim - Yoga Flame & Blast & Teleport 1 & 3,FF4189,0A,FF4188,0A,FF4191,0A,FF4190,0A,FF4199,06,FF4198,06,FF41A9,06,FF41A8,06
+33=Dhalsim - Yoga Flame & Blast & Teleport 1 & 4,FF4189,0A,FF4188,0A,FF4191,0A,FF4190,0A,FF4199,06,FF4198,06,FF41B1,06,FF41B0,06
+34=Dhalsim - Yoga Flame & Blast & Teleport 2 & 3,FF4189,0A,FF4188,0A,FF4191,0A,FF4190,0A,FF41A1,06,FF41A0,06,FF41A9,06,FF41A8,06
+35=Dhalsim - Yoga Flame & Blast & Teleport 2 & 4,FF4189,0A,FF4188,0A,FF4191,0A,FF4190,0A,FF41A1,06,FF41A0,06,FF41B1,06,FF41B0,06
+36=Gambit - Kinetic Card & Cajun Escape,FF4181,06,FF4180,06,FF41A9,08,FF41A8,08,FF41B9,06,FF41B8,06
+37=Gambit - Trick Card & Cajun Escape,FF4189,06,FF4188,06,FF41A9,08,FF41A8,08,FF41B9,06,FF41B8,06
+38=Gambit - Cajun Slash & Escape,FF4191,06,FF4190,06,FF41A9,08,FF41A8,08,FF41B9,06,FF41B8,06
+39=Gambit - Cajun Strike & Escape,FF4199,06,FF4198,06,FF41A9,08,FF41A8,08,FF41B9,06,FF41B8,06
+40=Juggernaut - Avalanche Punch & Juggernaut Body Press & Cyttorak Power-Up,FF4181,06,FF4180,06,FF41A1,0A,FF41A0,0A,FF4191,06,FF4190,06
+41=Juggernaut - Avalanche Punch & Nail Slam & Cyttorak Power-Up,FF4181,06,FF4180,06,FF41B9,06,FF41B8,06,FF4191,06,FF4190,06
+42=Juggernaut - Juggernaut Punch & Body Press & Cyttorak Power-Up,FF4199,0A,FF4198,0A,FF41A1,0A,FF41A0,0A,FF4191,06,FF4190,06
+43=Juggernaut - Juggernaut Punch & Nail Slam & Cyttorak Power-Up,FF4199,0A,FF4198,0A,FF41B9,06,FF41B8,06,FF4191,06,FF4190,06
+44=Ken - Hadou Ken & (Kuuchuu) Tatsumaki Senpuu Kyaku,FF4181,06,FF4180,06,FF4191,06,FF4190,06,FF4199,06,FF4198,06
+45=Ken - Shoryuu Ken & (Kuuchuu) Tatsumaki Senpuu Kyaku,FF4189,06,FF4188,06,FF4191,06,FF4190,06,FF4199,06,FF4198,06
+46=M.Bison - Psycho Shot & Double Knee Press & Hikou,FF4181,0A,FF4180,0A,FF4189,0A,FF4188,0A,FF41C9,06,FF41C8,06
+47=M.Bison - Somersault Skull Diver & Double Knee Press & Hikou,FF41A9,08,FF41A8,08,FF4189,0A,FF4188,0A,FF41C9,06,FF41C8,06
+48=M.Bison - Psycho Field & Double Knee Press & Hikou,FF41C1,0A,FF41C0,0A,FF4189,0A,FF4188,0A,FF41C9,06,FF41C8,06
+49=M.Bison - Psycho Shot & Head Press & Hikou,FF4181,0A,FF4180,0A,FF41A1,08,FF41A0,08,FF41C9,06,FF41C8,06
+50=M.Bison - Somersault Skull Diver & Head Press & Hikou,FF41A9,08,FF41A8,08,FF41A1,08,FF41A0,08,FF41C9,06,FF41C8,06
+51=M.Bison - Psycho Field & Head Press & Hikou,FF41C1,0A,FF41C0,0A,FF41A1,08,FF41A0,08,FF41C9,06,FF41C8,06
+52=M.Bison - Bison Warp & Hikou,FF4191,06,FF4190,06,FF41C9,06,FF41C8,06
+53=Magneto - EM Disruptor & Hyper Gravitation & Hikou,FF4181,0A,FF4180,0A,FF4189,0A,FF4188,0A,FF41A1,06,FF41A0,06
+54=Magneto - EM Disruptor & Magnetic Force Field & Hikou,FF4181,0A,FF4180,0A,FF41A9,0A,FF41A8,0A,FF41A1,06,FF41A0,06
+55=Magneto - Magnetic Blast & Hyper Gravitation & Hikou,FF41C1,06,FF41C0,06,FF4189,0A,FF4188,0A,FF41A1,06,FF41A0,06
+56=Magneto - Magnetic Blast & Force Field & Hikou,FF41C1,06,FF41C0,06,FF41A9,0A,FF41A8,0A,FF41A1,06,FF41A0,06
+57=Rogue - Repeating Punch & Aite no Nouryoku Kyuushuu,FF4191,06,FF4190,06,FF4189,06,FF4188,06
+58=Rogue - Repeating Punch & Nouryouku Shiyou,FF4181,06,FF4180,06,FF4189,06,FF4188,06
+59=Rogue - Repeating Punch & Power Dive Punch,FF41A9,06,FF41A8,06,FF4189,06,FF4188,06
+60=Rogue - Rising Repeating Punch & Aite no Nouryoku Kyuushuu,FF4191,06,FF4190,06,FF4199,06,FF4198,06
+61=Rogue - Rising Repeating Punch & Nouryouku Shiyou,FF4181,06,FF4180,06,FF4199,06,FF4198,06
+62=Rogue - Rising Repeating Punch & Power Dive Punch,FF41A9,06,FF41A8,06,FF4199,06,FF4198,06
+63=Ryu - (Kuuchuu) Hadou Ken & (Kuuchuu) Tatsumaki Senpuu Kyaku,FF4181,06,FF4180,06,FF4191,06,FF4190,06,FF4199,06,FF4198,06,FF41A1,06,FF41A0,06
+64=Ryu - Shoryuu Ken & Kuuchuu Hadou Ken & (Kuuchuu) Tatsumaki Senpuu Kyaku,FF4189,06,FF4188,06,FF4191,06,FF4190,06,FF4199,06,FF4198,06,FF41A1,06,FF41A0,06
+65=Sabretooth - Berserker Claw & Armored Birdie,FF4181,06,FF4180,06,FF4189,0A,FF4188,0A
+66=Sabretooth - Wild Fang & Armored Birdie,FF41A9,0A,FF41A8,0A,FF4189,0A,FF4188,0A
+67=Storm - Whirlwind Toss & Hikou,FF4181,06,FF4180,06,FF4199,06,FF4198,06
+68=Storm - Double Typhoon & Hikou,FF4199,06,FF4198,06,FF41A9,06,FF41A8,06
+69=Wolverine - Tornado Claw,FF4181,06,FF4180,06
+70=Wolverine - Berserker Barrage,FF4191,06,FF4190,06
+71=Zangief - Banishing Flat & Flying Powerbomb,FF4191,06,FF4190,06,FF41A1,0A,FF41A0,0A
+72=Zangief - Banishing Flat & Aerial Russian Slam,FF4191,06,FF4190,06,FF41B1,0A,FF41B0,0A
+73=Zangief - Screw Piledriver & Flying Powerbomb,FF4199,08,FF4198,08,FF41A1,0A,FF41A0,0A
+74=Zangief - Screw Piledriver & Aerial Russian Slam,FF4199,08,FF4198,08,FF41B1,0A,FF41B0,0A
+Default=0
+
+[34]
+Name=P1 Easy Hyper Combos
+0=Disabled
+1=Akuma - Messatsu Gou Hadou & Tenma Gou Zankuu & Shun Goku Satsu,FF41C1,06,FF41C0,06,FF41C9,08,FF41C8,08,FF41A9,06,FF41A8,06
+2=Akuma - Messatsu Gou Shoryuu & Tenma Gou Zankuu & Shun Goku Satsu,FF41C1,06,FF41C0,06,FF41C9,08,FF41C8,08,FF41D1,06,FF41D0,06
+3=Cammy - Spin Drive Smasher,FF41A9,06,FF41A8,06
+4=Cammy - Killer Bee Assault,FF41C1,06,FF41C0,06
+5=Charlie - Sonic Break & Somersault Justice,FF4191,06,FF4190,06,FF4199,06,FF4198,06
+6=Charlie - Sonic Break & Crossfire Blitz,FF4191,06,FF4190,06,FF41A1,06,FF41A0,06
+7=Chun-Li - Kikou Shou & Senretsu Kyaku,FF4199,06,FF4199,06,FF41A1,06,FF41A0,06
+8=Chun-Li - Kikou Shou & Hanzan Tenshou Kyaku,FF4199,06,FF4199,06,FF41A9,06,FF41A8,06
+9=Cyclops - Super Optic Blast,FF4189,06,FF4188,06
+10=Cyclops - Mega Optic Blast,FF4191,06,FF4190,06
+11=Dhalsim - Yoga Inferno & Strike,FF41B9,06,FF41B8,06,FF41C1,06,FF41C0,06
+12=Gambit - Royal Flush,FF41A1,06,FF41A0,06
+13=Juggernaut - Juggernaut Head Crush,FF4189,06,FF4188,06
+14=Ken - Shoryuu Reppa & Shinryuu Ken,FF41B1,06,FF41B0,06,FF41B9,06,FF41B8,06
+15=M.Bison - Knee Press Nightmare & Psycho Crusher,FF41B1,06,FF41B0,06,FF41B9,06,FF41B8,06
+16=Magneto - Magnetic Shockwave & Tempest,FF4191,06,FF4190,06,FF4199,06,FF4198,06
+17=Rogue - Goodnight Sugah & Shun Goku Satsu,FF41A1,06,FF41A0,06,FF41B1,06,FF41B0,06
+18=Ryu - Shinkuu Hadou Ken & Shinkuu Tatsumaki Senpuu Kyaku,FF41A9,06,FF41A8,06,FF41B1,06,FF41B0,06
+19=Sabretooth - Heavy Armored Birdie & Berserker Claw X,FF4199,06,FF4198,06,FF41B1,0A,FF41B0,0A
+20=Sabretooth - Heavy Armored Birdie & Weapon X Dash,FF41A1,06,FF41A0,06,FF41B1,0A,FF41B0,0A
+21=Storm - Lightning Storm,FF4189,06,FF4188,06
+22=Storm - Ice Storm,FF41A1,06,FF41A0,06
+23=Wolverine - Weapon X,FF4199,06,FF4198,06
+24=Wolverine - Berserker Barrage X,FF41A1,06,FF41A0,06
+25=Zangief - Final Atomic Buster,FF41A9,08,FF41A8,08
+Default=0
+
+[35]
+Name=P2 Inf Health
+0=Disabled
+1=Enabled,FF4610,90
+Default=0
+
+[36]
+Name=P2 Inf Power
+0=Disabled
+1=Enabled,FF4615,03
+Default=0
+
+[37]
+Name=P2 Inf Double Jump
+0=Disabled
+1=Enabled,FF4542,FF,FF4543,00
+Default=0
+
+[38]
+Name=P2 Inf Recovery Bar
+0=Disabled
+1=Enabled,FF461A,90
+Default=0
+
+[39]
+Name=P2 No Hyper Combo Wait
+0=Disabled
+1=Enabled,FF4741,00
+Default=0
+
+[40]
+Name=P2 Cause Max Damage
+0=Disabled
+1=Enabled,FF4502,FF
+Default=0
+
+[41]
+Name=P2 No Hit Stop
+0=Disabled
+1=Enabled,FF4484,01
+Default=0
+
+[42]
+Name=P2 No Jump Attack Limit
+0=Disabled
+1=Enabled,FF4503,11
+Default=0
+
+[43]
+Name=P2 Action Speed Up
+0=Disabled
+1=Enabled,FF443E,01
+Default=0
+
+[44]
+Name=P2 Easy Combo
+0=Disabled
+1=Enabled,FF4589,04,FF4581,04,FF4591,04,FF4599,04,FF45A1,04,FF45A9,04,FF45B1,04,FF45B9,04,FF45D9,04,FF5483,04,FF45C1,04,FF45D1,04,FF45C9,08,FF45F1,04
+Default=0
+
+[45]
+Name=P2 No Chain Combo Limit
+0=Disabled
+1=Enabled,FF44A6,00
+Default=0
+
+[46]
+Name=P2 Hobber
+0=Disabled
+1=No Hobber,FF4744,01,FF4745,00
+2=Endless Hobber,FF4744,FF,FF4745,03
+Default=0
+
+[47]
+Name=P2 Faint Damage
+0=Disabled
+1=No Faint,FF44B8,3C
+2=Full Faint,FF44B8,01
+Default=0
+
+[48]
+Name=P2 Faint Recover
+0=Disabled
+1=Quick Recover,FF4538,01
+2=No Recover,FF4538,FF
+Default=0
+
+[49]
+Name=P2 Auto Guard After Faint
+0=Disabled
+1=Enabled,FF4546,FF
+Default=0
+
+[50]
+Name=P2 1 Character
+0=Disabled
+1=Enabled,FF4E10,00,FF4E1A,00
+Default=0
+
+[51]
+Name=P2 Controller Mode
+0=Disabled
+1=User Play,FF4402,01
+2=Computer Play,FF4402,00
+Default=0
+
+[52]
+Name=P2 Is Apocalypse
+0=Disabled
+1=Enabled,FF5112,00,FF4452,10,FF4C52,10,FF50B4,10,FF50B6,10
+Default=0
+
+[53]
+Name=P2 Char 1 Select
+0=Disabled
+1=Akuma,FF4452,1E
+2=Cammy,FF4452,22
+3=Charlie,FF4452,20
+4=Chun-Li,FF4452,16
+5=Chun-Li (SFA),FF4452,24
+6=Cyclops,FF4452,02
+7=Dhalsim,FF4452,18
+8=Gambit,FF4452,08
+9=Juggernaut,FF4452,0C
+10=Ken,FF4452,14
+11=M.Bison,FF4452,1C
+12=Magneto,FF4452,0E
+13=Rogue,FF4452,06
+14=Ryu,FF4452,12
+15=Sabretooth,FF4452,0A
+16=Storm,FF4452,04
+17=Wolverine,FF4452,00
+18=Zangief,FF4452,1A
+Default=0
+
+[54]
+Name=P2 Char 2 Select
+0=Disabled
+1=Akuma,FF4C52,1E
+2=Cammy,FF4C52,22
+3=Charlie,FF4C52,20
+4=Chun-Li,FF4C52,16
+5=Chun-Li (SFA),FF4C52,24
+6=Cyclops,FF4C52,02
+7=Dhalsim,FF4C52,18
+8=Gambit,FF4C52,08
+9=Juggernaut,FF4C52,0C
+10=Ken,FF4C52,14
+11=M.Bison,FF4C52,1C
+12=Magneto,FF4C52,0E
+13=Rogue,FF4C52,06
+14=Ryu,FF4C52,12
+15=Sabretooth,FF4C52,0A
+16=Storm,FF4C52,04
+17=Wolverine,FF4C52,00
+18=Zangief,FF4C52,1A
+Default=0
+
+[55]
+Name=P2 Chun-Li - Hyakuretsu Kyaku Strength
+0=Disabled
+1=Light,FF45B3,01
+2=Medium,FF45B3,02
+3=Heavy,FF45B3,04
+Default=0
+
+[56]
+Name=P2 Juggernaut - PowerUp
+0=Disabled
+1=Enabled,FF4502,30,FF4744,01,FF4745,02
+Default=0
+
+[57]
+Name=P2 Rogue - Enemy Power
+0=Disabled
+1=Nothing,FF4743,FF,FF4742,00
+2=Hadouken & Syungokusatsu (Akuma),FF4743,00,FF4742,1E
+3=Cannon Drill (Cammy),FF4743,00,FF4742,22
+4=Sonic Boom (Charlie),FF4743,00,FF4742,20
+5=Kikouken (Chun-Li),FF4743,00,FF4742,16
+6=Kikouken (Chun-Li SFA),FF4743,00,FF4742,24
+7=Optic Blast (Cyclops),FF4743,00,FF4742,02
+8=Yoga Frame (Dhalsim),FF4743,00,FF4742,18
+9=Kinetic Card (Gambit),FF4743,00,FF4742,08
+10=Earthquake Punch (Juggernaut),FF4743,00,FF4742,0C
+11=Syoryuken (Ken),FF4743,00,FF4742,14
+12=Psycho Shot (M.Bison),FF4743,00,FF4742,1C
+13=Hyper Gravitation (Magneto),FF4743,00,FF4742,0E
+14=Hadouken (Ryu),FF4743,00,FF4742,12
+15=Berserker Craw (Sabretooth),FF4743,00,FF4742,0A
+16=Wahl Wind (Storm),FF4743,00,FF4742,04
+17=Berserker Barrage (Wolverine),FF4743,00,FF4742,00
+18=Screw Pile Driver (Zangief),FF4743,00,FF4742,1A
+Default=0
+
+[58]
+Name=P2 Easy Variable Counter & Roll Recovery
+0=Disabled
+1=Enabled,FF45D9,06,FF45D8,06,FF4DD9,06,FF4DD8,06
+Default=0
+
+[59]
+Name=P2 Easy Super Jump
+0=Disabled
+1=Enabled,FF4579,04,FF4578,04,FF4D79,04,FF4D78,04
+Default=0
+
+[60]
+Name=P2 Easy Dash
+0=Disabled
+1=Forward Dash,FF4571,04,FF4570,04,FF4574,01,FF4D71,04,FF4D70,04,FF4D74,01
+2=Backward Dash,FF4571,04,FF4570,04,FF4574,03,FF4D71,04,FF4D70,04,FF4D74,03
+Default=0
+
+[61]
+Name=P2 Easy Crossover Combination
+0=Disabled
+1=Enabled,FF45F1,06,FF45F0,06
+Default=0
+
+[62]
+Name=P2 Easy Moves
+0=Disabled
+1=Akuma - Gou & Zankuu Hadou Ken & Ashura Senkuu 1 & (Kuuchuu) Tatsumaki Zankuu Kyaku,FF4581,06,FF4580,06,FF45B1,06,FF45B0,06,FF4591,06,FF4590,06,FF4599,06,FF4598,06,FF45A1,06,FF45A0,06
+2=Akuma - Gou Shoryuu Ken & Ashura Senkuu 1 & (Kuuchuu) Tatsumaki Zankuu Kyaku & Zankuu Hadou Ken,FF4589,06,FF4588,06,FF45B1,06,FF45B0,06,FF4591,06,FF4590,06,FF4599,06,FF4598,06,FF45A1,06,FF45A0,06
+3=Akuma - Gou & Zankuu Hadou Ken & Ashura Senkuu 2 & (Kuuchuu) Tatsumaki Zankuu Kyaku,FF4581,06,FF4580,06,FF45B9,06,FF45B8,06,FF4591,06,FF4590,06,FF4599,06,FF4598,06,FF45A1,06,FF45A0,06
+4=Akuma - Gou Shoryuu Ken & Ashura Senkuu 2 & (Kuuchuu) Tatsumaki Zankuu Kyaku & Zankuu Hadou Ken,FF4589,06,FF4588,06,FF45B9,06,FF45B8,06,FF4591,06,FF4590,06,FF4599,06,FF4598,06,FF45A1,06,FF45A0,06
+5=Apocalypse - Energy Bolts & Earthquake Fist,FF4581,06,FF4580,06,FF4599,06,FF4598,06,FF45A1,06,FF45A0,06
+6=Apocalypse - Energy Bolts & Mace Fist,FF4589,06,FF4588,06,FF4599,06,FF4598,06,FF45A1,06,FF45A0,06
+7=Apocalypse - Energy Bolts & Mega Drill,FF4591,06,FF4590,06,FF4599,06,FF4598,06,FF45A1,06,FF45A0,06
+8=Cammy - Cannon Spike & Strike & Axle Spin Knuckle,FF4581,06,FF4580,06,FF4591,06,FF4590,06,FF45B1,06,FF45B0,06
+9=Cammy - Cannon Drill & Strike & Axle Spin Knuckle,FF4589,06,FF4588,06,FF4591,06,FF4590,06,FF45B1,06,FF45B0,06
+10=Cammy - Hooligan Combination & Axle Spin Knuckle & Cannon Strike,FF4599,06,FF4598,06,FF4591,06,FF4590,06,FF45B1,06,FF45B0,06
+11=Cammy - Cannon Spike & Revenge & Strike,FF4581,06,FF4580,06,FF45A1,0A,FF45A0,0A,FF45B1,06,FF45B0,06
+12=Cammy - Cannon Drill & Revenge & Strike,FF4589,06,FF4588,06,FF45A1,0A,FF45A0,0A,FF45B1,06,FF45B0,06
+13=Cammy - Hooligan Combination & Cannon Revenge & Strike,FF4599,06,FF4598,06,FF45A1,0A,FF45A0,0A,FF45B1,06,FF45B0,06
+14=Cammy - Cannon Spike & Air Drill & Axle Spin Knuckle & ,FF4581,06,FF4580,06,FF4591,06,FF4590,06,FF45B9,06,FF45B8,06
+15=Cammy - Cannon Drill & Air Drill & Axle Spin Knuckle,FF4589,06,FF4588,06,FF4591,06,FF4590,06,FF45B9,06,FF45B8,06
+16=Cammy - Hooligan Combination & Axle Spin Knuckle & Air Cannon Drill,FF4599,06,FF4598,06,FF4591,06,FF4590,06,FF45B9,06,FF45B8,06
+17=Cammy - Cannon Spike & Air Drill & Revenge,FF4581,06,FF4580,06,FF45A1,0A,FF45A0,0A,FF45B9,06,FF45B8,06
+18=Cammy - Cannon Drill & Air Drill & Revenge,FF4589,06,FF4588,06,FF45A1,0A,FF45A0,0A,FF45B9,06,FF45B8,06
+19=Cammy - Hooligan Combination & Cannon Revenge & Air Drill,FF4599,06,FF4598,06,FF45A1,0A,FF45A0,0A,FF45B9,06,FF45B8,06
+20=Charlie - Sonic Boom & Somersault Shell & Moonsault Slash,FF4581,08,FF4580,08,FF4589,08,FF4588,08,FF45A9,06,FF45A8,06
+21=Chun-Li - Kikou Ken & Tenshou Kyaku,FF4581,0A,FF4580,0A,FF4589,08,FF4588,08
+22=Chun-Li - Kikou Ken & Se'en Shuu,FF4581,0A,FF4580,0A,FF4591,0A,FF4590,0A
+23=Chun-Li - Kikou Ken & Hyakuretsu Kyaku,FF4581,0A,FF4580,0A,FF45B1,06,FF45B0,06
+24=Cyclops - Running Neckbreaker Drop & Rapid Punch & Optic Blast,FF4581,06,FF4580,06,FF45A1,06,FF45A0,06,FF45B9,06,FF45B8,06
+25=Cyclops - Running Neckbreaker Drop & Rapid Punch & Rising Uppercut,FF4599,06,FF4598,06,FF45A1,06,FF45A0,06,FF45B9,06,FF45B8,06
+26=Cyclops - Running Neckbreaker Drop & Rapid Punch & Optic Sweep,FF45A9,06,FF45A8,06,FF45A1,06,FF45A0,06,FF45B9,06,FF45B8,06
+27=Cyclops - Running Neckbreaker Drop & Rapid Punch & Cyclone Kick,FF45B1,06,FF45B0,06,FF45A1,06,FF45A0,06,FF45B9,06,FF45B8,06
+28=Dhalsim - Yoga Fire & Blast & Teleport 1 & 3,FF4581,06,FF4580,06,FF4591,0A,FF4590,0A,FF4599,06,FF4598,06,FF45A9,06,FF45A8,06
+29=Dhalsim - Yoga Fire & Blast & Teleport 1 & 4,FF4581,06,FF4580,06,FF4591,0A,FF4590,0A,FF4599,06,FF4598,06,FF45B1,06,FF45B0,06
+30=Dhalsim - Yoga Fire & Blast & Teleport 2 & 3,FF4581,06,FF4580,06,FF4591,0A,FF4590,0A,FF45A1,06,FF45A0,06,FF45A9,06,FF45A8,06
+31=Dhalsim - Yoga Fire & Blast & Teleport 2 & 4,FF4581,06,FF4580,06,FF4591,0A,FF4590,0A,FF45A1,06,FF45A0,06,FF45B1,06,FF45B0,06
+32=Dhalsim - Yoga Flame & Blast & Teleport 1 & 3,FF4589,0A,FF4588,0A,FF4591,0A,FF4590,0A,FF4599,06,FF4598,06,FF45A9,06,FF45A8,06
+33=Dhalsim - Yoga Flame & Blast & Teleport 1 & 4,FF4589,0A,FF4588,0A,FF4591,0A,FF4590,0A,FF4599,06,FF4598,06,FF45B1,06,FF45B0,06
+34=Dhalsim - Yoga Flame & Blast & Teleport 2 & 3,FF4589,0A,FF4588,0A,FF4591,0A,FF4590,0A,FF45A1,06,FF45A0,06,FF45A9,06,FF45A8,06
+35=Dhalsim - Yoga Flame & Blast & Teleport 2 & 4,FF4589,0A,FF4588,0A,FF4591,0A,FF4590,0A,FF45A1,06,FF45A0,06,FF45B1,06,FF45B0,06
+36=Gambit - Kinetic Card & Cajun Escape,FF4581,06,FF4580,06,FF45A9,08,FF45A8,08,FF45B9,06,FF45B8,06
+37=Gambit - Trick Card & Cajun Escape,FF4589,06,FF4588,06,FF45A9,08,FF45A8,08,FF45B9,06,FF45B8,06
+38=Gambit - Cajun Slash & Escape,FF4591,06,FF4590,06,FF45A9,08,FF45A8,08,FF45B9,06,FF45B8,06
+39=Gambit - Cajun Strike & Escape,FF4599,06,FF4598,06,FF45A9,08,FF45A8,08,FF45B9,06,FF45B8,06
+40=Juggernaut - Avalanche Punch & Juggernaut Body Press & Cyttorak Power-Up,FF4581,06,FF4580,06,FF45A1,0A,FF45A0,0A,FF4591,06,FF4590,06
+41=Juggernaut - Avalanche Punch & Nail Slam & Cyttorak Power-Up,FF4581,06,FF4580,06,FF45B9,06,FF45B8,06,FF4591,06,FF4590,06
+42=Juggernaut - Juggernaut Punch & Body Press & Cyttorak Power-Up,FF4599,0A,FF4598,0A,FF45A1,0A,FF45A0,0A,FF4591,06,FF4590,06
+43=Juggernaut - Juggernaut Punch & Nail Slam & Cyttorak Power-Up,FF4599,0A,FF4598,0A,FF45B9,06,FF45B8,06,FF4591,06,FF4590,06
+44=Ken - Hadou Ken & (Kuuchuu) Tatsumaki Senpuu Kyaku,FF4581,06,FF4580,06,FF4591,06,FF4590,06,FF4599,06,FF4598,06
+45=Ken - Shoryuu Ken & (Kuuchuu) Tatsumaki Senpuu Kyaku,FF4589,06,FF4588,06,FF4591,06,FF4590,06,FF4599,06,FF4598,06
+46=M.Bison - Psycho Shot & Double Knee Press & Hikou,FF4581,0A,FF4580,0A,FF4589,0A,FF4588,0A,FF45C9,06,FF45C8,06
+47=M.Bison - Somersault Skull Diver & Double Knee Press & Hikou,FF45A9,08,FF45A8,08,FF4589,0A,FF4588,0A,FF45C9,06,FF45C8,06
+48=M.Bison - Psycho Field & Double Knee Press & Hikou,FF45C1,0A,FF45C0,0A,FF4589,0A,FF4588,0A,FF45C9,06,FF45C8,06
+49=M.Bison - Psycho Shot & Head Press & Hikou,FF4581,0A,FF4580,0A,FF45A1,08,FF45A0,08,FF45C9,06,FF45C8,06
+50=M.Bison - Somersault Skull Diver & Head Press & Hikou,FF45A9,08,FF45A8,08,FF45A1,08,FF45A0,08,FF45C9,06,FF45C8,06
+51=M.Bison - Psycho Field & Head Press & Hikou,FF45C1,0A,FF45C0,0A,FF45A1,08,FF45A0,08,FF45C9,06,FF45C8,06
+52=M.Bison - Bison Warp & Hikou,FF4591,06,FF4590,06,FF45C9,06,FF45C8,06
+53=Magneto - EM Disruptor & Hyper Gravitation & Hikou,FF4581,0A,FF4580,0A,FF4589,0A,FF4588,0A,FF45A1,06,FF45A0,06
+54=Magneto - EM Disruptor & Magnetic Force Field & Hikou,FF4581,0A,FF4580,0A,FF45A9,0A,FF45A8,0A,FF45A1,06,FF45A0,06
+55=Magneto - Magnetic Blast & Hyper Gravitation & Hikou,FF45C1,06,FF45C0,06,FF4589,0A,FF4588,0A,FF45A1,06,FF45A0,06
+56=Magneto - Magnetic Blast & Force Field & Hikou,FF45C1,06,FF45C0,06,FF45A9,0A,FF45A8,0A,FF45A1,06,FF45A0,06
+57=Rogue - Repeating Punch & Aite no Nouryoku Kyuushuu,FF4591,06,FF4590,06,FF4589,06,FF4588,06
+58=Rogue - Repeating Punch & Nouryouku Shiyou,FF4581,06,FF4580,06,FF4589,06,FF4588,06
+59=Rogue - Repeating Punch & Power Dive Punch,FF45A9,06,FF45A8,06,FF4589,06,FF4588,06
+60=Rogue - Rising Repeating Punch & Aite no Nouryoku Kyuushuu,FF4591,06,FF4590,06,FF4599,06,FF4598,06
+61=Rogue - Rising Repeating Punch & Nouryouku Shiyou,FF4581,06,FF4580,06,FF4599,06,FF4598,06
+62=Rogue - Rising Repeating Punch & Power Dive Punch,FF45A9,06,FF45A8,06,FF4599,06,FF4598,06
+63=Ryu - (Kuuchuu) Hadou Ken & (Kuuchuu) Tatsumaki Senpuu Kyaku,FF4581,06,FF4580,06,FF4591,06,FF4590,06,FF4599,06,FF4598,06,FF45A1,06,FF45A0,06
+64=Ryu - Shoryuu Ken & Kuuchuu Hadou Ken & (Kuuchuu) Tatsumaki Senpuu Kyaku,FF4589,06,FF4588,06,FF4591,06,FF4590,06,FF4599,06,FF4598,06,FF45A1,06,FF45A0,06
+65=Sabretooth - Berserker Claw & Armored Birdie,FF4581,06,FF4580,06,FF4589,0A,FF4588,0A
+66=Sabretooth - Wild Fang & Armored Birdie,FF45A9,0A,FF45A8,0A,FF4589,0A,FF4588,0A
+67=Storm - Whirlwind Toss & Hikou,FF4581,06,FF4580,06,FF4599,06,FF4598,06
+68=Storm - Double Typhoon & Hikou,FF4599,06,FF4598,06,FF45A9,06,FF45A8,06
+69=Wolverine - Tornado Claw,FF4581,06,FF4580,06
+70=Wolverine - Berserker Barrage,FF4591,06,FF4590,06
+71=Zangief - Banishing Flat & Flying Powerbomb,FF4591,06,FF4590,06,FF45A1,0A,FF45A0,0A
+72=Zangief - Banishing Flat & Aerial Russian Slam,FF4591,06,FF4590,06,FF45B1,0A,FF45B0,0A
+73=Zangief - Screw Piledriver & Flying Powerbomb,FF4599,08,FF4598,08,FF45A1,0A,FF45A0,0A
+74=Zangief - Screw Piledriver & Aerial Russian Slam,FF4599,08,FF4598,08,FF45B1,0A,FF45B0,0A
+Default=0
+
+[63]
+Name=P2 Easy Hyper Combos
+0=Disabled
+1=Akuma - Messatsu Gou Hadou & Tenma Gou Zankuu & Shun Goku Satsu,FF45C1,06,FF45C0,06,FF45C9,08,FF45C8,08,FF45A9,06,FF45A8,06
+2=Akuma - Messatsu Gou Shoryuu & Tenma Gou Zankuu & Shun Goku Satsu,FF45C1,06,FF45C0,06,FF45C9,08,FF45C8,08,FF45D1,06,FF45D0,06
+3=Cammy - Spin Drive Smasher,FF45A9,06,FF45A8,06
+4=Cammy - Killer Bee Assault,FF45C1,06,FF45C0,06
+5=Charlie - Sonic Break & Somersault Justice,FF4591,06,FF4590,06,FF4599,06,FF4598,06
+6=Charlie - Sonic Break & Crossfire Blitz,FF4591,06,FF4590,06,FF45A1,06,FF45A0,06
+7=Chun-Li - Kikou Shou & Senretsu Kyaku,FF4599,06,FF4599,06,FF45A1,06,FF45A0,06
+8=Chun-Li - Kikou Shou & Hanzan Tenshou Kyaku,FF4599,06,FF4599,06,FF45A9,06,FF45A8,06
+9=Cyclops - Super Optic Blast,FF4589,06,FF4588,06
+10=Cyclops - Mega Optic Blast,FF4591,06,FF4590,06
+11=Dhalsim - Yoga Inferno & Strike,FF45B9,06,FF45B8,06,FF45C1,06,FF45C0,06
+12=Gambit - Royal Flush,FF45A1,06,FF45A0,06
+13=Juggernaut - Juggernaut Head Crush,FF4589,06,FF4588,06
+14=Ken - Shoryuu Reppa & Shinryuu Ken,FF45B1,06,FF45B0,06,FF45B9,06,FF45B8,06
+15=M.Bison - Knee Press Nightmare & Psycho Crusher,FF45B1,06,FF45B0,06,FF45B9,06,FF45B8,06
+16=Magneto - Magnetic Shockwave & Tempest,FF4591,06,FF4590,06,FF4599,06,FF4598,06
+17=Rogue - Goodnight Sugah & Shun Goku Satsu,FF45A1,06,FF45A0,06,FF45B1,06,FF45B0,06
+18=Ryu - Shinkuu Hadou Ken & Shinkuu Tatsumaki Senpuu Kyaku,FF45A9,06,FF45A8,06,FF45B1,06,FF45B0,06
+19=Sabretooth - Heavy Armored Birdie & Berserker Claw X,FF4599,06,FF4598,06,FF45B1,0A,FF45B0,0A
+20=Sabretooth - Heavy Armored Birdie & Weapon X Dash,FF45A1,06,FF45A0,06,FF45B1,0A,FF45B0,0A
+21=Storm - Lightning Storm,FF4589,06,FF4588,06
+22=Storm - Ice Storm,FF45A1,06,FF45A0,06
+23=Wolverine - Weapon X,FF4599,06,FF4598,06
+24=Wolverine - Berserker Barrage X,FF45A1,06,FF45A0,06
+25=Zangief - Final Atomic Buster,FF45A9,08,FF45A8,08
+Default=0
+
+[64]
+Name=BackGround Select
+0=Disabled
+1=Apocalypse Now!,FF5112,00
+2=Code Red,FF5112,08
+3=Dead or Live - The Show,FF5112,09
+4=Death Valley,FF5112,02
+5=Mall Mayhem,FF5112,0A
+6=Manhattan,FF5112,06
+7=On the Hilltop,FF5112,05
+8=Raging Inferno,FF5112,07
+9=Showdown in the Park,FF5112,01
+10=The Cataract,FF5112,03
+11=The Temple of Fists,FF5112,04
+Default=0
+
+[65]
+Name=Stage Select
+0=Disabled
+1=Stage 1,FF5080,00
+2=Stage 2,FF5080,01
+3=Stage 3,FF5080,02
+4=Stage 4,FF5080,03
+5=Stage 5,FF5080,04
+6=Stage 6,FF5080,05
+7=Stage 7,FF5080,06
+Default=0
+

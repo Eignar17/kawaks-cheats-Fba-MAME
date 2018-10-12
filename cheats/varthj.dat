@@ -1,0 +1,143 @@
+[0]
+Name=P1 Inf Lives
+0=Disabled
+1=Enabled,FF83A5,99
+Default=0
+
+[1]
+Name=P1 Inf Bombs
+0=Disabled
+1=Enabled,FF83B2,05
+Default=0
+
+[2]
+Name=P1 Invincible
+0=Disabled
+1=Enabled,FF8322,F0,FF8301,02
+Default=0
+
+[3]
+Name=P1 Max Fire Power
+0=Disabled
+1=Enabled,FF83B0,07
+Default=0
+
+[4]
+Name=P1 Max Missile Power
+0=Disabled
+1=Enabled,FF83B7,03
+Default=0
+
+[5]
+Name=P1 Fire Type
+0=Disabled
+1=Normal,FF83B3,00
+2=3-Way,FF83B3,02
+3=Laser,FF83B3,04
+Default=0
+
+[6]
+Name=P1 Missile Type*
+0=Disabled
+1=H,FF83B9,00
+2=M,FF83B9,01
+3=N,FF83B9,02
+Default=0
+
+[7]
+Name=P1 Hyper Shot
+0=Disabled
+1=Fire Only,FF8340,00
+2=Missile Only,FF8345,00
+3=Fire + Missile,FF8340,00,FF8345,00
+Default=0
+
+[8]
+Name=P2 Inf Lives
+0=Disabled
+1=Enabled,FF84A5,99
+Default=0
+
+[9]
+Name=P2 Inf Bombs
+0=Disabled
+1=Enabled,FF84B2,05
+Default=0
+
+[10]
+Name=P2 Invincible
+0=Disabled
+1=Enabled,FF8422,F0,FF8401,02
+Default=0
+
+[11]
+Name=P2 Max Fire Power
+0=Disabled
+1=Enabled,FF84B0,07
+Default=0
+
+[12]
+Name=P2 Max Missile Power
+0=Disabled
+1=Enabled,FF84B7,03
+Default=0
+
+[13]
+Name=P2 Fire Type
+0=Disabled
+1=Normal,FF84B3,00
+2=3-Way,FF84B3,02
+3=Laser,FF84B3,04
+Default=0
+
+[14]
+Name=P2 Missile Type*
+0=Disabled
+1=H,FF84B9,00
+2=M,FF84B9,01
+3=N,FF84B9,02
+Default=0
+
+[15]
+Name=P2 Hyper Shot
+0=Disabled
+1=Fire Only,FF8440,00
+2=Missile Only,FF8445,00
+3=Fire + Missile,FF8440,00,FF8445,00
+Default=0
+
+[16]
+Name=Stage Select
+0=Disabled
+1=Stage 1,FF8500,00
+2=Stage 2,FF8500,01
+3=Stage 3,FF8500,02
+4=Stage 4,FF8500,03
+5=Stage 5,FF8500,04
+6=Stage 6,FF8500,05
+7=Stage 7,FF8500,06
+8=Stage 8,FF8500,07
+9=Stage 9,FF8500,08
+10=Stage 10,FF8500,09
+11=Stage 11,FF8500,0A
+12=Stage 12,FF8500,0B
+13=Stage 13,FF8500,0C
+14=Stage 14,FF8500,0D
+15=Stage 15,FF8500,0E
+16=Stage 16,FF8500,0F
+17=Stage 17,FF8500,10
+18=Stage 18,FF8500,11
+19=Stage 19,FF8500,12
+20=Stage 20,FF8500,13
+21=Stage 21,FF8500,14
+22=Stage 22,FF8500,15
+23=Stage 23,FF8500,16
+24=Stage 24,FF8500,17
+25=Stage 25,FF8500,18
+26=Stage 26,FF8500,19
+27=Stage 27,FF8500,1A
+28=Stage 28,FF8500,1B
+29=Stage 29,FF8500,1C
+30=Stage 30,FF8500,1D
+Default=0
+
