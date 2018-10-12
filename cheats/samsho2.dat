@@ -1,0 +1,99 @@
+[0]
+Name=电脑体力值=零
+0=OFF,0,0
+1=P2-ON,100A4C,BA,100A4D,00
+2=P1-ON,100A48,BA,100A49,00
+
+[1]
+Name=无限时间
+0=OFF,0,0
+1=ON,100AC7,98
+
+[2]
+Name=P1 角色 (选好角色后再锁定)
+0=OFF,0,0
+1=*Mizuki,100D0A,10
+2=*Kuroko,100D0A,11
+3=Haohmaru,100D0A,00
+4=Nakoruru,100D0A,01
+5=Hanzo,100D0A,02
+6=Galford,100D0A,03
+7=Wan-Fu,100D0A,04
+8=Ukyo,100D0A,05
+9=Kyoshiro,100D0A,06
+10=Gen-An,100D0A,07
+11=Earthquake,100D0A,08
+12=Jubei,100D0A,09
+13=Charlotte,100D0A,0B
+14=Genjuro,100D0A,0C
+15=Cham Cham,100D0A,0D
+16=Sieger,100D0A,0E
+17=Nicotine,100D0A,0F
+
+[3]
+Name=P1 生命值
+0=OFF,0,0
+1=ON,100A48,BA,100A49,80
+
+[4]
+Name=P1 怒 MAX
+0=OFF,0,0
+1=ON,100A48,F1,100A49,20,100A48,B8,100A49,FF
+
+[5]
+Name=P1 对方的攻击无效
+0=OFF,0,0
+1=ON,100000,02
+
+[6]
+Name=P2 角色 (选好角色后再锁定)
+0=OFF,0,0
+1=*Mizuki,100D1A,10
+2=*Kuroko,100D1A,11
+3=Haohmaru,100D1A,00
+4=Nakoruru,100D1A,01
+5=Hanzo,100D1A,02
+6=Galford,100D1A,03
+7=Wan-Fu,100D1A,04
+8=Ukyo,100D1A,05
+9=Kyoshiro,100D1A,06
+10=Gen-An,100D1A,07
+11=Earthquake,100D1A,08
+12=Jubei,100D1A,09
+13=Charlotte,100D1A,0B
+14=Genjuro,100D1A,0C
+15=Cham Cham,100D1A,0D
+16=Sieger,100D1A,0E
+17=Nicotine,100D1A,0F
+
+[7]
+Name=P2 生命值
+0=OFF,0,0
+1=ON,100A4C,BA,100A4D,80
+
+[8]
+Name=P2 怒 MAX
+0=OFF,0,0
+1=ON,100A4C,F1,100A4D,20,100A4C,B8,100A4D,FF
+
+[9]
+Name=选择背景
+0=OFF,0,0
+1=骸流岛->夕の刻,100AD8,00
+2=虾夷->夏,100AD8,01
+3=出羽->落日,100AD8,02
+4=サンフランシスコ->PM12:00,100AD8,03
+5=西安->咸寺,100AD8,04
+6=骸流岛->宵の刻,100AD8,05
+7=江?->狂死郎千本?,100AD8,06
+8=鬼哭岛->材料待ち,100AD8,07
+9=テキサス->パシフィック道,100AD8,08
+10=奥->初冬,100AD8,09
+11=ヴェルサイユ->マルスの间,100AD8,0B
+12=三方ヶ原->叶月,100AD8,0C
+13=グリ－ンヘル->湿原带,100AD8,0D
+14=プロシア王国->骑士团,100AD8,0E
+15=飞禅->枯华院,100AD8,0F
+16=忍山->魔界降临,100AD8,10
+17=ヒマラヤ->标高8848m,100AD8,11
+

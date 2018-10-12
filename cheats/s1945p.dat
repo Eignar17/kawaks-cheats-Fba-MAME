@@ -1,0 +1,88 @@
+[0]
+Name=P1 Fighter Select
+0=Off,0,0
+1=Lightning,1000E6,01
+2=FlyingPancake,1000E6,02
+3=SpitFire,1000E6,03
+4=Ta152 Focke-wulf,1000E6,04
+5=ZeroFighter,1000E6,05
+6=Fiat G-56,1000E6,06
+7=Ascender,1000E6,07
+
+[1]
+Name=P1 Infinite Lives
+0=Off,0,0
+1=On,1000E8,09
+
+[2]
+Name=P1 Infinite Bombs
+0=Off,0,0
+1=On,1000EA,09
+
+[3]
+Name=P1 Ultimate Shot Power
+0=Off,0,0
+1=Level 1,1000EC,00
+2=Level 2,1000EC,01
+3=Level 3,1000EC,02
+4=Level 4,1000EC,03
+5=Level 5,1000EC,04
+
+[4]
+Name=P1 Infinite Super Shot Stocks
+0=Off,0,0
+1=On,1000F0,09,1000F4,09
+
+[5]
+Name=P1 Super Shot Gauge
+0=Off,0,0
+1=Empty,1000F7,00
+2=Full,1000F7,FF
+
+[6]
+Name=P2 Fighter Select
+0=Off,0,0
+1=Lightning,100142,01
+2=FlyingPancake,100142,02
+3=SpitFire,100142,03
+4=Ta152 Focke-wulf,100142,04
+5=ZeroFighter,100142,05
+6=Fiat G-56,100142,06
+7=Ascender,100142,07
+
+[7]
+Name=P2 Infinite Lives
+0=Off,0,0
+1=On,100144,09
+
+[8]
+Name=P2 Infinite Bombs
+0=Off,0,0
+1=On,100146,09
+
+[9]
+Name=P2 Ultimate Shot Power
+0=Off,0,0
+1=Level 1,100148,00
+2=Level 2,100148,01
+3=Level 3,100148,02
+4=Level 4,100148,03
+5=Level 5,100148,04
+
+[10]
+Name=P2 Infinite Super Shot Stocks
+0=Off,0,0
+1=On,10014C,09,100150,09
+
+[11]
+Name=P2 Super Shot Gauge
+0=Off,0,0
+1=Empty,100153,00
+2=Full,100153,FF
+
+[12]
+Name=Invulnerabirity (Unperfect?)
+0=Off,0,0
+1=P1 On,102176,FF,102177,FF,102178,FF,102179,FF
+2=P2 On,1022BE,FF,1022BF,FF,1022C0,FF,1022C1,FF
+3=P1&P2 On,102176,FF,102177,FF,102178,FF,102179,FF,1022BE,FF,1022BF,FF,1022C0,FF,1022C1,FF

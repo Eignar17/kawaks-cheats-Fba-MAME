@@ -1,0 +1,131 @@
+[0]
+Name=Infinite Time Limit
+0=Off,0,0
+1=On,10849F,99
+
+[1]
+Name=Infinite Health
+0=Off,0,0
+1=P1,108572,80
+2=P2,108672,80
+3=P1&P2,108572,80,108672,80
+
+[2]
+Name=P1 Power Gauge
+0=Off,0,0
+1=Nothing,10857D,00
+2=Max,10857D,40
+3=No Decrease,108551,50
+4=Max & No Decrease,10857D,40,108551,50
+5=High Speed Decrease,108551,01
+
+[3]
+Name=P2 Power Gauge
+0=Off,0,0
+1=Nothing,10867D,00
+2=Max,10867D,40
+3=No Decrease,108651,50
+4=Max & No Decrease,10867D,40,108651,50
+5=High Speed Decrease,108651,01
+
+[4]
+Name=P1 Character Select
+0=Off,0,0
+1=Haohmaru SLASH,108471,00
+2=Haohmaru BUST,108471,50
+3=Nakoruru SLASH,108471,01
+4=Nakoruru BUST,108471,51
+5=Rimururu SLASH,108471,02
+6=Rimururu BUST,108471,52
+7=Hanzo Hattori SLASH,108471,03
+8=Hanzo Hattori BUST,108471,53
+9=Galford SLASH,108471,04
+10=Galford BUST,108471,54
+11=Kyoshiro Senryo SLASH,108471,05
+12=Kyoshiro Senryo BUST,108471,55
+13=Ukyo Tachibana SLASH,108471,06
+14=Ukyo Tachibana BUST,108471,56
+15=Genjuro Kibagami SLASH,108471,07
+16=Genjuro Kibagami BUST,108471,57
+17=Basara SLASH,108471,08
+18=Basara BUST,108471,58
+19=Shizumaru Hisame SLASH,108471,09
+20=Shizumaru Hisame BUST,108471,59
+21=Gaira Kafuin SLASH,108471,0A
+22=Gaira Kafuin BUST,108471,5A
+23=Amakura Shiro SLASH,108471,0B
+24=Amakura Shiro BUST,108471,5B
+25=Kuroko SLASH,108471,0C
+26=Kuroko BUST,108471,5C
+27=Zankurou SLASH,108471,0D
+28=Zankurou BUST,108471,5D
+
+[5]
+Name=P2 Character Select
+0=Off,0,0
+1=Haohmaru SLASH,108470,00
+2=Haohmaru BUST,108470,50
+3=Nakoruru SLASH,108470,01
+4=Nakoruru BUST,108470,51
+5=Rimururu SLASH,108470,02
+6=Rimururu BUST,108470,52
+7=Hanzo Hattori SLASH,108470,03
+8=Hanzo Hattori BUST,108470,53
+9=Galford SLASH,108470,04
+10=Galford BUST,108470,54
+11=Kyoshiro Senryo SLASH,108470,05
+12=Kyoshiro Senryo BUST,108470,55
+13=Ukyo Tachibana SLASH,108470,06
+14=Ukyo Tachibana BUST,108470,56
+15=Genjuro Kibagami SLASH,108470,07
+16=Genjuro Kibagami BUST,108470,57
+17=Basara SLASH,108470,08
+18=Basara BUST,108470,58
+19=Shizumaru Hisame SLASH,108470,09
+20=Shizumaru Hisame BUST,108470,59
+21=Gaira Kafuin SLASH,108470,0A
+22=Gaira Kafuin BUST,108470,5A
+23=Amakura Shiro SLASH,108470,0B
+24=Amakura Shiro BUST,108470,5B
+25=Kuroko SLASH,108470,0C
+26=Kuroko BUST,108470,5C
+27=Zankurou SLASH,108470,0D
+28=Zankurou BUST,108470,5D
+
+[6]
+Name=P1 Player Class
+0=Off,0,0
+1=Bigginers Class,108473,00
+2=Medium Grade,108473,01
+3=Upper Grade,108473,02
+
+[7]
+Name=P2 Player Class
+0=Off,0,0
+1=Bigginers Class,108472,00
+2=Medium Grade,108472,01
+3=Upper Grade,108472,02
+
+[8]
+Name=Winning Points
+0=Off,0,0
+1=P1 0win,108593,00
+2=P1 2win,108593,02
+3=P2 0win,108693,00
+4=P2 2win,108693,02
+5=P1&P2 0win,108593,00,108693,00
+6=P1&P2 2win,108593,02,108693,02
+
+[9]
+Name=Can not recover from faint
+0=Off,0,0
+1=P1,1085B5,FF
+2=P2,1086B5,FF
+3=P1&P2,1085B5,FF,1086B5,FF
+
+[10]
+Name=No Hit Stop??
+0=Off,0,0
+1=P1,10FD98,00
+2=P2,1084B7,00
+3=P1&P2,10FD98,00,1084B7,00

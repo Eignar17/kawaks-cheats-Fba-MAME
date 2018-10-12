@@ -1,0 +1,370 @@
+[0]
+Name=Infinite Time*
+0=Disabled
+1=Enabled,FF8ABF,99
+Default=0
+
+[1]
+Name=Turbo Mode
+0=Disabled
+1=Enabled,FF82DC,01
+Default=0
+
+[2]
+Name=P1 Inf Energy*
+0=Disabled
+1=Enabled,FF83E8,90,FF857A,90
+Default=0
+
+[3]
+Name=P1 Invincible
+0=Disabled
+1=Enabled,FF857C,01
+Default=0
+
+[4]
+Name=P1 1 Win Match
+0=Disabled
+1=Enabled,FF864F,02
+Default=0
+
+[5]
+Name=P1 Air Moves
+0=Disabled
+1=Enabled,FF853E,00
+Default=0
+
+[6]
+Name=P1 Low Gravity
+0=Disabled
+1=Enabled,FF8400,20
+Default=0
+
+[7]
+Name=P1 Inf Fireball
+0=Disabled
+1=Enabled,FF8593,00,FF8592,00
+Default=0
+
+[8]
+Name=P1 No Faint
+0=Disabled
+1=Enabled,FF841E,01
+Default=0
+
+[9]
+Name=P1 Action Speed Up
+0=Disabled
+1=Enabled,FF83D6,01
+Default=0
+
+[10]
+Name=P1 Shot Motion Speed Up
+0=Disabled
+1=Enabled,FF83DD,01
+Default=0
+
+[11]
+Name=P1 Endless Combo
+0=Disabled
+1=Enabled,FF8709,00
+Default=0
+
+[12]
+Name=P1 All Hits Combo
+0=Disabled
+1=Enabled,FF8552,01
+Default=0
+
+[13]
+Name=P1 All Hits Keep You Close
+0=Disabled
+1=Enabled,FF870B,00
+Default=0
+
+[14]
+Name=P1 Force Attack Level
+0=Disabled
+1=Low Level,FF853F,00
+2=Middle Level,FF853F,02
+3=High Level,FF853F,04
+Default=0
+
+[15]
+Name=P1 Quick Shot
+0=Disabled
+1=Quick Shot,FF83DD,01
+2=Quick Shot Guile,FF83DD,00
+Default=0
+
+[16]
+Name=P1 Quick Charge
+0=Disabled
+1=Balrog,FF843E,01,FF8446,01
+2=Blanka,FF843E,01,FF846F,06
+3=Chun Li,FF843E,01
+4=E.Honda,FF843E,01,FF8469,06
+5=Guile,FF843E,01,FF8444,01
+6=M.Bison,FF843E,01,FF8446,01,FF8451,01
+7=Vega,FF843E,01,FF8446,01
+Default=0
+
+[17]
+Name=P1 Char Select
+0=Disabled
+1=Balrog,FF864E,0A
+2=Blanka,FF864E,02
+3=Chun Li,FF864E,05
+4=Dhalsim,FF864E,07
+5=E.Honda,FF864E,01
+6=Guile,FF864E,03
+7=Ken,FF864E,04
+8=M.Bison,FF864E,08
+9=Ryu,FF864E,00
+10=Sagat,FF864E,09
+11=Vega,FF864E,0B
+12=Zangief,FF864E,06
+Default=0
+
+[18]
+Name=P1 Balrog - Turnpunch
+0=Disabled
+1=Max Turnpunch,FF8475,09,FF8474,61,FF8477,09,FF8476,61
+2=Min Turnpunch,FF8475,00,FF8474,00,FF8477,00,FF8476,00
+Default=0
+
+[19]
+Name=P1 Vega - Claw
+0=Disabled
+1=Claw On,FF850B,01
+2=Claw Off,FF850B,00
+Default=0
+
+[20]
+Name=P1 Easy Moves
+0=Disabled
+1=Balrog - Dash Straight & Upper,FF843F,08,FF8440,01,FF8447,08,FF8448,01
+2=Balrog - Dash Straight & Turn Punch 2,FF843F,08,FF8440,01,FF84CE,04
+3=Balrog - Turn Punch 1 & 2,FF84CF,04,FF84CE,04
+4=Balrog - Turn Punch 1 & Dash Upper,FF84CF,04,FF8447,08,FF8448,01
+5=Blanka - Rolling Attack & Vertical Rolling,FF843F,08,FF8440,01,FF846F,08,FF8472,01
+6=Blanka - Electric Thunder & Vertical Rolling,FF8459,04,FF845B,04,FF845D,04,FF846F,08,FF8472,01
+7=Chun-Li - Spinning Bird Kick & Kikou Ken,FF843F,08,FF8440,01,FF846F,0A,FF846E,0C
+8=Chun-Li - Hyakuretsu Kyaku & Kikou Ken,FF8459,04,FF845B,04,FF845D,04,FF846F,0A,FF846E,0C
+9=Dhalsim - Yoga Fire,FF844F,04,FF8450,06
+10=Dhalsim - Yoga Flame,FF8457,04,FF8458,0A
+11=Dhalsim - Teleport 1,FF8487,06,FF8486,06,FF8489,00
+12=Dhalsim - Teleport 2,FF8487,06,FF8486,06,FF8489,01
+13=E.Honda - Super Zutsuki & Hyakkan Otoshi,FF843F,08,FF8440,01,FF8469,08,FF846A,01
+14=E.Honda - Hyakuretsu Harite & Super Hyakkan Otoshi,FF8459,03,FF845B,03,FF845D,03,FF8469,08,FF846A,01
+15=Guile - Sonic Boom & Somersault Kick,FF843F,08,FF8440,01,FF8445,08,FF8446,01
+16=Ken - Hadou Ken & Tatsumaki Senpuu Kyaku,FF844F,06,FF844E,06,FF8457,06,FF8456,06
+17=Ken - Shoryuu Ken & Tatsumaki Senpuu Kyaku,FF845F,06,FF845E,06,FF8457,06,FF8456,06
+18=M.Bison - Double Knee Press & Psycho Crusher Attack,FF8447,08,FF8448,01,FF843F,08,FF8440,01
+19=M.Bison - Head Press & Psycho Crusher Attack,FF844E,08,FF8453,01,FF843F,08,FF8440,01
+20=Ryu - Hadou Ken & Tatsumaki Senpuu Kyaku,FF844F,06,FF844E,06,FF8457,06,FF8456,06
+21=Ryu - Shoryuu Ken & Tatsumaki Senpuu Kyaku,FF845F,06,FF845E,06,FF8457,06,FF8456,06
+22=Sagat - Ground & Tiger Shot,FF844F,04,FF8450,06,FF845F,04,FF8460,06
+23=Sagat - Tiger Shot & Knee,FF844F,04,FF8450,06,FF8467,04,FF8468,06
+24=Sagat - Tiger Uppercut & Ground Shot,FF8457,04,FF8458,06,FF845F,04,FF8460,06
+25=Sagat - Tiger Uppercut & Knee,FF8457,04,FF8458,06,FF8467,04,FF8468,06
+26=Vega - Rolling Crystal Flash & Flying Barcelona Attack,FF843F,08,FF8440,01,FF8447,08,FF8448,01
+27=Zangief - Screw Piledriver,FF843F,08,FF8441,06
+Default=0
+
+[21]
+Name=P2 Inf Energy*
+0=Disabled
+1=Enabled,FF86E8,90,FF887A,90
+Default=0
+
+[22]
+Name=P2 Invincible
+0=Disabled
+1=Enabled,FF887C,01
+Default=0
+
+[23]
+Name=P2 1 Win Match
+0=Disabled
+1=Enabled,FF894F,02
+Default=0
+
+[24]
+Name=P2 Air Moves
+0=Disabled
+1=Enabled,FF883E,00
+Default=0
+
+[25]
+Name=P2 Low Gravity
+0=Disabled
+1=Enabled,FF8700,20
+Default=0
+
+[26]
+Name=P2 Inf Fireball
+0=Disabled
+1=Enabled,FF8893,00,FF8892,00
+Default=0
+
+[27]
+Name=P2 No Faint
+0=Disabled
+1=Enabled,FF871E,01
+Default=0
+
+[28]
+Name=P2 Action Speed Up
+0=Disabled
+1=Enabled,FF86D6,01
+Default=0
+
+[29]
+Name=P2 Shot Motion Speed Up
+0=Disabled
+1=Enabled,FF86DD,01
+Default=0
+
+[30]
+Name=P2 Endless Combo
+0=Disabled
+1=Enabled,FF8409,00
+Default=0
+
+[31]
+Name=P2 All Hits Combo
+0=Disabled
+1=Enabled,FF8852,01
+Default=0
+
+[32]
+Name=P2 All Hits Keep You Close
+0=Disabled
+1=Enabled,FF840B,00
+Default=0
+
+[33]
+Name=P2 Force Attack Level
+0=Disabled
+1=Low Level,FF883F,00
+2=Middle Level,FF883F,02
+3=High Level,FF883F,04
+Default=0
+
+[34]
+Name=P2 Quick Shot
+0=Disabled
+1=Quick Shot,FF86DD,01
+2=Quick Shot Guile,FF86DD,00
+Default=0
+
+[35]
+Name=P2 Quick Charge
+0=Disabled
+1=Balrog,FF873E,01,FF8746,01
+2=Blanka,FF873E,01,FF876F,06
+3=Chun Li,FF873E,01
+4=E.Honda,FF873E,01,FF8769,06
+5=Guile,FF873E,01,FF8744,01
+6=M.Bison,FF873E,01,FF8746,01,FF8751,01
+7=Vega,FF873E,01,FF8746,01
+Default=0
+
+[36]
+Name=P2 Char Select
+0=Disabled
+1=Balrog,FF894E,0A
+2=Blanka,FF894E,02
+3=Chun Li,FF894E,05
+4=Dhalsim,FF894E,07
+5=E.Honda,FF894E,01
+6=Guile,FF894E,03
+7=Ken,FF894E,04
+8=M.Bison,FF894E,08
+9=Ryu,FF894E,00
+10=Sagat,FF894E,09
+11=Vega,FF894E,0B
+12=Zangief,FF894E,06
+Default=0
+
+[37]
+Name=P2 Balrog - Turnpunch
+0=Disabled
+1=Max Turnpunch,FF8775,09,FF8774,61,FF8777,09,FF8776,61
+2=Min Turnpunch,FF8775,00,FF8774,00,FF8777,00,FF8776,00
+Default=0
+
+[38]
+Name=P2 Vega - Claw
+0=Disabled
+1=Claw On,FF880B,01
+2=Claw Off,FF880B,00
+Default=0
+
+[39]
+Name=P2 Easy Moves
+0=Disabled
+1=Balrog - Dash Straight & Upper,FF873F,08,FF8740,01,FF8747,08,FF8748,01
+2=Balrog - Dash Straight & Turn Punch 2,FF873F,08,FF8740,01,FF87CE,04
+3=Balrog - Turn Punch 1 & 2,FF87CF,04,FF87CE,04
+4=Balrog - Turn Punch 1 & Dash Upper,FF87CF,04,FF8747,08,FF8748,01
+5=Blanka - Rolling Attack & Vertical Rolling,FF873F,08,FF8740,01,FF876F,08,FF8772,01
+6=Blanka - Electric Thunder & Vertical Rolling,FF8759,04,FF875B,04,FF875D,04,FF876F,08,FF8772,01
+7=Chun-Li - Spinning Bird Kick & Kikou Ken,FF873F,08,FF8740,01,FF876F,0A,FF876E,0C
+8=Chun-Li - Hyakuretsu Kyaku & Kikou Ken,FF8759,04,FF875B,04,FF875D,04,FF876F,0A,FF876E,0C
+9=Dhalsim - Yoga Fire,FF874F,04,FF8750,06
+10=Dhalsim - Yoga Flame,FF8757,04,FF8758,0A
+11=Dhalsim - Teleport 1,FF8787,06,FF8786,06,FF8789,00
+12=Dhalsim - Teleport 2,FF8787,06,FF8786,06,FF8789,01
+13=E.Honda - Super Zutsuki & Hyakkan Otoshi,FF873F,08,FF8740,01,FF8769,08,FF876A,01
+14=E.Honda - Hyakuretsu Harite & Super Hyakkan Otoshi,FF8759,03,FF875B,03,FF875D,03,FF8769,08,FF876A,01
+15=Guile - Sonic Boom & Somersault Kick,FF873F,08,FF8740,01,FF8745,08,FF8746,01
+16=Ken - Hadou Ken & Tatsumaki Senpuu Kyaku,FF874F,06,FF874E,06,FF8757,06,FF8756,06
+17=Ken - Shoryuu Ken & Tatsumaki Senpuu Kyaku,FF875F,06,FF875E,06,FF8757,06,FF8756,06
+18=M.Bison - Double Knee Press & Psycho Crusher Attack,FF8747,08,FF8748,01,FF873F,08,FF8740,01
+19=M.Bison - Head Press & Psycho Crusher Attack,FF874E,08,FF8753,01,FF873F,08,FF8740,01
+20=Ryu - Hadou Ken & Tatsumaki Senpuu Kyaku,FF874F,06,FF874E,06,FF8757,06,FF8756,06
+21=Ryu - Shoryuu Ken & Tatsumaki Senpuu Kyaku,FF875F,06,FF875E,06,FF8757,06,FF8756,06
+22=Sagat - Ground & Tiger Shot,FF874F,04,FF8750,06,FF875F,04,FF8760,06
+23=Sagat - Tiger Shot & Knee,FF874F,04,FF8750,06,FF8767,04,FF8768,06
+24=Sagat - Tiger Uppercut & Ground Shot,FF8757,04,FF8758,06,FF875F,04,FF8760,06
+25=Sagat - Tiger Uppercut & Knee,FF8757,04,FF8758,06,FF8767,04,FF8768,06
+26=Vega - Rolling Crystal Flash & Flying Barcelona Attack,FF873F,08,FF8740,01,FF8747,08,FF8748,01
+27=Zangief - Screw Piledriver,FF873F,08,FF8741,06
+Default=0
+
+[40]
+Name=BackGround Select
+0=Disabled
+1=Balrog,FFDD5E,0A
+2=Blanka,FFDD5E,02
+3=Chun Li,FFDD5E,05
+4=Dhalsim,FFDD5E,07
+5=E.Honda,FFDD5E,01
+6=Guile,FFDD5E,03
+7=Ken,FFDD5E,04
+8=M.Bison,FFDD5E,08
+9=Ryu,FFDD5E,00
+10=Sagat,FFDD5E,09
+11=Vega,FFDD5E,0B
+12=Zangief,FFDD5E,06
+Default=0
+
+[41]
+Name=Stage Select
+0=Disabled
+1=Stage 1,FF89C0,00
+2=Stage 2,FF89C0,01
+3=Stage 3,FF89C0,02
+4=Stage 4,FF89C0,03
+5=Stage 5,FF89C0,04
+6=Stage 6,FF89C0,05
+7=Stage 7,FF89C0,06
+8=Stage 8,FF89C0,07
+9=Stage 9,FF89C0,08
+10=Stage 10,FF89C0,09
+11=Stage 11,FF89C0,0A
+12=Stage 12,FF89C0,0B
+Default=0
+

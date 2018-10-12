@@ -1,0 +1,32 @@
+[0]
+Name=P1 Infinite Lives
+0=Off,0,0
+1=On,1001AE,63
+
+[1]
+Name=P1 Infinite Health
+0=Off,0,0
+1=On,102CF2,06
+
+[2]
+Name=P1 Invulnerabirity
+0=Off,0,0
+1=On,102D1C,4F
+
+[3]
+Name=P1 Special Power
+0=Off,0,0
+1=Nothing,102D28,00
+2=Type.1,102D28,01,102D1E,14
+3=Type.2,102D28,02,102D1E,14
+4=Type.3 (Thunder),102D28,03,102D1E,14
+
+[4]
+Name=P1 Infinite Tranceform Limit
+0=Off,0,0
+1=On,102D5E,63,102D61,63,102D60,63
+
+[5]
+Name=P1 All Helpers
+0=Off,0,0
+1=On,102D64,0F

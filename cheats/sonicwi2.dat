@@ -1,0 +1,70 @@
+[0]
+Name=Infinite Lives
+0=Off,0,0
+1=P1 On,10E43E,05
+
+[1]
+Name=Infinite Bomber
+0=Off,0,0
+1=P1 On,10E456,06
+
+[2]
+Name=P1 Shot Level
+0=Off,0,0
+1=Level 1,10E442,00
+2=Level 2,10E442,01
+3=Level 3,10E442,02
+4=Level 4,10E442,03
+
+[3]
+Name=Invulnerabirity
+0=Off,0,0
+
+[4]
+Name=P1 Player
+0=Off,0,0
+1=ROBO KEATON,10E41C,89
+2=SILVER,10E41C,82
+3=HI-EN,10E41C,85
+4=MAO-MAO,10E41C,84
+5=CINDY ELLEN,10E41C,83
+6=SPANKY,10E41C,88
+7=STEVE,10E41C,87
+8=BOBBY,10E41C,86
+
+
+[5]
+Name=P1 Shot Type
+0=Off,0,0
+1=F-14,10E41E,00
+2=F-15,10E41E,01
+3=RAFALE,10E41E,02
+4=YF-23,10E41E,03
+5=A-10,10E41E,04
+6=FRS 2,10E41E,05
+7=FS-X,10E41E,06
+8=F-117,10E41E,07
+
+[6]
+Name=P1 Sub Weapon Type
+0=Off,0,0
+1=FS-X (Homing Knife),10E420,00
+2=F-15 (Laser),10E420,01
+3=YF-23 (Sky Mine),10E420,02
+4=A-10 (Streight Mine),10E420,03
+5=F-117 (Naparm),10E420,04
+6=RAFALE (Wide Missile),10E420,05
+7=F-14 (Homing Missile),10E420,06
+8=FRS-2 (Side Winder),10E420,07
+
+[7]
+Name=P1 Bomber Type
+0=Off,0,0
+1=FS-X (Ninja Laser),10E422,00
+2=F-15 (Enemy Stop),10E422,01
+3=YF-23 (Side Line Bomb),10E422,02
+4=A-10 (Bomber),10E422,03
+5=F-117 (Line Fire),10E422,04
+6=RAFALE (Gravity Bomb),10E422,05
+7=F-14 (5 Missile),10E422,06
+8=FRS-2 (Naparm),10E422,07

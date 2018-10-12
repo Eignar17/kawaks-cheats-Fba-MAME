@@ -1,0 +1,213 @@
+[0]
+Name=Region
+0=Disabled
+1=Japan,FF808C,00
+2=USA,FF808C,02
+3=Hispanic,FF808C,04
+4=Asia,FF808C,06
+5=Euro,FF808C,08
+6=Brazil,FF808C,0A
+Default=0
+
+[1]
+Name=Infinite Time
+0=Disabled
+1=Enabled,FF8118,45
+Default=0
+
+[2]
+Name=Clear Total Time 00'00
+0=Disabled
+1=Enabled,FF813C,00,FF813D,00
+Default=0
+
+[3]
+Name=One Hit Kill
+0=Disabled
+1=Enabled,FFD850,00,FFDA50,00,FFD950,00,FFD750,00
+Default=0
+
+[4]
+Name=P1 Inf Energy
+0=Disabled
+1=Enabled,FF8350,10
+Default=0
+
+[5]
+Name=P1 Invincible
+0=Disabled
+1=Enabled,FF8353,78
+Default=0
+
+[6]
+Name=P1 Full Charge Auto Fire
+0=Disabled
+1=Enabled,FF8434,04
+Default=0
+
+[7]
+Name=P1 No Shot Count Limit
+0=Disabled
+1=Enabled,FF8431,00
+Default=0
+
+[8]
+Name=P1 Char Select
+0=Disabled
+1=Blues,FF8302,01
+2=Falte,FF8302,02
+3=Rockman,FF8302,00
+Default=0
+
+[9]
+Name=P1 Extra Weapon 1
+0=Disabled
+1=Normal,FF8448,01
+2=Infinite,FF8452,1C,FF8448,01
+Default=0
+
+[10]
+Name=P1 Extra Weapon 2
+0=Disabled
+1=Normal,FF844B,01
+2=Infinite,FF8454,1C,FF844B,01
+Default=0
+
+[11]
+Name=P1 Extra Weapon 3
+0=Disabled
+1=Normal,FF844A,01
+2=Infinite,FF8456,1C,FF844A,01
+Default=0
+
+[12]
+Name=P1 Extra Weapon 4
+0=Disabled
+1=Normal,FF844D,01
+2=Infinite,FF8458,1C,FF844D,01
+Default=0
+
+[13]
+Name=P1 Extra Weapon 5
+0=Disabled
+1=Normal,FF844C,01
+2=Infinite,FF845A,1C,FF844C,01
+Default=0
+
+[14]
+Name=P1 Extra Weapon 6
+0=Disabled
+1=Normal,FF844F,01
+2=Infinite,FF845C,1C,FF844F,01
+Default=0
+
+[15]
+Name=P2 Inf Energy
+0=Disabled
+1=Enabled,FF8750,10
+Default=0
+
+[16]
+Name=P2 Invincible
+0=Disabled
+1=Enabled,FF8753,78
+Default=0
+
+[17]
+Name=P2 Full Charge Auto Fire
+0=Disabled
+1=Enabled,FF8834,04
+Default=0
+
+[18]
+Name=P2 No Shot Count Limit
+0=Disabled
+1=Enabled,FF8831,00
+Default=0
+
+[19]
+Name=P2 Char Select
+0=Disabled
+1=Blues,FF8702,01
+2=Falte,FF8702,02
+3=Rockman,FF8702,00
+Default=0
+
+[20]
+Name=P2 Extra Weapon 1
+0=Disabled
+1=Normal,FF8848,01
+2=Infinite,FF8852,1C,FF8848,01
+Default=0
+
+[21]
+Name=P2 Extra Weapon 2
+0=Disabled
+1=Normal,FF884B,01
+2=Infinite,FF8854,1C,FF884B,01
+Default=0
+
+[22]
+Name=P2 Extra Weapon 3
+0=Disabled
+1=Normal,FF884A,01
+2=Infinite,FF8856,1C,FF884A,01
+Default=0
+
+[23]
+Name=P2 Extra Weapon 4
+0=Disabled
+1=Normal,FF884D,01
+2=Infinite,FF8858,1C,FF884D,01
+Default=0
+
+[24]
+Name=P2 Extra Weapon 5
+0=Disabled
+1=Normal,FF884C,01
+2=Infinite,FF885A,1C,FF884C,01
+Default=0
+
+[25]
+Name=P2 Extra Weapon 6
+0=Disabled
+1=Normal,FF884F,01
+2=Infinite,FF885C,1C,FF884F,01
+Default=0
+
+[26]
+Name=Difficulty Select*
+0=Disabled
+1=Child Mode,FF8127,00
+2=Easy Mode,FF8127,03
+3=Normal Mode,FF8127,05
+4=Hardest Mode,FF8127,07
+Default=0
+
+[27]
+Name=Modeplay Select
+0=Disabled
+1=Megaman 1-2,FF8100,00
+2=Megaman 3-6,FF8100,02
+3=Megaman 7,FF8100,04
+Default=0
+
+[28]
+Name=Enemy Select
+0=Disabled
+1=Crash/Dust/Junk,FF8106,00
+2=Heat/Gyro/Cloud,FF8106,02
+3=Cut/Magnet/Shade,FF8106,04
+4=Wood/Plant/Slash,FF8106,06
+5=Ice/Gemini/Freeze,FF8106,08
+6=Guts/Napalm/Turbo,FF8106,0A
+Default=0
+
+[29]
+Name=Stage Select
+0=Disabled
+1=First Stages,FF8124,00
+2=Wily Castle 1,FF8124,3F,FF8102,0C
+3=Wily Castle 2,FF8124,7F,FF8102,0E
+Default=0
+

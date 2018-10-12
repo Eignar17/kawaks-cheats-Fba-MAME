@@ -1,0 +1,141 @@
+[0]
+Name=Region
+0=Disabled
+1=Japan,FF7444,00
+2=USA,FF7444,01
+3=Euro,FF7444,02
+4=Asia Sample,FF7444,03
+5=Asia TW,FF7444,04
+6=Hispanic,FF7444,05
+7=Brazil,FF7444,0A
+Default=0
+
+[1]
+Name=Infinite Credits
+0=Disabled
+1=Enabled,FF726F,09
+Default=0
+
+[2]
+Name=Infinite Battle Time
+0=Disabled
+1=Enabled,FF72CB,9A
+Default=0
+
+[3]
+Name=P1 Inf Health
+0=Disabled
+1=Enabled,FF802C,90
+Default=0
+
+[4]
+Name=P1 Action Speed Up
+0=Disabled
+1=Enabled,FF8046,01
+Default=0
+
+[5]
+Name=P1 Never Faint
+0=Disabled
+1=Enabled,FF80CE,00
+Default=0
+
+[6]
+Name=P1 Always Heat Up
+0=Disabled
+1=Enabled,FF80B0,01,FF80B6,FF,FF80B7,0F
+Default=0
+
+[7]
+Name=P1 Always Super
+0=Disabled
+1=Enabled,FF80E7,00,FF8118,FF
+Default=0
+
+[8]
+Name=P1 Char Select
+0=Disabled
+1=Astro,FF7324,09
+2=Black.W,FF7324,0B
+3=Budo,FF7324,02
+4=Colt,FF7324,01
+5=Gomes,FF7324,07
+6=Haggar,FF7324,05
+7=Kimala,FF7324,08
+8=Ortega,FF7324,0D
+9=Saber,FF7324,0A
+10=Sheep,FF7324,06
+11=Stinger,FF7324,04
+12=Titan,FF7324,03
+13=Wraith,FF7324,0C
+14=Zalazof,FF7324,00
+Default=0
+
+[9]
+Name=P2 Inf Health
+0=Disabled
+1=Enabled,FF842C,90
+Default=0
+
+[10]
+Name=P2 Action Speed Up
+0=Disabled
+1=Enabled,FF8446,01
+Default=0
+
+[11]
+Name=P2 Never Faint
+0=Disabled
+1=Enabled,FF84CE,00
+Default=0
+
+[12]
+Name=P2 Always Heat Up
+0=Disabled
+1=Enabled,FF84B0,01,FF84B6,FF,FF84B7,0F
+Default=0
+
+[13]
+Name=P2 Always Super
+0=Disabled
+1=Enabled,FF84E7,00,FF8518,FF
+Default=0
+
+[14]
+Name=P2 Char Select
+0=Disabled
+1=Astro,FF7326,09
+2=Black.W,FF7326,0B
+3=Budo,FF7326,02
+4=Colt,FF7326,01
+5=Gomes,FF7326,07
+6=Haggar,FF7326,05
+7=Kimala,FF7326,08
+8=Ortega,FF7326,0D
+9=Saber,FF7326,0A
+10=Sheep,FF7326,06
+11=Stinger,FF7326,04
+12=Titan,FF7326,03
+13=Wraith,FF7326,0C
+14=Zalazof,FF7326,00
+Default=0
+
+[15]
+Name=BackGround Select
+0=Disabled
+1=Tokyo,FF72CE,00
+2=Moscow,FF72CE,01
+3=Hanover,FF72CE,02
+4=London,FF72CE,03
+5=Sydney,FF72CE,04
+6=Mexico,FF72CE,05
+7=New York,FF72CE,06
+8=Los Angeles,FF72CE,07
+9=Calgary,FF72CE,08
+10=Santo Domingo,FF72CE,09
+11=New Delhi,FF72CE,0A
+12=Las Vegas,FF72CE,0B
+13=BWA,FF72CE,0C
+14=CWA,FF72CE,0D
+Default=0
+

@@ -1,0 +1,102 @@
+[0]
+Name=P1 Inf Vitality
+0=Disabled
+1=Enabled,FFE476,05
+Default=0
+
+[1]
+Name=P1 Char Select
+0=Disabled
+1=Fighter,FFE234,00
+2=Wizard,FFE234,01
+3=Amazon,FFE234,02
+4=Ninja,FFE234,03
+Default=0
+
+[2]
+Name=P2 Inf Vitality
+0=Disabled
+1=Enabled,FFE478,05
+Default=0
+
+[3]
+Name=P2 Char Select
+0=Disabled
+1=Fighter,FFE236,00
+2=Wizard,FFE236,01
+3=Amazon,FFE236,02
+4=Ninja,FFE236,03
+Default=0
+
+[4]
+Name=Correct Answer
+0=Disabled
+1=Answer 1,FFE005,00
+2=Answer 2,FFE005,01
+3=Answer 3,FFE005,02
+4=Answer 4,FFE005,03
+Default=0
+
+[5]
+Name=One Correct Answer Ends Quiz
+0=Disabled
+1=Enabled,FFE964,01
+Default=0
+
+[6]
+Name=Item
+0=Disabled
+1=Shortcut,FFE966,01
+2=Magic Scroll,FFE966,02
+3=Magic Staff,FFE966,03
+4=Magic Sword,FFE966,04
+Default=0
+
+[7]
+Name=Quiz Category
+0=Disabled
+1=Art,FF7FC0,00
+2=Books,FF7FC0,01
+3=Entertainment,FF7FC0,02
+4=Food & Drink,FF7FC0,03
+5=Geography,FF7FC0,04
+6=Health,FF7FC0,05
+7=History,FF7FC0,06
+8=Pot Pourri,FF7FC0,07
+9=Movies,FF7FC0,08
+10=Music,FF7FC0,09
+11=Mythology,FF7FC0,0A
+12=Science,FF7FC0,0B
+13=Sports,FF7FC0,0C
+14=Television,FF7FC0,0D
+15=Miscellaneous,FF7FC0,FF
+Default=0
+
+[8]
+Name=End Quiz To End
+0=Disabled
+1=Level 1,FFE027,0A
+2=Level 2A,FFE027,12
+3=Level 2B,FFE027,20
+4=Level 3,FFE027,2A
+5=Level 4,FFE027,13
+6=Level 5A,FFE027,1A
+7=Level 5B,FFE027,13
+8=Level 6,FFE027,2A
+9=Level 7,FFE027,22
+Default=0
+
+[9]
+Name=Level Select
+0=Disabled
+1=Level 1,FFE025,00
+2=Level 2A,FFE025,01
+3=Level 2B,FFE025,02
+4=Level 3,FFE025,03
+5=Level 4,FFE025,04
+6=Level 5A,FFE025,05
+7=Level 5B,FFE025,06
+8=Level 6,FFE025,07
+9=Level 7,FFE025,08
+Default=0
+

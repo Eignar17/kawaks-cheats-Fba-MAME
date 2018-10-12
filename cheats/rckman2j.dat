@@ -1,0 +1,250 @@
+[0]
+Name=Region
+0=Disabled
+1=Japan,FF808C,00
+2=USA,FF808C,02
+3=Hispanic,FF808C,04
+4=Asia,FF808C,06
+5=Euro,FF808C,08
+6=Brazil,FF808C,0A
+Default=0
+
+[1]
+Name=Title
+0=Disabled
+1=Rockman,FF80E1,00
+2=Megaman,FF80E1,FF
+Default=0
+
+[2]
+Name=Infinite Time
+0=Disabled
+1=Enabled,FF811C,99
+Default=0
+
+[3]
+Name=Infinite Select Time
+0=Disabled
+1=Enabled,FFEF23,63
+Default=0
+
+[4]
+Name=Infinite Aid Time
+0=Disabled
+1=Enabled,FF8154,10
+Default=0
+
+[5]
+Name=Super Jump
+0=Disabled
+1=Enabled,FF815D,FF
+Default=0
+
+[6]
+Name=Hyper Charge Attack
+0=Disabled
+1=Enabled,FF815B,FF
+Default=0
+
+[7]
+Name=Hyper Charge Shot
+0=Disabled
+1=Enabled,FF815A,FF
+Default=0
+
+[8]
+Name=Story Select
+0=Disabled
+1=Search for Wily!,FF8100,00
+2=Rescue Roll!,FF8100,02
+3=Recover the new parts!,FF8100,04
+Default=0
+
+[9]
+Name=1 Hit Kill
+0=Disabled
+1=Enabled,FFCD50,00,FFEF60,00,FFCE50,00
+Default=0
+
+[10]
+Name=P1 Inf Energy
+0=Disabled
+1=Enabled,FF8350,20
+Default=0
+
+[11]
+Name=P1 Invincible
+0=Disabled
+1=Enabled,FF8301,02
+Default=0
+
+[12]
+Name=P1 No Shot Limit
+0=Disabled
+1=Enabled,FF8431,00
+Default=0
+
+[13]
+Name=P1 Charge Shot
+0=Disabled
+1=Level 1,FF8434,00
+2=Level 2,FF8434,02
+3=Level 3,FF8434,04
+Default=0
+
+[14]
+Name=P1 Player Select
+0=Disabled
+1=Megaman,FF8302,00
+2=Protoman,FF8302,01
+3=Bass,FF8302,02
+4=Duo,FF8302,03
+Default=0
+
+[15]
+Name=P1 Weapon Equip
+0=Disabled
+1=Enabled,FF8447,01
+Default=0
+
+[16]
+Name=P1 Extra Weapon 1
+0=Disabled
+1=Normal,FF8448,01
+2=Infinite,FF8452,10,FF8448,01
+Default=0
+
+[17]
+Name=P1 Extra Weapon 2
+0=Disabled
+1=Normal,FF844B,01
+2=Infinite,FF8454,10,FF844B,01
+Default=0
+
+[18]
+Name=P1 Extra Weapon 3
+0=Disabled
+1=Normal,FF844A,01
+2=Infinite,FF8456,10,FF844A,01
+Default=0
+
+[19]
+Name=P1 Extra Weapon 4
+0=Disabled
+1=Normal,FF844D,01
+2=Infinite,FF8458,10,FF844D,01
+Default=0
+
+[20]
+Name=P1 Extra Weapon 5
+0=Disabled
+1=Normal,FF844C,01
+2=Infinite,FF845A,10,FF844C,01
+Default=0
+
+[21]
+Name=P1 Extra Weapon 6
+0=Disabled
+1=Normal,FF844F,01
+2=Infinite,FF845C,10,FF844F,01
+Default=0
+
+[22]
+Name=P1 Victories
+0=Disabled
+1=2 Victories,FF843A,02
+2=5 Victories,FF843A,05
+3=8 Victories,FF843A,08
+Default=0
+
+[23]
+Name=P2 Inf Energy
+0=Disabled
+1=Enabled,FF8750,20
+Default=0
+
+[24]
+Name=P2 Invincible
+0=Disabled
+1=Enabled,FF8701,02
+Default=0
+
+[25]
+Name=P2 No Shot Limit
+0=Disabled
+1=Enabled,FF8831,00
+Default=0
+
+[26]
+Name=P2 Charge Shot
+0=Disabled
+1=Level 1,FF8834,00
+2=Level 2,FF8834,02
+3=Level 3,FF8834,04
+Default=0
+
+[27]
+Name=P2 Player Select
+0=Disabled
+1=Megaman,FF8702,00
+2=Protoman,FF8702,01
+3=Bass,FF8702,02
+4=Duo,FF8702,03
+Default=0
+
+[28]
+Name=P2 Weapon Equip
+0=Disabled
+1=Enabled,FF8847,01
+Default=0
+
+[29]
+Name=P2 Extra Weapon 1
+0=Disabled
+1=Normal,FF8848,01
+2=Infinite,FF8852,10,FF8848,01
+Default=0
+
+[30]
+Name=P2 Extra Weapon 2
+0=Disabled
+1=Normal,FF884B,01
+2=Infinite,FF8854,10,FF884B,01
+Default=0
+
+[31]
+Name=P2 Extra Weapon 3
+0=Disabled
+1=Normal,FF884A,01
+2=Infinite,FF8856,10,FF884A,01
+Default=0
+
+[32]
+Name=P2 Extra Weapon 4
+0=Disabled
+1=Normal,FF884D,01
+2=Infinite,FF8858,10,FF884D,01
+Default=0
+
+[33]
+Name=P2 Extra Weapon 5
+0=Disabled
+1=Normal,FF884C,01
+2=Infinite,FF885A,10,FF884C,01
+Default=0
+
+[34]
+Name=P2 Extra Weapon 6
+0=Disabled
+1=Normal,FF884F,01
+2=Infinite,FF885C,10,FF884F,01
+Default=0
+
+[35]
+Name=P2 Victories
+0=Disabled
+1=2 Victories,FF883A,02
+2=5 Victories,FF883A,05
+3=8 Victories,FF883A,08
+Default=0
+

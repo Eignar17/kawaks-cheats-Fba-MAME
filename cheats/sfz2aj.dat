@@ -1,0 +1,1207 @@
+[0]
+Name=Region
+0=Disabled
+1=Japan,FF8090,00
+2=USA,FF8090,02
+3=Hispanic,FF8090,04
+4=Oceania,FF8090,06
+5=Asia,FF8090,08
+6=Euro,FF8090,0A
+7=Brazil,FF8090,0C
+Default=0
+
+[1]
+Name=Title
+0=Disabled
+1=Zero,FF8088,00
+2=Alpha,FF8088,01
+Default=0
+
+[2]
+Name=Free Play
+0=Disabled
+1=Enabled,FF809D,01
+Default=0
+
+[3]
+Name=Infinite Battle Time
+0=Disabled
+1=Enabled,FF8108,63
+Default=0
+
+[4]
+Name=Dramatic Battle
+0=Disabled
+1=Enabled,FF816D,01
+Default=0
+
+[5]
+Name=Survival Mode
+0=Disabled
+1=Enabled,FF84CA,FF
+Default=0
+
+[6]
+Name=D.R.Battle
+0=Disabled
+1=Enabled,FF810B,2F,FF8108,63
+Default=0
+
+[7]
+Name=Battle Shin Akuma
+0=Disabled
+1=Enabled,FF8149,01
+Default=0
+
+[8]
+Name=Super Blow Voice Cut
+0=Disabled
+1=Enabled,FF80BD,01
+Default=0
+
+[9]
+Name=Sound Test Timer Stop
+0=Disabled
+1=Enabled,FF800A,FF
+Default=0
+
+[10]
+Name=Move Round Announce
+0=Disabled
+1=Enabled,FF810F,00
+Default=0
+
+[11]
+Name=Match Rounds
+0=Disabled
+1=One Round Match,FF8109,01
+2=Two Round Match,FF8109,02
+3=Three Round Match,FF8109,03
+Default=0
+
+[12]
+Name=First Attack
+0=Disabled
+1=Inf First Attack,FF8134,00
+2=No First Attack,FF8134,FF
+Default=0
+
+[13]
+Name=P1 Inf Health
+0=Disabled
+1=Enabled,FF8450,90
+Default=0
+
+[14]
+Name=P1 Inf Power
+0=Disabled
+1=Enabled,FF849E,90
+Default=0
+
+[15]
+Name=P1 Inf Taunts
+0=Disabled
+1=Enabled,FF854E,01
+Default=0
+
+[16]
+Name=P1 Air Moves
+0=Disabled
+1=Enabled,FF8430,00
+Default=0
+
+[17]
+Name=P1 No SC Wait
+0=Disabled
+1=Enabled,FF8432,01
+Default=0
+
+[18]
+Name=P1 Force Custom Combo
+0=Disabled
+1=Enabled,FF8698,90,FF869B,90
+Default=0
+
+[19]
+Name=P1 Inf Custom Combo
+0=Disabled
+1=Enabled,FF869A,B0,FF869B,00
+Default=0
+
+[20]
+Name=P1 Endless Custom Combo
+0=Disabled
+1=Enabled,FF8698,90,FF869B,90
+Default=0
+
+[21]
+Name=P1 Force Level 3 Combo
+0=Disabled
+1=Enabled,FF8503,04
+Default=0
+
+[22]
+Name=P1 Rival Character
+0=Disabled
+1=Enabled,FF84C7,05
+Default=0
+
+[23]
+Name=P1 Shin Gouki Boss
+0=Disabled
+1=Enabled,FF84C9,03
+Default=0
+
+[24]
+Name=P1 Shadow
+0=Disabled
+1=Enabled,FF84CC,FF
+Default=0
+
+[25]
+Name=P1 Never Dizzy
+0=Disabled
+1=Enabled,FF8536,00
+Default=0
+
+[26]
+Name=P1 Succession Fireball
+0=Disabled
+1=Enabled,FF8639,00
+Default=0
+
+[27]
+Name=P1 No Shot Limit
+0=Disabled
+1=Enabled,FF8533,00
+Default=0
+
+[28]
+Name=P1 Sudden Death
+0=Disabled
+1=Enabled,FF8450,00
+Default=0
+
+[29]
+Name=P1 Display 99 Hits
+0=Disabled
+1=Enabled,FF845F,63
+Default=0
+
+[30]
+Name=P1 Controller Mode
+0=Disabled
+1=User Play,FF84A4,00
+2=Computer Play,FF84A4,01
+3=Hard Computer Play,FF84A4,01,FF83B9,84
+Default=0
+
+[31]
+Name=P1 Char Select
+0=Disabled
+1=Adon,FF8483,05
+2=Birdie,FF8483,08
+3=Blue Ryu,FF8483,1F
+4=Chun-Li,FF8483,04
+5=Chun-Li (SF2),FF8483,1C
+6=Chun-Li (SF2 Costume),FF8483,12
+7=Dan,FF8483,0C
+8=Dhalsim,FF8483,0F
+9=Dhalsim (SF2),FF8483,16
+10=Evil Ryu,FF8483,17
+11=Gen,FF8483,11
+12=Gen (Alt),FF8483,13
+13=Gouki,FF8483,02
+14=Guy,FF8483,07
+15=Ken,FF8483,01
+16=Ken (SF2),FF8483,1A
+17=Nash,FF8483,03
+18=Rolento,FF8483,0E
+19=Rose,FF8483,09
+20=Ryu,FF8483,00
+21=Ryu (No Super Bar),FF8483,1E
+22=Ryu (SF2),FF8483,1B
+23=Sagat,FF8483,0B
+24=Sagat (SF2),FF8483,19
+25=Sakura,FF8483,0D
+26=Sakura (Alt),FF8483,1D
+27=Shin Gouki,FF8483,14
+28=Sodom,FF8483,06
+29=Vega,FF8483,0A
+30=Vega (SF2),FF8483,18
+31=Zangief,FF8483,10
+32=Zangief (SF2),FF8483,15
+Default=0
+
+[32]
+Name=P1 Colour Select
+0=Disabled
+1=Colour 1,FF84A9,00
+2=Colour 2,FF84A9,01
+3=Colour 3,FF84A9,02
+4=Colour 4,FF84A9,03
+5=Colour 5,FF84A9,04
+6=Colour 6,FF84A9,05
+7=Colour 7,FF84A9,06
+8=Colour 8,FF84A9,07
+9=Colour 9,FF84A9,0F
+Default=0
+
+[33]
+Name=P1 Rolento - Easy Second & Third Patriot Circle
+0=Disabled
+1=Enabled,FF85C1,04,FF85C0,06
+Default=0
+
+[34]
+Name=P1 Sakura - Hadou Ken Size & Range
+0=Disabled
+1=Normal & Long,FF85FE,00
+2=Medium & Medium,FF85FE,01
+3=Large & Short,FF85FE,02
+Default=0
+
+[35]
+Name=P1 Easy Alpha Counter
+0=Disabled
+1=Enabled,FF8561,04,FF8560,06,FF8569,04,FF8568,06
+Default=0
+
+[36]
+Name=P1 Easy Roll Recovery
+0=Disabled
+1=Enabled,FF8661,04,FF8660,06
+Default=0
+
+[37]
+Name=P1 Easy Moves
+0=Disabled
+1=Adon - Jaguar Kick,FF8581,04,FF8580,06
+2=Adon - Rising Jaguar,FF8589,04,FF8588,06
+3=Adon - Jaguar Tooth,FF8591,04,FF8590,0A
+4=Birdie - Bull Head & Bull Horn 2,FF8581,08,FF8580,06,FF8583,FF,FF85AB,04,FF85AD,01,FF85B3,04,FF85B5,01,FF85BB,04,FF85BD,01,FF85C3,04,FF85C5,01
+5=Birdie - Bull Horn 1 & 2,FF858B,04,FF858D,01,FF8593,04,FF8595,01,FF859B,04,FF859D,01,FF85A3,04,FF85A5,01,FF85AB,04,FF85AD,01,FF85B3,04,FF85B5,01,FF85BB,04,FF85BD,01,FF85C3,04,FF85C5,01
+6=Birdie - Murder Chain & Bull Horn 2,FF85C9,08,FF85C8,00,FF85AB,04,FF85AD,01,FF85B3,04,FF85B5,01,FF85BB,04,FF85BD,01,FF85C3,04,FF85C5,01
+7=Blue Ryu - Hadou Ken & no Kamae & Tatsumaki Senpuu Kyaku,FF8581,04,FF8580,06,FF8591,04,FF8590,06,FF85A9,04,FF85A8,06
+8=Blue Ryu - Shakunetsu Hadou Ken & no Kamae & Tatsumaki Senpuu Kyaku,FF85B1,04,FF85B0,0A,FF8591,04,FF8590,06,FF85A9,04,FF85A8,06
+9=Blue Ryu - Shoryuu Ken & Hadou no Kamae & Tatsumaki Senpuu Kyaku,FF8589,04,FF8588,06,FF8591,04,FF8590,06,FF85A9,04,FF85A8,06
+10=Chun Li - Hyakuretsu Kyaku & Kikou Ken,FF8582,05,FF8584,05,FF8586,05,FF8589,04,FF8588,08
+11=Chun Li - Tenshou Kyaku & Kikou Ken,FF8591,08,FF8590,06,FF8593,FF,FF8589,04,FF8588,08
+12=Chun Li - Sen'en Shuu & Kikou Ken,FF8599,04,FF8598,0A,FF8589,04,FF8588,08
+13=Chun Li (SF2) - Hyakuretsu Kyaku,FF8582,05,FF8584,05,FF8586,05
+14=Chun Li (SF2) - Sen'en Shuu,FF8589,08,FF8588,06,FF858B,FF
+15=Chun Li (SF2 Costume) - Hyakuretsu Kyaku & Kikou Ken,FF8582,05,FF8584,05,FF8586,05,FF8589,08,FF8588,06,FF858B,FF
+16=Chun Li (SF2 Costume) - Tenshou Kyaku & Kikou Ken,FF8591,08,FF8590,06,FF8593,FF,FF8589,08,FF8588,06,FF858B,FF
+17=Chun Li (SF2 Costume) - Sen'en Shuu & Kikou Ken,FF8599,04,FF8598,0A,FF8589,08,FF8588,06,FF858B,FF
+18=Dan - Gadou Ken & Dankuu Kyaku & Zenten Chohatsu,FF8581,04,FF8580,06,FF8591,04,FF8590,06,FF85B1,04,FF85B0,06
+19=Dan - Gadou Ken & Dankuu Kyaku & Kouten Chohatsu,FF8581,04,FF8580,06,FF8591,04,FF8590,06,FF85B9,04,FF85B8,06
+20=Dan - Kouryuu Ken & Dankuu Kyaku & Zenten Chohatsu,FF8589,04,FF8588,06,FF8591,04,FF8590,06,FF85B1,04,FF85B0,06
+21=Dan - Kouryuu Ken & Dankuu Kyaku & Kouten Chohatsu,FF8589,04,FF8588,06,FF8591,04,FF8590,06,FF85B9,04,FF85B8,06
+22=Dhalsim - Yoga Flame & Blast & Teleport 1,FF8599,04,FF8598,0A,FF85A1,04,FF85A0,0A,FF8581,04,FF8580,06
+23=Dhalsim - Yoga Flame & Blast & Teleport 2,FF8599,04,FF8598,0A,FF85A1,04,FF85A0,0A,FF8589,04,FF8588,06
+24=Dhalsim - Yoga Fire & Blast & Teleport 1,FF8591,04,FF8590,06,FF85A1,04,FF85A0,0A,FF8581,04,FF8580,06
+25=Dhalsim - Yoga Fire & Blast & Teleport 2,FF8591,04,FF8590,06,FF85A1,04,FF85A0,0A,FF8589,04,FF8588,06
+26=Dhalsim - Yoga Flame & Escape & Teleport 1,FF8599,04,FF8598,0A,FF85A9,04,FF85A8,06,FF8581,04,FF8580,06
+27=Dhalsim - Yoga Flame & Escape & Teleport 2,FF8599,04,FF8598,0A,FF85A9,04,FF85A8,06,FF8589,04,FF8588,06
+28=Dhalsim - Yoga Fire & Escape & Teleport 1,FF8591,04,FF8590,06,FF85A9,04,FF85A8,06,FF8581,04,FF8580,06
+29=Dhalsim - Yoga Fire & Escape & Teleport 2,FF8591,04,FF8590,06,FF85A9,04,FF85A8,06,FF8589,04,FF8588,06
+30=Dhalsim (SF2) - Yoga Fire,FF8581,04,FF8580,06
+31=Dhalsim (SF2) - Yoga Flame,FF8589,04,FF8588,0A
+32=Evil Ryu - Hadou Ken & no Kamae & Tatsumaki Senpuu Kyaku & Ashura Senkuu 1,FF8581,04,FF8580,06,FF8591,04,FF8590,06,FF85A9,04,FF85A8,06,FF85B9,04,FF85B8,06
+33=Evil Ryu - Shakunetsu Hadou Ken & no Kamae & Tatsumaki Senpuu Kyaku & Ashura Senkuu 1,FF85B1,04,FF85B0,0A,FF8591,04,FF8590,06,FF85A9,04,FF85A8,06,FF85B9,04,FF85B8,06
+34=Evil Ryu - Shoryuu Ken & Hadou no Kamae & Tatsumaki Senpuu Kyaku & Ashura Senkuu 1,FF8589,04,FF8588,06,FF8591,04,FF8590,06,FF85A9,04,FF85A8,06,FF85B9,04,FF85B8,06
+35=Evil Ryu - Hadou Ken & no Kamae & Tatsumaki Senpuu Kyaku & Ashura Senkuu 2,FF8581,04,FF8580,06,FF8591,04,FF8590,06,FF85A9,04,FF85A8,06,FF85C1,04,FF85C0,06
+36=Evil Ryu - Shakunetsu Hadou Ken & no Kamae & Tatsumaki Senpuu Kyaku & Ashura Senkuu 2,FF85B1,04,FF85B0,0A,FF8591,04,FF8590,06,FF85A9,04,FF85A8,06,FF85C1,04,FF85C0,06
+37=Evil Ryu - Shoryuu Ken & Hadou no Kamae & Tatsumaki Senpuu Kyaku & Ashura Senkuu 2,FF8589,04,FF8588,06,FF8591,04,FF8590,06,FF85A9,04,FF85A8,06,FF85C1,04,FF85C0,06
+38=Gen - Hyakurenkou & Geki Rou,FF8582,05,FF8584,05,FF8586,05,FF8589,04,FF8588,06
+39=Gen - Hyakurenkou & Ouga,FF8582,05,FF8584,05,FF8586,05,FF8599,08,FF8598,06,FF859B,FF
+40=Gen - Jasen & Geki Rou,FF8591,08,FF8590,06,FF8593,FF,FF8589,04,FF8588,06
+41=Gen - Jasen & Ouga,FF8591,08,FF8590,06,FF8593,FF,FF8599,08,FF8598,06,FF859B,FF
+42=Gouki - Tatsumaki Zankuu Kyaku & Ashura Senkuu 1 & Gou & Zankuu Hadou Ken,FF8581,04,FF8580,06,FF8591,04,FF8590,06,FF85A9,04,FF85A8,06
+43=Gouki - Tatsumaki Zankuu Kyaku & Ashura Senkuu 1 & Gou Shoryuu Ken,FF8589,04,FF8588,06,FF8591,04,FF8590,06,FF85A9,04,FF85A8,06
+44=Gouki - Tatsumaki Zankuu Kyaku & Ashura Senkuu 1 & Shakunetsu Hadou Ken,FF85C1,04,FF85C0,0A,FF8591,04,FF8590,06,FF85A9,04,FF85A8,06
+45=Gouki - Tatsumaki Zankuu Kyaku & Ashura Senkuu 1 & Zenpou Tenshin,FF85D1,04,FF85D0,06,FF8591,04,FF8590,06,FF85A9,04,FF85A8,06
+46=Gouki - Tatsumaki Zankuu Kyaku & Ashura Senkuu 1 & Hyakki Shuu,FF85D9,04,FF85D8,08,FF8591,04,FF8590,06,FF85A9,04,FF85A8,06
+47=Gouki - Tatsumaki Zankuu Kyaku & Ashura Senkuu 2 & Gou & Zankuu Hadou Ken,FF8581,04,FF8580,06,FF8591,04,FF8590,06,FF85B1,04,FF85B0,06
+48=Gouki - Tatsumaki Zankuu Kyaku & Ashura Senkuu 2 & Gou Shoryuu Ken,FF8589,04,FF8588,06,FF8591,04,FF8590,06,FF85B1,04,FF85B0,06
+49=Gouki - Tatsumaki Zankuu Kyaku & Ashura Senkuu 2 & Shakunetsu Hadou Ken,FF85C1,04,FF85C0,0A,FF8591,04,FF8590,06,FF85B1,04,FF85B0,06
+50=Gouki - Tatsumaki Zankuu Kyaku & Ashura Senkuu 2 & Zenpou Tenshin,FF85D1,04,FF85D0,06,FF8591,04,FF8590,06,FF85B1,04,FF85B0,06
+51=Gouki - Tatsumaki Zankuu Kyaku & Ashura Senkuu 2 & Hyakki Shuu,FF85D9,04,FF85D8,08,FF8591,04,FF8590,06,FF85B1,04,FF85B0,06
+52=Guy - Bushin Senpuu Kyaku & Izuna Otoshi,FF8581,04,FF8580,06,FF8599,04,FF8598,06
+53=Guy - Bushin Senpuu Kyaku & Houzantou,FF8581,04,FF8580,06,FF85A9,04,FF85A8,06
+54=Guy - Hayagake  & Bushin Izuna Otoshi,FF85A1,04,FF85A0,06,FF8599,04,FF8598,06
+55=Guy - Hayagake & Houzantou,FF85A1,04,FF85A0,06,FF85A9,04,FF85A8,06
+56=Ken - Hadou Ken & Zentou & Tatsumaki Senpuu Kyaku,FF8581,04,FF8580,06,FF8591,04,FF8590,06,FF85B1,04,FF85B0,06
+57=Ken - Zenpou Tenshin & Zentou & Tatsumaki Senpuu Kyaku,FF85A9,04,FF85A8,06,FF8591,04,FF8590,06,FF85B1,04,FF85B0,06
+58=Ken - Shoryuu Ken & Zentou & Tatsumaki Senpuu Kyaku,FF8589,04,FF8588,06,FF8591,04,FF8590,06,FF85B1,04,FF85B0,06
+59=Ken (SF2) - Hadou Ken & Tatsumaki Senpuu Kyaku,FF8581,04,FF8580,06,FF8591,04,FF8590,06
+60=Ken (SF2) - Shoryuu Ken & Tatsumaki Senpuu Kyaku,FF8589,04,FF8588,06,FF8591,04,FF8590,06
+61=Nash - Somersault Shell & Sonic Boom,FF8581,08,FF8580,06,FF8583,FF,FF8589,08,FF8588,06,FF858B,FF
+62=Rolento - Stinger & Patriot Circle & High Jump,FF8581,04,FF8580,06,FF8591,02,FF8590,02,FF85B1,04,FF85B0,06
+63=Rolento - Stinger & Mekong Delta Air Raid & High Jump,FF8581,04,FF8580,06,FF8591,02,FF8590,02,FF85B9,04,FF85B8,06
+64=Rolento - Mekong Delta Escape & Patriot Circle & High Jump,FF8589,04,FF8588,06,FF8591,02,FF8590,02,FF85B1,04,FF85B0,06
+65=Rolento - Mekong Delta Escape & Air Raid & High Jump,FF8589,04,FF8588,06,FF8591,02,FF8590,02,FF85B9,04,FF85B8,06
+66=Rose - Soul Reflect & Spiral,FF8581,04,FF8580,06,FF85B1,04,FF85B0,06
+67=Rose - Soul Spark & Spiral,FF8589,04,FF8588,0A,FF85B1,04,FF85B0,06
+68=Rose - Soul Throw & Spiral,FF8591,04,FF8590,06,FF85B1,04,FF85B0,06
+69=Ryu - Hadou Ken & no Kamae & Tatsumaki Senpuu Kyaku,FF8581,04,FF8580,06,FF8591,04,FF8590,06,FF85A9,04,FF85A8,06
+70=Ryu - Shakunetsu Hadou Ken & no Kamae & Tatsumaki Senpuu Kyaku,FF85B1,04,FF85B0,0A,FF8591,04,FF8590,06,FF85A9,04,FF85A8,06
+71=Ryu - Shoryuu Ken & Hadou no Kamae & Tatsumaki Senpuu Kyaku,FF8589,04,FF8588,06,FF8591,04,FF8590,06,FF85A9,04,FF85A8,06
+72=Ryu (No Super Bar) - Hadou Ken & no Kamae & Tatsumaki Senpuu Kyaku,FF8581,04,FF8580,06,FF8591,04,FF8590,06,FF85A9,04,FF85A8,06
+73=Ryu (No Super Bar) - Shakunetsu Hadou Ken & no Kamae & Tatsumaki Senpuu Kyaku,FF85B1,04,FF85B0,0A,FF8591,04,FF8590,06,FF85A9,04,FF85A8,06
+74=Ryu (No Super Bar) - Shoryuu Ken & Hadou no Kamae & Tatsumaki Senpuu Kyaku,FF8589,04,FF8588,06,FF8591,04,FF8590,06,FF85A9,04,FF85A8,06
+75=Ryu (SF2) - Hadou Ken & Tatsumaki Senpuu Kyaku,FF8581,04,FF8580,06,FF8591,04,FF8590,06
+76=Ryu (SF2) - Shoryuu Ken & Tatsumaki Senpuu Kyaku,FF8589,04,FF8588,06,FF8591,04,FF8590,06
+77=Sagat - Ground & Tiger Shot,FF8581,04,FF8580,06,FF8589,04,FF8588,06
+78=Sagat - Ground Tiger Shot & Blow,FF85A1,04,FF85A0,06,FF8589,04,FF8588,06
+79=Sagat - Tiger Crush & Shot,FF8581,04,FF8580,06,FF8591,04,FF8590,06
+80=Sagat - Tiger Crush & Blow,FF85A1,04,FF85A0,06,FF8591,04,FF8590,06
+81=Sagat (SF2) - Ground & Tiger Shot,FF8581,04,FF8580,06,FF8589,04,FF8588,06
+82=Sagat (SF2) - Ground Tiger Shot & Uppercut,FF8599,04,FF8598,06,FF8589,04,FF8588,06
+83=Sagat (SF2) - Tiger Crush & Shot,FF8581,04,FF8580,06,FF8591,04,FF8590,08
+84=Sagat (SF2) - Tiger Crush & Uppercut,FF8599,04,FF8598,06,FF8591,04,FF8590,08
+85=Sakura - Hadou Ken & Shunpuu Kyaku,FF8581,04,FF8580,06,FF8591,04,FF8590,06
+86=Sakura - Shou'ou Ken & Shunpuu Kyaku,FF8589,04,FF8588,06,FF8591,04,FF8590,06
+87=Sakura - Hadou Ken & Sakura Otoshi,FF8581,04,FF8580,06,FF85B1,04,FF85B0,06
+88=Sakura - Shou'ou Ken & Sakura Otoshi,FF8589,04,FF8588,06,FF85B1,04,FF85B0,06
+89=Shin Gouki - Tatsumaki Zankuu Kyaku & Ashura Senkuu 1 & Gou & Zankuu Hadou Ken,FF8581,04,FF8580,06,FF8591,04,FF8590,06,FF85A9,04,FF85A8,06
+90=Shin Gouki - Tatsumaki Zankuu Kyaku & Ashura Senkuu 1 & Gou Shoryuu Ken,FF8589,04,FF8588,06,FF8591,04,FF8590,06,FF85A9,04,FF85A8,06
+91=Shin Gouki - Tatsumaki Zankuu Kyaku & Ashura Senkuu 1 & Shakunetsu Hadou Ken,FF85C1,04,FF85C0,0A,FF8591,04,FF8590,06,FF85A9,04,FF85A8,06
+92=Shin Gouki - Tatsumaki Zankuu Kyaku & Ashura Senkuu 1 & Zenpou Tenshin,FF85D1,04,FF85D0,06,FF8591,04,FF8590,06,FF85A9,04,FF85A8,06
+93=Shin Gouki - Tatsumaki Zankuu Kyaku & Ashura Senkuu 1 & Hyakki Shuu,FF85D9,04,FF85D8,08,FF8591,04,FF8590,06,FF85A9,04,FF85A8,06
+94=Shin Gouki - Tatsumaki Zankuu Kyaku & Ashura Senkuu 2 & Gou & Zankuu Hadou Ken,FF8581,04,FF8580,06,FF8591,04,FF8590,06,FF85B1,04,FF85B0,06
+95=Shin Gouki - Tatsumaki Zankuu Kyaku & Ashura Senkuu 2 & Gou Shoryuu Ken,FF8589,04,FF8588,06,FF8591,04,FF8590,06,FF85B1,04,FF85B0,06
+96=Shin Gouki - Tatsumaki Zankuu Kyaku & Ashura Senkuu 2 & Shakunetsu Hadou Ken,FF85C1,04,FF85C0,0A,FF8591,04,FF8590,06,FF85B1,04,FF85B0,06
+97=Shin Gouki - Tatsumaki Zankuu Kyaku & Ashura Senkuu 2 & Zenpou Tenshin,FF85D1,04,FF85D0,06,FF8591,04,FF8590,06,FF85B1,04,FF85B0,06
+98=Shin Gouki - Tatsumaki Zankuu Kyaku & Ashura Senkuu 2 & Hyakki Shuu,FF85D9,04,FF85D8,08,FF8591,04,FF8590,06,FF85B1,04,FF85B0,06
+99=Sodom - Butsumetsu Buster & Daikyou Burning,FF8581,08,FF8580,00,FF85A1,08,FF85A0,00
+100=Sodom - Jigoku Scrape & Daikyou Burning,FF8589,04,FF8588,06,FF85A1,08,FF85A0,00
+101=Sodom - Kouten Okiagari (Reversal) & Daikyou Burning,FF8669,04,FF8668,06,FF85A1,08,FF85A0,00
+102=Sodom - Butsumetsu Buster & Tengu Walking (Reversal),FF8581,08,FF8580,00,FF85A9,04,FF85A8,06
+103=Sodom - Jigoku Scrape & Tengu Walking (Reversal),FF8589,04,FF8588,06,FF85A9,04,FF85A8,06
+104=Sodom - Kouten Okiagari (Reversal) & Tengu Walking (Reversal),FF8669,04,FF8668,06,FF85A9,04,FF85A8,06
+105=Sodom - Butsumetsu Buster & Shiraha Catch,FF8581,08,FF8580,00,FF85B1,04,FF85B0,06
+106=Sodom - Jigoku Scrape & Shiraha Catch,FF8589,04,FF8588,06,FF85B1,04,FF85B0,06
+107=Sodom - Kouten Okiagari (Reversal) & Shiraha Catch,FF8669,04,FF8668,06,FF85B1,04,FF85B0,06
+108=Vega - Psycho Shot & Head Press,FF8581,08,FF8580,06,FF8583,FF,FF8589,08,FF8588,06,FF858B,FF
+109=Vega - Psycho Shot & Double Knee Press,FF8581,08,FF8580,06,FF8583,FF,FF8591,08,FF8590,06,FF8593,FF
+110=Vega - Somersault Skull Diver & Head Press,FF85C1,08,FF85C0,06,FF85C3,FF,FF8589,08,FF8588,06,FF858B,FF
+111=Vega - Somersault Skull Diver & Double Knee Press,FF85C1,08,FF85C0,06,FF85C3,FF,FF8591,08,FF8590,06,FF8593,FF
+112=Vega - Bison Warp 1,FF8599,04,FF8598,06
+113=Vega - Bison Warp 2,FF85A1,04,FF85A0,06
+114=Vega (SF2) - Head Press & Psycho Crusher Attack,FF8581,08,FF8580,06,FF8583,FF,FF8591,08,FF8590,06,FF8593,FF
+115=Vega (SF2) - Double Knee Press & Psycho Crusher Attack,FF8589,08,FF8588,06,FF858B,FF,FF8591,08,FF8590,06,FF8593,FF
+116=Zangief - Flying Powerbomb & Atomic Suplex & Screw Piledriver,FF8589,08,FF8588,00,FF8591,08,FF8590,00
+117=Zangief - Flying Powerbomb & Atomic Suplex & Banishing Flat,FF8589,08,FF8588,00,FF8581,04,FF8580,06
+118=Zangief (SF2) - Screw Piledriver,FF8581,08,FF8580,00
+Default=0
+
+[38]
+Name=P1 Easy Super Combo
+0=Disabled
+1=Adon - Jaguar Revolver & Varied Assault,FF85A1,04,FF85A0,0A,FF8599,04,FF8598,0A
+2=Birdie - The Birdie,FF85D9,08,FF85D8,0A,FF85DB,FF
+3=Birdie - Bull Revenger,FF85D1,04,FF85D0,0A
+4=Blue Ryu - Shinkuu Hadou Ken & Tatsumaki Senpuu Kyaku,FF8599,04,FF8598,0C,FF85A1,04,FF85A0,0A
+5=Chun-Li - Senretsu Kyaku & Kikou Shou,FF85A1,08,FF85A0,0A,FF85A3,FF,FF85B1,04,FF85B0,0C
+6=Chun-Li - Hanzan Tenshou Kyaku & Kikou Shou,FF85A9,08,FF85A8,0A,FF85AB,FF,FF85B1,04,FF85B0,0C
+7=Chun-Li (SF2 Costume) - Senretsu Kyaku & Kikou Shou,FF85A1,08,FF85A0,0A,FF85A3,FF,FF85B1,04,FF85B0,0C
+8=Chun-Li (SF2 Costume) - Hanzan Tenshou Kyaku & Kikou Shou,FF85A9,08,FF85A8,0A,FF85AB,FF,FF85B1,04,FF85B0,0C
+9=Dan - Shinkuu Gadou Ken & Kouryuu Rekka & Chahatsu Densetsu,FF8599,04,FF8598,0C,FF85A1,04,FF85A0,0A,FF85C1,04,FF85C0,06
+10=Dan - Shinkuu Gadou & Hisshou Burai Ken & Chahatsu Densetsu,FF8599,04,FF8598,0C,FF85A9,04,FF85A8,0A,FF85C1,04,FF85C0,06
+11=Dhalsim - Yoga Strike & Inferno,FF85B9,04,FF85B8,0A,FF85B1,04,FF85B0,0C
+12=Evil Ryu - Shinkuu Hadou Ken & Tatsumaki Senpuu Kyaku,FF8599,04,FF8598,0C,FF85A1,04,FF85A0,0A
+13=Evil Ryu - Shun Goku Satsu & Tatsumaki Senpuu Kyaku,FF85B1,02,FF85B0,08,FF85A1,04,FF85A0,0A
+14=Evil Ryu - Shinkuu Hadou Ken & Messatsu Gou Shoryuu,FF8599,04,FF8598,0C,FF85C9,04,FF85C8,0A
+15=Evil Ryu - Shun Goku Satsu & Messatsu Gou Shoryuu,FF85B1,02,FF85B0,08,FF85C9,04,FF85C8,0A
+16=Gen - Zan'ei & Jakouha & Kouga,FF85A9,04,FF85A8,0A,FF85B1,04,FF85B0,0A,FF85B9,04,FF85B8,0A
+17=Gen - Shitenshuu & Jakouha & Kouga,FF85A1,04,FF85A0,0A,FF85B1,04,FF85B0,0A,FF85B9,04,FF85B8,0A
+18=Gouki - Tenma Gou Zankuu & Messatsu Gou Hadou,FF85B9,04,FF85B8,0C,FF8599,04,FF8598,12
+19=Gouki - Tenma Gou Zankuu & Messatsu Gou Shoryuu,FF85B9,04,FF85B8,0C,FF85A1,04,FF85A0,0A
+20=Gouki - Tenma Gou Zankuu & Shun Goku Satsu,FF85B9,04,FF85B8,0C,FF85C9,02,FF85C8,08
+21=Guy - Bushin Gourai Kyaku & Hassou Ken,FF8591,04,FF8590,0A,FF8589,04,FF8588,0A
+22=Ken - Shoryuu Reppa & Shinryuu Ken,FF85A1,04,FF85A0,0A,FF8599,04,FF8598,0A
+23=Nash - Sonic Break & Crossfire Blitz,FF85A1,08,FF85A0,0A,FF85A3,FF,FF8591,08,FF8590,0A,FF8593,FF
+24=Nash - Sonic Break & Somersault Justice,FF85A1,08,FF85A0,0A,FF85A3,FF,FF8599,08,FF8598,0A,FF859B,FF
+25=Rolento - Take no Prisoner & Mine Sweeper,FF85A9,04,FF85A8,0A,FF85A1,04,FF85A0,0C
+26=Rose - Soul Illusion & Aura Soul Throw,FF85A9,04,FF85A8,0A,FF8599,04,FF8598,0A
+27=Rose - Soul Illusion & Aura Soul Spark,FF85A9,04,FF85A8,0A,FF85A1,04,FF85A0,0C
+28=Ryu - Shinkuu Hadou Ken & Tatsumaki Senpuu Kyaku,FF8599,04,FF8598,0C,FF85A1,04,FF85A0,0A
+29=Ryu (No Super Bar) - Shinkuu Hadou Ken & Tatsumaki Senpuu Kyaku,FF8599,04,FF8598,0C,FF85A1,04,FF85A0,0A
+30=Sagat - Tiger Cannon & Raid,FF85B1,04,FF85B0,0C,FF8599,04,FF8598,0A
+31=Sagat - Tiger Cannon & Genocide,FF85B1,04,FF85B0,0C,FF85A9,04,FF85A8,0A
+32=Sakura - Shinkuu Hadou Ken & Midare-Zakura,FF8599,04,FF8598,0C,FF85A1,04,FF85A0,0A
+33=Sakura - Shinkuu Hadou Ken & Haru Ichiban,FF8599,04,FF8598,0C,FF85A9,04,FF85A8,0A
+34=Shin Gouki - Tenma Gou Zankuu & Messatsu Gou Hadou,FF85B9,04,FF85B8,0C,FF8599,04,FF8598,12
+35=Shin Gouki - Tenma Gou Zankuu & Messatsu Gou Shoryuu,FF85B9,04,FF85B8,0C,FF85A1,04,FF85A0,0A
+36=Shin Gouki - Tenma Gou Zankuu & Shun Goku Satsu,FF85B9,04,FF85B8,0C,FF85C9,02,FF85C8,08
+37=Sodom - Meido no Miyage,FF8599,04,FF8598,0A
+38=Sodom - Ten Chuu Satsu,FF8591,08,FF8590,00
+39=Vega - Psycho Crusher & Knee Press Nightmare,FF85A9,08,FF85A8,0A,FF85AB,FF,FF85B1,08,FF85B0,0A,FF85B3,FF
+40=Zangief - Final Atomic Buster & Aerial Russian Slam,FF8599,08,FF8598,0A,FF85A1,04,FF85A0,0A
+Default=0
+
+[39]
+Name=P2 Inf Health
+0=Disabled
+1=Enabled,FF8850,90
+Default=0
+
+[40]
+Name=P2 Inf Power
+0=Disabled
+1=Enabled,FF889E,90
+Default=0
+
+[41]
+Name=P2 Inf Taunts
+0=Disabled
+1=Enabled,FF894E,01
+Default=0
+
+[42]
+Name=P2 Air Moves
+0=Disabled
+1=Enabled,FF8830,00
+Default=0
+
+[43]
+Name=P2 No SC Wait
+0=Disabled
+1=Enabled,FF8832,01
+Default=0
+
+[44]
+Name=P2 Force Custom Combo
+0=Disabled
+1=Enabled,FF8A98,90,FF8A9B,90
+Default=0
+
+[45]
+Name=P2 Inf Custom Combo
+0=Disabled
+1=Enabled,FF8A9A,B0,FF8A9B,00
+Default=0
+
+[46]
+Name=P2 Endless Custom Combo
+0=Disabled
+1=Enabled,FF8A98,90,FF8A9B,90
+Default=0
+
+[47]
+Name=P2 Force Level 3 Combo
+0=Disabled
+1=Enabled,FF8903,04
+Default=0
+
+[48]
+Name=P2 Rival Character
+0=Disabled
+1=Enabled,FF88C7,05
+Default=0
+
+[49]
+Name=P2 Shin Gouki Boss
+0=Disabled
+1=Enabled,FF88C9,03
+Default=0
+
+[50]
+Name=P2 Shadow
+0=Disabled
+1=Enabled,FF88CC,FF
+Default=0
+
+[51]
+Name=P2 Never Dizzy
+0=Disabled
+1=Enabled,FF8936,00
+Default=0
+
+[52]
+Name=P2 Succession Fireball
+0=Disabled
+1=Enabled,FF8A39,00
+Default=0
+
+[53]
+Name=P2 No Shot Limit
+0=Disabled
+1=Enabled,FF8933,00
+Default=0
+
+[54]
+Name=P2 Sudden Death
+0=Disabled
+1=Enabled,FF8850,00
+Default=0
+
+[55]
+Name=P2 Display 99 Hits
+0=Disabled
+1=Enabled,FF885F,63
+Default=0
+
+[56]
+Name=P2 Controller Mode
+0=Disabled
+1=User Play,FF88A4,00
+2=Computer Play,FF88A4,01
+3=Hard Computer Play,FF88A4,01,FF87B9,84
+Default=0
+
+[57]
+Name=P2 Char Select
+0=Disabled
+1=Adon,FF8883,05
+2=Birdie,FF8883,08
+3=Blue Ryu,FF8883,1F
+4=Chun-Li,FF8883,04
+5=Chun-Li (SF2),FF8883,1C
+6=Chun-Li (SF2 Costume),FF8883,12
+7=Dan,FF8883,0C
+8=Dhalsim,FF8883,0F
+9=Dhalsim (SF2),FF8883,16
+10=Evil Ryu,FF8883,17
+11=Gen,FF8883,11
+12=Gen (Alt),FF8883,13
+13=Gouki,FF8883,02
+14=Guy,FF8883,07
+15=Ken,FF8883,01
+16=Ken (SF2),FF8883,1A
+17=Nash,FF8883,03
+18=Rolento,FF8883,0E
+19=Rose,FF8883,09
+20=Ryu,FF8883,00
+21=Ryu (No Super Bar),FF8883,1E
+22=Ryu (SF2),FF8883,1B
+23=Sagat,FF8883,0B
+24=Sagat (SF2),FF8883,19
+25=Sakura,FF8883,0D
+26=Sakura (Alt),FF8883,1D
+27=Shin Gouki,FF8883,14
+28=Sodom,FF8883,06
+29=Vega,FF8883,0A
+30=Vega (SF2),FF8883,18
+31=Zangief,FF8883,10
+32=Zangief (SF2),FF8883,15
+Default=0
+
+[58]
+Name=P2 Colour Select
+0=Disabled
+1=Colour 1,FF88A9,00
+2=Colour 2,FF88A9,01
+3=Colour 3,FF88A9,02
+4=Colour 4,FF88A9,03
+5=Colour 5,FF88A9,04
+6=Colour 6,FF88A9,05
+7=Colour 7,FF88A9,06
+8=Colour 8,FF88A9,07
+9=Colour 9,FF88A9,0F
+Default=0
+
+[59]
+Name=P2 Rolento - Easy Second & Third Patriot Circle
+0=Disabled
+1=Enabled,FF89C1,04,FF89C0,06
+Default=0
+
+[60]
+Name=P2 Sakura - Hadou Ken Size & Range
+0=Disabled
+1=Normal & Long,FF89FE,00
+2=Medium & Medium,FF89FE,01
+3=Large & Short,FF89FE,02
+Default=0
+
+[61]
+Name=P2 Easy Alpha Counter
+0=Disabled
+1=Enabled,FF8961,04,FF8960,06,FF8969,04,FF8968,06
+Default=0
+
+[62]
+Name=P2 Easy Roll Recovery
+0=Disabled
+1=Enabled,FF8A61,04,FF8A60,06
+Default=0
+
+[63]
+Name=P2 Easy Moves
+0=Disabled
+1=Adon - Jaguar Kick,FF8981,04,FF8980,06
+2=Adon - Rising Jaguar,FF8989,04,FF8988,06
+3=Adon - Jaguar Tooth,FF8991,04,FF8990,0A
+4=Birdie - Bull Head & Bull Horn 2,FF8981,08,FF8980,06,FF8983,FF,FF89AB,04,FF89AD,01,FF89B3,04,FF89B5,01,FF89BB,04,FF89BD,01,FF89C3,04,FF89C5,01
+5=Birdie - Bull Horn 1 & 2,FF898B,04,FF898D,01,FF8993,04,FF8995,01,FF899B,04,FF899D,01,FF89A3,04,FF89A5,01,FF89AB,04,FF89AD,01,FF89B3,04,FF89B5,01,FF89BB,04,FF89BD,01,FF89C3,04,FF89C5,01
+6=Birdie - Murder Chain & Bull Horn 2,FF89C9,08,FF89C8,00,FF89AB,04,FF89AD,01,FF89B3,04,FF89B5,01,FF89BB,04,FF89BD,01,FF89C3,04,FF89C5,01
+7=Blue Ryu - Hadou Ken & no Kamae & Tatsumaki Senpuu Kyaku,FF8981,04,FF8980,06,FF8991,04,FF8990,06,FF89A9,04,FF89A8,06
+8=Blue Ryu - Shakunetsu Hadou Ken & no Kamae & Tatsumaki Senpuu Kyaku,FF89B1,04,FF89B0,0A,FF8991,04,FF8990,06,FF89A9,04,FF89A8,06
+9=Blue Ryu - Shoryuu Ken & Hadou no Kamae & Tatsumaki Senpuu Kyaku,FF8989,04,FF8988,06,FF8991,04,FF8990,06,FF89A9,04,FF89A8,06
+10=Chun Li - Hyakuretsu Kyaku & Kikou Ken,FF8982,05,FF8984,05,FF8986,05,FF8989,04,FF8988,08
+11=Chun Li - Tenshou Kyaku & Kikou Ken,FF8991,08,FF8990,06,FF8993,FF,FF8989,04,FF8988,08
+12=Chun Li - Sen'en Shuu & Kikou Ken,FF8999,04,FF8998,0A,FF8989,04,FF8988,08
+13=Chun Li (SF2) - Hyakuretsu Kyaku,FF8982,05,FF8984,05,FF8986,05
+14=Chun Li (SF2) - Sen'en Shuu,FF8989,08,FF8988,06,FF898B,FF
+15=Chun Li (SF2 Costume) - Hyakuretsu Kyaku & Kikou Ken,FF8982,05,FF8984,05,FF8986,05,FF8989,08,FF8988,06,FF898B,FF
+16=Chun Li (SF2 Costume) - Tenshou Kyaku & Kikou Ken,FF8991,08,FF8990,06,FF8993,FF,FF8989,08,FF8988,06,FF898B,FF
+17=Chun Li (SF2 Costume) - Sen'en Shuu & Kikou Ken,FF8999,04,FF8998,0A,FF8989,08,FF8988,06,FF898B,FF
+18=Dan - Gadou Ken & Dankuu Kyaku & Zenten Chohatsu,FF8981,04,FF8980,06,FF8991,04,FF8990,06,FF89B1,04,FF89B0,06
+19=Dan - Gadou Ken & Dankuu Kyaku & Kouten Chohatsu,FF8981,04,FF8980,06,FF8991,04,FF8990,06,FF89B9,04,FF89B8,06
+20=Dan - Kouryuu Ken & Dankuu Kyaku & Zenten Chohatsu,FF8989,04,FF8988,06,FF8991,04,FF8990,06,FF89B1,04,FF89B0,06
+21=Dan - Kouryuu Ken & Dankuu Kyaku & Kouten Chohatsu,FF8989,04,FF8988,06,FF8991,04,FF8990,06,FF89B9,04,FF89B8,06
+22=Dhalsim - Yoga Flame & Blast & Teleport 1,FF8999,04,FF8998,0A,FF89A1,04,FF89A0,0A,FF8981,04,FF8980,06
+23=Dhalsim - Yoga Flame & Blast & Teleport 2,FF8999,04,FF8998,0A,FF89A1,04,FF89A0,0A,FF8989,04,FF8988,06
+24=Dhalsim - Yoga Fire & Blast & Teleport 1,FF8991,04,FF8990,06,FF89A1,04,FF89A0,0A,FF8981,04,FF8980,06
+25=Dhalsim - Yoga Fire & Blast & Teleport 2,FF8991,04,FF8990,06,FF89A1,04,FF89A0,0A,FF8989,04,FF8988,06
+26=Dhalsim - Yoga Flame & Escape & Teleport 1,FF8999,04,FF8998,0A,FF89A9,04,FF89A8,06,FF8981,04,FF8980,06
+27=Dhalsim - Yoga Flame & Escape & Teleport 2,FF8999,04,FF8998,0A,FF89A9,04,FF89A8,06,FF8989,04,FF8988,06
+28=Dhalsim - Yoga Fire & Escape & Teleport 1,FF8991,04,FF8990,06,FF89A9,04,FF89A8,06,FF8981,04,FF8980,06
+29=Dhalsim - Yoga Fire & Escape & Teleport 2,FF8991,04,FF8990,06,FF89A9,04,FF89A8,06,FF8989,04,FF8988,06
+30=Dhalsim (SF2) - Yoga Fire,FF8981,04,FF8980,06
+31=Dhalsim (SF2) - Yoga Flame,FF8989,04,FF8988,0A
+32=Evil Ryu - Hadou Ken & no Kamae & Tatsumaki Senpuu Kyaku & Ashura Senkuu 1,FF8981,04,FF8980,06,FF8991,04,FF8990,06,FF89A9,04,FF89A8,06,FF89B9,04,FF89B8,06
+33=Evil Ryu - Shakunetsu Hadou Ken & no Kamae & Tatsumaki Senpuu Kyaku & Ashura Senkuu 1,FF89B1,04,FF89B0,0A,FF8991,04,FF8990,06,FF89A9,04,FF89A8,06,FF89B9,04,FF89B8,06
+34=Evil Ryu - Shoryuu Ken & Hadou no Kamae & Tatsumaki Senpuu Kyaku & Ashura Senkuu 1,FF8989,04,FF8988,06,FF8991,04,FF8990,06,FF89A9,04,FF89A8,06,FF89B9,04,FF89B8,06
+35=Evil Ryu - Hadou Ken & no Kamae & Tatsumaki Senpuu Kyaku & Ashura Senkuu 2,FF8981,04,FF8980,06,FF8991,04,FF8990,06,FF89A9,04,FF89A8,06,FF89C1,04,FF89C0,06
+36=Evil Ryu - Shakunetsu Hadou Ken & no Kamae & Tatsumaki Senpuu Kyaku & Ashura Senkuu 2,FF89B1,04,FF89B0,0A,FF8991,04,FF8990,06,FF89A9,04,FF89A8,06,FF89C1,04,FF89C0,06
+37=Evil Ryu - Shoryuu Ken & Hadou no Kamae & Tatsumaki Senpuu Kyaku & Ashura Senkuu 2,FF8989,04,FF8988,06,FF8991,04,FF8990,06,FF89A9,04,FF89A8,06,FF89C1,04,FF89C0,06
+38=Gen - Hyakurenkou & Geki Rou,FF8982,05,FF8984,05,FF8986,05,FF8989,04,FF8988,06
+39=Gen - Hyakurenkou & Ouga,FF8982,05,FF8984,05,FF8986,05,FF8999,08,FF8998,06,FF899B,FF
+40=Gen - Jasen & Geki Rou,FF8991,08,FF8990,06,FF8993,FF,FF8989,04,FF8988,06
+41=Gen - Jasen & Ouga,FF8991,08,FF8990,06,FF8993,FF,FF8999,08,FF8998,06,FF899B,FF
+42=Gouki - Tatsumaki Zankuu Kyaku & Ashura Senkuu 1 & Gou & Zankuu Hadou Ken,FF8981,04,FF8980,06,FF8991,04,FF8990,06,FF89A9,04,FF89A8,06
+43=Gouki - Tatsumaki Zankuu Kyaku & Ashura Senkuu 1 & Gou Shoryuu Ken,FF8989,04,FF8988,06,FF8991,04,FF8990,06,FF89A9,04,FF89A8,06
+44=Gouki - Tatsumaki Zankuu Kyaku & Ashura Senkuu 1 & Shakunetsu Hadou Ken,FF89C1,04,FF89C0,0A,FF8991,04,FF8990,06,FF89A9,04,FF89A8,06
+45=Gouki - Tatsumaki Zankuu Kyaku & Ashura Senkuu 1 & Zenpou Tenshin,FF89D1,04,FF89D0,06,FF8991,04,FF8990,06,FF89A9,04,FF89A8,06
+46=Gouki - Tatsumaki Zankuu Kyaku & Ashura Senkuu 1 & Hyakki Shuu,FF89D9,04,FF89D8,08,FF8991,04,FF8990,06,FF89A9,04,FF89A8,06
+47=Gouki - Tatsumaki Zankuu Kyaku & Ashura Senkuu 2 & Gou & Zankuu Hadou Ken,FF8981,04,FF8980,06,FF8991,04,FF8990,06,FF89B1,04,FF89B0,06
+48=Gouki - Tatsumaki Zankuu Kyaku & Ashura Senkuu 2 & Gou Shoryuu Ken,FF8989,04,FF8988,06,FF8991,04,FF8990,06,FF89B1,04,FF89B0,06
+49=Gouki - Tatsumaki Zankuu Kyaku & Ashura Senkuu 2 & Shakunetsu Hadou Ken,FF89C1,04,FF89C0,0A,FF8991,04,FF8990,06,FF89B1,04,FF89B0,06
+50=Gouki - Tatsumaki Zankuu Kyaku & Ashura Senkuu 2 & Zenpou Tenshin,FF89D1,04,FF89D0,06,FF8991,04,FF8990,06,FF89B1,04,FF89B0,06
+51=Gouki - Tatsumaki Zankuu Kyaku & Ashura Senkuu 2 & Hyakki Shuu,FF89D9,04,FF89D8,08,FF8991,04,FF8990,06,FF89B1,04,FF89B0,06
+52=Guy - Bushin Senpuu Kyaku & Izuna Otoshi,FF8981,04,FF8980,06,FF8999,04,FF8998,06
+53=Guy - Bushin Senpuu Kyaku & Houzantou,FF8981,04,FF8980,06,FF89A9,04,FF89A8,06
+54=Guy - Hayagake  & Bushin Izuna Otoshi,FF89A1,04,FF89A0,06,FF8999,04,FF8998,06
+55=Guy - Hayagake & Houzantou,FF89A1,04,FF89A0,06,FF89A9,04,FF89A8,06
+56=Ken - Hadou Ken & Zentou & Tatsumaki Senpuu Kyaku,FF8981,04,FF8980,06,FF8991,04,FF8990,06,FF89B1,04,FF89B0,06
+57=Ken - Zenpou Tenshin & Zentou & Tatsumaki Senpuu Kyaku,FF89A9,04,FF89A8,06,FF8991,04,FF8990,06,FF89B1,04,FF89B0,06
+58=Ken - Shoryuu Ken & Zentou & Tatsumaki Senpuu Kyaku,FF8989,04,FF8988,06,FF8991,04,FF8990,06,FF89B1,04,FF89B0,06
+59=Ken (SF2) - Hadou Ken & Tatsumaki Senpuu Kyaku,FF8981,04,FF8980,06,FF8991,04,FF8990,06
+60=Ken (SF2) - Shoryuu Ken & Tatsumaki Senpuu Kyaku,FF8989,04,FF8988,06,FF8991,04,FF8990,06
+61=Nash - Somersault Shell & Sonic Boom,FF8981,08,FF8980,06,FF8983,FF,FF8989,08,FF8988,06,FF898B,FF
+62=Rolento - Stinger & Patriot Circle & High Jump,FF8981,04,FF8980,06,FF8991,02,FF8990,02,FF89B1,04,FF89B0,06
+63=Rolento - Stinger & Mekong Delta Air Raid & High Jump,FF8981,04,FF8980,06,FF8991,02,FF8990,02,FF89B9,04,FF89B8,06
+64=Rolento - Mekong Delta Escape & Patriot Circle & High Jump,FF8989,04,FF8988,06,FF8991,02,FF8990,02,FF89B1,04,FF89B0,06
+65=Rolento - Mekong Delta Escape & Air Raid & High Jump,FF8989,04,FF8988,06,FF8991,02,FF8990,02,FF89B9,04,FF89B8,06
+66=Rose - Soul Reflect & Spiral,FF8981,04,FF8980,06,FF89B1,04,FF89B0,06
+67=Rose - Soul Spark & Spiral,FF8989,04,FF8988,0A,FF89B1,04,FF89B0,06
+68=Rose - Soul Throw & Spiral,FF8991,04,FF8990,06,FF89B1,04,FF89B0,06
+69=Ryu - Hadou Ken & no Kamae & Tatsumaki Senpuu Kyaku,FF8981,04,FF8980,06,FF8991,04,FF8990,06,FF89A9,04,FF89A8,06
+70=Ryu - Shakunetsu Hadou Ken & no Kamae & Tatsumaki Senpuu Kyaku,FF89B1,04,FF89B0,0A,FF8991,04,FF8990,06,FF89A9,04,FF89A8,06
+71=Ryu - Shoryuu Ken & Hadou no Kamae & Tatsumaki Senpuu Kyaku,FF8989,04,FF8988,06,FF8991,04,FF8990,06,FF89A9,04,FF89A8,06
+72=Ryu (No Super Bar) - Hadou Ken & no Kamae & Tatsumaki Senpuu Kyaku,FF8981,04,FF8980,06,FF8991,04,FF8990,06,FF89A9,04,FF89A8,06
+73=Ryu (No Super Bar) - Shakunetsu Hadou Ken & no Kamae & Tatsumaki Senpuu Kyaku,FF89B1,04,FF89B0,0A,FF8991,04,FF8990,06,FF89A9,04,FF89A8,06
+74=Ryu (No Super Bar) - Shoryuu Ken & Hadou no Kamae & Tatsumaki Senpuu Kyaku,FF8989,04,FF8988,06,FF8991,04,FF8990,06,FF89A9,04,FF89A8,06
+75=Ryu (SF2) - Hadou Ken & Tatsumaki Senpuu Kyaku,FF8981,04,FF8980,06,FF8991,04,FF8990,06
+76=Ryu (SF2) - Shoryuu Ken & Tatsumaki Senpuu Kyaku,FF8989,04,FF8988,06,FF8991,04,FF8990,06
+77=Sagat - Ground & Tiger Shot,FF8981,04,FF8980,06,FF8989,04,FF8988,06
+78=Sagat - Ground Tiger Shot & Blow,FF89A1,04,FF89A0,06,FF8989,04,FF8988,06
+79=Sagat - Tiger Crush & Shot,FF8981,04,FF8980,06,FF8991,04,FF8990,06
+80=Sagat - Tiger Crush & Blow,FF89A1,04,FF89A0,06,FF8991,04,FF8990,06
+81=Sagat (SF2) - Ground & Tiger Shot,FF8981,04,FF8980,06,FF8989,04,FF8988,06
+82=Sagat (SF2) - Ground Tiger Shot & Uppercut,FF8999,04,FF8998,06,FF8989,04,FF8988,06
+83=Sagat (SF2) - Tiger Crush & Shot,FF8981,04,FF8980,06,FF8991,04,FF8990,08
+84=Sagat (SF2) - Tiger Crush & Uppercut,FF8999,04,FF8998,06,FF8991,04,FF8990,08
+85=Sakura - Hadou Ken & Shunpuu Kyaku,FF8981,04,FF8980,06,FF8991,04,FF8990,06
+86=Sakura - Shou'ou Ken & Shunpuu Kyaku,FF8989,04,FF8988,06,FF8991,04,FF8990,06
+87=Sakura - Hadou Ken & Sakura Otoshi,FF8981,04,FF8980,06,FF89B1,04,FF89B0,06
+88=Sakura - Shou'ou Ken & Sakura Otoshi,FF8989,04,FF8988,06,FF89B1,04,FF89B0,06
+89=Shin Gouki - Tatsumaki Zankuu Kyaku & Ashura Senkuu 1 & Gou & Zankuu Hadou Ken,FF8981,04,FF8980,06,FF8991,04,FF8990,06,FF89A9,04,FF89A8,06
+90=Shin Gouki - Tatsumaki Zankuu Kyaku & Ashura Senkuu 1 & Gou Shoryuu Ken,FF8989,04,FF8988,06,FF8991,04,FF8990,06,FF89A9,04,FF89A8,06
+91=Shin Gouki - Tatsumaki Zankuu Kyaku & Ashura Senkuu 1 & Shakunetsu Hadou Ken,FF89C1,04,FF89C0,0A,FF8991,04,FF8990,06,FF89A9,04,FF89A8,06
+92=Shin Gouki - Tatsumaki Zankuu Kyaku & Ashura Senkuu 1 & Zenpou Tenshin,FF89D1,04,FF89D0,06,FF8991,04,FF8990,06,FF89A9,04,FF89A8,06
+93=Shin Gouki - Tatsumaki Zankuu Kyaku & Ashura Senkuu 1 & Hyakki Shuu,FF89D9,04,FF89D8,08,FF8991,04,FF8990,06,FF89A9,04,FF89A8,06
+94=Shin Gouki - Tatsumaki Zankuu Kyaku & Ashura Senkuu 2 & Gou & Zankuu Hadou Ken,FF8981,04,FF8980,06,FF8991,04,FF8990,06,FF89B1,04,FF89B0,06
+95=Shin Gouki - Tatsumaki Zankuu Kyaku & Ashura Senkuu 2 & Gou Shoryuu Ken,FF8989,04,FF8988,06,FF8991,04,FF8990,06,FF89B1,04,FF89B0,06
+96=Shin Gouki - Tatsumaki Zankuu Kyaku & Ashura Senkuu 2 & Shakunetsu Hadou Ken,FF89C1,04,FF89C0,0A,FF8991,04,FF8990,06,FF89B1,04,FF89B0,06
+97=Shin Gouki - Tatsumaki Zankuu Kyaku & Ashura Senkuu 2 & Zenpou Tenshin,FF89D1,04,FF89D0,06,FF8991,04,FF8990,06,FF89B1,04,FF89B0,06
+98=Shin Gouki - Tatsumaki Zankuu Kyaku & Ashura Senkuu 2 & Hyakki Shuu,FF89D9,04,FF89D8,08,FF8991,04,FF8990,06,FF89B1,04,FF89B0,06
+99=Sodom - Butsumetsu Buster & Daikyou Burning,FF8981,08,FF8980,00,FF89A1,08,FF89A0,00
+100=Sodom - Jigoku Scrape & Daikyou Burning,FF8989,04,FF8988,06,FF89A1,08,FF89A0,00
+101=Sodom - Kouten Okiagari (Reversal) & Daikyou Burning,FF8A69,04,FF8A68,06,FF89A1,08,FF89A0,00
+102=Sodom - Butsumetsu Buster & Tengu Walking (Reversal),FF8981,08,FF8980,00,FF89A9,04,FF89A8,06
+103=Sodom - Jigoku Scrape & Tengu Walking (Reversal),FF8989,04,FF8988,06,FF89A9,04,FF89A8,06
+104=Sodom - Kouten Okiagari (Reversal) & Tengu Walking (Reversal),FF8A69,04,FF8A68,06,FF89A9,04,FF89A8,06
+105=Sodom - Butsumetsu Buster & Shiraha Catch,FF8981,08,FF8980,00,FF89B1,04,FF89B0,06
+106=Sodom - Jigoku Scrape & Shiraha Catch,FF8989,04,FF8988,06,FF89B1,04,FF89B0,06
+107=Sodom - Kouten Okiagari (Reversal) & Shiraha Catch,FF8A69,04,FF8A68,06,FF89B1,04,FF89B0,06
+108=Vega - Psycho Shot & Head Press,FF8981,08,FF8980,06,FF8983,FF,FF8989,08,FF8988,06,FF898B,FF
+109=Vega - Psycho Shot & Double Knee Press,FF8981,08,FF8980,06,FF8983,FF,FF8991,08,FF8990,06,FF8993,FF
+110=Vega - Somersault Skull Diver & Head Press,FF89C1,08,FF89C0,06,FF89C3,FF,FF8989,08,FF8988,06,FF898B,FF
+111=Vega - Somersault Skull Diver & Double Knee Press,FF89C1,08,FF89C0,06,FF89C3,FF,FF8991,08,FF8990,06,FF8993,FF
+112=Vega - Bison Warp 1,FF8999,04,FF8998,06
+113=Vega - Bison Warp 2,FF89A1,04,FF89A0,06
+114=Vega (SF2) - Head Press & Psycho Crusher Attack,FF8981,08,FF8980,06,FF8983,FF,FF8991,08,FF8990,06,FF8993,FF
+115=Vega (SF2) - Double Knee Press & Psycho Crusher Attack,FF8989,08,FF8988,06,FF898B,FF,FF8991,08,FF8990,06,FF8993,FF
+116=Zangief - Flying Powerbomb & Atomic Suplex & Screw Piledriver,FF8989,08,FF8988,00,FF8991,08,FF8990,00
+117=Zangief - Flying Powerbomb & Atomic Suplex & Banishing Flat,FF8989,08,FF8988,00,FF8981,04,FF8980,06
+118=Zangief (SF2) - Screw Piledriver,FF8981,08,FF8980,00
+Default=0
+
+[64]
+Name=P2 Easy Super Combo
+0=Disabled
+1=Adon - Jaguar Revolver & Varied Assault,FF89A1,04,FF89A0,0A,FF8999,04,FF8998,0A
+2=Birdie - The Birdie,FF89D9,08,FF89D8,0A,FF89DB,FF
+3=Birdie - Bull Revenger,FF89D1,04,FF89D0,0A
+4=Blue Ryu - Shinkuu Hadou Ken & Tatsumaki Senpuu Kyaku,FF8999,04,FF8998,0C,FF89A1,04,FF89A0,0A
+5=Chun-Li - Senretsu Kyaku & Kikou Shou,FF89A1,08,FF89A0,0A,FF89A3,FF,FF89B1,04,FF89B0,0C
+6=Chun-Li - Hanzan Tenshou Kyaku & Kikou Shou,FF89A9,08,FF89A8,0A,FF89AB,FF,FF89B1,04,FF89B0,0C
+7=Chun-Li (SF2 Costume) - Senretsu Kyaku & Kikou Shou,FF89A1,08,FF89A0,0A,FF89A3,FF,FF89B1,04,FF89B0,0C
+8=Chun-Li (SF2 Costume) - Hanzan Tenshou Kyaku & Kikou Shou,FF89A9,08,FF89A8,0A,FF89AB,FF,FF89B1,04,FF89B0,0C
+9=Dan - Shinkuu Gadou Ken & Kouryuu Rekka & Chahatsu Densetsu,FF8999,04,FF8998,0C,FF89A1,04,FF89A0,0A,FF89C1,04,FF89C0,06
+10=Dan - Shinkuu Gadou & Hisshou Burai Ken & Chahatsu Densetsu,FF8999,04,FF8998,0C,FF89A9,04,FF89A8,0A,FF89C1,04,FF89C0,06
+11=Dhalsim - Yoga Strike & Inferno,FF89B9,04,FF89B8,0A,FF89B1,04,FF89B0,0C
+12=Evil Ryu - Shinkuu Hadou Ken & Tatsumaki Senpuu Kyaku,FF8999,04,FF8998,0C,FF89A1,04,FF89A0,0A
+13=Evil Ryu - Shun Goku Satsu & Tatsumaki Senpuu Kyaku,FF89B1,02,FF89B0,08,FF89A1,04,FF89A0,0A
+14=Evil Ryu - Shinkuu Hadou Ken & Messatsu Gou Shoryuu,FF8999,04,FF8998,0C,FF89C9,04,FF89C8,0A
+15=Evil Ryu - Shun Goku Satsu & Messatsu Gou Shoryuu,FF89B1,02,FF89B0,08,FF89C9,04,FF89C8,0A
+16=Gen - Zan'ei & Jakouha & Kouga,FF89A9,04,FF89A8,0A,FF89B1,04,FF89B0,0A,FF89B9,04,FF89B8,0A
+17=Gen - Shitenshuu & Jakouha & Kouga,FF89A1,04,FF89A0,0A,FF89B1,04,FF89B0,0A,FF89B9,04,FF89B8,0A
+18=Gouki - Tenma Gou Zankuu & Messatsu Gou Hadou,FF89B9,04,FF89B8,0C,FF8999,04,FF8998,12
+19=Gouki - Tenma Gou Zankuu & Messatsu Gou Shoryuu,FF89B9,04,FF89B8,0C,FF89A1,04,FF89A0,0A
+20=Gouki - Tenma Gou Zankuu & Shun Goku Satsu,FF89B9,04,FF89B8,0C,FF89C9,02,FF89C8,08
+21=Guy - Bushin Gourai Kyaku & Hassou Ken,FF8991,04,FF8990,0A,FF8989,04,FF8988,0A
+22=Ken - Shoryuu Reppa & Shinryuu Ken,FF89A1,04,FF89A0,0A,FF8999,04,FF8998,0A
+23=Nash - Sonic Break & Crossfire Blitz,FF89A1,08,FF89A0,0A,FF89A3,FF,FF8991,08,FF8990,0A,FF8993,FF
+24=Nash - Sonic Break & Somersault Justice,FF89A1,08,FF89A0,0A,FF89A3,FF,FF8999,08,FF8998,0A,FF899B,FF
+25=Rolento - Take no Prisoner & Mine Sweeper,FF89A9,04,FF89A8,0A,FF89A1,04,FF89A0,0C
+26=Rose - Soul Illusion & Aura Soul Throw,FF89A9,04,FF89A8,0A,FF8999,04,FF8998,0A
+27=Rose - Soul Illusion & Aura Soul Spark,FF89A9,04,FF89A8,0A,FF89A1,04,FF89A0,0C
+28=Ryu - Shinkuu Hadou Ken & Tatsumaki Senpuu Kyaku,FF8999,04,FF8998,0C,FF89A1,04,FF89A0,0A
+29=Ryu (No Super Bar) - Shinkuu Hadou Ken & Tatsumaki Senpuu Kyaku,FF8999,04,FF8998,0C,FF89A1,04,FF89A0,0A
+30=Sagat - Tiger Cannon & Raid,FF89B1,04,FF89B0,0C,FF8999,04,FF8998,0A
+31=Sagat - Tiger Cannon & Genocide,FF89B1,04,FF89B0,0C,FF89A9,04,FF89A8,0A
+32=Sakura - Shinkuu Hadou Ken & Midare-Zakura,FF8999,04,FF8998,0C,FF89A1,04,FF89A0,0A
+33=Sakura - Shinkuu Hadou Ken & Haru Ichiban,FF8999,04,FF8998,0C,FF89A9,04,FF89A8,0A
+34=Shin Gouki - Tenma Gou Zankuu & Messatsu Gou Hadou,FF89B9,04,FF89B8,0C,FF8999,04,FF8998,12
+35=Shin Gouki - Tenma Gou Zankuu & Messatsu Gou Shoryuu,FF89B9,04,FF89B8,0C,FF89A1,04,FF89A0,0A
+36=Shin Gouki - Tenma Gou Zankuu & Shun Goku Satsu,FF89B9,04,FF89B8,0C,FF89C9,02,FF89C8,08
+37=Sodom - Meido no Miyage,FF8999,04,FF8998,0A
+38=Sodom - Ten Chuu Satsu,FF8991,08,FF8990,00
+39=Vega - Psycho Crusher & Knee Press Nightmare,FF89A9,08,FF89A8,0A,FF89AB,FF,FF89B1,08,FF89B0,0A,FF89B3,FF
+40=Zangief - Final Atomic Buster & Aerial Russian Slam,FF8999,08,FF8998,0A,FF89A1,04,FF89A0,0A
+Default=0
+
+[65]
+Name=P3 Inf Health
+0=Disabled
+1=Enabled,FF8C50,90
+Default=0
+
+[66]
+Name=P3 Inf Power
+0=Disabled
+1=Enabled,FF8C9E,90
+Default=0
+
+[67]
+Name=P3 Inf Taunts
+0=Disabled
+1=Enabled,FF8D4E,01
+Default=0
+
+[68]
+Name=P3 Air Moves
+0=Disabled
+1=Enabled,FF8C30,00
+Default=0
+
+[69]
+Name=P3 No SC Wait
+0=Disabled
+1=Enabled,FF8C32,01
+Default=0
+
+[70]
+Name=P3 Force Custom Combo
+0=Disabled
+1=Enabled,FF8E98,90,FF8E9B,90
+Default=0
+
+[71]
+Name=P3 Inf Custom Combo
+0=Disabled
+1=Enabled,FF8E9A,B0,FF8E9B,00
+Default=0
+
+[72]
+Name=P3 Endless Custom Combo
+0=Disabled
+1=Enabled,FF8E98,90,FF8E9B,90
+Default=0
+
+[73]
+Name=P3 Force Level 3 Combo
+0=Disabled
+1=Enabled,FF8D03,04
+Default=0
+
+[74]
+Name=P3 Rival Character
+0=Disabled
+1=Enabled,FF8CC7,05
+Default=0
+
+[75]
+Name=P3 Shin Gouki Boss
+0=Disabled
+1=Enabled,FF8CC9,03
+Default=0
+
+[76]
+Name=P3 Shadow
+0=Disabled
+1=Enabled,FF8CCC,FF
+Default=0
+
+[77]
+Name=P3 Never Dizzy
+0=Disabled
+1=Enabled,FF8D36,00
+Default=0
+
+[78]
+Name=P3 Succession Fireball
+0=Disabled
+1=Enabled,FF8E39,00
+Default=0
+
+[79]
+Name=P3 No Shot Limit
+0=Disabled
+1=Enabled,FF8D33,00
+Default=0
+
+[80]
+Name=P3 Sudden Death
+0=Disabled
+1=Enabled,FF8C50,00
+Default=0
+
+[81]
+Name=P3 Display 99 Hits
+0=Disabled
+1=Enabled,FF8C5F,63
+Default=0
+
+[82]
+Name=P3 Controller Mode
+0=Disabled
+1=User Play,FF8CA4,00
+2=Computer Play,FF8CA4,01
+3=Hard Computer Play,FF8CA4,01,FF8BB9,84
+Default=0
+
+[83]
+Name=P3 Char Select
+0=Disabled
+1=Adon,FF8C83,05
+2=Birdie,FF8C83,08
+3=Blue Ryu,FF8C83,1F
+4=Chun-Li,FF8C83,04
+5=Chun-Li (SF2),FF8C83,1C
+6=Chun-Li (SF2 Costume),FF8C83,12
+7=Dan,FF8C83,0C
+8=Dhalsim,FF8C83,0F
+9=Dhalsim (SF2),FF8C83,16
+10=Evil Ryu,FF8C83,17
+11=Gen,FF8C83,11
+12=Gen (Alt),FF8C83,13
+13=Gouki,FF8C83,02
+14=Guy,FF8C83,07
+15=Ken,FF8C83,01
+16=Ken (SF2),FF8C83,1A
+17=Nash,FF8C83,03
+18=Rolento,FF8C83,0E
+19=Rose,FF8C83,09
+20=Ryu,FF8C83,00
+21=Ryu (No Super Bar),FF8C83,1E
+22=Ryu (SF2),FF8C83,1B
+23=Sagat,FF8C83,0B
+24=Sagat (SF2),FF8C83,19
+25=Sakura,FF8C83,0D
+26=Sakura (Alt),FF8C83,1D
+27=Shin Gouki,FF8C83,14
+28=Sodom,FF8C83,06
+29=Vega,FF8C83,0A
+30=Vega (SF2),FF8C83,18
+31=Zangief,FF8C83,10
+32=Zangief (SF2),FF8C83,15
+Default=0
+
+[84]
+Name=P3 Colour Select
+0=Disabled
+1=Colour 1,FF8CA9,00
+2=Colour 2,FF8CA9,01
+3=Colour 3,FF8CA9,02
+4=Colour 4,FF8CA9,03
+5=Colour 5,FF8CA9,04
+6=Colour 6,FF8CA9,05
+7=Colour 7,FF8CA9,06
+8=Colour 8,FF8CA9,07
+9=Colour 9,FF8CA9,0F
+Default=0
+
+[85]
+Name=P3 Rolento - Easy Second & Third Patriot Circle
+0=Disabled
+1=Enabled,FF8DC1,04,FF8DC0,06
+Default=0
+
+[86]
+Name=P3 Sakura - Hadou Ken Size & Range
+0=Disabled
+1=Normal & Long,FF8DFE,00
+2=Medium & Medium,FF8DFE,01
+3=Large & Short,FF8DFE,02
+Default=0
+
+[87]
+Name=P3 Easy Alpha Counter
+0=Disabled
+1=Enabled,FF8D61,04,FF89D0,06,FF89D9,04,FF8D68,06
+Default=0
+
+[88]
+Name=P3 Easy Roll Recovery
+0=Disabled
+1=Enabled,FF8E61,04,FF8E60,06
+Default=0
+
+[89]
+Name=P3 Easy Moves
+0=Disabled
+1=Adon - Jaguar Kick,FF8D81,04,FF8D80,06
+2=Adon - Rising Jaguar,FF8D89,04,FF8D88,06
+3=Adon - Jaguar Tooth,FF8D91,04,FF8D90,0A
+4=Birdie - Bull Head & Bull Horn 2,FF8D81,08,FF8D80,06,FF8D83,FF,FF8DAB,04,FF8DAD,01,FF8DB3,04,FF8DB5,01,FF8DBB,04,FF8DBD,01,FF8DC3,04,FF8DC5,01
+5=Birdie - Bull Horn 1 & 2,FF8D8B,04,FF8D8D,01,FF8D93,04,FF8D95,01,FF8D9B,04,FF8D9D,01,FF8DA3,04,FF8DA5,01,FF8DAB,04,FF8DAD,01,FF8DB3,04,FF8DB5,01,FF8DBB,04,FF8DBD,01,FF8DC3,04,FF8DC5,01
+6=Birdie - Murder Chain & Bull Horn 2,FF8DC9,08,FF8DC8,00,FF8DAB,04,FF8DAD,01,FF8DB3,04,FF8DB5,01,FF8DBB,04,FF8DBD,01,FF8DC3,04,FF8DC5,01
+7=Blue Ryu - Hadou Ken & no Kamae & Tatsumaki Senpuu Kyaku,FF8D81,04,FF8D80,06,FF8D91,04,FF8D90,06,FF8DA9,04,FF8DA8,06
+8=Blue Ryu - Shakunetsu Hadou Ken & no Kamae & Tatsumaki Senpuu Kyaku,FF8DB1,04,FF8DB0,0A,FF8D91,04,FF8D90,06,FF8DA9,04,FF8DA8,06
+9=Blue Ryu - Shoryuu Ken & Hadou no Kamae & Tatsumaki Senpuu Kyaku,FF8D89,04,FF8D88,06,FF8D91,04,FF8D90,06,FF8DA9,04,FF8DA8,06
+10=Chun Li - Hyakuretsu Kyaku & Kikou Ken,FF8D82,05,FF8D84,05,FF8D86,05,FF8D89,04,FF8D88,08
+11=Chun Li - Tenshou Kyaku & Kikou Ken,FF8D91,08,FF8D90,06,FF8D93,FF,FF8D89,04,FF8D88,08
+12=Chun Li - Sen'en Shuu & Kikou Ken,FF8D99,04,FF8D98,0A,FF8D89,04,FF8D88,08
+13=Chun Li (SF2) - Hyakuretsu Kyaku,FF8D82,05,FF8D84,05,FF8D86,05
+14=Chun Li (SF2) - Sen'en Shuu,FF8D89,08,FF8D88,06,FF8D8B,FF
+15=Chun Li (SF2 Costume) - Hyakuretsu Kyaku & Kikou Ken,FF8D82,05,FF8D84,05,FF8D86,05,FF8D89,08,FF8D88,06,FF8D8B,FF
+16=Chun Li (SF2 Costume) - Tenshou Kyaku & Kikou Ken,FF8D91,08,FF8D90,06,FF8D93,FF,FF8D89,08,FF8D88,06,FF8D8B,FF
+17=Chun Li (SF2 Costume) - Sen'en Shuu & Kikou Ken,FF8D99,04,FF8D98,0A,FF8D89,08,FF8D88,06,FF8D8B,FF
+18=Dan - Gadou Ken & Dankuu Kyaku & Zenten Chohatsu,FF8D81,04,FF8D80,06,FF8D91,04,FF8D90,06,FF8DB1,04,FF8DB0,06
+19=Dan - Gadou Ken & Dankuu Kyaku & Kouten Chohatsu,FF8D81,04,FF8D80,06,FF8D91,04,FF8D90,06,FF8DB9,04,FF8DB8,06
+20=Dan - Kouryuu Ken & Dankuu Kyaku & Zenten Chohatsu,FF8D89,04,FF8D88,06,FF8D91,04,FF8D90,06,FF8DB1,04,FF8DB0,06
+21=Dan - Kouryuu Ken & Dankuu Kyaku & Kouten Chohatsu,FF8D89,04,FF8D88,06,FF8D91,04,FF8D90,06,FF8DB9,04,FF8DB8,06
+22=Dhalsim - Yoga Flame & Blast & Teleport 1,FF8D99,04,FF8D98,0A,FF8DA1,04,FF8DA0,0A,FF8D81,04,FF8D80,06
+23=Dhalsim - Yoga Flame & Blast & Teleport 2,FF8D99,04,FF8D98,0A,FF8DA1,04,FF8DA0,0A,FF8D89,04,FF8D88,06
+24=Dhalsim - Yoga Fire & Blast & Teleport 1,FF8D91,04,FF8D90,06,FF8DA1,04,FF8DA0,0A,FF8D81,04,FF8D80,06
+25=Dhalsim - Yoga Fire & Blast & Teleport 2,FF8D91,04,FF8D90,06,FF8DA1,04,FF8DA0,0A,FF8D89,04,FF8D88,06
+26=Dhalsim - Yoga Flame & Escape & Teleport 1,FF8D99,04,FF8D98,0A,FF8DA9,04,FF8DA8,06,FF8D81,04,FF8D80,06
+27=Dhalsim - Yoga Flame & Escape & Teleport 2,FF8D99,04,FF8D98,0A,FF8DA9,04,FF8DA8,06,FF8D89,04,FF8D88,06
+28=Dhalsim - Yoga Fire & Escape & Teleport 1,FF8D91,04,FF8D90,06,FF8DA9,04,FF8DA8,06,FF8D81,04,FF8D80,06
+29=Dhalsim - Yoga Fire & Escape & Teleport 2,FF8D91,04,FF8D90,06,FF8DA9,04,FF8DA8,06,FF8D89,04,FF8D88,06
+30=Dhalsim (SF2) - Yoga Fire,FF8D81,04,FF8D80,06
+31=Dhalsim (SF2) - Yoga Flame,FF8D89,04,FF8D88,0A
+32=Evil Ryu - Hadou Ken & no Kamae & Tatsumaki Senpuu Kyaku & Ashura Senkuu 1,FF8D81,04,FF8D80,06,FF8D91,04,FF8D90,06,FF8DA9,04,FF8DA8,06,FF8DB9,04,FF8DB8,06
+33=Evil Ryu - Shakunetsu Hadou Ken & no Kamae & Tatsumaki Senpuu Kyaku & Ashura Senkuu 1,FF8DB1,04,FF8DB0,0A,FF8D91,04,FF8D90,06,FF8DA9,04,FF8DA8,06,FF8DB9,04,FF8DB8,06
+34=Evil Ryu - Shoryuu Ken & Hadou no Kamae & Tatsumaki Senpuu Kyaku & Ashura Senkuu 1,FF8D89,04,FF8D88,06,FF8D91,04,FF8D90,06,FF8DA9,04,FF8DA8,06,FF8DB9,04,FF8DB8,06
+35=Evil Ryu - Hadou Ken & no Kamae & Tatsumaki Senpuu Kyaku & Ashura Senkuu 2,FF8D81,04,FF8D80,06,FF8D91,04,FF8D90,06,FF8DA9,04,FF8DA8,06,FF8DC1,04,FF8DC0,06
+36=Evil Ryu - Shakunetsu Hadou Ken & no Kamae & Tatsumaki Senpuu Kyaku & Ashura Senkuu 2,FF8DB1,04,FF8DB0,0A,FF8D91,04,FF8D90,06,FF8DA9,04,FF8DA8,06,FF8DC1,04,FF8DC0,06
+37=Evil Ryu - Shoryuu Ken & Hadou no Kamae & Tatsumaki Senpuu Kyaku & Ashura Senkuu 2,FF8D89,04,FF8D88,06,FF8D91,04,FF8D90,06,FF8DA9,04,FF8DA8,06,FF8DC1,04,FF8DC0,06
+38=Gen - Hyakurenkou & Geki Rou,FF8D82,05,FF8D84,05,FF8D86,05,FF8D89,04,FF8D88,06
+39=Gen - Hyakurenkou & Ouga,FF8D82,05,FF8D84,05,FF8D86,05,FF8D99,08,FF8D98,06,FF8D9B,FF
+40=Gen - Jasen & Geki Rou,FF8D91,08,FF8D90,06,FF8D93,FF,FF8D89,04,FF8D88,06
+41=Gen - Jasen & Ouga,FF8D91,08,FF8D90,06,FF8D93,FF,FF8D99,08,FF8D98,06,FF8D9B,FF
+42=Gouki - Tatsumaki Zankuu Kyaku & Ashura Senkuu 1 & Gou & Zankuu Hadou Ken,FF8D81,04,FF8D80,06,FF8D91,04,FF8D90,06,FF8DA9,04,FF8DA8,06
+43=Gouki - Tatsumaki Zankuu Kyaku & Ashura Senkuu 1 & Gou Shoryuu Ken,FF8D89,04,FF8D88,06,FF8D91,04,FF8D90,06,FF8DA9,04,FF8DA8,06
+44=Gouki - Tatsumaki Zankuu Kyaku & Ashura Senkuu 1 & Shakunetsu Hadou Ken,FF8DC1,04,FF8DC0,0A,FF8D91,04,FF8D90,06,FF8DA9,04,FF8DA8,06
+45=Gouki - Tatsumaki Zankuu Kyaku & Ashura Senkuu 1 & Zenpou Tenshin,FF8DD1,04,FF8DD0,06,FF8D91,04,FF8D90,06,FF8DA9,04,FF8DA8,06
+46=Gouki - Tatsumaki Zankuu Kyaku & Ashura Senkuu 1 & Hyakki Shuu,FF8DD9,04,FF8DD8,08,FF8D91,04,FF8D90,06,FF8DA9,04,FF8DA8,06
+47=Gouki - Tatsumaki Zankuu Kyaku & Ashura Senkuu 2 & Gou & Zankuu Hadou Ken,FF8D81,04,FF8D80,06,FF8D91,04,FF8D90,06,FF8DB1,04,FF8DB0,06
+48=Gouki - Tatsumaki Zankuu Kyaku & Ashura Senkuu 2 & Gou Shoryuu Ken,FF8D89,04,FF8D88,06,FF8D91,04,FF8D90,06,FF8DB1,04,FF8DB0,06
+49=Gouki - Tatsumaki Zankuu Kyaku & Ashura Senkuu 2 & Shakunetsu Hadou Ken,FF8DC1,04,FF8DC0,0A,FF8D91,04,FF8D90,06,FF8DB1,04,FF8DB0,06
+50=Gouki - Tatsumaki Zankuu Kyaku & Ashura Senkuu 2 & Zenpou Tenshin,FF8DD1,04,FF8DD0,06,FF8D91,04,FF8D90,06,FF8DB1,04,FF8DB0,06
+51=Gouki - Tatsumaki Zankuu Kyaku & Ashura Senkuu 2 & Hyakki Shuu,FF8DD9,04,FF8DD8,08,FF8D91,04,FF8D90,06,FF8DB1,04,FF8DB0,06
+52=Guy - Bushin Senpuu Kyaku & Izuna Otoshi,FF8D81,04,FF8D80,06,FF8D99,04,FF8D98,06
+53=Guy - Bushin Senpuu Kyaku & Houzantou,FF8D81,04,FF8D80,06,FF8DA9,04,FF8DA8,06
+54=Guy - Hayagake  & Bushin Izuna Otoshi,FF8DA1,04,FF8DA0,06,FF8D99,04,FF8D98,06
+55=Guy - Hayagake & Houzantou,FF8DA1,04,FF8DA0,06,FF8DA9,04,FF8DA8,06
+56=Ken - Hadou Ken & Zentou & Tatsumaki Senpuu Kyaku,FF8D81,04,FF8D80,06,FF8D91,04,FF8D90,06,FF8DB1,04,FF8DB0,06
+57=Ken - Zenpou Tenshin & Zentou & Tatsumaki Senpuu Kyaku,FF8DA9,04,FF8DA8,06,FF8D91,04,FF8D90,06,FF8DB1,04,FF8DB0,06
+58=Ken - Shoryuu Ken & Zentou & Tatsumaki Senpuu Kyaku,FF8D89,04,FF8D88,06,FF8D91,04,FF8D90,06,FF8DB1,04,FF8DB0,06
+59=Ken (SF2) - Hadou Ken & Tatsumaki Senpuu Kyaku,FF8D81,04,FF8D80,06,FF8D91,04,FF8D90,06
+60=Ken (SF2) - Shoryuu Ken & Tatsumaki Senpuu Kyaku,FF8D89,04,FF8D88,06,FF8D91,04,FF8D90,06
+61=Nash - Somersault Shell & Sonic Boom,FF8D81,08,FF8D80,06,FF8D83,FF,FF8D89,08,FF8D88,06,FF8D8B,FF
+62=Rolento - Stinger & Patriot Circle & High Jump,FF8D81,04,FF8D80,06,FF8D91,02,FF8D90,02,FF8DB1,04,FF8DB0,06
+63=Rolento - Stinger & Mekong Delta Air Raid & High Jump,FF8D81,04,FF8D80,06,FF8D91,02,FF8D90,02,FF8DB9,04,FF8DB8,06
+64=Rolento - Mekong Delta Escape & Patriot Circle & High Jump,FF8D89,04,FF8D88,06,FF8D91,02,FF8D90,02,FF8DB1,04,FF8DB0,06
+65=Rolento - Mekong Delta Escape & Air Raid & High Jump,FF8D89,04,FF8D88,06,FF8D91,02,FF8D90,02,FF8DB9,04,FF8DB8,06
+66=Rose - Soul Reflect & Spiral,FF8D81,04,FF8D80,06,FF8DB1,04,FF8DB0,06
+67=Rose - Soul Spark & Spiral,FF8D89,04,FF8D88,0A,FF8DB1,04,FF8DB0,06
+68=Rose - Soul Throw & Spiral,FF8D91,04,FF8D90,06,FF8DB1,04,FF8DB0,06
+69=Ryu - Hadou Ken & no Kamae & Tatsumaki Senpuu Kyaku,FF8D81,04,FF8D80,06,FF8D91,04,FF8D90,06,FF8DA9,04,FF8DA8,06
+70=Ryu - Shakunetsu Hadou Ken & no Kamae & Tatsumaki Senpuu Kyaku,FF8DB1,04,FF8DB0,0A,FF8D91,04,FF8D90,06,FF8DA9,04,FF8DA8,06
+71=Ryu - Shoryuu Ken & Hadou no Kamae & Tatsumaki Senpuu Kyaku,FF8D89,04,FF8D88,06,FF8D91,04,FF8D90,06,FF8DA9,04,FF8DA8,06
+72=Ryu (No Super Bar) - Hadou Ken & no Kamae & Tatsumaki Senpuu Kyaku,FF8D81,04,FF8D80,06,FF8D91,04,FF8D90,06,FF8DA9,04,FF8DA8,06
+73=Ryu (No Super Bar) - Shakunetsu Hadou Ken & no Kamae & Tatsumaki Senpuu Kyaku,FF8DB1,04,FF8DB0,0A,FF8D91,04,FF8D90,06,FF8DA9,04,FF8DA8,06
+74=Ryu (No Super Bar) - Shoryuu Ken & Hadou no Kamae & Tatsumaki Senpuu Kyaku,FF8D89,04,FF8D88,06,FF8D91,04,FF8D90,06,FF8DA9,04,FF8DA8,06
+75=Ryu (SF2) - Hadou Ken & Tatsumaki Senpuu Kyaku,FF8D81,04,FF8D80,06,FF8D91,04,FF8D90,06
+76=Ryu (SF2) - Shoryuu Ken & Tatsumaki Senpuu Kyaku,FF8D89,04,FF8D88,06,FF8D91,04,FF8D90,06
+77=Sagat - Ground & Tiger Shot,FF8D81,04,FF8D80,06,FF8D89,04,FF8D88,06
+78=Sagat - Ground Tiger Shot & Blow,FF8DA1,04,FF8DA0,06,FF8D89,04,FF8D88,06
+79=Sagat - Tiger Crush & Shot,FF8D81,04,FF8D80,06,FF8D91,04,FF8D90,06
+80=Sagat - Tiger Crush & Blow,FF8DA1,04,FF8DA0,06,FF8D91,04,FF8D90,06
+81=Sagat (SF2) - Ground & Tiger Shot,FF8D81,04,FF8D80,06,FF8D89,04,FF8D88,06
+82=Sagat (SF2) - Ground Tiger Shot & Uppercut,FF8D99,04,FF8D98,06,FF8D89,04,FF8D88,06
+83=Sagat (SF2) - Tiger Crush & Shot,FF8D81,04,FF8D80,06,FF8D91,04,FF8D90,08
+84=Sagat (SF2) - Tiger Crush & Uppercut,FF8D99,04,FF8D98,06,FF8D91,04,FF8D90,08
+85=Sakura - Hadou Ken & Shunpuu Kyaku,FF8D81,04,FF8D80,06,FF8D91,04,FF8D90,06
+86=Sakura - Shou'ou Ken & Shunpuu Kyaku,FF8D89,04,FF8D88,06,FF8D91,04,FF8D90,06
+87=Sakura - Hadou Ken & Sakura Otoshi,FF8D81,04,FF8D80,06,FF8DB1,04,FF8DB0,06
+88=Sakura - Shou'ou Ken & Sakura Otoshi,FF8D89,04,FF8D88,06,FF8DB1,04,FF8DB0,06
+89=Shin Gouki - Tatsumaki Zankuu Kyaku & Ashura Senkuu 1 & Gou & Zankuu Hadou Ken,FF8D81,04,FF8D80,06,FF8D91,04,FF8D90,06,FF8DA9,04,FF8DA8,06
+90=Shin Gouki - Tatsumaki Zankuu Kyaku & Ashura Senkuu 1 & Gou Shoryuu Ken,FF8D89,04,FF8D88,06,FF8D91,04,FF8D90,06,FF8DA9,04,FF8DA8,06
+91=Shin Gouki - Tatsumaki Zankuu Kyaku & Ashura Senkuu 1 & Shakunetsu Hadou Ken,FF8DC1,04,FF8DC0,0A,FF8D91,04,FF8D90,06,FF8DA9,04,FF8DA8,06
+92=Shin Gouki - Tatsumaki Zankuu Kyaku & Ashura Senkuu 1 & Zenpou Tenshin,FF8DD1,04,FF8DD0,06,FF8D91,04,FF8D90,06,FF8DA9,04,FF8DA8,06
+93=Shin Gouki - Tatsumaki Zankuu Kyaku & Ashura Senkuu 1 & Hyakki Shuu,FF8DD9,04,FF8DD8,08,FF8D91,04,FF8D90,06,FF8DA9,04,FF8DA8,06
+94=Shin Gouki - Tatsumaki Zankuu Kyaku & Ashura Senkuu 2 & Gou & Zankuu Hadou Ken,FF8D81,04,FF8D80,06,FF8D91,04,FF8D90,06,FF8DB1,04,FF8DB0,06
+95=Shin Gouki - Tatsumaki Zankuu Kyaku & Ashura Senkuu 2 & Gou Shoryuu Ken,FF8D89,04,FF8D88,06,FF8D91,04,FF8D90,06,FF8DB1,04,FF8DB0,06
+96=Shin Gouki - Tatsumaki Zankuu Kyaku & Ashura Senkuu 2 & Shakunetsu Hadou Ken,FF8DC1,04,FF8DC0,0A,FF8D91,04,FF8D90,06,FF8DB1,04,FF8DB0,06
+97=Shin Gouki - Tatsumaki Zankuu Kyaku & Ashura Senkuu 2 & Zenpou Tenshin,FF8DD1,04,FF8DD0,06,FF8D91,04,FF8D90,06,FF8DB1,04,FF8DB0,06
+98=Shin Gouki - Tatsumaki Zankuu Kyaku & Ashura Senkuu 2 & Hyakki Shuu,FF8DD9,04,FF8DD8,08,FF8D91,04,FF8D90,06,FF8DB1,04,FF8DB0,06
+99=Sodom - Butsumetsu Buster & Daikyou Burning,FF8D81,08,FF8D80,00,FF8DA1,08,FF8DA0,00
+100=Sodom - Jigoku Scrape & Daikyou Burning,FF8D89,04,FF8D88,06,FF8DA1,08,FF8DA0,00
+101=Sodom - Kouten Okiagari (Reversal) & Daikyou Burning,FF8E69,04,FF8E68,06,FF8DA1,08,FF8DA0,00
+102=Sodom - Butsumetsu Buster & Tengu Walking (Reversal),FF8D81,08,FF8D80,00,FF8DA9,04,FF8DA8,06
+103=Sodom - Jigoku Scrape & Tengu Walking (Reversal),FF8D89,04,FF8D88,06,FF8DA9,04,FF8DA8,06
+104=Sodom - Kouten Okiagari (Reversal) & Tengu Walking (Reversal),FF8E69,04,FF8E68,06,FF8DA9,04,FF8DA8,06
+105=Sodom - Butsumetsu Buster & Shiraha Catch,FF8D81,08,FF8D80,00,FF8DB1,04,FF8DB0,06
+106=Sodom - Jigoku Scrape & Shiraha Catch,FF8D89,04,FF8D88,06,FF8DB1,04,FF8DB0,06
+107=Sodom - Kouten Okiagari (Reversal) & Shiraha Catch,FF8E69,04,FF8E68,06,FF8DB1,04,FF8DB0,06
+108=Vega - Psycho Shot & Head Press,FF8D81,08,FF8D80,06,FF8D83,FF,FF8D89,08,FF8D88,06,FF8D8B,FF
+109=Vega - Psycho Shot & Double Knee Press,FF8D81,08,FF8D80,06,FF8D83,FF,FF8D91,08,FF8D90,06,FF8D93,FF
+110=Vega - Somersault Skull Diver & Head Press,FF8DC1,08,FF8DC0,06,FF8DC3,FF,FF8D89,08,FF8D88,06,FF8D8B,FF
+111=Vega - Somersault Skull Diver & Double Knee Press,FF8DC1,08,FF8DC0,06,FF8DC3,FF,FF8D91,08,FF8D90,06,FF8D93,FF
+112=Vega - Bison Warp 1,FF8D99,04,FF8D98,06
+113=Vega - Bison Warp 2,FF8DA1,04,FF8DA0,06
+114=Vega (SF2) - Head Press & Psycho Crusher Attack,FF8D81,08,FF8D80,06,FF8D83,FF,FF8D91,08,FF8D90,06,FF8D93,FF
+115=Vega (SF2) - Double Knee Press & Psycho Crusher Attack,FF8D89,08,FF8D88,06,FF8D8B,FF,FF8D91,08,FF8D90,06,FF8D93,FF
+116=Zangief - Flying Powerbomb & Atomic Suplex & Screw Piledriver,FF8D89,08,FF8D88,00,FF8D91,08,FF8D90,00
+117=Zangief - Flying Powerbomb & Atomic Suplex & Banishing Flat,FF8D89,08,FF8D88,00,FF8D81,04,FF8D80,06
+118=Zangief (SF2) - Screw Piledriver,FF8D81,08,FF8D80,00
+Default=0
+
+[90]
+Name=P3 Easy Super Combo
+0=Disabled
+1=Adon - Jaguar Revolver & Varied Assault,FF8DA1,04,FF8DA0,0A,FF8D99,04,FF8D98,0A
+2=Birdie - The Birdie,FF8DD9,08,FF8DD8,0A,FF8DDB,FF
+3=Birdie - Bull Revenger,FF8DD1,04,FF8DD0,0A
+4=Blue Ryu - Shinkuu Hadou Ken & Tatsumaki Senpuu Kyaku,FF8D99,04,FF8D98,0C,FF8DA1,04,FF8DA0,0A
+5=Chun-Li - Senretsu Kyaku & Kikou Shou,FF8DA1,08,FF8DA0,0A,FF8DA3,FF,FF8DB1,04,FF8DB0,0C
+6=Chun-Li - Hanzan Tenshou Kyaku & Kikou Shou,FF8DA9,08,FF8DA8,0A,FF8DAB,FF,FF8DB1,04,FF8DB0,0C
+7=Chun-Li (SF2 Costume) - Senretsu Kyaku & Kikou Shou,FF8DA1,08,FF8DA0,0A,FF8DA3,FF,FF8DB1,04,FF8DB0,0C
+8=Chun-Li (SF2 Costume) - Hanzan Tenshou Kyaku & Kikou Shou,FF8DA9,08,FF8DA8,0A,FF8DAB,FF,FF8DB1,04,FF8DB0,0C
+9=Dan - Shinkuu Gadou Ken & Kouryuu Rekka & Chahatsu Densetsu,FF8D99,04,FF8D98,0C,FF8DA1,04,FF8DA0,0A,FF8DC1,04,FF8DC0,06
+10=Dan - Shinkuu Gadou & Hisshou Burai Ken & Chahatsu Densetsu,FF8D99,04,FF8D98,0C,FF8DA9,04,FF8DA8,0A,FF8DC1,04,FF8DC0,06
+11=Dhalsim - Yoga Strike & Inferno,FF8DB9,04,FF8DB8,0A,FF8DB1,04,FF8DB0,0C
+12=Evil Ryu - Shinkuu Hadou Ken & Tatsumaki Senpuu Kyaku,FF8D99,04,FF8D98,0C,FF8DA1,04,FF8DA0,0A
+13=Evil Ryu - Shun Goku Satsu & Tatsumaki Senpuu Kyaku,FF8DB1,02,FF8DB0,08,FF8DA1,04,FF8DA0,0A
+14=Evil Ryu - Shinkuu Hadou Ken & Messatsu Gou Shoryuu,FF8D99,04,FF8D98,0C,FF8DC9,04,FF8DC8,0A
+15=Evil Ryu - Shun Goku Satsu & Messatsu Gou Shoryuu,FF8DB1,02,FF8DB0,08,FF8DC9,04,FF8DC8,0A
+16=Gen - Zan'ei & Jakouha & Kouga,FF8DA9,04,FF8DA8,0A,FF8DB1,04,FF8DB0,0A,FF8DB9,04,FF8DB8,0A
+17=Gen - Shitenshuu & Jakouha & Kouga,FF8DA1,04,FF8DA0,0A,FF8DB1,04,FF8DB0,0A,FF8DB9,04,FF8DB8,0A
+18=Gouki - Tenma Gou Zankuu & Messatsu Gou Hadou,FF8DB9,04,FF8DB8,0C,FF8D99,04,FF8D98,12
+19=Gouki - Tenma Gou Zankuu & Messatsu Gou Shoryuu,FF8DB9,04,FF8DB8,0C,FF8DA1,04,FF8DA0,0A
+20=Gouki - Tenma Gou Zankuu & Shun Goku Satsu,FF8DB9,04,FF8DB8,0C,FF8DC9,02,FF8DC8,08
+21=Guy - Bushin Gourai Kyaku & Hassou Ken,FF8D91,04,FF8D90,0A,FF8D89,04,FF8D88,0A
+22=Ken - Shoryuu Reppa & Shinryuu Ken,FF8DA1,04,FF8DA0,0A,FF8D99,04,FF8D98,0A
+23=Nash - Sonic Break & Crossfire Blitz,FF8DA1,08,FF8DA0,0A,FF8DA3,FF,FF8D91,08,FF8D90,0A,FF8D93,FF
+24=Nash - Sonic Break & Somersault Justice,FF8DA1,08,FF8DA0,0A,FF8DA3,FF,FF8D99,08,FF8D98,0A,FF8D9B,FF
+25=Rolento - Take no Prisoner & Mine Sweeper,FF8DA9,04,FF8DA8,0A,FF8DA1,04,FF8DA0,0C
+26=Rose - Soul Illusion & Aura Soul Throw,FF8DA9,04,FF8DA8,0A,FF8D99,04,FF8D98,0A
+27=Rose - Soul Illusion & Aura Soul Spark,FF8DA9,04,FF8DA8,0A,FF8DA1,04,FF8DA0,0C
+28=Ryu - Shinkuu Hadou Ken & Tatsumaki Senpuu Kyaku,FF8D99,04,FF8D98,0C,FF8DA1,04,FF8DA0,0A
+29=Ryu (No Super Bar) - Shinkuu Hadou Ken & Tatsumaki Senpuu Kyaku,FF8D99,04,FF8D98,0C,FF8DA1,04,FF8DA0,0A
+30=Sagat - Tiger Cannon & Raid,FF8DB1,04,FF8DB0,0C,FF8D99,04,FF8D98,0A
+31=Sagat - Tiger Cannon & Genocide,FF8DB1,04,FF8DB0,0C,FF8DA9,04,FF8DA8,0A
+32=Sakura - Shinkuu Hadou Ken & Midare-Zakura,FF8D99,04,FF8D98,0C,FF8DA1,04,FF8DA0,0A
+33=Sakura - Shinkuu Hadou Ken & Haru Ichiban,FF8D99,04,FF8D98,0C,FF8DA9,04,FF8DA8,0A
+34=Shin Gouki - Tenma Gou Zankuu & Messatsu Gou Hadou,FF8DB9,04,FF8DB8,0C,FF8D99,04,FF8D98,12
+35=Shin Gouki - Tenma Gou Zankuu & Messatsu Gou Shoryuu,FF8DB9,04,FF8DB8,0C,FF8DA1,04,FF8DA0,0A
+36=Shin Gouki - Tenma Gou Zankuu & Shun Goku Satsu,FF8DB9,04,FF8DB8,0C,FF8DC9,02,FF8DC8,08
+37=Sodom - Meido no Miyage,FF8D99,04,FF8D98,0A
+38=Sodom - Ten Chuu Satsu,FF8D91,08,FF8D90,00
+39=Vega - Psycho Crusher & Knee Press Nightmare,FF8DA9,08,FF8DA8,0A,FF8DAB,FF,FF8DB1,08,FF8DB0,0A,FF8DB3,FF
+40=Zangief - Final Atomic Buster & Aerial Russian Slam,FF8D99,08,FF8D98,0A,FF8DA1,04,FF8DA0,0A
+Default=0
+
+[91]
+Name=Defeated Enemies
+0=Disabled
+1=All,FF8110,FF,FF8510,FF,FF8111,FF,FF8511,FF,FF8112,FF,FF8512,FF,FF8113,FF,FF8513,FF
+2=None,FF8110,00,FF8510,00,FF8111,00,FF8511,00,FF8112,00,FF8512,00,FF8113,00,FF8513,00
+Default=0
+
+[92]
+Name=BackGround Select
+0=Disabled
+1=Adon (Thailand),FF8100,0A
+2=Birdie (England),FF8100,10
+3=Chun-Li (China),FF8100,08
+4=Dan (Hong Kong),FF8100,18
+5=Dhalsim (India),FF8100,1E
+6=Gen (China),FF8100,22
+7=Gouki (Japan),FF8100,04
+8=Guy (USA),FF8100,0E
+9=Ken (USA),FF8100,02
+10=Nash (USA),FF8100,06
+11=Rolento (USA),FF8100,1C
+12=Rose (Italy),FF8100,12
+13=Ryu (Japan),FF8100,00
+14=Sagat (Australia),FF8100,24
+15=Sagat (Thailand),FF8100,16
+16=Sakura (Japan),FF8100,1A
+17=Sodom (USA),FF8100,0C
+18=Vega (Brazil),FF8100,14
+19=Vega (Venezuela),FF8100,26
+20=Zangief (USSR),FF8100,20
+Default=0
+
+[93]
+Name=Stage Select
+0=Disabled
+1=Stage 1,FF8114,00
+2=Stage 2,FF8114,01
+3=Stage 3,FF8114,02
+4=Stage 4 (Dramatic Mode End),FF8114,03
+5=Stage 5,FF8114,04
+6=Stage 6,FF8114,05
+7=Stage 7,FF8114,06
+8=Stage 8 (Normal Mode End),FF8114,07
+9=Stage 9,FF8114,09
+10=Stage 10,FF8114,0A
+11=Stage 11,FF8114,0B
+12=Stage 12,FF8114,0C
+13=Stage 13,FF8114,0D
+14=Stage 14,FF8114,0E
+15=Stage 15,FF8114,0F
+16=Stage 16,FF8114,10
+17=Stage 17 (Survival Mode End),FF8114,11
+Default=0
+

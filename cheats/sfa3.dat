@@ -1,0 +1,2329 @@
+[0]
+Name=Region*
+0=Disabled
+1=Japan,FF8090,00
+2=USA,FF8090,02
+3=Hispanic,FF8090,04
+4=Oceania,FF8090,06
+5=Asia,FF8090,08
+6=Euro,FF8090,0A
+7=Brazil,FF8090,0C
+Default=0
+
+[1]
+Name=Title
+0=Disabled
+1=Zero,FF8088,00
+2=Alpha,FF8088,01
+Default=0
+
+[2]
+Name=Time Release
+0=Disabled
+1=Cream,FF80EF,00
+2=Red,FF80EF,01
+3=Green,FF80EF,02
+4=Blue,FF80EF,03
+5=Light Blue,FF80EF,04
+Default=0
+
+[3]
+Name=Infinite Battle Time
+0=Disabled
+1=Enabled,FF8108,63
+Default=0
+
+[4]
+Name=Dramatic Battle
+0=Disabled
+1=Enabled,FF8169,01
+Default=0
+
+[5]
+Name=Survival Mode
+0=Disabled
+1=Enabled,FF854A,FF,FF894A,FF
+Default=0
+
+[6]
+Name=L.O. Mode
+0=Disabled
+1=Enabled,FF855B,01
+Default=0
+
+[7]
+Name=Juli & Juni Battle
+0=Disabled
+1=Enabled,FF8138,02
+Default=0
+
+[8]
+Name=Juli & Juni Intro
+0=Disabled
+1=Enabled,FF813E,02
+Default=0
+
+[9]
+Name=Sound Test Timer Stop
+0=Disabled
+1=Enabled,FF800A,FF
+Default=0
+
+[10]
+Name=Battle Speed
+0=Disabled
+1=Normal,FF80A2,00
+2=Turbo 1,FF80A2,01
+3=Turbo 2,FF80A2,02
+4=Free Select 1,FF80A2,03
+5=Free Select 2,FF80A2,04
+6=Free Select 3,FF80A2,05
+Default=0
+
+[11]
+Name=Skip Bio/Storyline
+0=Disabled
+1=Enabled,FF8548,FF,FF8948,FF
+Default=0
+
+[12]
+Name=Skip Map Screen
+0=Disabled
+1=Enabled,FF8110,FF
+Default=0
+
+[13]
+Name=Super Finish Effect Type
+0=Disabled
+1=Spreads Outside From Center,FF812A,00
+2=Flows From UR to DL,FF812A,01
+3=Flows From UL to DR,FF812A,02
+4=Flows From Up to Down,FF812A,03
+5=Frows From Left to Right,FF812A,05
+6=Spreads Down From Up,FF812A,06
+7=Spreads Center From Outside,FF812A,07
+8=Psycho Field Finish,FF812A,08
+9=Flash Only,FF812A,0B
+10=Nothing,FF812A,0F
+Default=0
+
+[14]
+Name=Super Finish Effect Flag
+0=Disabled
+1=No Effect,FF8125,00
+2=Endless,FF8125,FF
+Default=0
+
+[15]
+Name=Move Round Announce
+0=Disabled
+1=Enabled,FF810F,00
+Default=0
+
+[16]
+Name=P1 Inf Health
+0=Disabled
+1=Enabled,FF8450,90
+Default=0
+
+[17]
+Name=P1 Inf Power
+0=Disabled
+1=Enabled,FF851E,90
+Default=0
+
+[18]
+Name=P1 1 Win Match
+0=Disabled
+1=Enabled,FF8527,01
+Default=0
+
+[19]
+Name=P1 Air Moves
+0=Disabled
+1=Enabled,FF8430,00
+Default=0
+
+[20]
+Name=P1 No Ground Attacks
+0=Disabled
+1=Enabled,FF8430,01
+Default=0
+
+[21]
+Name=P1 Inf Taunt
+0=Disabled
+1=Enabled,FF84BD,01
+Default=0
+
+[22]
+Name=P1 Inf Fireball
+0=Disabled
+1=Enabled,FF8639,00
+Default=0
+
+[23]
+Name=P1 Inf Guard
+0=Disabled
+1=Enabled,FF864C,00
+Default=0
+
+[24]
+Name=P1 Inf V-ISM Combo
+0=Disabled
+1=Enabled,FF84B8,01
+Default=0
+
+[25]
+Name=P1 No Hit Stop
+0=Disabled
+1=Enabled,FF845E,00
+Default=0
+
+[26]
+Name=P1 Shadow Fighter
+0=Disabled
+1=Enabled,FF854C,FF
+Default=0
+
+[27]
+Name=P1 Force Counter Damage
+0=Disabled
+1=Enabled,FF84A8,01
+Default=0
+
+[28]
+Name=P1 Projectiles
+0=Disabled
+1=Inf Projectiles,FF8639,00
+2=Disable Projectiles,FF8639,01
+Default=0
+
+[29]
+Name=P1 Fast Recovery
+0=Disabled
+1=Enabled,FF86CD,00,FF86CC,28
+Default=0
+
+[30]
+Name=P1 Hardest Mode
+0=Disabled
+1=Enabled,FF845E,00,FF8A5B,00
+Default=0
+
+[31]
+Name=P1 Classic Mode
+0=Disabled
+1=Enabled,FF855F,01
+Default=0
+
+[32]
+Name=P1 Mazi/Serious Mode
+0=Disabled
+1=Enabled,FF855B,01
+Default=0
+
+[33]
+Name=P1 Saikyou/Strong Mode
+0=Disabled
+1=Enabled,FF8530,01
+Default=0
+
+[34]
+Name=P1 Action Speed Up
+0=Disabled
+1=Enabled,FF8433,01
+Default=0
+
+[35]
+Name=P1 Motion Speed Up
+0=Disabled
+1=Enabled,FF8434,01
+Default=0
+
+[36]
+Name=P1 No Jump Attack Limit (Incomplete)
+0=Disabled
+1=Enabled,FF8406,01
+Default=0
+
+[37]
+Name=P1 Combo Count and Adjustment
+0=Disabled
+1=P1 Hit 0 (No Adjust),FF845F,00
+2=P1 Hit 99 (Too Heavy Adjust),FF845F,63
+Default=0
+
+[38]
+Name=P1 Force Level 3 Combo
+0=Disabled
+1=Enabled,FF8483,04
+Default=0
+
+[39]
+Name=P1 Level 3 Custom Combo
+0=Disabled
+1=Enabled,FF84B8,01,FF84BA,FF,FF84B8,01,FF84BA,00,FF86A6,51,FF86A8,1B
+Default=0
+
+[40]
+Name=P1 ISM Select
+0=Disabled
+1=X-ISM,FF8522,FF,FF8533,FF
+2=A-ISM,FF8522,00,FF8533,00
+3=V-ISM,FF8522,01,FF8533,01
+4=S-ISM,FF8522,02,FF8533,00
+Default=0
+
+[41]
+Name=P1 Damage Level
+0=Disabled
+1=P1 Weak,FF84CD,8F
+2=P1 Ultimate,FF84CD,7F
+3=P1 Super Hyper Excellent,FF84CD,FF
+Default=0
+
+[42]
+Name=P1 Mode
+0=Disabled
+1=P1 Enable,FF8401,01
+2=P1 Disable,FF8401,00
+Default=0
+
+[43]
+Name=P1 Slot
+0=Disabled
+1=Slot 1,FF8500,00
+2=Slot 2,FF8500,01
+3=Slot 3,FF8500,02
+4=Slot 4,FF8500,03
+Default=0
+
+[44]
+Name=P1 Controller Mode
+0=Disabled
+1=User Play,FF8524,00
+2=Computer Play,FF8524,01
+3=Hard Computer Play,FF8524,01,FF8439,84
+Default=0
+
+[45]
+Name=P1 Char Select
+0=Disabled
+1=Adon,FF8503,05
+2=Akuma,FF8503,02
+3=Balrog,FF8503,15
+4=Birdie,FF8503,08
+5=Blanka,FF8503,19
+6=Cammy,FF8503,16
+7=Charlie,FF8503,03
+8=Chun-Li,FF8503,04
+9=Cody,FF8503,1B
+10=Dan,FF8503,0C
+11=Dhalsim,FF8503,0F
+12=E.Honda,FF8503,18
+13=Gen,FF8503,11
+14=Guy,FF8503,07
+15=Juli,FF8503,1E
+16=Juni,FF8503,1F
+17=Karin,FF8503,1D
+18=Ken,FF8503,01
+19=M.Bison,FF8503,0A
+20=R.Mika,FF8503,1A
+21=Rolento,FF8503,0E
+22=Rose,FF8503,09
+23=Ryu,FF8503,00
+24=Sagat,FF8503,0B
+25=Sakura,FF8503,0D
+26=Shin M.Bison,FF8503,0A,FF855C,01
+27=Sodom,FF8503,06
+28=Vega,FF8503,1C
+29=Zangief,FF8503,10
+Default=0
+
+[46]
+Name=P1 Colour
+0=Disabled
+1=Primary,FF8529,00
+2=Secondary,FF8529,01
+Default=0
+
+[47]
+Name=P1 Cody - Knife
+0=Disabled
+1=Knife,FF85E5,FF
+2=No Knife,FF85E5,00
+Default=0
+
+[48]
+Name=P1 Cody - Inf Final Destruction Time
+0=Disabled
+1=Enabled,FF843B,04,FF843A,B0
+Default=0
+
+[49]
+Name=P1 Dan - Kouryuu Ken Always Flashing
+0=Disabled
+1=Enabled,FF85FF,16,FF85FE,00
+Default=0
+
+[50]
+Name=P1 Dan - Inf Chohatsu Shinwa Time
+0=Disabled
+1=Enabled,FF843B,04,FF843A,B0
+Default=0
+
+[51]
+Name=P1 Rolento - Easy Second & Third Patriot Circle
+0=Disabled
+1=Enabled,FF85C1,04,FF85C0,06
+Default=0
+
+[52]
+Name=P1 Rose - Inf Soul Illusion Time
+0=Disabled
+1=Enabled,FF9F6A,FF,FF9F6B,02,FF9E6A,FF,FF9E6B,02
+Default=0
+
+[53]
+Name=P1 Ryu - Force ShinSyoryu
+0=Disabled
+1=Enabled,FF84CD,30
+Default=0
+
+[54]
+Name=P1 Sakura - Hadou Ken Size & Range
+0=Disabled
+1=Normal & Long,FF85FE,00
+2=Medium & Medium,FF85FE,01
+3=Large & Short,FF85FE,02
+Default=0
+
+[55]
+Name=P1 Sagat - Angry Charge
+0=Disabled
+1=Always Angry Charge,FF85FF,01
+2=Never Angry Charge,FF85FF,00
+Default=0
+
+[56]
+Name=P1 Vega - Mask
+0=Disabled
+1=Mask On,FF846A,01
+2=Mask Off,FF846A,00
+Default=0
+
+[57]
+Name=P1 Vega - Claw
+0=Disabled
+1=Claw On,FF846B,01
+2=Claw Off,FF846B,00
+Default=0
+
+[58]
+Name=P1 Easy Moves
+0=Disabled
+1=Adon - XAV - Rising Jaguar,FF8589,04,FF8588,06
+2=Adon - XAV - Jaguar Tooth,FF8591,04,FF8590,0A
+3=Adon - AV - Jaguar Kick,FF8581,04,FF8580,06
+4=Akuma - XAV - Tatsumaki Zankuu Kyaku & Ashura Senkuu 1 & Gou & Zankuu Hadou Ken,FF8581,04,FF8580,06,FF8591,04,FF8590,06,FF85A9,04,FF85A8,06
+5=Akuma - XAV - Tatsumaki Zankuu Kyaku & Ashura Senkuu 1 & Gou Shoryuu Ken,FF8589,04,FF8588,06,FF8591,04,FF8590,06,FF85A9,04,FF85A8,06
+6=Akuma - XAV - Tatsumaki Zankuu Kyaku & Ashura Senkuu 1 & Shakunetsu Hadou Ken,FF85C1,04,FF85C0,0A,FF8591,04,FF8590,06,FF85A9,04,FF85A8,06
+7=Akuma - XAV - Tatsumaki Zankuu Kyaku & Ashura Senkuu 2 & Gou & Zankuu Hadou Ken,FF8581,04,FF8580,06,FF8591,04,FF8590,06,FF85B1,04,FF85B0,06
+8=Akuma - XAV - Tatsumaki Zankuu Kyaku & Ashura Senkuu 2 & Gou Shoryuu Ken,FF8589,04,FF8588,06,FF8591,04,FF8590,06,FF85B1,04,FF85B0,06
+9=Akuma - XAV - Tatsumaki Zankuu Kyaku & Ashura Senkuu 2 & Shakunetsu Hadou Ken,FF85C1,04,FF85C0,0A,FF8591,04,FF8590,06,FF85B1,04,FF85B0,06
+10=Akuma - AV - Tatsumaki Zankuu Kyaku & Ashura Senkuu 1 & Zenpou Tenshin,FF85D1,04,FF85D0,06,FF8591,04,FF8590,06,FF85A9,04,FF85A8,06
+11=Akuma - AV - Tatsumaki Zankuu Kyaku & Ashura Senkuu 1 & Hyakki Shuu,FF85D9,04,FF85D8,08,FF8591,04,FF8590,06,FF85A9,04,FF85A8,06
+12=Akuma - AV - Tatsumaki Zankuu Kyaku & Ashura Senkuu 2 & Zenpou Tenshin,FF85D1,04,FF85D0,06,FF8591,04,FF8590,06,FF85B1,04,FF85B0,06
+13=Akuma - AV - Tatsumaki Zankuu Kyaku & Ashura Senkuu 2 & Hyakki Shuu,FF85D9,04,FF85D8,08,FF8591,04,FF8590,06,FF85B1,04,FF85B0,06
+14=Balrog - XAV - Dash Straight & Upper,FF8581,08,FF8580,06,FF8583,FF,FF8589,08,FF8588,06,FF858B,FF
+15=Balrog - XAV - Dash Straight & Turn Punch 2,FF8581,08,FF8580,06,FF8583,FF,FF85B3,09,FF85B2,00,FF85B5,01
+16=Balrog - XAV - Turn Punch 1 & Dash Upper,FF85AB,09,FF85AA,00,FF85AD,01,FF8589,08,FF8588,06,FF858B,FF
+17=Balrog - XAV - Turn Punch 1 & Turn Punch 2,FF85AB,09,FF85AA,00,FF85AD,01,FF85B3,09,FF85B2,00,FF85B5,01
+18=Balrog - XAV - Buffalo Head & Dash Upper,FF85A1,08,FF85A0,06,FF85A3,FF,FF8589,08,FF8588,06,FF858B,FF
+19=Balrog - XAV - Buffalo Head & Turn Punch 2,FF85A1,08,FF85A0,06,FF85A3,FF,FF85B3,09,FF85B2,00,FF85B5,01
+20=Balrog - AV - Dash Straight & Ground Upper,FF8581,08,FF8580,06,FF8583,FF,FF8599,08,FF8598,06,FF859B,FF
+21=Balrog - AV - Dash Ground Straight & Upper,FF8591,08,FF8590,06,FF8593,FF,FF8589,08,FF8588,06,FF858B,FF
+22=Balrog - AV - Dash Ground Straight & Ground Upper,FF8591,08,FF8590,06,FF8593,FF,FF8599,08,FF8598,06,FF859B,FF
+23=Balrog - AV - Dash Ground Straight & Turn Punch 2,FF8591,08,FF8590,06,FF8593,FF,FF85B3,09,FF85B2,00,FF85B5,01
+24=Balrog - AV - Turn Punch 1 & Dash Ground Upper,FF85AB,09,FF85AA,00,FF85AD,01,FF8599,08,FF8598,06,FF859B,FF
+25=Balrog - AV - Buffalo Head & Dash Ground Upper,FF85A1,08,FF85A0,06,FF85A3,FF,FF8599,08,FF8598,06,FF859B,FF
+26=Birdie - XAV - Bull Head & Kick Bull Horn,FF8581,08,FF8580,06,FF8583,FF,FF85AB,04,FF85AA,00,FF85AD,01,FF85B3,04,FF85B2,00,FF85B5,01,FF85BB,04,FF85BA,00,FF85BD,01,FF85C3,04,FF85C2,00,FF85C5,01
+27=Birdie - XAV - Kick & Punch Bull Horn,FF858B,04,FF858A,00,FF858D,01,FF8593,04,FF8592,00,FF8595,01,FF859B,04,FF859A,00,FF859D,01,FF85A3,04,FF85A2,00,FF85A5,01,FF85AB,04,FF85AA,00,FF85AD,01,FF85B3,04,FF85B2,00,FF85B5,01,FF85BB,04,FF85BA,00,FF85BD,01,FF85C3,04,FF85C2,00,FF85C5,01
+28=Birdie - XAV - Murder & Bandit Chain,FF85C9,08,FF85C8,00
+29=Blanka - XAV - Rolling Attack & Backstep Rolling,FF8581,08,FF8580,06,FF8583,FF,FF8591,08,FF8590,06,FF8593,FF
+30=Blanka - XAV - Rolling Attack & Vertical Rolling,FF8581,08,FF8580,06,FF8583,FF,FF8599,08,FF8598,06,FF859B,FF
+31=Blanka - XAV - Electric Thunder & Backstep Rolling,FF858A,05,FF858C,05,FF858E,05,FF8591,08,FF8590,06,FF8593,FF
+32=Blanka - XAV - Electric Thunder & Vertical Rolling,FF858A,05,FF858C,05,FF858E,05,FF8599,08,FF8598,06,FF859B,FF
+33=Cammy - XAV - Cannon Spike & Axle Spin Knuckle,FF8581,04,FF8580,06,FF8591,04,FF8590,0A
+34=Cammy - XAV - Cannon Spike & Hooligan Combination,FF8581,04,FF8580,06,FF8599,04,FF8598,08
+35=Cammy - XAV - Spiral Arrow & Axle Spin Knuckle,FF8589,04,FF8588,06,FF8591,04,FF8590,0A
+36=Cammy - XAV - Spiral Arrow & Hooligan Combination,FF8589,04,FF8588,06,FF8599,04,FF8598,08
+37=Cammy - V - Cannon Spike & Revenge,FF8581,04,FF8580,06,FF85C1,04,FF85C0,06
+38=Cammy - V - Spiral Arrow & Cannon Revenge,FF8589,04,FF8588,06,FF85C1,04,FF85C0,06
+39=Cammy - V - Cannon Strike & Axle Spin Knuckle,FF85A9,04,FF85A8,06,FF8591,04,FF8590,0A
+40=Cammy - V - Cannon Strike & Hooligan Combination,FF85A9,04,FF85A8,06,FF8599,04,FF8598,08
+41=Cammy - V - Cannon Strike & Revenge,FF85A9,04,FF85A8,06,FF85C1,04,FF85C0,06
+42=Charlie - X - Somersault Shell & Sonic Boom,FF8581,08,FF8580,06,FF8583,FF,FF8589,08,FF8588,06,FF858B,FF
+43=Charlie - AV - Somersault Shell & Sonic Boom & Dash,FF8581,08,FF8580,06,FF8583,FF,FF8589,08,FF8588,06,FF858B,FF,FF85B1,04,FF85B0,06
+44=Chun-Li - X - Hyakuretsu Kyaku & Sou Hakkei,FF8591,08,FF8590,06,FF8593,FF,FF8582,05,FF8584,05,FF8586,05
+45=Chun-Li - X - Tenshou Kyaku & Sou Hakkei,FF8591,08,FF8590,06,FF8593,FF,FF8599,08,FF8598,06,FF859B,FF
+46=Chun-Li - X - Spinning Bird Kick & Sou Hakkei,FF8591,08,FF8590,06,FF8593,FF,FF85A9,08,FF85A8,06,FF85AB,FF
+47=Chun-Li - AV - Hyakuretsu Kyaku & Kikou Ken,FF8582,05,FF8584,05,FF8586,05,FF8589,04,FF8588,08
+48=Chun-Li - AV - Tenshou Kyaku & Kikou Ken,FF8599,08,FF8598,06,FF859B,FF,FF8589,04,FF8588,08
+49=Chun-Li - AV - Sen'en Shuu - Kikou Ken,FF85A1,04,FF85A0,0A,FF8589,04,FF8588,08
+50=Cody - XAV - Criminal Upper & Ruffian Kick,FF8581,04,FF8580,06,FF8591,04,FF8590,06
+51=Cody - XAV - Bad Stone & Ruffian Kick,FF8599,04,FF8598,06,FF8591,04,FF8590,06
+52=Cody - XAV - Bad Spray & Ruffian Kick,FF8589,04,FF8588,06,FF8591,04,FF8590,06
+53=Dan - XAV - Gadou Ken & Dankuu Kyaku & Zenten Chohatsu,FF8581,04,FF8580,06,FF8591,04,FF8590,06,FF85B1,04,FF85B0,06
+54=Dan - XAV - Gadou Ken & Dankuu Kyaku & Kouten Chohatsu,FF8581,04,FF8580,06,FF8591,04,FF8590,06,FF85B9,04,FF85B8,06
+55=Dan - XAV - Kouryuu Ken & Dankuu Kyaku & Zenten Chohatsu,FF8589,04,FF8588,06,FF8591,04,FF8590,06,FF85B1,04,FF85B0,06
+56=Dan - XAV - Kouryuu Ken & Dankuu Kyaku & Kouten Chohatsu,FF8589,04,FF8588,06,FF8591,04,FF8590,06,FF85B9,04,FF85B8,06
+57=Dhalsim - XAV - Yoga Flame & Blast & Teleport 1,FF8599,04,FF8598,0A,FF85A1,04,FF85A0,0A,FF8581,04,FF8580,06
+58=Dhalsim - XAV - Yoga Flame & Blast & Teleport 2,FF8599,04,FF8598,0A,FF85A1,04,FF85A0,0A,FF8589,04,FF8588,06
+59=Dhalsim - XAV - Yoga Fire & Blast & Teleport 1,FF8591,04,FF8590,06,FF85A1,04,FF85A0,0A,FF8581,04,FF8580,06
+60=Dhalsim - XAV - Yoga Fire & Blast & Teleport 2,FF8591,04,FF8590,06,FF85A1,04,FF85A0,0A,FF8589,04,FF8588,06
+61=Dhalsim - AV - Yoga Flame & Escape & Teleport 1,FF8599,04,FF8598,0A,FF85A9,04,FF85A8,06,FF8581,04,FF8580,06
+62=Dhalsim - AV - Yoga Flame & Escape & Teleport 2,FF8599,04,FF8598,0A,FF85A9,04,FF85A8,06,FF8589,04,FF8588,06
+63=Dhalsim - AV - Yoga Fire & Escape & Teleport 1,FF8591,04,FF8590,06,FF85A9,04,FF85A8,06,FF8581,04,FF8580,06
+64=Dhalsim - AV - Yoga Fire & Escape & Teleport 2,FF8591,04,FF8590,06,FF85A9,04,FF85A8,06,FF8589,04,FF8588,06
+65=E.Honda - XAV - Super Zutsuki & Hyakkan Otoshi,FF8581,08,FF8580,06,FF8583,FF,FF8589,08,FF8588,06,FF858B,FF
+66=E.Honda - XAV - Hyakuretsu Harite & Super Hyakkan Otoshi,FF8592,05,FF8594,05,FF8596,05,FF8589,08,FF8588,06,FF858B,FF
+67=E.Honda - XAV - Ooichou Nage & Super Hyakkan Otoshi,FF85A1,08,FF85A0,00,FF8589,08,FF8588,06,FF858B,FF
+68=Gen - X - Hyakurenkou & Geki Rou & Jasen,FF8582,05,FF8584,05,FF8586,05,FF8589,04,FF8588,06
+69=Gen - X - Geki Rou & Jasen,FF8589,04,FF8588,06,FF8591,08,FF8590,06,FF8593,FF
+70=Gen - AV - Hyakurenkou & Geki Rou & Jasen & Ouga,FF8582,05,FF8584,05,FF8586,05,FF8589,04,FF8588,06,FF8591,08,FF8590,06,FF8593,FF,FF8599,08,FF8598,06,FF859B,FF
+71=Guy - XAV - Bushin Senpuu Kyaku & Izuna Otoshi,FF8581,04,FF8580,06,FF8599,04,FF8598,06
+72=Guy - XAV - Bushin Senpuu Kyaku & Houzantou,FF8581,04,FF8580,06,FF85A9,04,FF85A8,06
+73=Guy - XAV - Hayagake & Bushin Izuna Otoshi,FF85A1,04,FF85A0,06,FF8599,04,FF8598,06
+74=Guy - XAV - Hayagake & Houzantou,FF85A1,04,FF85A0,06,FF85A9,04,FF85A8,06
+75=Juli - XAV - Axle Spin Knuckle & Cannon Spike,FF8581,04,FF8580,06,FF8591,04,FF8590,0A
+76=Juli - XAV - Axle Spin Knuckle & Sniping Arrow,FF85C1,04,FF85C0,0A,FF8591,04,FF8590,0A
+77=Juni - XAV - Spiral Arrow & Hooligan Combination,FF8581,08,FF8580,06,FF8583,FF,FF8599,04,FF8598,08
+78=Juni - XAV - Spiral Arrow & Earth Direct,FF8581,08,FF8580,06,FF8583,FF,FF85B9,08,FF85B8,00
+79=Juni - XAV - Cannon Spike & Hooligan Combination,FF8589,08,FF8588,06,FF858B,FF,FF8599,04,FF8598,08
+80=Juni - XAV - Cannon Spike & Earth Direct,FF8589,08,FF8588,06,FF858B,FF,FF85B9,08,FF85B8,00
+81=Juni - XAV - Cannon Strike & Hooligan Combination,FF85C9,04,FF85C8,06,FF8599,04,FF8598,08
+82=Juni - XAV - Cannon Strike & Earth Direct,FF85C9,04,FF85C8,06,FF85B9,08,FF85B8,00
+83=Karin - XAV - Guren Ken & Mujin Kyaku,FF8581,04,FF8580,06,FF8589,04,FF8588,06
+84=Karin - XAV - Guren Ken & Ressen Ha,FF8581,04,FF8580,06,FF8591,04,FF8590,08
+85=Karin - XAV - Guren Ken & Arakuma Inashi,FF8581,04,FF8580,06,FF85C9,08,FF85C8,00
+86=Karin - XAV - Ressen Chou & Mujin Kyaku,FF85B9,04,FF85B8,06,FF8589,04,FF8588,06
+87=Karin - XAV - Ressen Chou & Ressen Ha,FF85B9,04,FF85B8,06,FF8591,04,FF8590,08
+88=Karin - XAV - Ressen Chou & Arakuma Inashi,FF85B9,04,FF85B8,06,FF85C9,08,FF85C8,00
+89=Karin - XAV - Hou Shou & Mujin Kyaku,FF8599,04,FF8598,06,FF8589,04,FF8588,06
+90=Karin - XAV - Hou Shou & Ressen Ha,FF8599,04,FF8598,06,FF8591,04,FF8590,08
+91=Karin - XAV - Hou Shou & Arakuma Inashi,FF8599,04,FF8598,06,FF85C9,08,FF85C8,00
+92=Karin - XAV - Yasha Gaeshi,FF85A1,04,FF85A0,06
+93=Ken - X - Hadou Ken & Tatsumaki Senpuu Kyaku,FF8581,04,FF8580,06,FF8591,04,FF8590,06
+94=Ken - X - Shoryuu Ken & Tatsumaki Senpuu Kyaku,FF8589,04,FF8588,06,FF8591,04,FF8590,06
+95=Ken - AV - Hadou Ken & Tatsumaki Senpuu Kyaku & Zentou,FF8581,04,FF8580,06,FF8591,04,FF8590,06,FF85B1,04,FF85B0,06
+96=Ken - AV - Shoryuu Ken & Tatsumaki Senpuu Kyaku & Zentou,FF8589,04,FF8588,06,FF8591,04,FF8590,06,FF85B1,04,FF85B0,06
+97=Ken - AV - Zenpou Tenshin & Tatsumaki Senpuu Kyaku & Zentou,FF85A9,04,FF85A8,06,FF8591,04,FF8590,06,FF85B1,04,FF85B0,06
+98=M.Bison - XAV - Psycho Shot & Head Press,FF8581,08,FF8580,06,FF8583,FF,FF8589,08,FF8588,06,FF858B,FF
+99=M.Bison - XAV - Psycho Shot & Double Knee Press,FF8581,08,FF8580,06,FF8583,FF,FF8591,08,FF8590,06,FF8593,FF
+100=M.Bison - XAV - Somersault Skull Diver & Head Press,FF85C1,08,FF85C0,06,FF85C3,FF,FF8589,08,FF8588,06,FF858B,FF
+101=M.Bison - XAV - Somersault Skull Diver & Double Knee Press,FF85C1,08,FF85C0,06,FF85C3,FF,FF8591,08,FF8590,06,FF8593,FF
+102=M.Bison - AV - Bison Warp 1,FF8599,04,FF8598,06
+103=M.Bison - AV - Bison Warp 2,FF85A1,04,FF85A0,06
+104=R.Mika - XAV - Daydream Headlock & Flying Peach & Wingless Airplane,FF8591,08,FF8590,00,FF8589,04,FF8588,06,FF8599,04,FF8598,0A
+105=R.Mika - XAV - Daydream Headlock & Paradise Hold & Wingless Airplane,FF8591,08,FF8590,00,FF85A9,08,FF85A8,00,FF8599,04,FF8598,0A
+106=R.Mika - XAV - Shooting Peach & Peach & Wingless Airplane,FF85A1,04,FF85A0,06,FF8589,04,FF8588,06,FF8599,04,FF8598,0A
+107=R.Mika - XAV - Shooting Peach & Paradise Hold & Wingless Airplane,FF85A1,04,FF85A0,06,FF85A9,08,FF85A8,00,FF8599,04,FF8598,0A
+108=Rolento - X - Stinger & Patriot Circle,FF8581,04,FF8580,06,FF85B1,04,FF85B0,06
+109=Rolento - X - Stinger & Mekong Delta Air Raid,FF8581,04,FF8580,06,FF85B9,04,FF85B8,06
+110=Rolento - X - Mekong Delta Escape & Patriot Circle,FF8589,04,FF8588,06,FF85B1,04,FF85B0,06
+111=Rolento - X - Mekong Delta Escape & Air Raid,FF8589,04,FF8588,06,FF85B9,04,FF85B8,06
+112=Rolento - AV - Stinger & Patriot Circle & High Jump,FF8581,04,FF8580,06,FF8591,02,FF8590,02,FF85B1,04,FF85B0,06
+113=Rolento - AV - Stinger & Mekong Delta Air Raid & High Jump,FF8581,04,FF8580,06,FF8591,02,FF8590,02,FF85B9,04,FF85B8,06
+114=Rolento - AV - Mekong Delta Escape & Patriot Circle & High Jump,FF8589,04,FF8588,06,FF8591,02,FF8590,02,FF85B1,04,FF85B0,06
+115=Rolento - AV - Mekong Delta Escape & Air Raid & High Jump,FF8589,04,FF8588,06,FF8591,02,FF8590,02,FF85B9,04,FF85B8,06
+116=Rose - XAV - Soul Reflect & Spiral,FF8581,04,FF8580,06,FF85B1,04,FF85B0,06
+117=Rose - XAV - Soul Spark & Spiral,FF8589,04,FF8588,0A,FF85B1,04,FF85B0,06
+118=Rose - XAV - Soul Throw & Spiral,FF8591,04,FF8590,06,FF85B1,04,FF85B0,06
+119=Ryu - X - Hadou Ken & Tatsumaki Senpuu Kyaku,FF8581,04,FF8580,06,FF8591,04,FF8590,06
+120=Ryu - X - Shakunetsu Hadou Ken & Tatsumaki Senpuu Kyaku,FF85B1,04,FF85B0,0A,FF8591,04,FF8590,06
+121=Ryu - X - Shoryuu Ken & Tatsumaki Senpuu Kyaku,FF8589,04,FF8588,06,FF8591,04,FF8590,06
+122=Ryu - AV - Hadou Ken & no Kamae & Tatsumaki Senpuu Kyaku,FF8581,04,FF8580,06,FF8591,04,FF8590,06,FF85A9,04,FF85A8,06
+123=Ryu - AV - Shakunetsu Hadou Ken & no Kamae & Tatsumaki Senpuu Kyaku,FF85B1,04,FF85B0,0A,FF8591,04,FF8590,06,FF85A9,04,FF85A8,06
+124=Ryu - AV - Shoryuu Ken & Hadou no Kamae & Tatsumaki Senpuu Kyaku,FF8589,04,FF8588,06,FF8591,04,FF8590,06,FF85A9,04,FF85A8,06
+125=Sagat - XAV - Tiger Shot & Ground Shot,FF8581,04,FF8580,06,FF8589,04,FF8588,06
+126=Sagat - XAV - Tiger Shot & Crush,FF8581,04,FF8580,06,FF8591,04,FF8590,06
+127=Sagat - XAV - Tiger Blow & Ground Shot,FF85A1,04,FF85A0,06,FF8589,04,FF8588,06
+128=Sagat - XAV - Tiger Blow & Crush,FF85A1,04,FF85A0,06,FF8591,04,FF8590,06
+129=Sakura - XAV - Hadou Ken & Shunpuu Kyaku,FF8581,04,FF8580,06,FF8591,04,FF8590,06
+130=Sakura - XAV - Shou'ou Ken & Shunpuu Kyaku,FF8589,04,FF8588,06,FF8591,04,FF8590,06
+131=Sakura - AV - Hadou Ken & Sakura Otoshi,FF8581,04,FF8580,06,FF85B1,04,FF85B0,06
+132=Sakura - AV - Shou'ou Ken & Sakura Otoshi,FF8589,04,FF8588,06,FF85B1,04,FF85B0,06
+133=Sodom - XAV - Butsumetsu Buster & Daikyou Burning,FF8581,08,FF8580,00,FF85A1,08,FF85A0,00
+134=Sodom - XAV - Jigoku Scrape & Daikyou Burning,FF8589,04,FF8588,06,FF85A1,08,FF85A0,00
+135=Sodom - XAV - Kouten Okiagari (Reversal) & Daikyou Burning,FF8721,04,FF8720,06,FF85A1,08,FF85A0,00
+136=Sodom - XAV - Butsumetsu Buster & Tengu Walking,FF8581,08,FF8580,00,FF85A9,04,FF85A8,06
+137=Sodom - XAV - Jigoku Scrape & Tengu Walking,FF8589,04,FF8588,06,FF85A9,04,FF85A8,06
+138=Sodom - XAV - Kouten Okiagari (Reversal) & Tengu Walking,FF8721,04,FF8720,06,FF85A9,04,FF85A8,06
+139=Sodom - XAV - Butsumetsu Buster & Shiraha Catch,FF8581,08,FF8580,00,FF85B1,04,FF85B0,06
+140=Sodom - XAV - Jigoku Scrape & Shiraha Catch,FF8589,04,FF8588,06,FF85B1,04,FF85B0,06
+141=Sodom - XAV - Kouten Okiagari (Reversal) & Shiraha Catch,FF8721,04,FF8720,06,FF85B1,04,FF85B0,06
+142=Sodom - XAV - Butsumetsu Buster & Yagura Reverse,FF8581,08,FF8580,00,FF85C1,04,FF85C0,06
+143=Sodom - XAV - Jigoku Scrape & Yagura Reverse,FF8589,04,FF8588,06,FF85C1,04,FF85C0,06
+144=Sodom - XAV - Kouten Okiagari (Reversal) & Yagura Reverse,FF8721,04,FF8720,06,FF85C1,04,FF85C0,06
+145=Sodom - XAV - Butsumetsu Buster & Tengu Walking (Reversal),FF8581,08,FF8580,00,FF85B9,04,FF85B8,06
+146=Sodom - XAV - Jigoku Scrape & Tengu Walking (Reversal),FF8589,04,FF8588,06,FF85B9,04,FF85B8,06
+147=Sodom - XAV - Kouten Okiagari (Reversal) & Tengu Walking (Reversal),FF8721,04,FF8720,06,FF85B9,04,FF85B8,06
+148=Vega - XAV - Kabe Hari Tsuki & Rolling Crystal Flash,FF8581,08,FF8580,06,FF8583,FF,FF8589,08,FF8588,06,FF858B,FF
+149=Vega - XAV - Kabe Hari Tsuki & Sky High Claw,FF8591,08,FF8590,06,FF8593,FF,FF8589,08,FF8588,06,FF858B,FF
+150=Vega - V - Scarlet Terror & Rolling Crystal Flash,FF8581,08,FF8580,06,FF8583,FF,FF85A1,08,FF85A0,06,FF858B,FF
+151=Vega - V - Scarlet Terror & Sky High Claw,FF8591,08,FF8590,06,FF8593,FF,FF85A1,08,FF85A0,06,FF858B,FF
+152=Zangief - XAV - Flying Powerbomb & Atomic Suplex & Screw Piledriver,FF8589,08,FF8588,00,FF8591,08,FF8590,00
+153=Zangief - XAV - Flying Powerbomb & Atomic Suplex & Banishing Flat,FF8589,08,FF8588,00,FF8581,04,FF8580,06
+Default=0
+
+[59]
+Name=P1 Easy Super Combo
+0=Disabled
+1=Adon - X - Jaguar Varied Assault,FF85A1,04,FF85A0,0A
+2=Adon - A - Jaguar Revolver & Varied Assault,FF85A1,04,FF85A0,0A,FF8599,04,FF8598,0A
+3=Akuma - X - Shun Goku Satsu,FF85C9,02,FF85C8,08
+4=Akuma - A - Tenma Gou Zankuu & Messatsu Gou Hadou,FF85B9,04,FF85B8,0C,FF8599,04,FF8598,12
+5=Akuma - A - Tenma Gou Zankuu & Messatsu Gou Shoryuu,FF85B9,04,FF85B8,0C,FF85A1,04,FF85A0,0A
+6=Akuma - A - Tenma Gou Zankuu & Shun Goku Satsu,FF85B9,04,FF85B8,0C,FF85C9,02,FF85C8,08
+7=Balrog - X - Crazy Buffalo,FF85B9,08,FF85B8,0A,FF85BB,FF
+8=Balrog - A - Crazy Buffalo & Gigaton Blow,FF85C1,08,FF85C0,0A,FF85C3,FF,FF85C9,08,FF85C8,0A,FF85CB,FF
+9=Birdie - XA - The Birdie,FF85D9,08,FF85D8,0A,FF85DB,FF
+10=Birdie - A - Bull Revenger,FF85D1,04,FF85D0,0A
+11=Blanka - X - Ground Shave Rolling,FF85A9,08,FF85A8,0A,FF85AB,FF
+12=Blanka - A - Ground Shave Rolling & Tropical Hazard,FF85A1,08,FF85A0,0A,FF85A3,FF,FF85A9,08,FF85A8,0A,FF85AB,FF
+13=Cammy - XA - Spin Drive Smasher,FF85A1,04,FF85A0,0A
+14=Cammy - A - Reverse Shaft Breaker,FF85B1,04,FF85B0,0A
+15=Cammy - A - Killer Bee Assault,FF85B9,08,FF85B8,0A,FF85BB,FF
+16=Charlie - X - Somersault Justice,FF8599,08,FF8598,0A,FF859B,FF
+17=Charlie - A - Sonic Break & Crossfire Blitz,FF85A1,08,FF85A0,0A,FF85A3,FF,FF8591,08,FF8590,0A,FF8593,FF
+18=Charlie - A - Sonic Break & Somersault Justice,FF85A1,08,FF85A0,0A,FF85A3,FF,FF8599,08,FF8598,0A,FF859B,FF
+19=Chun-Li - X - Senretsu Kyaku,FF85B1,08,FF85B0,0A,FF85B3,FF
+20=Chun-Li - A - Senretsu Kyaku & Kikou Shou,FF85B1,08,FF85B0,0A,FF85B3,FF,FF85C1,04,FF85C0,0C
+21=Chun-Li - A - Hanzan Tenshou Kyaku & Kikou Shou,FF85B9,08,FF85B8,0A,FF85BB,FF,FF85C1,04,FF85C0,0C
+22=Cody - X - Final Destruction,FF85A1,04,FF85A0,0C
+23=Cody - A - Final Destruction & Dead End Irony,FF85A1,04,FF85A0,0C,FF85A9,04,FF85A8,0A
+24=Dan - X - Hisshou Burai Ken,FF85A9,04,FF85A8,0A
+25=Dan - A - Shinkuu Gadou Ken & Kouryuu Rekka & Chahatsu Densetsu,FF8599,04,FF8598,0C,FF85A1,04,FF85A0,0A,FF85C1,04,FF85C0,06
+26=Dan - A - Shinkuu Gadou Ken & Kouryuu Rekka & Chohatsu Shinwa,FF8599,04,FF8598,0C,FF85A1,04,FF85A0,0A,FF85C9,04,FF85C8,06
+27=Dan - A - Shinkuu Gadou & Hisshou Burai Ken & Chahatsu Densetsu,FF8599,04,FF8598,0C,FF85A9,04,FF85A8,0A,FF85C1,04,FF85C0,06
+28=Dan - A - Shinkuu Gadou & Hisshou Burai Ken & Chohatsu Shinwa,FF8599,04,FF8598,0C,FF85A9,04,FF85A8,0A,FF85C9,04,FF85C8,06
+29=Dhalsim - X - Yoga Tempest,FF85C1,04,FF85C0,12
+30=Dhalsim - A - Yoga Strike & Inferno,FF85B9,04,FF85B8,0A,FF85B1,04,FF85B0,0C
+31=Dhalsim - A - Yoga Strike & Stream,FF85B9,04,FF85B8,0A,FF85C9,04,FF85C8,0C
+32=E.Honda - X - Oni Musou,FF8599,08,FF8598,0A,FF859B,FF
+33=E.Honda - A - Oni Musou & Fuji Oroshi,FF8599,08,FF8598,0A,FF859B,FF,FF85A9,08,FF85A8,0A,FF85AB,FF
+34=E.Honda - A - Fuji Oroshi & Orochi Kudaki,FF85B9,08,FF85B8,00,FF85A9,08,FF85A8,0A,FF85AB,FF
+35=Gen - X - Zan'ei,FF85A9,04,FF85A8,0A
+36=Gen - A - Zan'ei & Jakouha & Kouga,FF85A9,04,FF85A8,0A,FF85B1,04,FF85B0,0A,FF85B9,04,FF85B8,0A
+37=Gen - A - Shitenshuu & Jakouha & Kouga,FF85A1,04,FF85A0,0A,FF85B1,04,FF85B0,0A,FF85B9,04,FF85B8,0A
+38=Guy - X - Bushin Musou Renge,FF85B1,04,FF85B0,12
+39=Guy - A - Bushin Gourai Kyaku & Hassou Ken,FF8591,04,FF8590,0A,FF8589,04,FF8588,0A
+40=Guy - A - Bushin Gourai Kyaku & Musou Renge,FF8591,04,FF8590,0A,FF85B1,04,FF85B0,12
+41=Juli - X - Reverse Shaft Breaker,FF85D9,04,FF85D8,0A
+42=Juli - A - Reverse Shaft Breaker & Death Cross Dancing (With Juni),FF85D9,04,FF85D8,0A,FF85D1,02,FF85D0,08
+43=Juli - A - Reverse Shaft Breaker & Psycho Rolling (With Juni),FF85D9,04,FF85D8,0A,FF85E9,04,FF85E8,0A
+44=Juli - A - Spin Drive Smasher & Death Cross Dancing (With Juni),FF85A1,04,FF85A0,0A,FF85D1,02,FF85D0,08
+45=Juli - A - Spin Drive Smasher & Psycho Rolling (With Juni),FF85A1,04,FF85A0,0A,FF85E9,04,FF85E8,0A
+46=Juni - X - Psycho Streak,FF8789,08,FF8788,0A,FF878B,FF
+47=Juni - A - Spin Drive Smasher & Psycho Streak,FF85A1,08,FF85A0,0A,FF85A3,FF,FF8789,08,FF8788,0A,FF878B,FF
+48=Juni - A - Spin Drive Smasher & Death Cross Dancing,FF85A1,08,FF85A0,0A,FF85A3,FF,FF85D1,02,FF85D0,08
+49=Juni - A - Spin Drive Smasher & Psycho Rolling,FF85A1,08,FF85A0,0A,FF85A3,FF,FF85E9,04,FF85E8,0A
+50=Karin - X - Kanzuki-ryuu Shinpikaibyaku,FF85B1,04,FF85B0,0C
+51=Karin - A - Kanzuki-ryuu Shinpikaibyaku & Kou'ou Ken,FF85B1,04,FF85B0,0C,FF85C1,04,FF85C0,0A
+52=Ken - X - Shoryuu Reppa,FF85A1,04,FF85A0,0A
+53=Ken - A - Shoryuu Reppa & Shinryuu Ken,FF85A1,04,FF85A0,0A,FF8599,04,FF8598,0A
+54=Ken - A - Shoryuu Reppa & Shippu Jinrai Kyaku,FF85A1,04,FF85A0,0A,FF85B9,04,FF85B8,0A
+55=M.Bison - X - Knee Press Nightmare,FF85B1,08,FF85B0,0A,FF85B3,FF
+56=M.Bison - A - Psycho Crusher & Knee Press Nightmare,FF85A9,08,FF85A8,0A,FF85AB,FF,FF85B1,08,FF85B0,0A,FF85B3,FF
+57=R.Mika - X - Sardine's Beach Special,FF8581,04,FF8580,0A
+58=R.Mika - A - Sardine's Beach Special & Rainbow Hip Rush,FF8581,04,FF8580,0A,FF85B1,04,FF85B0,0A
+59=R.Mika - A - Sardine's Beach Special & Heavenly Dynamite,FF8581,04,FF8580,0A,FF85B9,08,FF85B8,00
+60=Rolento - X - Take no Prisoner,FF85A9,04,FF85A8,0C
+61=Rolento - A - Steel Rain & Take no Prisoner,FF8599,04,FF8598,0A,FF85A9,04,FF85A8,0C
+62=Rolento - A - Steel Rain & Mine Sweeper,FF8599,04,FF8598,0A,FF85A1,04,FF85A0,0C
+63=Rose - X - Aura Soul Throw,FF8599,04,FF8598,0A
+64=Rose - A - Soul Illusion & Aura Soul Throw,FF85A9,04,FF85A8,0A,FF8599,04,FF8598,0A
+65=Rose - A - Soul Illusion & Aura Soul Spark,FF85A9,04,FF85A8,0A,FF85A1,04,FF85A0,0C
+66=Ryu - X - Shinkuu Hadou Ken,FF8599,04,FF8598,0C
+67=Ryu - A - Shinkuu Hadou Ken & Tatsumaki Senpuu Kyaku,FF8599,04,FF8598,0C,FF85A1,04,FF85A0,0A
+68=Ryu - A - Shinkuu Hadou Ken & Shin Shoryuu Ken,FF8599,04,FF8598,0C,FF85B9,04,FF85B8,0A
+69=Sagat - X - Tiger Genocide,FF85A9,04,FF85A8,0A
+70=Sagat - A - Angry Charge & Tiger Cannon & Raid,FF85B9,04,FF85B8,06,FF85B1,04,FF85B0,0C,FF8599,04,FF8598,0A
+71=Sagat - A - Angry Charge & Tiger Cannon & Genocide,FF85B9,04,FF85B8,06,FF85B1,04,FF85B0,0C,FF85A9,04,FF85A8,0A
+72=Sakura - X - Midare-Zakura,FF85A1,04,FF85A0,0A
+73=Sakura - A - Shinkuu Hadou Ken & Midare-Zakura,FF8599,04,FF8598,0C,FF85A1,04,FF85A0,0A
+74=Sakura - A - Shinkuu Hadou Ken & Haru Ichiban,FF8599,04,FF8598,0C,FF85A9,04,FF85A8,0A
+75=Sodom - XA - Meido no Miyage,FF8599,04,FF8598,0C
+76=Sodom - A - Ten Chuu Satsu,FF8591,08,FF8590,00
+77=Vega - X - Hari Tsuki Rolling,FF8599,08,FF8598,0A,FF859B,FF
+78=Vega - A - Scarlet Mirage & Red Impact,FF85B1,08,FF85B0,0A,FF85B3,FF,FF85A9,08,FF85A8,0A,FF85AB,FF
+79=Vega - A - Hari Tsuki Rolling & Red Impact,FF85B1,08,FF85B0,0A,FF85B3,FF,FF8599,08,FF8598,0A,FF859B,FF
+80=Zangief - X - Final Atomic Buster,FF8599,08,FF8598,0A
+81=Zangief - A - Final Atomic Buster & Aerial Russian Slam,FF8599,08,FF8598,0A,FF85A1,04,FF85A0,0A
+Default=0
+
+[60]
+Name=P2 Inf Health
+0=Disabled
+1=Enabled,FF8850,90
+Default=0
+
+[61]
+Name=P2 Inf Power
+0=Disabled
+1=Enabled,FF891E,90
+Default=0
+
+[62]
+Name=P2 1 Win Match
+0=Disabled
+1=Enabled,FF8927,01
+Default=0
+
+[63]
+Name=P2 Air Moves
+0=Disabled
+1=Enabled,FF8830,00
+Default=0
+
+[64]
+Name=P2 No Ground Attacks
+0=Disabled
+1=Enabled,FF8830,01
+Default=0
+
+[65]
+Name=P2 Inf Taunt
+0=Disabled
+1=Enabled,FF88BD,01
+Default=0
+
+[66]
+Name=P2 Inf Fireball
+0=Disabled
+1=Enabled,FF8A39,00
+Default=0
+
+[67]
+Name=P2 Inf Guard
+0=Disabled
+1=Enabled,FF8A4C,00
+Default=0
+
+[68]
+Name=P2 Inf V-ISM Combo
+0=Disabled
+1=Enabled,FF88B8,01
+Default=0
+
+[69]
+Name=P2 No Hit Stop
+0=Disabled
+1=Enabled,FF885E,00
+Default=0
+
+[70]
+Name=P2 Shadow Fighter
+0=Disabled
+1=Enabled,FF894C,FF
+Default=0
+
+[71]
+Name=P2 Force Counter Damage
+0=Disabled
+1=Enabled,FF88A8,01
+Default=0
+
+[72]
+Name=P2 Projectiles
+0=Disabled
+1=Inf Projectiles,FF8A39,00
+2=Disable Projectiles,FF8A39,01
+Default=0
+
+[73]
+Name=P2 Fast Recovery
+0=Disabled
+1=Enabled,FF8ACD,00,FF8ACC,28
+Default=0
+
+[74]
+Name=P2 Hardest Mode
+0=Disabled
+1=Enabled,FF885E,00,FF865B,00
+Default=0
+
+[75]
+Name=P2 Classic Mode
+0=Disabled
+1=Enabled,FF895F,01
+Default=0
+
+[76]
+Name=P2 Mazi/Serious Mode
+0=Disabled
+1=Enabled,FF895B,01
+Default=0
+
+[77]
+Name=P2 Saikyou/Strong Mode
+0=Disabled
+1=Enabled,FF8930,01
+Default=0
+
+[78]
+Name=P2 Action Speed Up
+0=Disabled
+1=Enabled,FF8833,01
+Default=0
+
+[79]
+Name=P2 Motion Speed Up
+0=Disabled
+1=Enabled,FF8834,01
+Default=0
+
+[80]
+Name=P2 No Jump Attack Limit (Incomplete)
+0=Disabled
+1=Enabled,FF8806,01
+Default=0
+
+[81]
+Name=P2 Combo Count and Adjustment
+0=Disabled
+1=P2 Hit 0 (No Adjust),FF885F,00
+2=P2 Hit 99 (Too Heavy Adjust),FF885F,63
+Default=0
+
+[82]
+Name=P2 Force Level 3 Combo
+0=Disabled
+1=Enabled,FF8883,04
+Default=0
+
+[83]
+Name=P2 Level 3 Custom Combo
+0=Disabled
+1=Enabled,FF88B8,01,FF88BA,FF,FF88B8,01,FF88BA,00,FF8AA6,51,FF8AA8,1B
+Default=0
+
+[84]
+Name=P2 ISM Select
+0=Disabled
+1=X-ISM,FF8922,FF,FF8933,FF
+2=A-ISM,FF8922,00,FF8933,00
+3=V-ISM,FF8922,01,FF8933,01
+4=S-ISM,FF8922,02,FF8933,00
+Default=0
+
+[85]
+Name=P2 Damage Level
+0=Disabled
+1=P2 Weak,FF88CD,8F
+2=P2 Ultimate,FF88CD,7F
+3=P2 Super Hyper Excellent,FF88CD,FF
+Default=0
+
+[86]
+Name=P2 Mode
+0=Disabled
+1=P2 Enable,FF8801,01
+2=P2 Disable,FF8801,00
+Default=0
+
+[87]
+Name=P2 Slot
+0=Disabled
+1=Slot 1,FF8900,00
+2=Slot 2,FF8900,01
+3=Slot 3,FF8900,02
+4=Slot 4,FF8900,03
+Default=0
+
+[88]
+Name=P2 Controller Mode
+0=Disabled
+1=User Play,FF8924,00
+2=Computer Play,FF8924,01
+3=Hard Computer Play,FF8924,01,FF8839,84
+Default=0
+
+[89]
+Name=P2 Char Select
+0=Disabled
+1=Adon,FF8903,05
+2=Akuma,FF8903,02
+3=Balrog,FF8903,15
+4=Birdie,FF8903,08
+5=Blanka,FF8903,19
+6=Cammy,FF8903,16
+7=Charlie,FF8903,03
+8=Chun-Li,FF8903,04
+9=Cody,FF8903,1B
+10=Dan,FF8903,0C
+11=Dhalsim,FF8903,0F
+12=E.Honda,FF8903,18
+13=Gen,FF8903,11
+14=Guy,FF8903,07
+15=Juli,FF8903,1E
+16=Juni,FF8903,1F
+17=Karin,FF8903,1D
+18=Ken,FF8903,01
+19=M.Bison,FF8903,0A
+20=R.Mika,FF8903,1A
+21=Rolento,FF8903,0E
+22=Rose,FF8903,09
+23=Ryu,FF8903,00
+24=Sagat,FF8903,0B
+25=Sakura,FF8903,0D
+26=Shin M.Bison,FF8903,0A,FF895C,01
+27=Sodom,FF8903,06
+28=Vega,FF8903,1C
+29=Zangief,FF8903,10
+Default=0
+
+[90]
+Name=P2 Colour
+0=Disabled
+1=Primary,FF8929,00
+2=Secondary,FF8929,01
+Default=0
+
+[91]
+Name=P2 Cody - Knife
+0=Disabled
+1=Knife,FF89E5,FF
+2=No Knife,FF89E5,00
+Default=0
+
+[92]
+Name=P2 Cody - Inf Final Destruction Time
+0=Disabled
+1=Enabled,FF883B,04,FF883A,B0
+Default=0
+
+[93]
+Name=P2 Dan - Kouryuu Ken Always Flashing
+0=Disabled
+1=Enabled,FF89FF,16,FF89FE,00
+Default=0
+
+[94]
+Name=P2 Dan - Inf Chohatsu Shinwa Time
+0=Disabled
+1=Enabled,FF883B,04,FF883A,B0
+Default=0
+
+[95]
+Name=P2 Rolento - Easy Second & Third Patriot Circle
+0=Disabled
+1=Enabled,FF89C1,04,FF89C0,06
+Default=0
+
+[96]
+Name=P2 Rose - Inf Soul Illusion Time
+0=Disabled
+1=Enabled,FFAB6A,FF,FFAB6B,02,FFAA6A,FF,FFAA6B,02
+Default=0
+
+[97]
+Name=P2 Ryu - Force ShinSyoryu
+0=Disabled
+1=Enabled,FF88CD,30
+Default=0
+
+[98]
+Name=P2 Sakura - Hadou Ken Size & Range
+0=Disabled
+1=Normal & Long,FF89FE,00
+2=Medium & Medium,FF89FE,01
+3=Large & Short,FF89FE,02
+Default=0
+
+[99]
+Name=P2 Sagat - Angry Charge
+0=Disabled
+1=Always Angry Charge,FF89FF,01
+2=Never Angry Charge,FF89FF,00
+Default=0
+
+[100]
+Name=P2 Vega - Mask
+0=Disabled
+1=Mask On,FF886A,01
+2=Mask Off,FF886A,00
+Default=0
+
+[101]
+Name=P2 Vega - Claw
+0=Disabled
+1=Claw On,FF886B,01
+2=Claw Off,FF886B,00
+Default=0
+
+[102]
+Name=P2 Easy Moves
+0=Disabled
+1=Adon - XAV - Rising Jaguar,FF8989,04,FF8988,06
+2=Adon - XAV - Jaguar Tooth,FF8991,04,FF8990,0A
+3=Adon - AV - Jaguar Kick,FF8981,04,FF8980,06
+4=Akuma - XAV - Tatsumaki Zankuu Kyaku & Ashura Senkuu 1 & Gou & Zankuu Hadou Ken,FF8981,04,FF8980,06,FF8991,04,FF8990,06,FF89A9,04,FF89A8,06
+5=Akuma - XAV - Tatsumaki Zankuu Kyaku & Ashura Senkuu 1 & Gou Shoryuu Ken,FF8989,04,FF8988,06,FF8991,04,FF8990,06,FF89A9,04,FF89A8,06
+6=Akuma - XAV - Tatsumaki Zankuu Kyaku & Ashura Senkuu 1 & Shakunetsu Hadou Ken,FF89C1,04,FF89C0,0A,FF8991,04,FF8990,06,FF89A9,04,FF89A8,06
+7=Akuma - XAV - Tatsumaki Zankuu Kyaku & Ashura Senkuu 2 & Gou & Zankuu Hadou Ken,FF8981,04,FF8980,06,FF8991,04,FF8990,06,FF89B1,04,FF89B0,06
+8=Akuma - XAV - Tatsumaki Zankuu Kyaku & Ashura Senkuu 2 & Gou Shoryuu Ken,FF8989,04,FF8988,06,FF8991,04,FF8990,06,FF89B1,04,FF89B0,06
+9=Akuma - XAV - Tatsumaki Zankuu Kyaku & Ashura Senkuu 2 & Shakunetsu Hadou Ken,FF89C1,04,FF89C0,0A,FF8991,04,FF8990,06,FF89B1,04,FF89B0,06
+10=Akuma - AV - Tatsumaki Zankuu Kyaku & Ashura Senkuu 1 & Zenpou Tenshin,FF89D1,04,FF89D0,06,FF8991,04,FF8990,06,FF89A9,04,FF89A8,06
+11=Akuma - AV - Tatsumaki Zankuu Kyaku & Ashura Senkuu 1 & Hyakki Shuu,FF89D9,04,FF89D8,08,FF8991,04,FF8990,06,FF89A9,04,FF89A8,06
+12=Akuma - AV - Tatsumaki Zankuu Kyaku & Ashura Senkuu 2 & Zenpou Tenshin,FF89D1,04,FF89D0,06,FF8991,04,FF8990,06,FF89B1,04,FF89B0,06
+13=Akuma - AV - Tatsumaki Zankuu Kyaku & Ashura Senkuu 2 & Hyakki Shuu,FF89D9,04,FF89D8,08,FF8991,04,FF8990,06,FF89B1,04,FF89B0,06
+14=Balrog - XAV - Dash Straight & Upper,FF8981,08,FF8980,06,FF8983,FF,FF8989,08,FF8988,06,FF898B,FF
+15=Balrog - XAV - Dash Straight & Turn Punch 2,FF8981,08,FF8980,06,FF8983,FF,FF89B3,09,FF89B2,00,FF89B5,01
+16=Balrog - XAV - Turn Punch 1 & Dash Upper,FF89AB,09,FF89AA,00,FF89AD,01,FF8989,08,FF8988,06,FF898B,FF
+17=Balrog - XAV - Turn Punch 1 & Turn Punch 2,FF89AB,09,FF89AA,00,FF89AD,01,FF89B3,09,FF89B2,00,FF89B5,01
+18=Balrog - XAV - Buffalo Head & Dash Upper,FF89A1,08,FF89A0,06,FF89A3,FF,FF8989,08,FF8988,06,FF898B,FF
+19=Balrog - XAV - Buffalo Head & Turn Punch 2,FF89A1,08,FF89A0,06,FF89A3,FF,FF89B3,09,FF89B2,00,FF89B5,01
+20=Balrog - AV - Dash Straight & Ground Upper,FF8981,08,FF8980,06,FF8983,FF,FF8999,08,FF8998,06,FF899B,FF
+21=Balrog - AV - Dash Ground Straight & Upper,FF8991,08,FF8990,06,FF8993,FF,FF8989,08,FF8988,06,FF898B,FF
+22=Balrog - AV - Dash Ground Straight & Ground Upper,FF8991,08,FF8990,06,FF8993,FF,FF8999,08,FF8998,06,FF899B,FF
+23=Balrog - AV - Dash Ground Straight & Turn Punch 2,FF8991,08,FF8990,06,FF8993,FF,FF89B3,09,FF89B2,00,FF89B5,01
+24=Balrog - AV - Turn Punch 1 & Dash Ground Upper,FF89AB,09,FF89AA,00,FF89AD,01,FF8999,08,FF8998,06,FF899B,FF
+25=Balrog - AV - Buffalo Head & Dash Ground Upper,FF89A1,08,FF89A0,06,FF89A3,FF,FF8999,08,FF8998,06,FF899B,FF
+26=Birdie - XAV - Bull Head & Kick Bull Horn,FF8981,08,FF8980,06,FF8983,FF,FF89AB,04,FF89AA,00,FF89AD,01,FF89B3,04,FF89B2,00,FF89B5,01,FF89BB,04,FF89BA,00,FF89BD,01,FF89C3,04,FF89C2,00,FF89C5,01
+27=Birdie - XAV - Kick & Punch Bull Horn,FF898B,04,FF898A,00,FF898D,01,FF8993,04,FF8992,00,FF8995,01,FF899B,04,FF899A,00,FF899D,01,FF89A3,04,FF89A2,00,FF89A5,01,FF89AB,04,FF89AA,00,FF89AD,01,FF89B3,04,FF89B2,00,FF89B5,01,FF89BB,04,FF89BA,00,FF89BD,01,FF89C3,04,FF89C2,00,FF89C5,01
+28=Birdie - XAV - Murder & Bandit Chain,FF89C9,08,FF89C8,00
+29=Blanka - XAV - Rolling Attack & Backstep Rolling,FF8981,08,FF8980,06,FF8983,FF,FF8991,08,FF8990,06,FF8993,FF
+30=Blanka - XAV - Rolling Attack & Vertical Rolling,FF8981,08,FF8980,06,FF8983,FF,FF8999,08,FF8998,06,FF899B,FF
+31=Blanka - XAV - Electric Thunder & Backstep Rolling,FF898A,05,FF898C,05,FF898E,05,FF8991,08,FF8990,06,FF8993,FF
+32=Blanka - XAV - Electric Thunder & Vertical Rolling,FF898A,05,FF898C,05,FF898E,05,FF8999,08,FF8998,06,FF899B,FF
+33=Cammy - XAV - Cannon Spike & Axle Spin Knuckle,FF8981,04,FF8980,06,FF8991,04,FF8990,0A
+34=Cammy - XAV - Cannon Spike & Hooligan Combination,FF8981,04,FF8980,06,FF8999,04,FF8998,08
+35=Cammy - XAV - Spiral Arrow & Axle Spin Knuckle,FF8989,04,FF8988,06,FF8991,04,FF8990,0A
+36=Cammy - XAV - Spiral Arrow & Hooligan Combination,FF8989,04,FF8988,06,FF8999,04,FF8998,08
+37=Cammy - V - Cannon Spike & Revenge,FF8981,04,FF8980,06,FF89C1,04,FF89C0,06
+38=Cammy - V - Spiral Arrow & Cannon Revenge,FF8989,04,FF8988,06,FF89C1,04,FF89C0,06
+39=Cammy - V - Cannon Strike & Axle Spin Knuckle,FF89A9,04,FF89A8,06,FF8991,04,FF8990,0A
+40=Cammy - V - Cannon Strike & Hooligan Combination,FF89A9,04,FF89A8,06,FF8999,04,FF8998,08
+41=Cammy - V - Cannon Strike & Revenge,FF89A9,04,FF89A8,06,FF89C1,04,FF89C0,06
+42=Charlie - X - Somersault Shell & Sonic Boom,FF8981,08,FF8980,06,FF8983,FF,FF8989,08,FF8988,06,FF898B,FF
+43=Charlie - AV - Somersault Shell & Sonic Boom & Dash,FF8981,08,FF8980,06,FF8983,FF,FF8989,08,FF8988,06,FF898B,FF,FF89B1,04,FF89B0,06
+44=Chun-Li - X - Hyakuretsu Kyaku & Sou Hakkei,FF8991,08,FF8990,06,FF8993,FF,FF8982,05,FF8984,05,FF8986,05
+45=Chun-Li - X - Tenshou Kyaku & Sou Hakkei,FF8991,08,FF8990,06,FF8993,FF,FF8999,08,FF8998,06,FF899B,FF
+46=Chun-Li - X - Spinning Bird Kick & Sou Hakkei,FF8991,08,FF8990,06,FF8993,FF,FF89A9,08,FF89A8,06,FF89AB,FF
+47=Chun-Li - AV - Hyakuretsu Kyaku & Kikou Ken,FF8982,05,FF8984,05,FF8986,05,FF8989,04,FF8988,08
+48=Chun-Li - AV - Tenshou Kyaku & Kikou Ken,FF8999,08,FF8998,06,FF899B,FF,FF8989,04,FF8988,08
+49=Chun-Li - AV - Sen'en Shuu - Kikou Ken,FF89A1,04,FF89A0,0A,FF8989,04,FF8988,08
+50=Cody - XAV - Criminal Upper & Ruffian Kick,FF8981,04,FF8980,06,FF8991,04,FF8990,06
+51=Cody - XAV - Bad Stone & Ruffian Kick,FF8999,04,FF8998,06,FF8991,04,FF8990,06
+52=Cody - XAV - Bad Spray & Ruffian Kick,FF8989,04,FF8988,06,FF8991,04,FF8990,06
+53=Dan - XAV - Gadou Ken & Dankuu Kyaku & Zenten Chohatsu,FF8981,04,FF8980,06,FF8991,04,FF8990,06,FF89B1,04,FF89B0,06
+54=Dan - XAV - Gadou Ken & Dankuu Kyaku & Kouten Chohatsu,FF8981,04,FF8980,06,FF8991,04,FF8990,06,FF89B9,04,FF89B8,06
+55=Dan - XAV - Kouryuu Ken & Dankuu Kyaku & Zenten Chohatsu,FF8989,04,FF8988,06,FF8991,04,FF8990,06,FF89B1,04,FF89B0,06
+56=Dan - XAV - Kouryuu Ken & Dankuu Kyaku & Kouten Chohatsu,FF8989,04,FF8988,06,FF8991,04,FF8990,06,FF89B9,04,FF89B8,06
+57=Dhalsim - XAV - Yoga Flame & Blast & Teleport 1,FF8999,04,FF8998,0A,FF89A1,04,FF89A0,0A,FF8981,04,FF8980,06
+58=Dhalsim - XAV - Yoga Flame & Blast & Teleport 2,FF8999,04,FF8998,0A,FF89A1,04,FF89A0,0A,FF8989,04,FF8988,06
+59=Dhalsim - XAV - Yoga Fire & Blast & Teleport 1,FF8991,04,FF8990,06,FF89A1,04,FF89A0,0A,FF8981,04,FF8980,06
+60=Dhalsim - XAV - Yoga Fire & Blast & Teleport 2,FF8991,04,FF8990,06,FF89A1,04,FF89A0,0A,FF8989,04,FF8988,06
+61=Dhalsim - AV - Yoga Flame & Escape & Teleport 1,FF8999,04,FF8998,0A,FF89A9,04,FF89A8,06,FF8981,04,FF8980,06
+62=Dhalsim - AV - Yoga Flame & Escape & Teleport 2,FF8999,04,FF8998,0A,FF89A9,04,FF89A8,06,FF8989,04,FF8988,06
+63=Dhalsim - AV - Yoga Fire & Escape & Teleport 1,FF8991,04,FF8990,06,FF89A9,04,FF89A8,06,FF8981,04,FF8980,06
+64=Dhalsim - AV - Yoga Fire & Escape & Teleport 2,FF8991,04,FF8990,06,FF89A9,04,FF89A8,06,FF8989,04,FF8988,06
+65=E.Honda - XAV - Super Zutsuki & Hyakkan Otoshi,FF8981,08,FF8980,06,FF8983,FF,FF8989,08,FF8988,06,FF898B,FF
+66=E.Honda - XAV - Hyakuretsu Harite & Super Hyakkan Otoshi,FF8992,05,FF8994,05,FF8996,05,FF8989,08,FF8988,06,FF898B,FF
+67=E.Honda - XAV - Ooichou Nage & Super Hyakkan Otoshi,FF89A1,08,FF89A0,00,FF8989,08,FF8988,06,FF898B,FF
+68=Gen - X - Hyakurenkou & Geki Rou & Jasen,FF8982,05,FF8984,05,FF8986,05,FF8989,04,FF8988,06
+69=Gen - X - Geki Rou & Jasen,FF8989,04,FF8988,06,FF8991,08,FF8990,06,FF8993,FF
+70=Gen - AV - Hyakurenkou & Geki Rou & Jasen & Ouga,FF8982,05,FF8984,05,FF8986,05,FF8989,04,FF8988,06,FF8991,08,FF8990,06,FF8993,FF,FF8999,08,FF8998,06,FF899B,FF
+71=Guy - XAV - Bushin Senpuu Kyaku & Izuna Otoshi,FF8981,04,FF8980,06,FF8999,04,FF8998,06
+72=Guy - XAV - Bushin Senpuu Kyaku & Houzantou,FF8981,04,FF8980,06,FF89A9,04,FF89A8,06
+73=Guy - XAV - Hayagake & Bushin Izuna Otoshi,FF89A1,04,FF89A0,06,FF8999,04,FF8998,06
+74=Guy - XAV - Hayagake & Houzantou,FF89A1,04,FF89A0,06,FF89A9,04,FF89A8,06
+75=Juli - XAV - Axle Spin Knuckle & Cannon Spike,FF8981,04,FF8980,06,FF8991,04,FF8990,0A
+76=Juli - XAV - Axle Spin Knuckle & Sniping Arrow,FF89C1,04,FF89C0,0A,FF8991,04,FF8990,0A
+77=Juni - XAV - Spiral Arrow & Hooligan Combination,FF8981,08,FF8980,06,FF8983,FF,FF8999,04,FF8998,08
+78=Juni - XAV - Spiral Arrow & Earth Direct,FF8981,08,FF8980,06,FF8983,FF,FF89B9,08,FF89B8,00
+79=Juni - XAV - Cannon Spike & Hooligan Combination,FF8989,08,FF8988,06,FF898B,FF,FF8999,04,FF8998,08
+80=Juni - XAV - Cannon Spike & Earth Direct,FF8989,08,FF8988,06,FF898B,FF,FF89B9,08,FF89B8,00
+81=Juni - XAV - Cannon Strike & Hooligan Combination,FF89C9,04,FF89C8,06,FF8999,04,FF8998,08
+82=Juni - XAV - Cannon Strike & Earth Direct,FF89C9,04,FF89C8,06,FF89B9,08,FF89B8,00
+83=Karin - XAV - Guren Ken & Mujin Kyaku,FF8981,04,FF8980,06,FF8989,04,FF8988,06
+84=Karin - XAV - Guren Ken & Ressen Ha,FF8981,04,FF8980,06,FF8991,04,FF8990,08
+85=Karin - XAV - Guren Ken & Arakuma Inashi,FF8981,04,FF8980,06,FF89C9,08,FF89C8,00
+86=Karin - XAV - Ressen Chou & Mujin Kyaku,FF89B9,04,FF89B8,06,FF8989,04,FF8988,06
+87=Karin - XAV - Ressen Chou & Ressen Ha,FF89B9,04,FF89B8,06,FF8991,04,FF8990,08
+88=Karin - XAV - Ressen Chou & Arakuma Inashi,FF89B9,04,FF89B8,06,FF89C9,08,FF89C8,00
+89=Karin - XAV - Hou Shou & Mujin Kyaku,FF8999,04,FF8998,06,FF8989,04,FF8988,06
+90=Karin - XAV - Hou Shou & Ressen Ha,FF8999,04,FF8998,06,FF8991,04,FF8990,08
+91=Karin - XAV - Hou Shou & Arakuma Inashi,FF8999,04,FF8998,06,FF89C9,08,FF89C8,00
+92=Karin - XAV - Yasha Gaeshi,FF89A1,04,FF89A0,06
+93=Ken - X - Hadou Ken & Tatsumaki Senpuu Kyaku,FF8981,04,FF8980,06,FF8991,04,FF8990,06
+94=Ken - X - Shoryuu Ken & Tatsumaki Senpuu Kyaku,FF8989,04,FF8988,06,FF8991,04,FF8990,06
+95=Ken - AV - Hadou Ken & Tatsumaki Senpuu Kyaku & Zentou,FF8981,04,FF8980,06,FF8991,04,FF8990,06,FF89B1,04,FF89B0,06
+96=Ken - AV - Shoryuu Ken & Tatsumaki Senpuu Kyaku & Zentou,FF8989,04,FF8988,06,FF8991,04,FF8990,06,FF89B1,04,FF89B0,06
+97=Ken - AV - Zenpou Tenshin & Tatsumaki Senpuu Kyaku & Zentou,FF89A9,04,FF89A8,06,FF8991,04,FF8990,06,FF89B1,04,FF89B0,06
+98=M.Bison - XAV - Psycho Shot & Head Press,FF8981,08,FF8980,06,FF8983,FF,FF8989,08,FF8988,06,FF898B,FF
+99=M.Bison - XAV - Psycho Shot & Double Knee Press,FF8981,08,FF8980,06,FF8983,FF,FF8991,08,FF8990,06,FF8993,FF
+100=M.Bison - XAV - Somersault Skull Diver & Head Press,FF89C1,08,FF89C0,06,FF89C3,FF,FF8989,08,FF8988,06,FF898B,FF
+101=M.Bison - XAV - Somersault Skull Diver & Double Knee Press,FF89C1,08,FF89C0,06,FF89C3,FF,FF8991,08,FF8990,06,FF8993,FF
+102=M.Bison - AV - Bison Warp 1,FF8999,04,FF8998,06
+103=M.Bison - AV - Bison Warp 2,FF89A1,04,FF89A0,06
+104=R.Mika - XAV - Daydream Headlock & Flying Peach & Wingless Airplane,FF8991,08,FF8990,00,FF8989,04,FF8988,06,FF8999,04,FF8998,0A
+105=R.Mika - XAV - Daydream Headlock & Paradise Hold & Wingless Airplane,FF8991,08,FF8990,00,FF89A9,08,FF89A8,00,FF8999,04,FF8998,0A
+106=R.Mika - XAV - Shooting Peach & Peach & Wingless Airplane,FF89A1,04,FF89A0,06,FF8989,04,FF8988,06,FF8999,04,FF8998,0A
+107=R.Mika - XAV - Shooting Peach & Paradise Hold & Wingless Airplane,FF89A1,04,FF89A0,06,FF89A9,08,FF89A8,00,FF8999,04,FF8998,0A
+108=Rolento - X - Stinger & Patriot Circle,FF8981,04,FF8980,06,FF89B1,04,FF89B0,06
+109=Rolento - X - Stinger & Mekong Delta Air Raid,FF8981,04,FF8980,06,FF89B9,04,FF89B8,06
+110=Rolento - X - Mekong Delta Escape & Patriot Circle,FF8989,04,FF8988,06,FF89B1,04,FF89B0,06
+111=Rolento - X - Mekong Delta Escape & Air Raid,FF8989,04,FF8988,06,FF89B9,04,FF89B8,06
+112=Rolento - AV - Stinger & Patriot Circle & High Jump,FF8981,04,FF8980,06,FF8991,02,FF8990,02,FF89B1,04,FF89B0,06
+113=Rolento - AV - Stinger & Mekong Delta Air Raid & High Jump,FF8981,04,FF8980,06,FF8991,02,FF8990,02,FF89B9,04,FF89B8,06
+114=Rolento - AV - Mekong Delta Escape & Patriot Circle & High Jump,FF8989,04,FF8988,06,FF8991,02,FF8990,02,FF89B1,04,FF89B0,06
+115=Rolento - AV - Mekong Delta Escape & Air Raid & High Jump,FF8989,04,FF8988,06,FF8991,02,FF8990,02,FF89B9,04,FF89B8,06
+116=Rose - XAV - Soul Reflect & Spiral,FF8981,04,FF8980,06,FF89B1,04,FF89B0,06
+117=Rose - XAV - Soul Spark & Spiral,FF8989,04,FF8988,0A,FF89B1,04,FF89B0,06
+118=Rose - XAV - Soul Throw & Spiral,FF8991,04,FF8990,06,FF89B1,04,FF89B0,06
+119=Ryu - X - Hadou Ken & Tatsumaki Senpuu Kyaku,FF8981,04,FF8980,06,FF8991,04,FF8990,06
+120=Ryu - X - Shakunetsu Hadou Ken & Tatsumaki Senpuu Kyaku,FF89B1,04,FF89B0,0A,FF8991,04,FF8990,06
+121=Ryu - X - Shoryuu Ken & Tatsumaki Senpuu Kyaku,FF8989,04,FF8988,06,FF8991,04,FF8990,06
+122=Ryu - AV - Hadou Ken & no Kamae & Tatsumaki Senpuu Kyaku,FF8981,04,FF8980,06,FF8991,04,FF8990,06,FF89A9,04,FF89A8,06
+123=Ryu - AV - Shakunetsu Hadou Ken & no Kamae & Tatsumaki Senpuu Kyaku,FF89B1,04,FF89B0,0A,FF8991,04,FF8990,06,FF89A9,04,FF89A8,06
+124=Ryu - AV - Shoryuu Ken & Hadou no Kamae & Tatsumaki Senpuu Kyaku,FF8989,04,FF8988,06,FF8991,04,FF8990,06,FF89A9,04,FF89A8,06
+125=Sagat - XAV - Tiger Shot & Ground Shot,FF8981,04,FF8980,06,FF8989,04,FF8988,06
+126=Sagat - XAV - Tiger Shot & Crush,FF8981,04,FF8980,06,FF8991,04,FF8990,06
+127=Sagat - XAV - Tiger Blow & Ground Shot,FF89A1,04,FF89A0,06,FF8989,04,FF8988,06
+128=Sagat - XAV - Tiger Blow & Crush,FF89A1,04,FF89A0,06,FF8991,04,FF8990,06
+129=Sakura - XAV - Hadou Ken & Shunpuu Kyaku,FF8981,04,FF8980,06,FF8991,04,FF8990,06
+130=Sakura - XAV - Shou'ou Ken & Shunpuu Kyaku,FF8989,04,FF8988,06,FF8991,04,FF8990,06
+131=Sakura - AV - Hadou Ken & Sakura Otoshi,FF8981,04,FF8980,06,FF89B1,04,FF89B0,06
+132=Sakura - AV - Shou'ou Ken & Sakura Otoshi,FF8989,04,FF8988,06,FF89B1,04,FF89B0,06
+133=Sodom - XAV - Butsumetsu Buster & Daikyou Burning,FF8981,08,FF8980,00,FF89A1,08,FF89A0,00
+134=Sodom - XAV - Jigoku Scrape & Daikyou Burning,FF8989,04,FF8988,06,FF89A1,08,FF89A0,00
+135=Sodom - XAV - Kouten Okiagari (Reversal) & Daikyou Burning,FF8B21,04,FF8B20,06,FF89A1,08,FF89A0,00
+136=Sodom - XAV - Butsumetsu Buster & Tengu Walking,FF8981,08,FF8980,00,FF89A9,04,FF89A8,06
+137=Sodom - XAV - Jigoku Scrape & Tengu Walking,FF8989,04,FF8988,06,FF89A9,04,FF89A8,06
+138=Sodom - XAV - Kouten Okiagari (Reversal) & Tengu Walking,FF8B21,04,FF8B20,06,FF89A9,04,FF89A8,06
+139=Sodom - XAV - Butsumetsu Buster & Shiraha Catch,FF8981,08,FF8980,00,FF89B1,04,FF89B0,06
+140=Sodom - XAV - Jigoku Scrape & Shiraha Catch,FF8989,04,FF8988,06,FF89B1,04,FF89B0,06
+141=Sodom - XAV - Kouten Okiagari (Reversal) & Shiraha Catch,FF8B21,04,FF8B20,06,FF89B1,04,FF89B0,06
+142=Sodom - XAV - Butsumetsu Buster & Yagura Reverse,FF8981,08,FF8980,00,FF89C1,04,FF89C0,06
+143=Sodom - XAV - Jigoku Scrape & Yagura Reverse,FF8989,04,FF8988,06,FF89C1,04,FF89C0,06
+144=Sodom - XAV - Kouten Okiagari (Reversal) & Yagura Reverse,FF8B21,04,FF8B20,06,FF89C1,04,FF89C0,06
+145=Sodom - XAV - Butsumetsu Buster & Tengu Walking (Reversal),FF8981,08,FF8980,00,FF89B9,04,FF89B8,06
+146=Sodom - XAV - Jigoku Scrape & Tengu Walking (Reversal),FF8989,04,FF8988,06,FF89B9,04,FF89B8,06
+147=Sodom - XAV - Kouten Okiagari (Reversal) & Tengu Walking (Reversal),FF8B21,04,FF8B20,06,FF89B9,04,FF89B8,06
+148=Vega - XAV - Kabe Hari Tsuki & Rolling Crystal Flash,FF8981,08,FF8980,06,FF8983,FF,FF8989,08,FF8988,06,FF898B,FF
+149=Vega - XAV - Kabe Hari Tsuki & Sky High Claw,FF8991,08,FF8990,06,FF8993,FF,FF8989,08,FF8988,06,FF898B,FF
+150=Vega - V - Scarlet Terror & Rolling Crystal Flash,FF8981,08,FF8980,06,FF8983,FF,FF89A1,08,FF89A0,06,FF898B,FF
+151=Vega - V - Scarlet Terror & Sky High Claw,FF8991,08,FF8990,06,FF8993,FF,FF89A1,08,FF89A0,06,FF898B,FF
+152=Zangief - XAV - Flying Powerbomb & Atomic Suplex & Screw Piledriver,FF8989,08,FF8988,00,FF8991,08,FF8990,00
+153=Zangief - XAV - Flying Powerbomb & Atomic Suplex & Banishing Flat,FF8989,08,FF8988,00,FF8981,04,FF8980,06
+Default=0
+
+[103]
+Name=P2 Easy Super Combo
+0=Disabled
+1=Adon - X - Jaguar Varied Assault,FF89A1,04,FF89A0,0A
+2=Adon - A - Jaguar Revolver & Varied Assault,FF89A1,04,FF89A0,0A,FF8999,04,FF8998,0A
+3=Akuma - X - Shun Goku Satsu,FF89C9,02,FF89C8,08
+4=Akuma - A - Tenma Gou Zankuu & Messatsu Gou Hadou,FF89B9,04,FF89B8,0C,FF8999,04,FF8998,12
+5=Akuma - A - Tenma Gou Zankuu & Messatsu Gou Shoryuu,FF89B9,04,FF89B8,0C,FF89A1,04,FF89A0,0A
+6=Akuma - A - Tenma Gou Zankuu & Shun Goku Satsu,FF89B9,04,FF89B8,0C,FF89C9,02,FF89C8,08
+7=Balrog - X - Crazy Buffalo,FF89B9,08,FF89B8,0A,FF89BB,FF
+8=Balrog - A - Crazy Buffalo & Gigaton Blow,FF89C1,08,FF89C0,0A,FF89C3,FF,FF89C9,08,FF89C8,0A,FF89CB,FF
+9=Birdie - XA - The Birdie,FF89D9,08,FF89D8,0A,FF89DB,FF
+10=Birdie - A - Bull Revenger,FF89D1,04,FF89D0,0A
+11=Blanka - X - Ground Shave Rolling,FF89A9,08,FF89A8,0A,FF89AB,FF
+12=Blanka - A - Ground Shave Rolling & Tropical Hazard,FF89A1,08,FF89A0,0A,FF89A3,FF,FF89A9,08,FF89A8,0A,FF89AB,FF
+13=Cammy - XA - Spin Drive Smasher,FF89A1,04,FF89A0,0A
+14=Cammy - A - Reverse Shaft Breaker,FF89B1,04,FF89B0,0A
+15=Cammy - A - Killer Bee Assault,FF89B9,08,FF89B8,0A,FF89BB,FF
+16=Charlie - X - Somersault Justice,FF8999,08,FF8998,0A,FF899B,FF
+17=Charlie - A - Sonic Break & Crossfire Blitz,FF89A1,08,FF89A0,0A,FF89A3,FF,FF8991,08,FF8990,0A,FF8993,FF
+18=Charlie - A - Sonic Break & Somersault Justice,FF89A1,08,FF89A0,0A,FF89A3,FF,FF8999,08,FF8998,0A,FF899B,FF
+19=Chun-Li - X - Senretsu Kyaku,FF89B1,08,FF89B0,0A,FF89B3,FF
+20=Chun-Li - A - Senretsu Kyaku & Kikou Shou,FF89B1,08,FF89B0,0A,FF89B3,FF,FF89C1,04,FF89C0,0C
+21=Chun-Li - A - Hanzan Tenshou Kyaku & Kikou Shou,FF89B9,08,FF89B8,0A,FF89BB,FF,FF89C1,04,FF89C0,0C
+22=Cody - X - Final Destruction,FF89A1,04,FF89A0,0C
+23=Cody - A - Final Destruction & Dead End Irony,FF89A1,04,FF89A0,0C,FF89A9,04,FF89A8,0A
+24=Dan - X - Hisshou Burai Ken,FF89A9,04,FF89A8,0A
+25=Dan - A - Shinkuu Gadou Ken & Kouryuu Rekka & Chahatsu Densetsu,FF8999,04,FF8998,0C,FF89A1,04,FF89A0,0A,FF89C1,04,FF89C0,06
+26=Dan - A - Shinkuu Gadou Ken & Kouryuu Rekka & Chohatsu Shinwa,FF8999,04,FF8998,0C,FF89A1,04,FF89A0,0A,FF89C9,04,FF89C8,06
+27=Dan - A - Shinkuu Gadou & Hisshou Burai Ken & Chahatsu Densetsu,FF8999,04,FF8998,0C,FF89A9,04,FF89A8,0A,FF89C1,04,FF89C0,06
+28=Dan - A - Shinkuu Gadou & Hisshou Burai Ken & Chohatsu Shinwa,FF8999,04,FF8998,0C,FF89A9,04,FF89A8,0A,FF89C9,04,FF89C8,06
+29=Dhalsim - X - Yoga Tempest,FF89C1,04,FF89C0,12
+30=Dhalsim - A - Yoga Strike & Inferno,FF89B9,04,FF89B8,0A,FF89B1,04,FF89B0,0C
+31=Dhalsim - A - Yoga Strike & Stream,FF89B9,04,FF89B8,0A,FF89C9,04,FF89C8,0C
+32=E.Honda - X - Oni Musou,FF8999,08,FF8998,0A,FF899B,FF
+33=E.Honda - A - Oni Musou & Fuji Oroshi,FF8999,08,FF8998,0A,FF899B,FF,FF89A9,08,FF89A8,0A,FF89AB,FF
+34=E.Honda - A - Fuji Oroshi & Orochi Kudaki,FF89B9,08,FF89B8,00,FF89A9,08,FF89A8,0A,FF89AB,FF
+35=Gen - X - Zan'ei,FF89A9,04,FF89A8,0A
+36=Gen - A - Zan'ei & Jakouha & Kouga,FF89A9,04,FF89A8,0A,FF89B1,04,FF89B0,0A,FF89B9,04,FF89B8,0A
+37=Gen - A - Shitenshuu & Jakouha & Kouga,FF89A1,04,FF89A0,0A,FF89B1,04,FF89B0,0A,FF89B9,04,FF89B8,0A
+38=Guy - X - Bushin Musou Renge,FF89B1,04,FF89B0,12
+39=Guy - A - Bushin Gourai Kyaku & Hassou Ken,FF8991,04,FF8990,0A,FF8989,04,FF8988,0A
+40=Guy - A - Bushin Gourai Kyaku & Musou Renge,FF8991,04,FF8990,0A,FF89B1,04,FF89B0,12
+41=Juli - X - Reverse Shaft Breaker,FF89D9,04,FF89D8,0A
+42=Juli - A - Reverse Shaft Breaker & Death Cross Dancing (With Juni),FF89D9,04,FF89D8,0A,FF89D1,02,FF89D0,08
+43=Juli - A - Reverse Shaft Breaker & Psycho Rolling (With Juni),FF89D9,04,FF89D8,0A,FF89E9,04,FF89E8,0A
+44=Juli - A - Spin Drive Smasher & Death Cross Dancing (With Juni),FF89A1,04,FF89A0,0A,FF89D1,02,FF89D0,08
+45=Juli - A - Spin Drive Smasher & Psycho Rolling (With Juni),FF89A1,04,FF89A0,0A,FF89E9,04,FF89E8,0A
+46=Juni - X - Psycho Streak,FF8B89,08,FF8B88,0A,FF8B8B,FF
+47=Juni - A - Spin Drive Smasher & Psycho Streak,FF89A1,08,FF89A0,0A,FF89A3,FF,FF8B89,08,FF8B88,0A,FF8B8B,FF
+48=Juni - A - Spin Drive Smasher & Death Cross Dancing,FF89A1,08,FF89A0,0A,FF89A3,FF,FF89D1,02,FF89D0,08
+49=Juni - A - Spin Drive Smasher & Psycho Rolling,FF89A1,08,FF89A0,0A,FF89A3,FF,FF89E9,04,FF89E8,0A
+50=Karin - X - Kanzuki-ryuu Shinpikaibyaku,FF89B1,04,FF89B0,0C
+51=Karin - A - Kanzuki-ryuu Shinpikaibyaku & Kou'ou Ken,FF89B1,04,FF89B0,0C,FF89C1,04,FF89C0,0A
+52=Ken - X - Shoryuu Reppa,FF89A1,04,FF89A0,0A
+53=Ken - A - Shoryuu Reppa & Shinryuu Ken,FF89A1,04,FF89A0,0A,FF8999,04,FF8998,0A
+54=Ken - A - Shoryuu Reppa & Shippu Jinrai Kyaku,FF89A1,04,FF89A0,0A,FF89B9,04,FF89B8,0A
+55=M.Bison - X - Knee Press Nightmare,FF89B1,08,FF89B0,0A,FF89B3,FF
+56=M.Bison - A - Psycho Crusher & Knee Press Nightmare,FF89A9,08,FF89A8,0A,FF89AB,FF,FF89B1,08,FF89B0,0A,FF89B3,FF
+57=R.Mika - X - Sardine's Beach Special,FF8981,04,FF8980,0A
+58=R.Mika - A - Sardine's Beach Special & Rainbow Hip Rush,FF8981,04,FF8980,0A,FF89B1,04,FF89B0,0A
+59=R.Mika - A - Sardine's Beach Special & Heavenly Dynamite,FF8981,04,FF8980,0A,FF89B9,08,FF89B8,00
+60=Rolento - X - Take no Prisoner,FF89A9,04,FF89A8,0C
+61=Rolento - A - Steel Rain & Take no Prisoner,FF8999,04,FF8998,0A,FF89A9,04,FF89A8,0C
+62=Rolento - A - Steel Rain & Mine Sweeper,FF8999,04,FF8998,0A,FF89A1,04,FF89A0,0C
+63=Rose - X - Aura Soul Throw,FF8999,04,FF8998,0A
+64=Rose - A - Soul Illusion & Aura Soul Throw,FF89A9,04,FF89A8,0A,FF8999,04,FF8998,0A
+65=Rose - A - Soul Illusion & Aura Soul Spark,FF89A9,04,FF89A8,0A,FF89A1,04,FF89A0,0C
+66=Ryu - X - Shinkuu Hadou Ken,FF8999,04,FF8998,0C
+67=Ryu - A - Shinkuu Hadou Ken & Tatsumaki Senpuu Kyaku,FF8999,04,FF8998,0C,FF89A1,04,FF89A0,0A
+68=Ryu - A - Shinkuu Hadou Ken & Shin Shoryuu Ken,FF8999,04,FF8998,0C,FF89B9,04,FF89B8,0A
+69=Sagat - X - Tiger Genocide,FF89A9,04,FF89A8,0A
+70=Sagat - A - Angry Charge & Tiger Cannon & Raid,FF89B9,04,FF89B8,06,FF89B1,04,FF89B0,0C,FF8999,04,FF8998,0A
+71=Sagat - A - Angry Charge & Tiger Cannon & Genocide,FF89B9,04,FF89B8,06,FF89B1,04,FF89B0,0C,FF89A9,04,FF89A8,0A
+72=Sakura - X - Midare-Zakura,FF89A1,04,FF89A0,0A
+73=Sakura - A - Shinkuu Hadou Ken & Midare-Zakura,FF8999,04,FF8998,0C,FF89A1,04,FF89A0,0A
+74=Sakura - A - Shinkuu Hadou Ken & Haru Ichiban,FF8999,04,FF8998,0C,FF89A9,04,FF89A8,0A
+75=Sodom - XA - Meido no Miyage,FF8999,04,FF8998,0C
+76=Sodom - A - Ten Chuu Satsu,FF8991,08,FF8990,00
+77=Vega - X - Hari Tsuki Rolling,FF8999,08,FF8998,0A,FF899B,FF
+78=Vega - A - Scarlet Mirage & Red Impact,FF89B1,08,FF89B0,0A,FF89B3,FF,FF89A9,08,FF89A8,0A,FF89AB,FF
+79=Vega - A - Hari Tsuki Rolling & Red Impact,FF89B1,08,FF89B0,0A,FF89B3,FF,FF8999,08,FF8998,0A,FF899B,FF
+80=Zangief - X - Final Atomic Buster,FF8999,08,FF8998,0A
+81=Zangief - A - Final Atomic Buster & Aerial Russian Slam,FF8999,08,FF8998,0A,FF89A1,04,FF89A0,0A
+Default=0
+
+[104]
+Name=P3 Inf Health
+0=Disabled
+1=Enabled,FF8C50,90
+Default=0
+
+[105]
+Name=P3 Inf Power
+0=Disabled
+1=Enabled,FF8D1E,90
+Default=0
+
+[106]
+Name=P3 1 Win Match
+0=Disabled
+1=Enabled,FF8D27,01
+Default=0
+
+[107]
+Name=P3 Air Moves
+0=Disabled
+1=Enabled,FF8C30,00
+Default=0
+
+[108]
+Name=P3 No Ground Attacks
+0=Disabled
+1=Enabled,FF8C30,01
+Default=0
+
+[109]
+Name=P3 Inf Taunt
+0=Disabled
+1=Enabled,FF8CBD,01
+Default=0
+
+[110]
+Name=P3 Inf Fireball
+0=Disabled
+1=Enabled,FF8E39,00
+Default=0
+
+[111]
+Name=P3 Inf Guard
+0=Disabled
+1=Enabled,FF8E4C,00
+Default=0
+
+[112]
+Name=P3 Inf V-ISM Combo
+0=Disabled
+1=Enabled,FF8CB8,01
+Default=0
+
+[113]
+Name=P3 No Hit Stop
+0=Disabled
+1=Enabled,FF8C5E,00
+Default=0
+
+[114]
+Name=P3 Shadow Fighter
+0=Disabled
+1=Enabled,FF8D4C,FF
+Default=0
+
+[115]
+Name=P3 Force Counter Damage
+0=Disabled
+1=Enabled,FF8CA8,01
+Default=0
+
+[116]
+Name=P3 Projectiles
+0=Disabled
+1=Inf Projectiles,FF8E39,00
+2=Disable Projectiles,FF8E39,01
+Default=0
+
+[117]
+Name=P3 Fast Recovery
+0=Disabled
+1=Enabled,FF8ECD,00,FF8ECC,28
+Default=0
+
+[118]
+Name=P3 Classic Mode
+0=Disabled
+1=Enabled,FF8D5F,01
+Default=0
+
+[119]
+Name=P3 Mazi/Serious Mode
+0=Disabled
+1=Enabled,FF8D5B,01
+Default=0
+
+[120]
+Name=P3 Saikyou/Strong Mode
+0=Disabled
+1=Enabled,FF8D30,01
+Default=0
+
+[121]
+Name=P3 Action Speed Up
+0=Disabled
+1=Enabled,FF8C33,01
+Default=0
+
+[122]
+Name=P3 Motion Speed Up
+0=Disabled
+1=Enabled,FF8C34,01
+Default=0
+
+[123]
+Name=P3 No Jump Attack Limit (Incomplete)
+0=Disabled
+1=Enabled,FF8C06,01
+Default=0
+
+[124]
+Name=P3 Combo Count and Adjustment
+0=Disabled
+1=P3 Hit 0 (No Adjust),FF8C5F,00
+2=P3 Hit 99 (Too Heavy Adjust),FF8C5F,63
+Default=0
+
+[125]
+Name=P3 Force Level 3 Combo
+0=Disabled
+1=Enabled,FF8C83,04
+Default=0
+
+[126]
+Name=P3 Level 3 Custom Combo
+0=Disabled
+1=Enabled,FF8CB8,01,FF8CBA,FF,FF8CB8,01,FF8CBA,00,FF8EA6,51,FF8EA8,1B
+Default=0
+
+[127]
+Name=P3 ISM Select
+0=Disabled
+1=X-ISM,FF8D22,FF,FF8D33,FF
+2=A-ISM,FF8D22,00,FF8D33,00
+3=V-ISM,FF8D22,01,FF8D33,01
+4=S-ISM,FF8D22,02,FF8D33,00
+Default=0
+
+[128]
+Name=P3 Damage Level
+0=Disabled
+1=P3 Weak,FF8CCD,8F
+2=P3 Ultimate,FF8CCD,7F
+3=P3 Super Hyper Excellent,FF8CCD,FF
+Default=0
+
+[129]
+Name=P3 Mode
+0=Disabled
+1=P3 Enable,FF8C01,01
+2=P3 Disable,FF8C01,00
+Default=0
+
+[130]
+Name=P3 Slot
+0=Disabled
+1=Slot 1,FF8D00,00
+2=Slot 2,FF8D00,01
+3=Slot 3,FF8D00,02
+4=Slot 4,FF8D00,03
+Default=0
+
+[131]
+Name=P3 Controller Mode
+0=Disabled
+1=User Play,FF8D24,00
+2=Computer Play,FF8D24,01
+3=Hard Computer Play,FF8D24,01,FF8C39,84
+Default=0
+
+[132]
+Name=P3 Char Select
+0=Disabled
+1=Adon,FF8D03,05
+2=Akuma,FF8D03,02
+3=Balrog,FF8D03,15
+4=Birdie,FF8D03,08
+5=Blanka,FF8D03,19
+6=Cammy,FF8D03,16
+7=Charlie,FF8D03,03
+8=Chun-Li,FF8D03,04
+9=Cody,FF8D03,1B
+10=Dan,FF8D03,0C
+11=Dhalsim,FF8D03,0F
+12=E.Honda,FF8D03,18
+13=Gen,FF8D03,11
+14=Guy,FF8D03,07
+15=Juli,FF8D03,1E
+16=Juni,FF8D03,1F
+17=Karin,FF8D03,1D
+18=Ken,FF8D03,01
+19=M.Bison,FF8D03,0A
+20=R.Mika,FF8D03,1A
+21=Rolento,FF8D03,0E
+22=Rose,FF8D03,09
+23=Ryu,FF8D03,00
+24=Sagat,FF8D03,0B
+25=Sakura,FF8D03,0D
+26=Shin M.Bison,FF8D03,0A,FF8D5C,01
+27=Sodom,FF8D03,06
+28=Vega,FF8D03,1C
+29=Zangief,FF8D03,10
+Default=0
+
+[133]
+Name=P3 Colour
+0=Disabled
+1=Primary,FF8D29,00
+2=Secondary,FF8D29,01
+Default=0
+
+[134]
+Name=P3 Cody - Knife
+0=Disabled
+1=Knife,FF8DE5,FF
+2=No Knife,FF8DE5,00
+Default=0
+
+[135]
+Name=P3 Cody - Inf Final Destruction Time
+0=Disabled
+1=Enabled,FF8C3B,04,FF8C3A,B0
+Default=0
+
+[136]
+Name=P3 Dan - Kouryuu Ken Always Flashing
+0=Disabled
+1=Enabled,FF8DFF,16,FF8DFE,00
+Default=0
+
+[137]
+Name=P3 Dan - Inf Chohatsu Shinwa Time
+0=Disabled
+1=Enabled,FF8C3B,04,FF8C3A,B0
+Default=0
+
+[138]
+Name=P3 Rolento - Easy Second & Third Patriot Circle
+0=Disabled
+1=Enabled,FF8DC1,04,FF8DC0,06
+Default=0
+
+[139]
+Name=P3 Ryu - Force ShinSyoryu
+0=Disabled
+1=Enabled,FF8CCD,30
+Default=0
+
+[140]
+Name=P3 Sakura - Hadou Ken Size & Range
+0=Disabled
+1=Normal & Long,FF8DFE,00
+2=Medium & Medium,FF8DFE,01
+3=Large & Short,FF8DFE,02
+Default=0
+
+[141]
+Name=P3 Sagat - Angry Charge
+0=Disabled
+1=Always Angry Charge,FF8DFF,01
+2=Never Angry Charge,FF8DFF,00
+Default=0
+
+[142]
+Name=P3 Vega - Mask
+0=Disabled
+1=Mask On,FF8C6A,01
+2=Mask Off,FF8C6A,00
+Default=0
+
+[143]
+Name=P3 Vega - Claw
+0=Disabled
+1=Claw On,FF8C6B,01
+2=Claw Off,FF8C6B,00
+Default=0
+
+[144]
+Name=P3 Easy Moves
+0=Disabled
+1=Adon - XAV - Rising Jaguar,FF8D89,04,FF8D88,06
+2=Adon - XAV - Jaguar Tooth,FF8D91,04,FF8D90,0A
+3=Adon - AV - Jaguar Kick,FF8D81,04,FF8D80,06
+4=Akuma - XAV - Tatsumaki Zankuu Kyaku & Ashura Senkuu 1 & Gou & Zankuu Hadou Ken,FF8D81,04,FF8D80,06,FF8D91,04,FF8D90,06,FF8DA9,04,FF8DA8,06
+5=Akuma - XAV - Tatsumaki Zankuu Kyaku & Ashura Senkuu 1 & Gou Shoryuu Ken,FF8D89,04,FF8D88,06,FF8D91,04,FF8D90,06,FF8DA9,04,FF8DA8,06
+6=Akuma - XAV - Tatsumaki Zankuu Kyaku & Ashura Senkuu 1 & Shakunetsu Hadou Ken,FF8DC1,04,FF8DC0,0A,FF8D91,04,FF8D90,06,FF8DA9,04,FF8DA8,06
+7=Akuma - XAV - Tatsumaki Zankuu Kyaku & Ashura Senkuu 2 & Gou & Zankuu Hadou Ken,FF8D81,04,FF8D80,06,FF8D91,04,FF8D90,06,FF8DB1,04,FF8DB0,06
+8=Akuma - XAV - Tatsumaki Zankuu Kyaku & Ashura Senkuu 2 & Gou Shoryuu Ken,FF8D89,04,FF8D88,06,FF8D91,04,FF8D90,06,FF8DB1,04,FF8DB0,06
+9=Akuma - XAV - Tatsumaki Zankuu Kyaku & Ashura Senkuu 2 & Shakunetsu Hadou Ken,FF8DC1,04,FF8DC0,0A,FF8D91,04,FF8D90,06,FF8DB1,04,FF8DB0,06
+10=Akuma - AV - Tatsumaki Zankuu Kyaku & Ashura Senkuu 1 & Zenpou Tenshin,FF8DD1,04,FF8DD0,06,FF8D91,04,FF8D90,06,FF8DA9,04,FF8DA8,06
+11=Akuma - AV - Tatsumaki Zankuu Kyaku & Ashura Senkuu 1 & Hyakki Shuu,FF8DD9,04,FF8DD8,08,FF8D91,04,FF8D90,06,FF8DA9,04,FF8DA8,06
+12=Akuma - AV - Tatsumaki Zankuu Kyaku & Ashura Senkuu 2 & Zenpou Tenshin,FF8DD1,04,FF8DD0,06,FF8D91,04,FF8D90,06,FF8DB1,04,FF8DB0,06
+13=Akuma - AV - Tatsumaki Zankuu Kyaku & Ashura Senkuu 2 & Hyakki Shuu,FF8DD9,04,FF8DD8,08,FF8D91,04,FF8D90,06,FF8DB1,04,FF8DB0,06
+14=Balrog - XAV - Dash Straight & Upper,FF8D81,08,FF8D80,06,FF8D83,FF,FF8D89,08,FF8D88,06,FF8D8B,FF
+15=Balrog - XAV - Dash Straight & Turn Punch 2,FF8D81,08,FF8D80,06,FF8D83,FF,FF8DB3,09,FF8DB2,00,FF8DB5,01
+16=Balrog - XAV - Turn Punch 1 & Dash Upper,FF8DAB,09,FF8DAA,00,FF8DAD,01,FF8D89,08,FF8D88,06,FF8D8B,FF
+17=Balrog - XAV - Turn Punch 1 & Turn Punch 2,FF8DAB,09,FF8DAA,00,FF8DAD,01,FF8DB3,09,FF8DB2,00,FF8DB5,01
+18=Balrog - XAV - Buffalo Head & Dash Upper,FF8DA1,08,FF8DA0,06,FF8DA3,FF,FF8D89,08,FF8D88,06,FF8D8B,FF
+19=Balrog - XAV - Buffalo Head & Turn Punch 2,FF8DA1,08,FF8DA0,06,FF8DA3,FF,FF8DB3,09,FF8DB2,00,FF8DB5,01
+20=Balrog - AV - Dash Straight & Ground Upper,FF8D81,08,FF8D80,06,FF8D83,FF,FF8D99,08,FF8D98,06,FF8D9B,FF
+21=Balrog - AV - Dash Ground Straight & Upper,FF8D91,08,FF8D90,06,FF8D93,FF,FF8D89,08,FF8D88,06,FF8D8B,FF
+22=Balrog - AV - Dash Ground Straight & Ground Upper,FF8D91,08,FF8D90,06,FF8D93,FF,FF8D99,08,FF8D98,06,FF8D9B,FF
+23=Balrog - AV - Dash Ground Straight & Turn Punch 2,FF8D91,08,FF8D90,06,FF8D93,FF,FF8DB3,09,FF8DB2,00,FF8DB5,01
+24=Balrog - AV - Turn Punch 1 & Dash Ground Upper,FF8DAB,09,FF8DAA,00,FF8DAD,01,FF8D99,08,FF8D98,06,FF8D9B,FF
+25=Balrog - AV - Buffalo Head & Dash Ground Upper,FF8DA1,08,FF8DA0,06,FF8DA3,FF,FF8D99,08,FF8D98,06,FF8D9B,FF
+26=Birdie - XAV - Bull Head & Kick Bull Horn,FF8D81,08,FF8D80,06,FF8D83,FF,FF8DAB,04,FF8DAA,00,FF8DAD,01,FF8DB3,04,FF8DB2,00,FF8DB5,01,FF8DBB,04,FF8DBA,00,FF8DBD,01,FF8DC3,04,FF8DC2,00,FF8DC5,01
+27=Birdie - XAV - Kick & Punch Bull Horn,FF8D8B,04,FF8D8A,00,FF8D8D,01,FF8D93,04,FF8D92,00,FF8D95,01,FF8D9B,04,FF8D9A,00,FF8D9D,01,FF8DA3,04,FF8DA2,00,FF8DA5,01,FF8DAB,04,FF8DAA,00,FF8DAD,01,FF8DB3,04,FF8DB2,00,FF8DB5,01,FF8DBB,04,FF8DBA,00,FF8DBD,01,FF8DC3,04,FF8DC2,00,FF8DC5,01
+28=Birdie - XAV - Murder & Bandit Chain,FF8DC9,08,FF8DC8,00
+29=Blanka - XAV - Rolling Attack & Backstep Rolling,FF8D81,08,FF8D80,06,FF8D83,FF,FF8D91,08,FF8D90,06,FF8D93,FF
+30=Blanka - XAV - Rolling Attack & Vertical Rolling,FF8D81,08,FF8D80,06,FF8D83,FF,FF8D99,08,FF8D98,06,FF8D9B,FF
+31=Blanka - XAV - Electric Thunder & Backstep Rolling,FF8D8A,05,FF8D8C,05,FF8D8E,05,FF8D91,08,FF8D90,06,FF8D93,FF
+32=Blanka - XAV - Electric Thunder & Vertical Rolling,FF8D8A,05,FF8D8C,05,FF8D8E,05,FF8D99,08,FF8D98,06,FF8D9B,FF
+33=Cammy - XAV - Cannon Spike & Axle Spin Knuckle,FF8D81,04,FF8D80,06,FF8D91,04,FF8D90,0A
+34=Cammy - XAV - Cannon Spike & Hooligan Combination,FF8D81,04,FF8D80,06,FF8D99,04,FF8D98,08
+35=Cammy - XAV - Spiral Arrow & Axle Spin Knuckle,FF8D89,04,FF8D88,06,FF8D91,04,FF8D90,0A
+36=Cammy - XAV - Spiral Arrow & Hooligan Combination,FF8D89,04,FF8D88,06,FF8D99,04,FF8D98,08
+37=Cammy - V - Cannon Spike & Revenge,FF8D81,04,FF8D80,06,FF8DC1,04,FF8DC0,06
+38=Cammy - V - Spiral Arrow & Cannon Revenge,FF8D89,04,FF8D88,06,FF8DC1,04,FF8DC0,06
+39=Cammy - V - Cannon Strike & Axle Spin Knuckle,FF8DA9,04,FF8DA8,06,FF8D91,04,FF8D90,0A
+40=Cammy - V - Cannon Strike & Hooligan Combination,FF8DA9,04,FF8DA8,06,FF8D99,04,FF8D98,08
+41=Cammy - V - Cannon Strike & Revenge,FF8DA9,04,FF8DA8,06,FF8DC1,04,FF8DC0,06
+42=Charlie - X - Somersault Shell & Sonic Boom,FF8D81,08,FF8D80,06,FF8D83,FF,FF8D89,08,FF8D88,06,FF8D8B,FF
+43=Charlie - AV - Somersault Shell & Sonic Boom & Dash,FF8D81,08,FF8D80,06,FF8D83,FF,FF8D89,08,FF8D88,06,FF8D8B,FF,FF8DB1,04,FF8DB0,06
+44=Chun-Li - X - Hyakuretsu Kyaku & Sou Hakkei,FF8D91,08,FF8D90,06,FF8D93,FF,FF8D82,05,FF8D84,05,FF8D86,05
+45=Chun-Li - X - Tenshou Kyaku & Sou Hakkei,FF8D91,08,FF8D90,06,FF8D93,FF,FF8D99,08,FF8D98,06,FF8D9B,FF
+46=Chun-Li - X - Spinning Bird Kick & Sou Hakkei,FF8D91,08,FF8D90,06,FF8D93,FF,FF8DA9,08,FF8DA8,06,FF8DAB,FF
+47=Chun-Li - AV - Hyakuretsu Kyaku & Kikou Ken,FF8D82,05,FF8D84,05,FF8D86,05,FF8D89,04,FF8D88,08
+48=Chun-Li - AV - Tenshou Kyaku & Kikou Ken,FF8D99,08,FF8D98,06,FF8D9B,FF,FF8D89,04,FF8D88,08
+49=Chun-Li - AV - Sen'en Shuu - Kikou Ken,FF8DA1,04,FF8DA0,0A,FF8D89,04,FF8D88,08
+50=Cody - XAV - Criminal Upper & Ruffian Kick,FF8D81,04,FF8D80,06,FF8D91,04,FF8D90,06
+51=Cody - XAV - Bad Stone & Ruffian Kick,FF8D99,04,FF8D98,06,FF8D91,04,FF8D90,06
+52=Cody - XAV - Bad Spray & Ruffian Kick,FF8D89,04,FF8D88,06,FF8D91,04,FF8D90,06
+53=Dan - XAV - Gadou Ken & Dankuu Kyaku & Zenten Chohatsu,FF8D81,04,FF8D80,06,FF8D91,04,FF8D90,06,FF8DB1,04,FF8DB0,06
+54=Dan - XAV - Gadou Ken & Dankuu Kyaku & Kouten Chohatsu,FF8D81,04,FF8D80,06,FF8D91,04,FF8D90,06,FF8DB9,04,FF8DB8,06
+55=Dan - XAV - Kouryuu Ken & Dankuu Kyaku & Zenten Chohatsu,FF8D89,04,FF8D88,06,FF8D91,04,FF8D90,06,FF8DB1,04,FF8DB0,06
+56=Dan - XAV - Kouryuu Ken & Dankuu Kyaku & Kouten Chohatsu,FF8D89,04,FF8D88,06,FF8D91,04,FF8D90,06,FF8DB9,04,FF8DB8,06
+57=Dhalsim - XAV - Yoga Flame & Blast & Teleport 1,FF8D99,04,FF8D98,0A,FF8DA1,04,FF8DA0,0A,FF8D81,04,FF8D80,06
+58=Dhalsim - XAV - Yoga Flame & Blast & Teleport 2,FF8D99,04,FF8D98,0A,FF8DA1,04,FF8DA0,0A,FF8D89,04,FF8D88,06
+59=Dhalsim - XAV - Yoga Fire & Blast & Teleport 1,FF8D91,04,FF8D90,06,FF8DA1,04,FF8DA0,0A,FF8D81,04,FF8D80,06
+60=Dhalsim - XAV - Yoga Fire & Blast & Teleport 2,FF8D91,04,FF8D90,06,FF8DA1,04,FF8DA0,0A,FF8D89,04,FF8D88,06
+61=Dhalsim - AV - Yoga Flame & Escape & Teleport 1,FF8D99,04,FF8D98,0A,FF8DA9,04,FF8DA8,06,FF8D81,04,FF8D80,06
+62=Dhalsim - AV - Yoga Flame & Escape & Teleport 2,FF8D99,04,FF8D98,0A,FF8DA9,04,FF8DA8,06,FF8D89,04,FF8D88,06
+63=Dhalsim - AV - Yoga Fire & Escape & Teleport 1,FF8D91,04,FF8D90,06,FF8DA9,04,FF8DA8,06,FF8D81,04,FF8D80,06
+64=Dhalsim - AV - Yoga Fire & Escape & Teleport 2,FF8D91,04,FF8D90,06,FF8DA9,04,FF8DA8,06,FF8D89,04,FF8D88,06
+65=E.Honda - XAV - Super Zutsuki & Hyakkan Otoshi,FF8D81,08,FF8D80,06,FF8D83,FF,FF8D89,08,FF8D88,06,FF8D8B,FF
+66=E.Honda - XAV - Hyakuretsu Harite & Super Hyakkan Otoshi,FF8D92,05,FF8D94,05,FF8D96,05,FF8D89,08,FF8D88,06,FF8D8B,FF
+67=E.Honda - XAV - Ooichou Nage & Super Hyakkan Otoshi,FF8DA1,08,FF8DA0,00,FF8D89,08,FF8D88,06,FF8D8B,FF
+68=Gen - X - Hyakurenkou & Geki Rou & Jasen,FF8D82,05,FF8D84,05,FF8D86,05,FF8D89,04,FF8D88,06
+69=Gen - X - Geki Rou & Jasen,FF8D89,04,FF8D88,06,FF8D91,08,FF8D90,06,FF8D93,FF
+70=Gen - AV - Hyakurenkou & Geki Rou & Jasen & Ouga,FF8D82,05,FF8D84,05,FF8D86,05,FF8D89,04,FF8D88,06,FF8D91,08,FF8D90,06,FF8D93,FF,FF8D99,08,FF8D98,06,FF8D9B,FF
+71=Guy - XAV - Bushin Senpuu Kyaku & Izuna Otoshi,FF8D81,04,FF8D80,06,FF8D99,04,FF8D98,06
+72=Guy - XAV - Bushin Senpuu Kyaku & Houzantou,FF8D81,04,FF8D80,06,FF8DA9,04,FF8DA8,06
+73=Guy - XAV - Hayagake & Bushin Izuna Otoshi,FF8DA1,04,FF8DA0,06,FF8D99,04,FF8D98,06
+74=Guy - XAV - Hayagake & Houzantou,FF8DA1,04,FF8DA0,06,FF8DA9,04,FF8DA8,06
+75=Juli - XAV - Axle Spin Knuckle & Cannon Spike,FF8D81,04,FF8D80,06,FF8D91,04,FF8D90,0A
+76=Juli - XAV - Axle Spin Knuckle & Sniping Arrow,FF8DC1,04,FF8DC0,0A,FF8D91,04,FF8D90,0A
+77=Juni - XAV - Spiral Arrow & Hooligan Combination,FF8D81,08,FF8D80,06,FF8D83,FF,FF8D99,04,FF8D98,08
+78=Juni - XAV - Spiral Arrow & Earth Direct,FF8D81,08,FF8D80,06,FF8D83,FF,FF8DB9,08,FF8DB8,00
+79=Juni - XAV - Cannon Spike & Hooligan Combination,FF8D89,08,FF8D88,06,FF8D8B,FF,FF8D99,04,FF8D98,08
+80=Juni - XAV - Cannon Spike & Earth Direct,FF8D89,08,FF8D88,06,FF8D8B,FF,FF8DB9,08,FF8DB8,00
+81=Juni - XAV - Cannon Strike & Hooligan Combination,FF8DC9,04,FF8DC8,06,FF8D99,04,FF8D98,08
+82=Juni - XAV - Cannon Strike & Earth Direct,FF8DC9,04,FF8DC8,06,FF8DB9,08,FF8DB8,00
+83=Karin - XAV - Guren Ken & Mujin Kyaku,FF8D81,04,FF8D80,06,FF8D89,04,FF8D88,06
+84=Karin - XAV - Guren Ken & Ressen Ha,FF8D81,04,FF8D80,06,FF8D91,04,FF8D90,08
+85=Karin - XAV - Guren Ken & Arakuma Inashi,FF8D81,04,FF8D80,06,FF8DC9,08,FF8DC8,00
+86=Karin - XAV - Ressen Chou & Mujin Kyaku,FF8DB9,04,FF8DB8,06,FF8D89,04,FF8D88,06
+87=Karin - XAV - Ressen Chou & Ressen Ha,FF8DB9,04,FF8DB8,06,FF8D91,04,FF8D90,08
+88=Karin - XAV - Ressen Chou & Arakuma Inashi,FF8DB9,04,FF8DB8,06,FF8DC9,08,FF8DC8,00
+89=Karin - XAV - Hou Shou & Mujin Kyaku,FF8D99,04,FF8D98,06,FF8D89,04,FF8D88,06
+90=Karin - XAV - Hou Shou & Ressen Ha,FF8D99,04,FF8D98,06,FF8D91,04,FF8D90,08
+91=Karin - XAV - Hou Shou & Arakuma Inashi,FF8D99,04,FF8D98,06,FF8DC9,08,FF8DC8,00
+92=Karin - XAV - Yasha Gaeshi,FF8DA1,04,FF8DA0,06
+93=Ken - X - Hadou Ken & Tatsumaki Senpuu Kyaku,FF8D81,04,FF8D80,06,FF8D91,04,FF8D90,06
+94=Ken - X - Shoryuu Ken & Tatsumaki Senpuu Kyaku,FF8D89,04,FF8D88,06,FF8D91,04,FF8D90,06
+95=Ken - AV - Hadou Ken & Tatsumaki Senpuu Kyaku & Zentou,FF8D81,04,FF8D80,06,FF8D91,04,FF8D90,06,FF8DB1,04,FF8DB0,06
+96=Ken - AV - Shoryuu Ken & Tatsumaki Senpuu Kyaku & Zentou,FF8D89,04,FF8D88,06,FF8D91,04,FF8D90,06,FF8DB1,04,FF8DB0,06
+97=Ken - AV - Zenpou Tenshin & Tatsumaki Senpuu Kyaku & Zentou,FF8DA9,04,FF8DA8,06,FF8D91,04,FF8D90,06,FF8DB1,04,FF8DB0,06
+98=M.Bison - XAV - Psycho Shot & Head Press,FF8D81,08,FF8D80,06,FF8D83,FF,FF8D89,08,FF8D88,06,FF8D8B,FF
+99=M.Bison - XAV - Psycho Shot & Double Knee Press,FF8D81,08,FF8D80,06,FF8D83,FF,FF8D91,08,FF8D90,06,FF8D93,FF
+100=M.Bison - XAV - Somersault Skull Diver & Head Press,FF8DC1,08,FF8DC0,06,FF8DC3,FF,FF8D89,08,FF8D88,06,FF8D8B,FF
+101=M.Bison - XAV - Somersault Skull Diver & Double Knee Press,FF8DC1,08,FF8DC0,06,FF8DC3,FF,FF8D91,08,FF8D90,06,FF8D93,FF
+102=M.Bison - AV - Bison Warp 1,FF8D99,04,FF8D98,06
+103=M.Bison - AV - Bison Warp 2,FF8DA1,04,FF8DA0,06
+104=R.Mika - XAV - Daydream Headlock & Flying Peach & Wingless Airplane,FF8D91,08,FF8D90,00,FF8D89,04,FF8D88,06,FF8D99,04,FF8D98,0A
+105=R.Mika - XAV - Daydream Headlock & Paradise Hold & Wingless Airplane,FF8D91,08,FF8D90,00,FF8DA9,08,FF8DA8,00,FF8D99,04,FF8D98,0A
+106=R.Mika - XAV - Shooting Peach & Peach & Wingless Airplane,FF8DA1,04,FF8DA0,06,FF8D89,04,FF8D88,06,FF8D99,04,FF8D98,0A
+107=R.Mika - XAV - Shooting Peach & Paradise Hold & Wingless Airplane,FF8DA1,04,FF8DA0,06,FF8DA9,08,FF8DA8,00,FF8D99,04,FF8D98,0A
+108=Rolento - X - Stinger & Patriot Circle,FF8D81,04,FF8D80,06,FF8DB1,04,FF8DB0,06
+109=Rolento - X - Stinger & Mekong Delta Air Raid,FF8D81,04,FF8D80,06,FF8DB9,04,FF8DB8,06
+110=Rolento - X - Mekong Delta Escape & Patriot Circle,FF8D89,04,FF8D88,06,FF8DB1,04,FF8DB0,06
+111=Rolento - X - Mekong Delta Escape & Air Raid,FF8D89,04,FF8D88,06,FF8DB9,04,FF8DB8,06
+112=Rolento - AV - Stinger & Patriot Circle & High Jump,FF8D81,04,FF8D80,06,FF8D91,02,FF8D90,02,FF8DB1,04,FF8DB0,06
+113=Rolento - AV - Stinger & Mekong Delta Air Raid & High Jump,FF8D81,04,FF8D80,06,FF8D91,02,FF8D90,02,FF8DB9,04,FF8DB8,06
+114=Rolento - AV - Mekong Delta Escape & Patriot Circle & High Jump,FF8D89,04,FF8D88,06,FF8D91,02,FF8D90,02,FF8DB1,04,FF8DB0,06
+115=Rolento - AV - Mekong Delta Escape & Air Raid & High Jump,FF8D89,04,FF8D88,06,FF8D91,02,FF8D90,02,FF8DB9,04,FF8DB8,06
+116=Rose - XAV - Soul Reflect & Spiral,FF8D81,04,FF8D80,06,FF8DB1,04,FF8DB0,06
+117=Rose - XAV - Soul Spark & Spiral,FF8D89,04,FF8D88,0A,FF8DB1,04,FF8DB0,06
+118=Rose - XAV - Soul Throw & Spiral,FF8D91,04,FF8D90,06,FF8DB1,04,FF8DB0,06
+119=Ryu - X - Hadou Ken & Tatsumaki Senpuu Kyaku,FF8D81,04,FF8D80,06,FF8D91,04,FF8D90,06
+120=Ryu - X - Shakunetsu Hadou Ken & Tatsumaki Senpuu Kyaku,FF8DB1,04,FF8DB0,0A,FF8D91,04,FF8D90,06
+121=Ryu - X - Shoryuu Ken & Tatsumaki Senpuu Kyaku,FF8D89,04,FF8D88,06,FF8D91,04,FF8D90,06
+122=Ryu - AV - Hadou Ken & no Kamae & Tatsumaki Senpuu Kyaku,FF8D81,04,FF8D80,06,FF8D91,04,FF8D90,06,FF8DA9,04,FF8DA8,06
+123=Ryu - AV - Shakunetsu Hadou Ken & no Kamae & Tatsumaki Senpuu Kyaku,FF8DB1,04,FF8DB0,0A,FF8D91,04,FF8D90,06,FF8DA9,04,FF8DA8,06
+124=Ryu - AV - Shoryuu Ken & Hadou no Kamae & Tatsumaki Senpuu Kyaku,FF8D89,04,FF8D88,06,FF8D91,04,FF8D90,06,FF8DA9,04,FF8DA8,06
+125=Sagat - XAV - Tiger Shot & Ground Shot,FF8D81,04,FF8D80,06,FF8D89,04,FF8D88,06
+126=Sagat - XAV - Tiger Shot & Crush,FF8D81,04,FF8D80,06,FF8D91,04,FF8D90,06
+127=Sagat - XAV - Tiger Blow & Ground Shot,FF8DA1,04,FF8DA0,06,FF8D89,04,FF8D88,06
+128=Sagat - XAV - Tiger Blow & Crush,FF8DA1,04,FF8DA0,06,FF8D91,04,FF8D90,06
+129=Sakura - XAV - Hadou Ken & Shunpuu Kyaku,FF8D81,04,FF8D80,06,FF8D91,04,FF8D90,06
+130=Sakura - XAV - Shou'ou Ken & Shunpuu Kyaku,FF8D89,04,FF8D88,06,FF8D91,04,FF8D90,06
+131=Sakura - AV - Hadou Ken & Sakura Otoshi,FF8D81,04,FF8D80,06,FF8DB1,04,FF8DB0,06
+132=Sakura - AV - Shou'ou Ken & Sakura Otoshi,FF8D89,04,FF8D88,06,FF8DB1,04,FF8DB0,06
+133=Sodom - XAV - Butsumetsu Buster & Daikyou Burning,FF8D81,08,FF8D80,00,FF8DA1,08,FF8DA0,00
+134=Sodom - XAV - Jigoku Scrape & Daikyou Burning,FF8D89,04,FF8D88,06,FF8DA1,08,FF8DA0,00
+135=Sodom - XAV - Kouten Okiagari (Reversal) & Daikyou Burning,FF8F21,04,FF8F20,06,FF8DA1,08,FF8DA0,00
+136=Sodom - XAV - Butsumetsu Buster & Tengu Walking,FF8D81,08,FF8D80,00,FF8DA9,04,FF8DA8,06
+137=Sodom - XAV - Jigoku Scrape & Tengu Walking,FF8D89,04,FF8D88,06,FF8DA9,04,FF8DA8,06
+138=Sodom - XAV - Kouten Okiagari (Reversal) & Tengu Walking,FF8F21,04,FF8F20,06,FF8DA9,04,FF8DA8,06
+139=Sodom - XAV - Butsumetsu Buster & Shiraha Catch,FF8D81,08,FF8D80,00,FF8DB1,04,FF8DB0,06
+140=Sodom - XAV - Jigoku Scrape & Shiraha Catch,FF8D89,04,FF8D88,06,FF8DB1,04,FF8DB0,06
+141=Sodom - XAV - Kouten Okiagari (Reversal) & Shiraha Catch,FF8F21,04,FF8F20,06,FF8DB1,04,FF8DB0,06
+142=Sodom - XAV - Butsumetsu Buster & Yagura Reverse,FF8D81,08,FF8D80,00,FF8DC1,04,FF8DC0,06
+143=Sodom - XAV - Jigoku Scrape & Yagura Reverse,FF8D89,04,FF8D88,06,FF8DC1,04,FF8DC0,06
+144=Sodom - XAV - Kouten Okiagari (Reversal) & Yagura Reverse,FF8F21,04,FF8F20,06,FF8DC1,04,FF8DC0,06
+145=Sodom - XAV - Butsumetsu Buster & Tengu Walking (Reversal),FF8D81,08,FF8D80,00,FF8DB9,04,FF8DB8,06
+146=Sodom - XAV - Jigoku Scrape & Tengu Walking (Reversal),FF8D89,04,FF8D88,06,FF8DB9,04,FF8DB8,06
+147=Sodom - XAV - Kouten Okiagari (Reversal) & Tengu Walking (Reversal),FF8F21,04,FF8F20,06,FF8DB9,04,FF8DB8,06
+148=Vega - XAV - Kabe Hari Tsuki & Rolling Crystal Flash,FF8D81,08,FF8D80,06,FF8D83,FF,FF8D89,08,FF8D88,06,FF8D8B,FF
+149=Vega - XAV - Kabe Hari Tsuki & Sky High Claw,FF8D91,08,FF8D90,06,FF8D93,FF,FF8D89,08,FF8D88,06,FF8D8B,FF
+150=Vega - V - Scarlet Terror & Rolling Crystal Flash,FF8D81,08,FF8D80,06,FF8D83,FF,FF8DA1,08,FF8DA0,06,FF8D8B,FF
+151=Vega - V - Scarlet Terror & Sky High Claw,FF8D91,08,FF8D90,06,FF8D93,FF,FF8DA1,08,FF8DA0,06,FF8D8B,FF
+152=Zangief - XAV - Flying Powerbomb & Atomic Suplex & Screw Piledriver,FF8D89,08,FF8D88,00,FF8D91,08,FF8D90,00
+153=Zangief - XAV - Flying Powerbomb & Atomic Suplex & Banishing Flat,FF8D89,08,FF8D88,00,FF8D81,04,FF8D80,06
+Default=0
+
+[145]
+Name=P3 Easy Super Combo
+0=Disabled
+1=Adon - X - Jaguar Varied Assault,FF8DA1,04,FF8DA0,0A
+2=Adon - A - Jaguar Revolver & Varied Assault,FF8DA1,04,FF8DA0,0A,FF8D99,04,FF8D98,0A
+3=Akuma - X - Shun Goku Satsu,FF8DC9,02,FF8DC8,08
+4=Akuma - A - Tenma Gou Zankuu & Messatsu Gou Hadou,FF8DB9,04,FF8DB8,0C,FF8D99,04,FF8D98,12
+5=Akuma - A - Tenma Gou Zankuu & Messatsu Gou Shoryuu,FF8DB9,04,FF8DB8,0C,FF8DA1,04,FF8DA0,0A
+6=Akuma - A - Tenma Gou Zankuu & Shun Goku Satsu,FF8DB9,04,FF8DB8,0C,FF8DC9,02,FF8DC8,08
+7=Balrog - X - Crazy Buffalo,FF8DB9,08,FF8DB8,0A,FF8DBB,FF
+8=Balrog - A - Crazy Buffalo & Gigaton Blow,FF8DC1,08,FF8DC0,0A,FF8DC3,FF,FF8DC9,08,FF8DC8,0A,FF8DCB,FF
+9=Birdie - XA - The Birdie,FF8DD9,08,FF8DD8,0A,FF8DDB,FF
+10=Birdie - A - Bull Revenger,FF8DD1,04,FF8DD0,0A
+11=Blanka - X - Ground Shave Rolling,FF8DA9,08,FF8DA8,0A,FF8DAB,FF
+12=Blanka - A - Ground Shave Rolling & Tropical Hazard,FF8DA1,08,FF8DA0,0A,FF8DA3,FF,FF8DA9,08,FF8DA8,0A,FF8DAB,FF
+13=Cammy - XA - Spin Drive Smasher,FF8DA1,04,FF8DA0,0A
+14=Cammy - A - Reverse Shaft Breaker,FF8DB1,04,FF8DB0,0A
+15=Cammy - A - Killer Bee Assault,FF8DB9,08,FF8DB8,0A,FF8DBB,FF
+16=Charlie - X - Somersault Justice,FF8D99,08,FF8D98,0A,FF8D9B,FF
+17=Charlie - A - Sonic Break & Crossfire Blitz,FF8DA1,08,FF8DA0,0A,FF8DA3,FF,FF8D91,08,FF8D90,0A,FF8D93,FF
+18=Charlie - A - Sonic Break & Somersault Justice,FF8DA1,08,FF8DA0,0A,FF8DA3,FF,FF8D99,08,FF8D98,0A,FF8D9B,FF
+19=Chun-Li - X - Senretsu Kyaku,FF8DB1,08,FF8DB0,0A,FF8DB3,FF
+20=Chun-Li - A - Senretsu Kyaku & Kikou Shou,FF8DB1,08,FF8DB0,0A,FF8DB3,FF,FF8DC1,04,FF8DC0,0C
+21=Chun-Li - A - Hanzan Tenshou Kyaku & Kikou Shou,FF8DB9,08,FF8DB8,0A,FF8DBB,FF,FF8DC1,04,FF8DC0,0C
+22=Cody - X - Final Destruction,FF8DA1,04,FF8DA0,0C
+23=Cody - A - Final Destruction & Dead End Irony,FF8DA1,04,FF8DA0,0C,FF8DA9,04,FF8DA8,0A
+24=Dan - X - Hisshou Burai Ken,FF8DA9,04,FF8DA8,0A
+25=Dan - A - Shinkuu Gadou Ken & Kouryuu Rekka & Chahatsu Densetsu,FF8D99,04,FF8D98,0C,FF8DA1,04,FF8DA0,0A,FF8DC1,04,FF8DC0,06
+26=Dan - A - Shinkuu Gadou Ken & Kouryuu Rekka & Chohatsu Shinwa,FF8D99,04,FF8D98,0C,FF8DA1,04,FF8DA0,0A,FF8DC9,04,FF8DC8,06
+27=Dan - A - Shinkuu Gadou & Hisshou Burai Ken & Chahatsu Densetsu,FF8D99,04,FF8D98,0C,FF8DA9,04,FF8DA8,0A,FF8DC1,04,FF8DC0,06
+28=Dan - A - Shinkuu Gadou & Hisshou Burai Ken & Chohatsu Shinwa,FF8D99,04,FF8D98,0C,FF8DA9,04,FF8DA8,0A,FF8DC9,04,FF8DC8,06
+29=Dhalsim - X - Yoga Tempest,FF8DC1,04,FF8DC0,12
+30=Dhalsim - A - Yoga Strike & Inferno,FF8DB9,04,FF8DB8,0A,FF8DB1,04,FF8DB0,0C
+31=Dhalsim - A - Yoga Strike & Stream,FF8DB9,04,FF8DB8,0A,FF8DC9,04,FF8DC8,0C
+32=E.Honda - X - Oni Musou,FF8D99,08,FF8D98,0A,FF8D9B,FF
+33=E.Honda - A - Oni Musou & Fuji Oroshi,FF8D99,08,FF8D98,0A,FF8D9B,FF,FF8DA9,08,FF8DA8,0A,FF8DAB,FF
+34=E.Honda - A - Fuji Oroshi & Orochi Kudaki,FF8DB9,08,FF8DB8,00,FF8DA9,08,FF8DA8,0A,FF8DAB,FF
+35=Gen - X - Zan'ei,FF8DA9,04,FF8DA8,0A
+36=Gen - A - Zan'ei & Jakouha & Kouga,FF8DA9,04,FF8DA8,0A,FF8DB1,04,FF8DB0,0A,FF8DB9,04,FF8DB8,0A
+37=Gen - A - Shitenshuu & Jakouha & Kouga,FF8DA1,04,FF8DA0,0A,FF8DB1,04,FF8DB0,0A,FF8DB9,04,FF8DB8,0A
+38=Guy - X - Bushin Musou Renge,FF8DB1,04,FF8DB0,12
+39=Guy - A - Bushin Gourai Kyaku & Hassou Ken,FF8D91,04,FF8D90,0A,FF8D89,04,FF8D88,0A
+40=Guy - A - Bushin Gourai Kyaku & Musou Renge,FF8D91,04,FF8D90,0A,FF8DB1,04,FF8DB0,12
+41=Juli - X - Reverse Shaft Breaker,FF8DD9,04,FF8DD8,0A
+42=Juli - A - Reverse Shaft Breaker & Death Cross Dancing (With Juni),FF8DD9,04,FF8DD8,0A,FF8DD1,02,FF8DD0,08
+43=Juli - A - Reverse Shaft Breaker & Psycho Rolling (With Juni),FF8DD9,04,FF8DD8,0A,FF8DE9,04,FF8DE8,0A
+44=Juli - A - Spin Drive Smasher & Death Cross Dancing (With Juni),FF8DA1,04,FF8DA0,0A,FF8DD1,02,FF8DD0,08
+45=Juli - A - Spin Drive Smasher & Psycho Rolling (With Juni),FF8DA1,04,FF8DA0,0A,FF8DE9,04,FF8DE8,0A
+46=Juni - X - Psycho Streak,FF8F89,08,FF8F88,0A,FF8F8B,FF
+47=Juni - A - Spin Drive Smasher & Psycho Streak,FF8DA1,08,FF8DA0,0A,FF8DA3,FF,FF8F89,08,FF8F88,0A,FF8F8B,FF
+48=Juni - A - Spin Drive Smasher & Death Cross Dancing,FF8DA1,08,FF8DA0,0A,FF8DA3,FF,FF8DD1,02,FF8DD0,08
+49=Juni - A - Spin Drive Smasher & Psycho Rolling,FF8DA1,08,FF8DA0,0A,FF8DA3,FF,FF8DE9,04,FF8DE8,0A
+50=Karin - X - Kanzuki-ryuu Shinpikaibyaku,FF8DB1,04,FF8DB0,0C
+51=Karin - A - Kanzuki-ryuu Shinpikaibyaku & Kou'ou Ken,FF8DB1,04,FF8DB0,0C,FF8DC1,04,FF8DC0,0A
+52=Ken - X - Shoryuu Reppa,FF8DA1,04,FF8DA0,0A
+53=Ken - A - Shoryuu Reppa & Shinryuu Ken,FF8DA1,04,FF8DA0,0A,FF8D99,04,FF8D98,0A
+54=Ken - A - Shoryuu Reppa & Shippu Jinrai Kyaku,FF8DA1,04,FF8DA0,0A,FF8DB9,04,FF8DB8,0A
+55=M.Bison - X - Knee Press Nightmare,FF8DB1,08,FF8DB0,0A,FF8DB3,FF
+56=M.Bison - A - Psycho Crusher & Knee Press Nightmare,FF8DA9,08,FF8DA8,0A,FF8DAB,FF,FF8DB1,08,FF8DB0,0A,FF8DB3,FF
+57=R.Mika - X - Sardine's Beach Special,FF8D81,04,FF8D80,0A
+58=R.Mika - A - Sardine's Beach Special & Rainbow Hip Rush,FF8D81,04,FF8D80,0A,FF8DB1,04,FF8DB0,0A
+59=R.Mika - A - Sardine's Beach Special & Heavenly Dynamite,FF8D81,04,FF8D80,0A,FF8DB9,08,FF8DB8,00
+60=Rolento - X - Take no Prisoner,FF8DA9,04,FF8DA8,0C
+61=Rolento - A - Steel Rain & Take no Prisoner,FF8D99,04,FF8D98,0A,FF8DA9,04,FF8DA8,0C
+62=Rolento - A - Steel Rain & Mine Sweeper,FF8D99,04,FF8D98,0A,FF8DA1,04,FF8DA0,0C
+63=Rose - X - Aura Soul Throw,FF8D99,04,FF8D98,0A
+64=Rose - A - Soul Illusion & Aura Soul Throw,FF8DA9,04,FF8DA8,0A,FF8D99,04,FF8D98,0A
+65=Rose - A - Soul Illusion & Aura Soul Spark,FF8DA9,04,FF8DA8,0A,FF8DA1,04,FF8DA0,0C
+66=Ryu - X - Shinkuu Hadou Ken,FF8D99,04,FF8D98,0C
+67=Ryu - A - Shinkuu Hadou Ken & Tatsumaki Senpuu Kyaku,FF8D99,04,FF8D98,0C,FF8DA1,04,FF8DA0,0A
+68=Ryu - A - Shinkuu Hadou Ken & Shin Shoryuu Ken,FF8D99,04,FF8D98,0C,FF8DB9,04,FF8DB8,0A
+69=Sagat - X - Tiger Genocide,FF8DA9,04,FF8DA8,0A
+70=Sagat - A - Angry Charge & Tiger Cannon & Raid,FF8DB9,04,FF8DB8,06,FF8DB1,04,FF8DB0,0C,FF8D99,04,FF8D98,0A
+71=Sagat - A - Angry Charge & Tiger Cannon & Genocide,FF8DB9,04,FF8DB8,06,FF8DB1,04,FF8DB0,0C,FF8DA9,04,FF8DA8,0A
+72=Sakura - X - Midare-Zakura,FF8DA1,04,FF8DA0,0A
+73=Sakura - A - Shinkuu Hadou Ken & Midare-Zakura,FF8D99,04,FF8D98,0C,FF8DA1,04,FF8DA0,0A
+74=Sakura - A - Shinkuu Hadou Ken & Haru Ichiban,FF8D99,04,FF8D98,0C,FF8DA9,04,FF8DA8,0A
+75=Sodom - XA - Meido no Miyage,FF8D99,04,FF8D98,0C
+76=Sodom - A - Ten Chuu Satsu,FF8D91,08,FF8D90,00
+77=Vega - X - Hari Tsuki Rolling,FF8D99,08,FF8D98,0A,FF8D9B,FF
+78=Vega - A - Scarlet Mirage & Red Impact,FF8DB1,08,FF8DB0,0A,FF8DB3,FF,FF8DA9,08,FF8DA8,0A,FF8DAB,FF
+79=Vega - A - Hari Tsuki Rolling & Red Impact,FF8DB1,08,FF8DB0,0A,FF8DB3,FF,FF8D99,08,FF8D98,0A,FF8D9B,FF
+80=Zangief - X - Final Atomic Buster,FF8D99,08,FF8D98,0A
+81=Zangief - A - Final Atomic Buster & Aerial Russian Slam,FF8D99,08,FF8D98,0A,FF8DA1,04,FF8DA0,0A
+Default=0
+
+[146]
+Name=P4 Inf Health
+0=Disabled
+1=Enabled,FF9050,90
+Default=0
+
+[147]
+Name=P4 Inf Power
+0=Disabled
+1=Enabled,FF911E,90
+Default=0
+
+[148]
+Name=P4 1 Win Match
+0=Disabled
+1=Enabled,FF9127,01
+Default=0
+
+[149]
+Name=P4 Air Moves
+0=Disabled
+1=Enabled,FF9030,00
+Default=0
+
+[150]
+Name=P4 No Ground Attacks
+0=Disabled
+1=Enabled,FF9030,01
+Default=0
+
+[151]
+Name=P4 Inf Taunt
+0=Disabled
+1=Enabled,FF90BD,01
+Default=0
+
+[152]
+Name=P4 Inf Fireball
+0=Disabled
+1=Enabled,FF9239,00
+Default=0
+
+[153]
+Name=P4 Inf Guard
+0=Disabled
+1=Enabled,FF924C,00
+Default=0
+
+[154]
+Name=P4 Inf V-ISM Combo
+0=Disabled
+1=Enabled,FF90B8,01
+Default=0
+
+[155]
+Name=P4 No Hit Stop
+0=Disabled
+1=Enabled,FF905E,00
+Default=0
+
+[156]
+Name=P4 Shadow Fighter
+0=Disabled
+1=Enabled,FF914C,FF
+Default=0
+
+[157]
+Name=P4 Force Counter Damage
+0=Disabled
+1=Enabled,FF90A8,01
+Default=0
+
+[158]
+Name=P4 Projectiles
+0=Disabled
+1=Inf Projectiles,FF9239,00
+2=Disable Projectiles,FF9239,01
+Default=0
+
+[159]
+Name=P4 Fast Recovery
+0=Disabled
+1=Enabled,FF92CD,00,FF92CC,28
+Default=0
+
+[160]
+Name=P4 Classic Mode
+0=Disabled
+1=Enabled,FF915F,01
+Default=0
+
+[161]
+Name=P4 Mazi/Serious Mode
+0=Disabled
+1=Enabled,FF915B,01
+Default=0
+
+[162]
+Name=P4 Saikyou/Strong Mode
+0=Disabled
+1=Enabled,FF9130,01
+Default=0
+
+[163]
+Name=P4 Action Speed Up
+0=Disabled
+1=Enabled,FF9033,01
+Default=0
+
+[164]
+Name=P4 Motion Speed Up
+0=Disabled
+1=Enabled,FF9034,01
+Default=0
+
+[165]
+Name=P4 No Jump Attack Limit (Incomplete)
+0=Disabled
+1=Enabled,FF9006,01
+Default=0
+
+[166]
+Name=P4 Combo Count and Adjustment
+0=Disabled
+1=P4 Hit 0 (No Adjust),FF905F,00
+2=P4 Hit 99 (Too Heavy Adjust),FF905F,63
+Default=0
+
+[167]
+Name=P4 Force Level 3 Combo
+0=Disabled
+1=Enabled,FF9083,04
+Default=0
+
+[168]
+Name=P4 Level 3 Custom Combo
+0=Disabled
+1=Enabled,FF90B8,01,FF90BA,FF,FF90B8,01,FF90BA,00,FF92A6,51,FF92A8,1B
+Default=0
+
+[169]
+Name=P4 ISM Select
+0=Disabled
+1=X-ISM,FF9122,FF,FF9133,FF
+2=A-ISM,FF9122,00,FF9133,00
+3=V-ISM,FF9122,01,FF9133,01
+4=S-ISM,FF9122,02,FF9133,00
+Default=0
+
+[170]
+Name=P4 Damage Level
+0=Disabled
+1=P4 Weak,FF90CD,8F
+2=P4 Ultimate,FF90CD,7F
+3=P4 Super Hyper Excellent,FF90CD,FF
+Default=0
+
+[171]
+Name=P4 Mode
+0=Disabled
+1=P4 Enable,FF9001,01
+2=P4 Disable,FF9001,00
+Default=0
+
+[172]
+Name=P4 Slot
+0=Disabled
+1=Slot 1,FF9100,00
+2=Slot 2,FF9100,01
+3=Slot 3,FF9100,02
+4=Slot 4,FF9100,03
+Default=0
+
+[173]
+Name=P4 Controller Mode
+0=Disabled
+1=User Play,FF9124,00
+2=Computer Play,FF9124,01
+3=Hard Computer Play,FF9124,01,FF9039,84
+Default=0
+
+[174]
+Name=P4 Char Select
+0=Disabled
+1=Adon,FF9103,05
+2=Akuma,FF9103,02
+3=Balrog,FF9103,15
+4=Birdie,FF9103,08
+5=Blanka,FF9103,19
+6=Cammy,FF9103,16
+7=Charlie,FF9103,03
+8=Chun-Li,FF9103,04
+9=Cody,FF9103,1B
+10=Dan,FF9103,0C
+11=Dhalsim,FF9103,0F
+12=E.Honda,FF9103,18
+13=Gen,FF9103,11
+14=Guy,FF9103,07
+15=Juli,FF9103,1E
+16=Juni,FF9103,1F
+17=Karin,FF9103,1D
+18=Ken,FF9103,01
+19=M.Bison,FF9103,0A
+20=R.Mika,FF9103,1A
+21=Rolento,FF9103,0E
+22=Rose,FF9103,09
+23=Ryu,FF9103,00
+24=Sagat,FF9103,0B
+25=Sakura,FF9103,0D
+26=Shin M.Bison,FF9103,0A,FF915C,01
+27=Sodom,FF9103,06
+28=Vega,FF9103,1C
+29=Zangief,FF9103,10
+Default=0
+
+[175]
+Name=P4 Colour
+0=Disabled
+1=Primary,FF9129,00
+2=Secondary,FF9129,01
+Default=0
+
+[176]
+Name=P4 Cody - Knife
+0=Disabled
+1=Knife,FF91E5,FF
+2=No Knife,FF91E5,00
+Default=0
+
+[177]
+Name=P4 Cody - Inf Final Destruction Time
+0=Disabled
+1=Enabled,FF903B,04,FF903A,B0
+Default=0
+
+[178]
+Name=P4 Dan - Kouryuu Ken Always Flashing
+0=Disabled
+1=Enabled,FF91FF,16,FF91FE,00
+Default=0
+
+[179]
+Name=P4 Dan - Inf Chohatsu Shinwa Time
+0=Disabled
+1=Enabled,FF903B,04,FF903A,B0
+Default=0
+
+[180]
+Name=P4 Rolento - Easy Second & Third Patriot Circle
+0=Disabled
+1=Enabled,FF91C1,04,FF91C0,06
+Default=0
+
+[181]
+Name=P4 Ryu - Force ShinSyoryu
+0=Disabled
+1=Enabled,FF90CD,30
+Default=0
+
+[182]
+Name=P4 Sakura - Hadou Ken Size & Range
+0=Disabled
+1=Normal & Long,FF91FE,00
+2=Medium & Medium,FF91FE,01
+3=Large & Short,FF91FE,02
+Default=0
+
+[183]
+Name=P4 Sagat - Angry Charge
+0=Disabled
+1=Always Angry Charge,FF91FF,01
+2=Never Angry Charge,FF91FF,00
+Default=0
+
+[184]
+Name=P4 Vega - Mask
+0=Disabled
+1=Mask On,FF906A,01
+2=Mask Off,FF906A,00
+Default=0
+
+[185]
+Name=P4 Vega - Claw
+0=Disabled
+1=Claw On,FF906B,01
+2=Claw Off,FF906B,00
+Default=0
+
+[186]
+Name=P4 Easy Moves
+0=Disabled
+1=Adon - XAV - Rising Jaguar,FF9189,04,FF9188,06
+2=Adon - XAV - Jaguar Tooth,FF9191,04,FF9190,0A
+3=Adon - AV - Jaguar Kick,FF9181,04,FF9180,06
+4=Akuma - XAV - Tatsumaki Zankuu Kyaku & Ashura Senkuu 1 & Gou & Zankuu Hadou Ken,FF9181,04,FF9180,06,FF9191,04,FF9190,06,FF91A9,04,FF91A8,06
+5=Akuma - XAV - Tatsumaki Zankuu Kyaku & Ashura Senkuu 1 & Gou Shoryuu Ken,FF9189,04,FF9188,06,FF9191,04,FF9190,06,FF91A9,04,FF91A8,06
+6=Akuma - XAV - Tatsumaki Zankuu Kyaku & Ashura Senkuu 1 & Shakunetsu Hadou Ken,FF91C1,04,FF91C0,0A,FF9191,04,FF9190,06,FF91A9,04,FF91A8,06
+7=Akuma - XAV - Tatsumaki Zankuu Kyaku & Ashura Senkuu 2 & Gou & Zankuu Hadou Ken,FF9181,04,FF9180,06,FF9191,04,FF9190,06,FF91B1,04,FF91B0,06
+8=Akuma - XAV - Tatsumaki Zankuu Kyaku & Ashura Senkuu 2 & Gou Shoryuu Ken,FF9189,04,FF9188,06,FF9191,04,FF9190,06,FF91B1,04,FF91B0,06
+9=Akuma - XAV - Tatsumaki Zankuu Kyaku & Ashura Senkuu 2 & Shakunetsu Hadou Ken,FF91C1,04,FF91C0,0A,FF9191,04,FF9190,06,FF91B1,04,FF91B0,06
+10=Akuma - AV - Tatsumaki Zankuu Kyaku & Ashura Senkuu 1 & Zenpou Tenshin,FF91D1,04,FF91D0,06,FF9191,04,FF9190,06,FF91A9,04,FF91A8,06
+11=Akuma - AV - Tatsumaki Zankuu Kyaku & Ashura Senkuu 1 & Hyakki Shuu,FF91D9,04,FF91D8,08,FF9191,04,FF9190,06,FF91A9,04,FF91A8,06
+12=Akuma - AV - Tatsumaki Zankuu Kyaku & Ashura Senkuu 2 & Zenpou Tenshin,FF91D1,04,FF91D0,06,FF9191,04,FF9190,06,FF91B1,04,FF91B0,06
+13=Akuma - AV - Tatsumaki Zankuu Kyaku & Ashura Senkuu 2 & Hyakki Shuu,FF91D9,04,FF91D8,08,FF9191,04,FF9190,06,FF91B1,04,FF91B0,06
+14=Balrog - XAV - Dash Straight & Upper,FF9181,08,FF9180,06,FF9183,FF,FF9189,08,FF9188,06,FF918B,FF
+15=Balrog - XAV - Dash Straight & Turn Punch 2,FF9181,08,FF9180,06,FF9183,FF,FF91B3,09,FF91B2,00,FF91B5,01
+16=Balrog - XAV - Turn Punch 1 & Dash Upper,FF91AB,09,FF91AA,00,FF91AD,01,FF9189,08,FF9188,06,FF918B,FF
+17=Balrog - XAV - Turn Punch 1 & Turn Punch 2,FF91AB,09,FF91AA,00,FF91AD,01,FF91B3,09,FF91B2,00,FF91B5,01
+18=Balrog - XAV - Buffalo Head & Dash Upper,FF91A1,08,FF91A0,06,FF91A3,FF,FF9189,08,FF9188,06,FF918B,FF
+19=Balrog - XAV - Buffalo Head & Turn Punch 2,FF91A1,08,FF91A0,06,FF91A3,FF,FF91B3,09,FF91B2,00,FF91B5,01
+20=Balrog - AV - Dash Straight & Ground Upper,FF9181,08,FF9180,06,FF9183,FF,FF9199,08,FF9198,06,FF919B,FF
+21=Balrog - AV - Dash Ground Straight & Upper,FF9191,08,FF9190,06,FF9193,FF,FF9189,08,FF9188,06,FF918B,FF
+22=Balrog - AV - Dash Ground Straight & Ground Upper,FF9191,08,FF9190,06,FF9193,FF,FF9199,08,FF9198,06,FF919B,FF
+23=Balrog - AV - Dash Ground Straight & Turn Punch 2,FF9191,08,FF9190,06,FF9193,FF,FF91B3,09,FF91B2,00,FF91B5,01
+24=Balrog - AV - Turn Punch 1 & Dash Ground Upper,FF91AB,09,FF91AA,00,FF91AD,01,FF9199,08,FF9198,06,FF919B,FF
+25=Balrog - AV - Buffalo Head & Dash Ground Upper,FF91A1,08,FF91A0,06,FF91A3,FF,FF9199,08,FF9198,06,FF919B,FF
+26=Birdie - XAV - Bull Head & Kick Bull Horn,FF9181,08,FF9180,06,FF9183,FF,FF91AB,04,FF91AA,00,FF91AD,01,FF91B3,04,FF91B2,00,FF91B5,01,FF91BB,04,FF91BA,00,FF91BD,01,FF91C3,04,FF91C2,00,FF91C5,01
+27=Birdie - XAV - Kick & Punch Bull Horn,FF918B,04,FF918A,00,FF918D,01,FF9193,04,FF9192,00,FF9195,01,FF919B,04,FF919A,00,FF919D,01,FF91A3,04,FF91A2,00,FF91A5,01,FF91AB,04,FF91AA,00,FF91AD,01,FF91B3,04,FF91B2,00,FF91B5,01,FF91BB,04,FF91BA,00,FF91BD,01,FF91C3,04,FF91C2,00,FF91C5,01
+28=Birdie - XAV - Murder & Bandit Chain,FF91C9,08,FF91C8,00
+29=Blanka - XAV - Rolling Attack & Backstep Rolling,FF9181,08,FF9180,06,FF9183,FF,FF9191,08,FF9190,06,FF9193,FF
+30=Blanka - XAV - Rolling Attack & Vertical Rolling,FF9181,08,FF9180,06,FF9183,FF,FF9199,08,FF9198,06,FF919B,FF
+31=Blanka - XAV - Electric Thunder & Backstep Rolling,FF918A,05,FF918C,05,FF918E,05,FF9191,08,FF9190,06,FF9193,FF
+32=Blanka - XAV - Electric Thunder & Vertical Rolling,FF918A,05,FF918C,05,FF918E,05,FF9199,08,FF9198,06,FF919B,FF
+33=Cammy - XAV - Cannon Spike & Axle Spin Knuckle,FF9181,04,FF9180,06,FF9191,04,FF9190,0A
+34=Cammy - XAV - Cannon Spike & Hooligan Combination,FF9181,04,FF9180,06,FF9199,04,FF9198,08
+35=Cammy - XAV - Spiral Arrow & Axle Spin Knuckle,FF9189,04,FF9188,06,FF9191,04,FF9190,0A
+36=Cammy - XAV - Spiral Arrow & Hooligan Combination,FF9189,04,FF9188,06,FF9199,04,FF9198,08
+37=Cammy - V - Cannon Spike & Revenge,FF9181,04,FF9180,06,FF91C1,04,FF91C0,06
+38=Cammy - V - Spiral Arrow & Cannon Revenge,FF9189,04,FF9188,06,FF91C1,04,FF91C0,06
+39=Cammy - V - Cannon Strike & Axle Spin Knuckle,FF91A9,04,FF91A8,06,FF9191,04,FF9190,0A
+40=Cammy - V - Cannon Strike & Hooligan Combination,FF91A9,04,FF91A8,06,FF9199,04,FF9198,08
+41=Cammy - V - Cannon Strike & Revenge,FF91A9,04,FF91A8,06,FF91C1,04,FF91C0,06
+42=Charlie - X - Somersault Shell & Sonic Boom,FF9181,08,FF9180,06,FF9183,FF,FF9189,08,FF9188,06,FF918B,FF
+43=Charlie - AV - Somersault Shell & Sonic Boom & Dash,FF9181,08,FF9180,06,FF9183,FF,FF9189,08,FF9188,06,FF918B,FF,FF91B1,04,FF91B0,06
+44=Chun-Li - X - Hyakuretsu Kyaku & Sou Hakkei,FF9191,08,FF9190,06,FF9193,FF,FF9182,05,FF9184,05,FF9186,05
+45=Chun-Li - X - Tenshou Kyaku & Sou Hakkei,FF9191,08,FF9190,06,FF9193,FF,FF9199,08,FF9198,06,FF919B,FF
+46=Chun-Li - X - Spinning Bird Kick & Sou Hakkei,FF9191,08,FF9190,06,FF9193,FF,FF91A9,08,FF91A8,06,FF91AB,FF
+47=Chun-Li - AV - Hyakuretsu Kyaku & Kikou Ken,FF9182,05,FF9184,05,FF9186,05,FF9189,04,FF9188,08
+48=Chun-Li - AV - Tenshou Kyaku & Kikou Ken,FF9199,08,FF9198,06,FF919B,FF,FF9189,04,FF9188,08
+49=Chun-Li - AV - Sen'en Shuu - Kikou Ken,FF91A1,04,FF91A0,0A,FF9189,04,FF9188,08
+50=Cody - XAV - Criminal Upper & Ruffian Kick,FF9181,04,FF9180,06,FF9191,04,FF9190,06
+51=Cody - XAV - Bad Stone & Ruffian Kick,FF9199,04,FF9198,06,FF9191,04,FF9190,06
+52=Cody - XAV - Bad Spray & Ruffian Kick,FF9189,04,FF9188,06,FF9191,04,FF9190,06
+53=Dan - XAV - Gadou Ken & Dankuu Kyaku & Zenten Chohatsu,FF9181,04,FF9180,06,FF9191,04,FF9190,06,FF91B1,04,FF91B0,06
+54=Dan - XAV - Gadou Ken & Dankuu Kyaku & Kouten Chohatsu,FF9181,04,FF9180,06,FF9191,04,FF9190,06,FF91B9,04,FF91B8,06
+55=Dan - XAV - Kouryuu Ken & Dankuu Kyaku & Zenten Chohatsu,FF9189,04,FF9188,06,FF9191,04,FF9190,06,FF91B1,04,FF91B0,06
+56=Dan - XAV - Kouryuu Ken & Dankuu Kyaku & Kouten Chohatsu,FF9189,04,FF9188,06,FF9191,04,FF9190,06,FF91B9,04,FF91B8,06
+57=Dhalsim - XAV - Yoga Flame & Blast & Teleport 1,FF9199,04,FF9198,0A,FF91A1,04,FF91A0,0A,FF9181,04,FF9180,06
+58=Dhalsim - XAV - Yoga Flame & Blast & Teleport 2,FF9199,04,FF9198,0A,FF91A1,04,FF91A0,0A,FF9189,04,FF9188,06
+59=Dhalsim - XAV - Yoga Fire & Blast & Teleport 1,FF9191,04,FF9190,06,FF91A1,04,FF91A0,0A,FF9181,04,FF9180,06
+60=Dhalsim - XAV - Yoga Fire & Blast & Teleport 2,FF9191,04,FF9190,06,FF91A1,04,FF91A0,0A,FF9189,04,FF9188,06
+61=Dhalsim - AV - Yoga Flame & Escape & Teleport 1,FF9199,04,FF9198,0A,FF91A9,04,FF91A8,06,FF9181,04,FF9180,06
+62=Dhalsim - AV - Yoga Flame & Escape & Teleport 2,FF9199,04,FF9198,0A,FF91A9,04,FF91A8,06,FF9189,04,FF9188,06
+63=Dhalsim - AV - Yoga Fire & Escape & Teleport 1,FF9191,04,FF9190,06,FF91A9,04,FF91A8,06,FF9181,04,FF9180,06
+64=Dhalsim - AV - Yoga Fire & Escape & Teleport 2,FF9191,04,FF9190,06,FF91A9,04,FF91A8,06,FF9189,04,FF9188,06
+65=E.Honda - XAV - Super Zutsuki & Hyakkan Otoshi,FF9181,08,FF9180,06,FF9183,FF,FF9189,08,FF9188,06,FF918B,FF
+66=E.Honda - XAV - Hyakuretsu Harite & Super Hyakkan Otoshi,FF9192,05,FF9194,05,FF9196,05,FF9189,08,FF9188,06,FF918B,FF
+67=E.Honda - XAV - Ooichou Nage & Super Hyakkan Otoshi,FF91A1,08,FF91A0,00,FF9189,08,FF9188,06,FF918B,FF
+68=Gen - X - Hyakurenkou & Geki Rou & Jasen,FF9182,05,FF9184,05,FF9186,05,FF9189,04,FF9188,06
+69=Gen - X - Geki Rou & Jasen,FF9189,04,FF9188,06,FF9191,08,FF9190,06,FF9193,FF
+70=Gen - AV - Hyakurenkou & Geki Rou & Jasen & Ouga,FF9182,05,FF9184,05,FF9186,05,FF9189,04,FF9188,06,FF9191,08,FF9190,06,FF9193,FF,FF9199,08,FF9198,06,FF919B,FF
+71=Guy - XAV - Bushin Senpuu Kyaku & Izuna Otoshi,FF9181,04,FF9180,06,FF9199,04,FF9198,06
+72=Guy - XAV - Bushin Senpuu Kyaku & Houzantou,FF9181,04,FF9180,06,FF91A9,04,FF91A8,06
+73=Guy - XAV - Hayagake & Bushin Izuna Otoshi,FF91A1,04,FF91A0,06,FF9199,04,FF9198,06
+74=Guy - XAV - Hayagake & Houzantou,FF91A1,04,FF91A0,06,FF91A9,04,FF91A8,06
+75=Juli - XAV - Axle Spin Knuckle & Cannon Spike,FF9181,04,FF9180,06,FF9191,04,FF9190,0A
+76=Juli - XAV - Axle Spin Knuckle & Sniping Arrow,FF91C1,04,FF91C0,0A,FF9191,04,FF9190,0A
+77=Juni - XAV - Spiral Arrow & Hooligan Combination,FF9181,08,FF9180,06,FF9183,FF,FF9199,04,FF9198,08
+78=Juni - XAV - Spiral Arrow & Earth Direct,FF9181,08,FF9180,06,FF9183,FF,FF91B9,08,FF91B8,00
+79=Juni - XAV - Cannon Spike & Hooligan Combination,FF9189,08,FF9188,06,FF918B,FF,FF9199,04,FF9198,08
+80=Juni - XAV - Cannon Spike & Earth Direct,FF9189,08,FF9188,06,FF918B,FF,FF91B9,08,FF91B8,00
+81=Juni - XAV - Cannon Strike & Hooligan Combination,FF91C9,04,FF91C8,06,FF9199,04,FF9198,08
+82=Juni - XAV - Cannon Strike & Earth Direct,FF91C9,04,FF91C8,06,FF91B9,08,FF91B8,00
+83=Karin - XAV - Guren Ken & Mujin Kyaku,FF9181,04,FF9180,06,FF9189,04,FF9188,06
+84=Karin - XAV - Guren Ken & Ressen Ha,FF9181,04,FF9180,06,FF9191,04,FF9190,08
+85=Karin - XAV - Guren Ken & Arakuma Inashi,FF9181,04,FF9180,06,FF91C9,08,FF91C8,00
+86=Karin - XAV - Ressen Chou & Mujin Kyaku,FF91B9,04,FF91B8,06,FF9189,04,FF9188,06
+87=Karin - XAV - Ressen Chou & Ressen Ha,FF91B9,04,FF91B8,06,FF9191,04,FF9190,08
+88=Karin - XAV - Ressen Chou & Arakuma Inashi,FF91B9,04,FF91B8,06,FF91C9,08,FF91C8,00
+89=Karin - XAV - Hou Shou & Mujin Kyaku,FF9199,04,FF9198,06,FF9189,04,FF9188,06
+90=Karin - XAV - Hou Shou & Ressen Ha,FF9199,04,FF9198,06,FF9191,04,FF9190,08
+91=Karin - XAV - Hou Shou & Arakuma Inashi,FF9199,04,FF9198,06,FF91C9,08,FF91C8,00
+92=Karin - XAV - Yasha Gaeshi,FF91A1,04,FF91A0,06
+93=Ken - X - Hadou Ken & Tatsumaki Senpuu Kyaku,FF9181,04,FF9180,06,FF9191,04,FF9190,06
+94=Ken - X - Shoryuu Ken & Tatsumaki Senpuu Kyaku,FF9189,04,FF9188,06,FF9191,04,FF9190,06
+95=Ken - AV - Hadou Ken & Tatsumaki Senpuu Kyaku & Zentou,FF9181,04,FF9180,06,FF9191,04,FF9190,06,FF91B1,04,FF91B0,06
+96=Ken - AV - Shoryuu Ken & Tatsumaki Senpuu Kyaku & Zentou,FF9189,04,FF9188,06,FF9191,04,FF9190,06,FF91B1,04,FF91B0,06
+97=Ken - AV - Zenpou Tenshin & Tatsumaki Senpuu Kyaku & Zentou,FF91A9,04,FF91A8,06,FF9191,04,FF9190,06,FF91B1,04,FF91B0,06
+98=M.Bison - XAV - Psycho Shot & Head Press,FF9181,08,FF9180,06,FF9183,FF,FF9189,08,FF9188,06,FF918B,FF
+99=M.Bison - XAV - Psycho Shot & Double Knee Press,FF9181,08,FF9180,06,FF9183,FF,FF9191,08,FF9190,06,FF9193,FF
+100=M.Bison - XAV - Somersault Skull Diver & Head Press,FF91C1,08,FF91C0,06,FF91C3,FF,FF9189,08,FF9188,06,FF918B,FF
+101=M.Bison - XAV - Somersault Skull Diver & Double Knee Press,FF91C1,08,FF91C0,06,FF91C3,FF,FF9191,08,FF9190,06,FF9193,FF
+102=M.Bison - AV - Bison Warp 1,FF9199,04,FF9198,06
+103=M.Bison - AV - Bison Warp 2,FF91A1,04,FF91A0,06
+104=R.Mika - XAV - Daydream Headlock & Flying Peach & Wingless Airplane,FF9191,08,FF9190,00,FF9189,04,FF9188,06,FF9199,04,FF9198,0A
+105=R.Mika - XAV - Daydream Headlock & Paradise Hold & Wingless Airplane,FF9191,08,FF9190,00,FF91A9,08,FF91A8,00,FF9199,04,FF9198,0A
+106=R.Mika - XAV - Shooting Peach & Peach & Wingless Airplane,FF91A1,04,FF91A0,06,FF9189,04,FF9188,06,FF9199,04,FF9198,0A
+107=R.Mika - XAV - Shooting Peach & Paradise Hold & Wingless Airplane,FF91A1,04,FF91A0,06,FF91A9,08,FF91A8,00,FF9199,04,FF9198,0A
+108=Rolento - X - Stinger & Patriot Circle,FF9181,04,FF9180,06,FF91B1,04,FF91B0,06
+109=Rolento - X - Stinger & Mekong Delta Air Raid,FF9181,04,FF9180,06,FF91B9,04,FF91B8,06
+110=Rolento - X - Mekong Delta Escape & Patriot Circle,FF9189,04,FF9188,06,FF91B1,04,FF91B0,06
+111=Rolento - X - Mekong Delta Escape & Air Raid,FF9189,04,FF9188,06,FF91B9,04,FF91B8,06
+112=Rolento - AV - Stinger & Patriot Circle & High Jump,FF9181,04,FF9180,06,FF9191,02,FF9190,02,FF91B1,04,FF91B0,06
+113=Rolento - AV - Stinger & Mekong Delta Air Raid & High Jump,FF9181,04,FF9180,06,FF9191,02,FF9190,02,FF91B9,04,FF91B8,06
+114=Rolento - AV - Mekong Delta Escape & Patriot Circle & High Jump,FF9189,04,FF9188,06,FF9191,02,FF9190,02,FF91B1,04,FF91B0,06
+115=Rolento - AV - Mekong Delta Escape & Air Raid & High Jump,FF9189,04,FF9188,06,FF9191,02,FF9190,02,FF91B9,04,FF91B8,06
+116=Rose - XAV - Soul Reflect & Spiral,FF9181,04,FF9180,06,FF91B1,04,FF91B0,06
+117=Rose - XAV - Soul Spark & Spiral,FF9189,04,FF9188,0A,FF91B1,04,FF91B0,06
+118=Rose - XAV - Soul Throw & Spiral,FF9191,04,FF9190,06,FF91B1,04,FF91B0,06
+119=Ryu - X - Hadou Ken & Tatsumaki Senpuu Kyaku,FF9181,04,FF9180,06,FF9191,04,FF9190,06
+120=Ryu - X - Shakunetsu Hadou Ken & Tatsumaki Senpuu Kyaku,FF91B1,04,FF91B0,0A,FF9191,04,FF9190,06
+121=Ryu - X - Shoryuu Ken & Tatsumaki Senpuu Kyaku,FF9189,04,FF9188,06,FF9191,04,FF9190,06
+122=Ryu - AV - Hadou Ken & no Kamae & Tatsumaki Senpuu Kyaku,FF9181,04,FF9180,06,FF9191,04,FF9190,06,FF91A9,04,FF91A8,06
+123=Ryu - AV - Shakunetsu Hadou Ken & no Kamae & Tatsumaki Senpuu Kyaku,FF91B1,04,FF91B0,0A,FF9191,04,FF9190,06,FF91A9,04,FF91A8,06
+124=Ryu - AV - Shoryuu Ken & Hadou no Kamae & Tatsumaki Senpuu Kyaku,FF9189,04,FF9188,06,FF9191,04,FF9190,06,FF91A9,04,FF91A8,06
+125=Sagat - XAV - Tiger Shot & Ground Shot,FF9181,04,FF9180,06,FF9189,04,FF9188,06
+126=Sagat - XAV - Tiger Shot & Crush,FF9181,04,FF9180,06,FF9191,04,FF9190,06
+127=Sagat - XAV - Tiger Blow & Ground Shot,FF91A1,04,FF91A0,06,FF9189,04,FF9188,06
+128=Sagat - XAV - Tiger Blow & Crush,FF91A1,04,FF91A0,06,FF9191,04,FF9190,06
+129=Sakura - XAV - Hadou Ken & Shunpuu Kyaku,FF9181,04,FF9180,06,FF9191,04,FF9190,06
+130=Sakura - XAV - Shou'ou Ken & Shunpuu Kyaku,FF9189,04,FF9188,06,FF9191,04,FF9190,06
+131=Sakura - AV - Hadou Ken & Sakura Otoshi,FF9181,04,FF9180,06,FF91B1,04,FF91B0,06
+132=Sakura - AV - Shou'ou Ken & Sakura Otoshi,FF9189,04,FF9188,06,FF91B1,04,FF91B0,06
+133=Sodom - XAV - Butsumetsu Buster & Daikyou Burning,FF9181,08,FF9180,00,FF91A1,08,FF91A0,00
+134=Sodom - XAV - Jigoku Scrape & Daikyou Burning,FF9189,04,FF9188,06,FF91A1,08,FF91A0,00
+135=Sodom - XAV - Kouten Okiagari (Reversal) & Daikyou Burning,FF9321,04,FF9320,06,FF91A1,08,FF91A0,00
+136=Sodom - XAV - Butsumetsu Buster & Tengu Walking,FF9181,08,FF9180,00,FF91A9,04,FF91A8,06
+137=Sodom - XAV - Jigoku Scrape & Tengu Walking,FF9189,04,FF9188,06,FF91A9,04,FF91A8,06
+138=Sodom - XAV - Kouten Okiagari (Reversal) & Tengu Walking,FF9321,04,FF9320,06,FF91A9,04,FF91A8,06
+139=Sodom - XAV - Butsumetsu Buster & Shiraha Catch,FF9181,08,FF9180,00,FF91B1,04,FF91B0,06
+140=Sodom - XAV - Jigoku Scrape & Shiraha Catch,FF9189,04,FF9188,06,FF91B1,04,FF91B0,06
+141=Sodom - XAV - Kouten Okiagari (Reversal) & Shiraha Catch,FF9321,04,FF9320,06,FF91B1,04,FF91B0,06
+142=Sodom - XAV - Butsumetsu Buster & Yagura Reverse,FF9181,08,FF9180,00,FF91C1,04,FF91C0,06
+143=Sodom - XAV - Jigoku Scrape & Yagura Reverse,FF9189,04,FF9188,06,FF91C1,04,FF91C0,06
+144=Sodom - XAV - Kouten Okiagari (Reversal) & Yagura Reverse,FF9321,04,FF9320,06,FF91C1,04,FF91C0,06
+145=Sodom - XAV - Butsumetsu Buster & Tengu Walking (Reversal),FF9181,08,FF9180,00,FF91B9,04,FF91B8,06
+146=Sodom - XAV - Jigoku Scrape & Tengu Walking (Reversal),FF9189,04,FF9188,06,FF91B9,04,FF91B8,06
+147=Sodom - XAV - Kouten Okiagari (Reversal) & Tengu Walking (Reversal),FF9321,04,FF9320,06,FF91B9,04,FF91B8,06
+148=Vega - XAV - Kabe Hari Tsuki & Rolling Crystal Flash,FF9181,08,FF9180,06,FF9183,FF,FF9189,08,FF9188,06,FF918B,FF
+149=Vega - XAV - Kabe Hari Tsuki & Sky High Claw,FF9191,08,FF9190,06,FF9193,FF,FF9189,08,FF9188,06,FF918B,FF
+150=Vega - V - Scarlet Terror & Rolling Crystal Flash,FF9181,08,FF9180,06,FF9183,FF,FF91A1,08,FF91A0,06,FF918B,FF
+151=Vega - V - Scarlet Terror & Sky High Claw,FF9191,08,FF9190,06,FF9193,FF,FF91A1,08,FF91A0,06,FF918B,FF
+152=Zangief - XAV - Flying Powerbomb & Atomic Suplex & Screw Piledriver,FF9189,08,FF9188,00,FF9191,08,FF9190,00
+153=Zangief - XAV - Flying Powerbomb & Atomic Suplex & Banishing Flat,FF9189,08,FF9188,00,FF9181,04,FF9180,06
+Default=0
+
+[187]
+Name=P4 Easy Super Combo
+0=Disabled
+1=Adon - X - Jaguar Varied Assault,FF91A1,04,FF91A0,0A
+2=Adon - A - Jaguar Revolver & Varied Assault,FF91A1,04,FF91A0,0A,FF9199,04,FF9198,0A
+3=Akuma - X - Shun Goku Satsu,FF91C9,02,FF91C8,08
+4=Akuma - A - Tenma Gou Zankuu & Messatsu Gou Hadou,FF91B9,04,FF91B8,0C,FF9199,04,FF9198,12
+5=Akuma - A - Tenma Gou Zankuu & Messatsu Gou Shoryuu,FF91B9,04,FF91B8,0C,FF91A1,04,FF91A0,0A
+6=Akuma - A - Tenma Gou Zankuu & Shun Goku Satsu,FF91B9,04,FF91B8,0C,FF91C9,02,FF91C8,08
+7=Balrog - X - Crazy Buffalo,FF91B9,08,FF91B8,0A,FF91BB,FF
+8=Balrog - A - Crazy Buffalo & Gigaton Blow,FF91C1,08,FF91C0,0A,FF91C3,FF,FF91C9,08,FF91C8,0A,FF91CB,FF
+9=Birdie - XA - The Birdie,FF91D9,08,FF91D8,0A,FF91DB,FF
+10=Birdie - A - Bull Revenger,FF91D1,04,FF91D0,0A
+11=Blanka - X - Ground Shave Rolling,FF91A9,08,FF91A8,0A,FF91AB,FF
+12=Blanka - A - Ground Shave Rolling & Tropical Hazard,FF91A1,08,FF91A0,0A,FF91A3,FF,FF91A9,08,FF91A8,0A,FF91AB,FF
+13=Cammy - XA - Spin Drive Smasher,FF91A1,04,FF91A0,0A
+14=Cammy - A - Reverse Shaft Breaker,FF91B1,04,FF91B0,0A
+15=Cammy - A - Killer Bee Assault,FF91B9,08,FF91B8,0A,FF91BB,FF
+16=Charlie - X - Somersault Justice,FF9199,08,FF9198,0A,FF919B,FF
+17=Charlie - A - Sonic Break & Crossfire Blitz,FF91A1,08,FF91A0,0A,FF91A3,FF,FF9191,08,FF9190,0A,FF9193,FF
+18=Charlie - A - Sonic Break & Somersault Justice,FF91A1,08,FF91A0,0A,FF91A3,FF,FF9199,08,FF9198,0A,FF919B,FF
+19=Chun-Li - X - Senretsu Kyaku,FF91B1,08,FF91B0,0A,FF91B3,FF
+20=Chun-Li - A - Senretsu Kyaku & Kikou Shou,FF91B1,08,FF91B0,0A,FF91B3,FF,FF91C1,04,FF91C0,0C
+21=Chun-Li - A - Hanzan Tenshou Kyaku & Kikou Shou,FF91B9,08,FF91B8,0A,FF91BB,FF,FF91C1,04,FF91C0,0C
+22=Cody - X - Final Destruction,FF91A1,04,FF91A0,0C
+23=Cody - A - Final Destruction & Dead End Irony,FF91A1,04,FF91A0,0C,FF91A9,04,FF91A8,0A
+24=Dan - X - Hisshou Burai Ken,FF91A9,04,FF91A8,0A
+25=Dan - A - Shinkuu Gadou Ken & Kouryuu Rekka & Chahatsu Densetsu,FF9199,04,FF9198,0C,FF91A1,04,FF91A0,0A,FF91C1,04,FF91C0,06
+26=Dan - A - Shinkuu Gadou Ken & Kouryuu Rekka & Chohatsu Shinwa,FF9199,04,FF9198,0C,FF91A1,04,FF91A0,0A,FF91C9,04,FF91C8,06
+27=Dan - A - Shinkuu Gadou & Hisshou Burai Ken & Chahatsu Densetsu,FF9199,04,FF9198,0C,FF91A9,04,FF91A8,0A,FF91C1,04,FF91C0,06
+28=Dan - A - Shinkuu Gadou & Hisshou Burai Ken & Chohatsu Shinwa,FF9199,04,FF9198,0C,FF91A9,04,FF91A8,0A,FF91C9,04,FF91C8,06
+29=Dhalsim - X - Yoga Tempest,FF91C1,04,FF91C0,12
+30=Dhalsim - A - Yoga Strike & Inferno,FF91B9,04,FF91B8,0A,FF91B1,04,FF91B0,0C
+31=Dhalsim - A - Yoga Strike & Stream,FF91B9,04,FF91B8,0A,FF91C9,04,FF91C8,0C
+32=E.Honda - X - Oni Musou,FF9199,08,FF9198,0A,FF919B,FF
+33=E.Honda - A - Oni Musou & Fuji Oroshi,FF9199,08,FF9198,0A,FF919B,FF,FF91A9,08,FF91A8,0A,FF91AB,FF
+34=E.Honda - A - Fuji Oroshi & Orochi Kudaki,FF91B9,08,FF91B8,00,FF91A9,08,FF91A8,0A,FF91AB,FF
+35=Gen - X - Zan'ei,FF91A9,04,FF91A8,0A
+36=Gen - A - Zan'ei & Jakouha & Kouga,FF91A9,04,FF91A8,0A,FF91B1,04,FF91B0,0A,FF91B9,04,FF91B8,0A
+37=Gen - A - Shitenshuu & Jakouha & Kouga,FF91A1,04,FF91A0,0A,FF91B1,04,FF91B0,0A,FF91B9,04,FF91B8,0A
+38=Guy - X - Bushin Musou Renge,FF91B1,04,FF91B0,12
+39=Guy - A - Bushin Gourai Kyaku & Hassou Ken,FF9191,04,FF9190,0A,FF9189,04,FF9188,0A
+40=Guy - A - Bushin Gourai Kyaku & Musou Renge,FF9191,04,FF9190,0A,FF91B1,04,FF91B0,12
+41=Juli - X - Reverse Shaft Breaker,FF91D9,04,FF91D8,0A
+42=Juli - A - Reverse Shaft Breaker & Death Cross Dancing (With Juni),FF91D9,04,FF91D8,0A,FF91D1,02,FF91D0,08
+43=Juli - A - Reverse Shaft Breaker & Psycho Rolling (With Juni),FF91D9,04,FF91D8,0A,FF91E9,04,FF91E8,0A
+44=Juli - A - Spin Drive Smasher & Death Cross Dancing (With Juni),FF91A1,04,FF91A0,0A,FF91D1,02,FF91D0,08
+45=Juli - A - Spin Drive Smasher & Psycho Rolling (With Juni),FF91A1,04,FF91A0,0A,FF91E9,04,FF91E8,0A
+46=Juni - X - Psycho Streak,FF9389,08,FF9388,0A,FF938B,FF
+47=Juni - A - Spin Drive Smasher & Psycho Streak,FF91A1,08,FF91A0,0A,FF91A3,FF,FF9389,08,FF9388,0A,FF938B,FF
+48=Juni - A - Spin Drive Smasher & Death Cross Dancing,FF91A1,08,FF91A0,0A,FF91A3,FF,FF91D1,02,FF91D0,08
+49=Juni - A - Spin Drive Smasher & Psycho Rolling,FF91A1,08,FF91A0,0A,FF91A3,FF,FF91E9,04,FF91E8,0A
+50=Karin - X - Kanzuki-ryuu Shinpikaibyaku,FF91B1,04,FF91B0,0C
+51=Karin - A - Kanzuki-ryuu Shinpikaibyaku & Kou'ou Ken,FF91B1,04,FF91B0,0C,FF91C1,04,FF91C0,0A
+52=Ken - X - Shoryuu Reppa,FF91A1,04,FF91A0,0A
+53=Ken - A - Shoryuu Reppa & Shinryuu Ken,FF91A1,04,FF91A0,0A,FF9199,04,FF9198,0A
+54=Ken - A - Shoryuu Reppa & Shippu Jinrai Kyaku,FF91A1,04,FF91A0,0A,FF91B9,04,FF91B8,0A
+55=M.Bison - X - Knee Press Nightmare,FF91B1,08,FF91B0,0A,FF91B3,FF
+56=M.Bison - A - Psycho Crusher & Knee Press Nightmare,FF91A9,08,FF91A8,0A,FF91AB,FF,FF91B1,08,FF91B0,0A,FF91B3,FF
+57=R.Mika - X - Sardine's Beach Special,FF9181,04,FF9180,0A
+58=R.Mika - A - Sardine's Beach Special & Rainbow Hip Rush,FF9181,04,FF9180,0A,FF91B1,04,FF91B0,0A
+59=R.Mika - A - Sardine's Beach Special & Heavenly Dynamite,FF9181,04,FF9180,0A,FF91B9,08,FF91B8,00
+60=Rolento - X - Take no Prisoner,FF91A9,04,FF91A8,0C
+61=Rolento - A - Steel Rain & Take no Prisoner,FF9199,04,FF9198,0A,FF91A9,04,FF91A8,0C
+62=Rolento - A - Steel Rain & Mine Sweeper,FF9199,04,FF9198,0A,FF91A1,04,FF91A0,0C
+63=Rose - X - Aura Soul Throw,FF9199,04,FF9198,0A
+64=Rose - A - Soul Illusion & Aura Soul Throw,FF91A9,04,FF91A8,0A,FF9199,04,FF9198,0A
+65=Rose - A - Soul Illusion & Aura Soul Spark,FF91A9,04,FF91A8,0A,FF91A1,04,FF91A0,0C
+66=Ryu - X - Shinkuu Hadou Ken,FF9199,04,FF9198,0C
+67=Ryu - A - Shinkuu Hadou Ken & Tatsumaki Senpuu Kyaku,FF9199,04,FF9198,0C,FF91A1,04,FF91A0,0A
+68=Ryu - A - Shinkuu Hadou Ken & Shin Shoryuu Ken,FF9199,04,FF9198,0C,FF91B9,04,FF91B8,0A
+69=Sagat - X - Tiger Genocide,FF91A9,04,FF91A8,0A
+70=Sagat - A - Angry Charge & Tiger Cannon & Raid,FF91B9,04,FF91B8,06,FF91B1,04,FF91B0,0C,FF9199,04,FF9198,0A
+71=Sagat - A - Angry Charge & Tiger Cannon & Genocide,FF91B9,04,FF91B8,06,FF91B1,04,FF91B0,0C,FF91A9,04,FF91A8,0A
+72=Sakura - X - Midare-Zakura,FF91A1,04,FF91A0,0A
+73=Sakura - A - Shinkuu Hadou Ken & Midare-Zakura,FF9199,04,FF9198,0C,FF91A1,04,FF91A0,0A
+74=Sakura - A - Shinkuu Hadou Ken & Haru Ichiban,FF9199,04,FF9198,0C,FF91A9,04,FF91A8,0A
+75=Sodom - XA - Meido no Miyage,FF9199,04,FF9198,0C
+76=Sodom - A - Ten Chuu Satsu,FF9191,08,FF9190,00
+77=Vega - X - Hari Tsuki Rolling,FF9199,08,FF9198,0A,FF919B,FF
+78=Vega - A - Scarlet Mirage & Red Impact,FF91B1,08,FF91B0,0A,FF91B3,FF,FF91A9,08,FF91A8,0A,FF91AB,FF
+79=Vega - A - Hari Tsuki Rolling & Red Impact,FF91B1,08,FF91B0,0A,FF91B3,FF,FF9199,08,FF9198,0A,FF919B,FF
+80=Zangief - X - Final Atomic Buster,FF9199,08,FF9198,0A
+81=Zangief - A - Final Atomic Buster & Aerial Russian Slam,FF9199,08,FF9198,0A,FF91A1,04,FF91A0,0A
+Default=0
+
+[188]
+Name=Defeated Enemies
+0=Disabled
+1=All,FF8540,FF,FF8940,FF,FF8541,FF,FF8941,FF,FF8542,FF,FF8942,FF,FF8543,FF,FF8943,FF
+2=None,FF8540,00,FF8940,00,FF8541,00,FF8941,00,FF8542,00,FF8942,00,FF8543,00,FF8943,00
+Default=0
+
+[189]
+Name=BackGround Select
+0=Disabled
+1=Adon,FF8100,0A
+2=Akuma,FF8100,04
+3=Balrog,FF8100,2A
+4=Birdie,FF8100,10
+5=Blanka,FF8100,32
+6=Cammy,FF8100,2C
+7=Charlie,FF8100,06
+8=Chun-Li,FF8100,08
+9=Cody,FF8100,36
+10=Dan,FF8100,18
+11=Dhalsim,FF8100,1E
+12=E.Honda,FF8100,30
+13=Gen,FF8100,22
+14=Guy,FF8100,0E
+15=Juli,FF8100,3C
+16=Juni,FF8100,3E
+17=Karin,FF8100,3A
+18=Ken,FF8100,02
+19=M.Bison,FF8100,14
+20=R.Mika,FF8100,34
+21=Rolento,FF8100,1C
+22=Rose,FF8100,12
+23=Ryu,FF8100,00
+24=Sagat,FF8100,16
+25=Sakura,FF8100,1A
+26=Sodom,FF8100,0C
+27=Vega,FF8100,38
+28=Zangief,FF8100,20
+Default=0
+
+[190]
+Name=Stage Select
+0=Disabled
+1=Stage 1,FF8114,00
+2=Stage 2,FF8114,01
+3=Stage 3,FF8114,02
+4=Stage 4,FF8114,03
+5=Stage 5,FF8114,04
+6=Stage 6,FF8114,05
+7=Stage 7,FF8114,06
+8=Stage 8,FF8114,07
+9=Stage 9,FF8114,08
+10=Stage 10,FF8114,09
+Default=0
+

@@ -1,0 +1,63 @@
+[0]
+Name=Infinite Time Limit
+0=Off,0,0
+1=On,1084A9,60
+
+[1]
+Name=Infinite Health(1st Battle Only)
+0=Off,0,0
+1=P1,100694,60,102E94,60,105994,60
+2=P2,100A94,60,107C94,60,101A94,60
+3=P1&P2,100694,60,102E94,60,105994,60,100A94,60,107C94,60,101A94,60
+
+[2]
+Name=Red Health(1st Battle Only)
+0=Off,0,0
+1=P1,100694,60,102E94,3C,105994,3C
+2=P2,100A94,3C,107C94,3C,101A94,3C
+3=P1&P2,100694,3C,102E94,3C,105994,3C,100A94,3C,107C94,3C,101A94,3C
+
+[3]
+Name=P1 Character(1st Select Only)
+0=Off,0,0
+1=Hayate,102DD7,00
+2=Eagle,102DD7,01
+3=Gozu,102DD7,02
+4=Mezu,102DD7,03
+5=Carol,102DD7,04
+6=Nicora,102DD7,05
+7=Joker,102DD7,06
+8=Chan,102DD7,07
+9=Gordon,102DD7,08
+10=Shishiou,102DD7,09
+11=Sin-Shishiou,102DD7,0A
+
+[4]
+Name=P2 Character(1st Select Only)
+0=Off,0,0
+1=Hayate,102DD6,00
+2=Eagle,102DD6,01
+3=Gozu,102DD6,02
+4=Mezu,102DD6,03
+5=Carol,102DD6,04
+6=Nicora,102DD6,05
+7=Joker,102DD6,06
+8=Chan,102DD6,07
+9=Gordon,102DD6,08
+10=Shishiou,102DD6,09
+11=Sin-Shishiou,102DD6,0A
+
+[5]
+Name=1st Round Stage
+0=Off,0,0
+1=Hayate,109668,00
+2=Eagle,109668,01
+3=Gozu,109668,02
+4=Mezu,109668,03
+5=Carol,109668,04
+6=Nicora,109668,05
+7=Joker,109668,06
+8=Chan,109668,07
+9=Gordon,109668,08
+10=Shishiou,109668,09
+11=Sin-Shishiou,109668,0A

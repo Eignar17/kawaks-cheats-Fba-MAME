@@ -1,0 +1,343 @@
+[0]
+Name=Infinite Time*
+0=Disabled
+1=Enabled,FF8ACF,99
+Default=0
+
+[1]
+Name=Game Speed
+0=Disabled
+1=Normal,FF8428,00
+2=Turbo,FF8428,01
+3=Max,FF82E0,01
+Default=0
+
+[2]
+Name=Move Round Announce
+0=Disabled
+1=Enabled,FF82E6,00
+Default=0
+
+[3]
+Name=P1 Inf Energy*
+0=Disabled
+1=Enabled,FF83F0,90,FF8582,90
+Default=0
+
+[4]
+Name=P1 Invincible
+0=Disabled
+1=Enabled,FF8584,01
+Default=0
+
+[5]
+Name=P1 Instant Kill P2
+0=Disabled
+1=Enabled,FF86F1,FF
+Default=0
+
+[6]
+Name=P1 1 Win Match
+0=Disabled
+1=Enabled,FF8657,02
+Default=0
+
+[7]
+Name=P1 Air Moves
+0=Disabled
+1=Enabled,FF8546,00
+Default=0
+
+[8]
+Name=P1 Action Speed Up
+0=Disabled
+1=Enabled,FF83DE,01
+Default=0
+
+[9]
+Name=P1 No Faint
+0=Disabled
+1=Enabled,FF8426,01
+Default=0
+
+[10]
+Name=P1 No Walking
+0=Disabled
+1=Enabled,FF83F6,FF
+Default=0
+
+[11]
+Name=P1 No Hit Stop
+0=Disabled
+1=Enabled,FF840C,00
+Default=0
+
+[12]
+Name=P1 Endless Combo
+0=Disabled
+1=Enabled,FF8711,00
+Default=0
+
+[13]
+Name=P1 Guard Breaker
+0=Disabled
+1=Enabled,FF8710,0C
+Default=0
+
+[14]
+Name=P1 Heavy Hit Wait
+0=Disabled
+1=Enabled,FF8302,00
+Default=0
+
+[15]
+Name=P1 Inf Fireball
+0=Disabled
+1=Enabled,FF859B,00,FF859A,00
+Default=0
+
+[16]
+Name=P1 No Shot Limit
+0=Disabled
+1=Enabled,FF8859,00
+Default=0
+
+[17]
+Name=P1 Quick Shot
+0=Disabled
+1=Enabled,FF83E5,01
+Default=0
+
+[18]
+Name=P1 Quick Charge
+0=Disabled
+1=Blanka,FF8456,01
+2=Chun-Li,FF8446,01
+3=E.Honda,FF8459,01
+4=Guile,FF8446,01,FF844C,01
+Default=0
+
+[19]
+Name=P1 Direction
+0=Disabled
+1=Left,FF8585,00
+2=Right,FF8585,01
+Default=0
+
+[20]
+Name=P1 Controller Mode
+0=Disabled
+1=User Play,FF8655,01
+2=Computer Play,FF8655,00
+Default=0
+
+[21]
+Name=P1 Char Select
+0=Disabled
+1=Blanka,FF8656,02
+2=Chun-Li,FF8656,05
+3=Dhalsim,FF8656,07
+4=E.Honda,FF8656,01
+5=Guile,FF8656,03
+6=Ken,FF8656,04
+7=Ryu,FF8656,00
+8=Zangief,FF8656,06
+Default=0
+
+[22]
+Name=P1 Easy Moves
+0=Disabled
+1=Blanka - Rolling Attack,FF8457,06,FF8459,06
+2=Blanka - Electric Thunder,FF8463,0A,FF8465,0A,FF8467,0A
+3=Chun-Li - Spinning Bird Kick,FF8447,08,FF8448,06
+4=Chun-Li - Hyakuretsu Kyaku,FF8461,09,FF8463,09,FF8465,09
+5=Dhalsim - Yoga Fire,FF8457,04,FF8458,06
+6=Dhalsim - Yoga Flame,FF845F,04,FF8460,0A
+7=E.Honda - Super Zutsuki,FF8456,06,FF8458,06
+8=E.Honda - Hyakuretsu Harite,FF845F,07,FF8461,07,FF8463,07
+9=Guile - Sonic Boom & Somersault Kick,FF8447,08,FF8448,01,FF844D,08,FF844E,01
+10=Ken - Hadou Ken & Tatsumaki Senpuu Kyaku,FF8457,06,FF8456,06,FF845F,06,FF845E,06
+11=Ken - Shoryuu Ken & Tatsumaki Senpuu Kyaku,FF8467,06,FF8466,06,FF845F,06,FF845E,06
+12=Ryu - Hadou Ken & Tatsumaki Senpuu Kyaku,FF8457,06,FF8456,06,FF845F,06,FF845E,06
+13=Ryu - Shoryuu Ken & Tatsumaki Senpuu Kyaku,FF8467,06,FF8466,06,FF845F,06,FF845E,06
+14=Zangief - Screw Piledriver,FF8447,08,FF8449,06
+Default=0
+
+[23]
+Name=P2 Inf Energy*
+0=Disabled
+1=Enabled,FF86F0,90,FF8882,90
+Default=0
+
+[24]
+Name=P2 Invincible
+0=Disabled
+1=Enabled,FF8884,01
+Default=0
+
+[25]
+Name=P2 Instant Kill P1
+0=Disabled
+1=Enabled,FF83F1,FF
+Default=0
+
+[26]
+Name=P2 1 Win Match
+0=Disabled
+1=Enabled,FF8957,02
+Default=0
+
+[27]
+Name=P2 Air Moves
+0=Disabled
+1=Enabled,FF8846,00
+Default=0
+
+[28]
+Name=P2 Action Speed Up
+0=Disabled
+1=Enabled,FF86DE,01
+Default=0
+
+[29]
+Name=P2 No Faint
+0=Disabled
+1=Enabled,FF8726,01
+Default=0
+
+[30]
+Name=P2 No Walking
+0=Disabled
+1=Enabled,FF86F6,FF
+Default=0
+
+[31]
+Name=P2 No Hit Stop
+0=Disabled
+1=Enabled,FF870C,00
+Default=0
+
+[32]
+Name=P2 Endless Combo
+0=Disabled
+1=Enabled,FF8411,00
+Default=0
+
+[33]
+Name=P2 Guard Breaker
+0=Disabled
+1=Enabled,FF8410,0C
+Default=0
+
+[34]
+Name=P2 Heavy Hit Wait
+0=Disabled
+1=Enabled,FF8602,00
+Default=0
+
+[35]
+Name=P2 Inf Fireball
+0=Disabled
+1=Enabled,FF889B,00,FF889A,00
+Default=0
+
+[36]
+Name=P2 No Shot Limit
+0=Disabled
+1=Enabled,FF8B59,00
+Default=0
+
+[37]
+Name=P2 Quick Shot
+0=Disabled
+1=Enabled,FF86E5,01
+Default=0
+
+[38]
+Name=P2 Quick Charge
+0=Disabled
+1=Blanka,FF8756,01
+2=Chun-Li,FF8746,01
+3=E.Honda,FF8759,01
+4=Guile,FF8746,01,FF874C,01
+Default=0
+
+[39]
+Name=P2 Direction
+0=Disabled
+1=Left,FF8885,00
+2=Right,FF8885,01
+Default=0
+
+[40]
+Name=P2 Controller Mode
+0=Disabled
+1=User Play,FF8955,01
+2=Computer Play,FF8955,00
+Default=0
+
+[41]
+Name=P2 Char Select
+0=Disabled
+1=Blanka,FF8956,02
+2=Chun-Li,FF8956,05
+3=Dhalsim,FF8956,07
+4=E.Honda,FF8956,01
+5=Guile,FF8956,03
+6=Ken,FF8956,04
+7=Ryu,FF8956,00
+8=Zangief,FF8956,06
+Default=0
+
+[42]
+Name=P2 Easy Moves
+0=Disabled
+1=Blanka - Rolling Attack,FF8757,06,FF8759,06
+2=Blanka - Electric Thunder,FF8763,0A,FF8765,0A,FF8767,0A
+3=Chun-Li - Spinning Bird Kick,FF8747,08,FF8748,06
+4=Chun-Li - Hyakuretsu Kyaku,FF8761,09,FF8763,09,FF8765,09
+5=Dhalsim - Yoga Fire,FF8757,04,FF8758,06
+6=Dhalsim - Yoga Flame,FF875F,04,FF8760,0A
+7=E.Honda - Super Zutsuki,FF8756,06,FF8758,06
+8=E.Honda - Hyakuretsu Harite,FF875F,07,FF8761,07,FF8763,07
+9=Guile - Sonic Boom & Somersault Kick,FF8747,08,FF8748,01,FF874D,08,FF874E,01
+10=Ken - Hadou Ken & Tatsumaki Senpuu Kyaku,FF8757,06,FF8756,06,FF875F,06,FF875E,06
+11=Ken - Shoryuu Ken & Tatsumaki Senpuu Kyaku,FF8767,06,FF8766,06,FF875F,06,FF875E,06
+12=Ryu - Hadou Ken & Tatsumaki Senpuu Kyaku,FF8757,06,FF8756,06,FF875F,06,FF875E,06
+13=Ryu - Shoryuu Ken & Tatsumaki Senpuu Kyaku,FF8767,06,FF8766,06,FF875F,06,FF875E,06
+14=Zangief - Screw Piledriver,FF8747,08,FF8749,06
+Default=0
+
+[43]
+Name=BackGround Select
+0=Disabled
+1=Balrog,FFDD7E,0A
+2=Blanka,FFDD7E,02
+3=Chun-Li,FFDD7E,05
+4=Dhalsim,FFDD7E,07
+5=E.Honda,FFDD7E,01
+6=Guile,FFDD7E,03
+7=Ken,FFDD7E,04
+8=M.Bison,FFDD7E,08
+9=Ryu,FFDD7E,00
+10=Sagat,FFDD7E,09
+11=Vega,FFDD7E,0B
+12=Zangief,FFDD7E,06
+Default=0
+
+[44]
+Name=Stage Select
+0=Disabled
+1=Stage 1,FF89CC,00
+2=Stage 2,FF89CC,01
+3=Stage 3,FF89CC,02
+4=Stage 4,FF89CC,03
+5=Stage 5,FF89CC,04
+6=Stage 6,FF89CC,05
+7=Stage 7,FF89CC,06
+8=Stage 8,FF89CC,07
+9=Stage 9,FF89CC,08
+10=Stage 10,FF89CC,09
+11=Stage 11,FF89CC,0A
+Default=0
+

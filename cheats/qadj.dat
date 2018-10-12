@@ -1,0 +1,36 @@
+[0]
+Name=P1 Inf Vitality
+0=Disabled
+1=Enabled,FF81A6,05
+Default=0
+
+[1]
+Name=P2 Inf Vitality
+0=Disabled
+1=Enabled,FF82A6,05
+Default=0
+
+[2]
+Name=One Correct Answer Ends Quiz
+0=Disabled
+1=Enabled,FF8C0C,01
+Default=0
+
+[3]
+Name=Show Correct Answer
+0=Disabled
+1=Enabled,FF884A,84
+Default=0
+
+[4]
+Name=Steps
+0=Disabled
+1=Always 1,FF8CCF,01
+2=Always 2,FF8CCF,02
+3=Always 3,FF8CCF,03
+4=Always 4,FF8CCF,04
+5=Always 5,FF8CCF,05
+6=Always 6,FF8CCF,06
+7=Always 50,FF8CCF,32
+Default=0
+

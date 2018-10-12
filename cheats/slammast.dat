@@ -1,0 +1,150 @@
+[0]
+Name=Region
+0=Disabled
+1=Japan,FF9CE6,00
+2=USA,FF9CE6,01
+3=ETC,FF9CE6,02
+4=Asia,FF9CE6,03
+5=Hispanic,FF9CE6,04
+Default=0
+
+[1]
+Name=Infinite Time
+0=Disabled
+1=Enabled,FFA0CA,01
+Default=0
+
+[2]
+Name=P1 Inf Energy
+0=Disabled
+1=Enabled,FF9156,FF
+Default=0
+
+[3]
+Name=P1 King of Ring
+0=Disabled
+1=No Titles,FF9275,00
+2=6 Titles,FF9275,06
+3=9 Titles,FF9275,09
+4=18 Titles,FF9275,12
+Default=0
+
+[4]
+Name=P1 Char Select
+0=Disabled
+1=Biff,FFA099,01
+2=Grater,FFA099,07
+3=Gunloc,FFA099,02
+4=Haggar,FFA099,06
+5=Jumbo,FFA099,00
+6=Oni,FFA099,03
+7=Rasta,FFA099,08
+8=Scorpion,FFA099,09
+9=Stingray,FFA099,05
+10=Titan,FFA099,04
+Default=0
+
+[5]
+Name=P2 Inf Energy
+0=Disabled
+1=Enabled,FF9356,FF
+Default=0
+
+[6]
+Name=P2 King of Ring
+0=Disabled
+1=No Titles,FF9274,00
+2=6 Titles,FF9274,06
+3=9 Titles,FF9274,09
+4=18 Titles,FF9274,12
+Default=0
+
+[7]
+Name=P2 Char Select
+0=Disabled
+1=Biff,FFA098,01
+2=Grater,FFA098,07
+3=Gunloc,FFA098,02
+4=Haggar,FFA098,06
+5=Jumbo,FFA098,00
+6=Oni,FFA098,03
+7=Rasta,FFA098,08
+8=Scorpion,FFA098,09
+9=Stingray,FFA098,05
+10=Titan,FFA098,04
+Default=0
+
+[8]
+Name=P3 Inf Energy
+0=Disabled
+1=Enabled,FF9556,FF
+Default=0
+
+[9]
+Name=P3 King of Ring
+0=Disabled
+1=No Titles,FF9273,00
+2=6 Titles,FF9273,06
+3=9 Titles,FF9273,09
+4=18 Titles,FF9273,12
+Default=0
+
+[10]
+Name=P3 Char Select
+0=Disabled
+1=Biff,FFA097,01
+2=Grater,FFA097,07
+3=Gunloc,FFA097,02
+4=Haggar,FFA097,06
+5=Jumbo,FFA097,00
+6=Oni,FFA097,03
+7=Rasta,FFA097,08
+8=Scorpion,FFA097,09
+9=Stingray,FFA097,05
+10=Titan,FFA097,04
+Default=0
+
+[11]
+Name=P4 Inf Energy
+0=Disabled
+1=Enabled,FF9756,FF
+Default=0
+
+[12]
+Name=P4 King of Ring
+0=Disabled
+1=No Titles,FF9272,00
+2=6 Titles,FF9272,06
+3=9 Titles,FF9272,09
+4=18 Titles,FF9272,12
+Default=0
+
+[13]
+Name=P4 Char Select
+0=Disabled
+1=Biff,FFA096,01
+2=Grater,FFA096,07
+3=Gunloc,FFA096,02
+4=Haggar,FFA096,06
+5=Jumbo,FFA096,00
+6=Oni,FFA096,03
+7=Rasta,FFA096,08
+8=Scorpion,FFA096,09
+9=Stingray,FFA096,05
+10=Titan,FFA096,04
+Default=0
+
+[14]
+Name=Stage Select
+0=Disabled
+1=Stage 1,FFA095,01
+2=Stage 2,FFA095,02
+3=Stage 3,FFA095,03
+4=Stage 4,FFA095,04
+5=Stage 5,FFA095,05
+6=Stage 6,FFA095,06
+7=Stage 7,FFA095,07
+8=Stage 8,FFA095,08
+9=Stage 9,FFA095,09,FF9275,02
+Default=0
+

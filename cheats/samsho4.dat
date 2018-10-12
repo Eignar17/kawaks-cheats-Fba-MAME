@@ -1,0 +1,142 @@
+[0]
+Name=Infinite Round Time Limit
+0=Off,0,0
+1=On,108369,60
+
+
+[1]
+Name=P1 Health Gauge
+0=Off,0,0
+1=2 Gauge,108442,FC,1055C0,FC
+2=1 Gauge,108442,7F,1055C0,7F
+3=Red,108442,4F,1055C0,4F
+
+
+[2]
+Name=P2 Health Gauge
+0=Off,0,0
+1=2 Gauge,108642,FC,1055C2,FC
+2=1 Gauge,108642,7F,1055C2,7F
+3=Red,108642,4F,1055C2,4F
+
+
+[3]
+Name=P1 Power Gauge
+0=Off,0,0
+1=Nothing,10844D,00
+2=Max,10844D,40
+3=No Decrease,108421,FF
+4=Max & No Decrease,10844D,40,108421,FF
+5=High Speed Decrease,108421,01
+
+
+[4]
+Name=P2 Power Gauge
+0=Off,0,0
+1=Nothing,10864D,00
+2=Max,10864D,40
+3=No Decrease,108621,FF
+4=Max & No Decrease,10864D,40,108621,FF
+5=High Speed Decrease,108621,01
+
+
+[5]
+Name=P1 Mode Select
+0=Off,0,0
+1=Normal,108558,00,108559,00
+2=Angry (System),108558,FF,108559,FF
+3=Angry (Endless),108558,FF,108559,FF,108553,FF,108553,03
+
+
+[6]
+Name=P1 Player Technique Type
+0=Off,0,0
+1=SLASH,108325,00
+2=BUST,108325,01
+
+
+[7]
+Name=P1 Player Level
+0=Off,0,0
+1=Bigginers Class,108327,00
+2=Medium Grade,108327,01
+3=Upper Grade,108327,02
+
+
+[8]
+Name=P1 Attack Mode
+0=Off,0,0
+1=Equip Sword,10841C,02
+2=Bare Hands,10841C,03
+
+
+[9]
+Name=P1 Character Select
+0=Off,0,0
+1=Haohmaru,108323,00
+2=Nakoruru,108323,01
+3=Rimururu,108323,02
+4=Hanzo Hattori,108323,03
+5=Galford,108323,04
+6=Kyoshiro Senryo,108323,05
+7=Ukyo Tachibana,108323,06
+8=Genjuro Kibagami,108323,07
+9=Basara,108323,08
+10=Shizumaru Hisame,108323,09
+11=Gaira Kafuin,108323,0A
+12=Amakura Shiro,108323,0B
+13=Jubei Yagyu,108323,0C
+14=Zankurou,108323,0D
+15=Charlotte,108323,0E
+16=Tam Tam,108323,0F
+17=Kazuki Kazama,108323,10
+18=Sogetsi Kazama,108323,11
+
+
+[10]
+Name=P2 Character Select
+0=Off,0,0
+1=Haohmaru,108322,00
+2=Nakoruru,108322,01
+3=Rimururu,108322,02
+4=Hanzo Hattori,108322,03
+5=Galford,108322,04
+6=Kyoshiro Senryo,108322,05
+7=Ukyo Tachibana,108322,06
+8=Genjuro Kibagami,108322,07
+9=Basara,108322,08
+10=Shizumaru Hisame,108322,09
+11=Gaira Kafuin,108322,0A
+12=Amakura Shiro,108322,0B
+13=Jubei Yagyu,108322,0C
+14=Zankurou,108322,0D
+15=Charlotte,108322,0E
+16=Tam Tam,108322,0F
+17=Kazuki Kazama,108322,10
+18=Sogetsi Kazama,108322,11
+
+
+[11]
+Name=Special Command
+0=Off,0,0
+1=P1 Everytime Enable,109430,94,109431,C8,10854F,08,10C7EA,01,10C7EB,00,10C7EC,03
+
+
+[12]
+Name=P1 Kazuki Kazama's Fire Stock
+0=Off,0,0
+1=Nothing,108537,00
+2=1,108537,01
+3=2,108537,02
+4=3,108537,03
+
+
+[13]
+Name=Winning Points
+0=Off,0,0
+1=P1 0win,108463,00
+2=P1 2win,108463,02
+3=P2 0win,108663,00
+4=P2 2win,108663,02
+5=P1&P2 0win,108463,00,108663,00
+6=P1&P2 2win,108463,02,108663,02
