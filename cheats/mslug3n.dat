@@ -1,0 +1,139 @@
+[0]
+Name=Infinite Time Limit
+0=Off,0,0
+1=On,10ED79,63
+
+[1]
+Name=Infinite Lives
+0=Off,0,0
+1=P1,1002BA,63
+2=P2,10036A,63
+3=P1&P2,1002BA,63,10036A,63
+
+[2]
+Name=Infinite Bombs
+0=Off,0,0
+1=P1,10EAF4,63
+2=P2,10EB02,63
+3=P1&P2,10EAF4,63,10EB02,63
+
+[3]
+Name=P1 Invulnerabirity
+0=System,0,0
+1=Off,100580,00,100556,00
+2=On,100580,FF
+3=On (No Flash),100580,FF,100556,40
+
+[4]
+Name=P2 Invulnerabirity
+0=System,0,0
+1=Off,100630,00,100606,00
+2=On,100630,FF
+3=On (No Flash),100630,FF,100606,40
+
+[5]
+Name=Infinite Extra Shot
+0=Off,0,0
+1=P1,10EAFA,E7,10EAFB,03
+2=P2,10EB08,E7,10EB09,03
+3=P1&P2,10EAFA,E7,10EAFB,03,10EB08,E7,10EB09,03
+
+[6]
+Name=P1 Extra Shot Select
+0=Off,0,0
+1=[N] Hand Gun,10EAF2,00,10EAF3,FF
+2=[S] Shot Gun,10EAF2,02,10EAF3,01
+3={S} Shot Gun (Large),10EAF2,07,10EAF3,01
+4=[R] Rocket Launcher,10EAF2,03,10EAF3,02
+5={R} Rocket Launcher (Large),10EAF2,08,10EAF3,02
+6=[F] Frame Shot,10EAF2,04,10EAF3,01
+7={F} Frame Shot (LargeT),10EAF2,09,10EAF3,01
+8=[H] Heavy Machingun,10EAF2,05,10EAF3,FF
+9={H} Heavy Machingun (Larget),10EAF2,0A,10EAF3,FF
+10=[L] Laser Shot,10EAF2,06,10EAF3,FF
+11={L}Laser Shot,10EAF2,0B,10EAF3,FF
+12=[C] Enemy Chaser,10EAF2,0C,10EAF3,03
+13=[I] Iron Lizard,10EAF2,0D,10EAF3,02
+14=[D] Drop Shot,10EAF2,0E,10EAF3,03
+15=[G] Super Granade,10EAF2,0F,10EAF3,02
+16=[?] Thunder Cloud,10EAF2,11,10EAF3,01
+17=[?] Slug's Cannon,10EAF2,01
+
+[7]
+Name=P2 Extra Shot Select
+0=Off,0,0
+1=[N] Hand Gun,10EB00,00,10EB01,FF
+2=[S] Shot Gun,10EB00,02,10EB01,01
+3={S} Shot Gun (Large),10EB00,07,10EB01,01
+4=[R] Rocket Launcher,10EB00,03,10EB01,02
+5={R} Rocket Launcher (Large),10EB00,08,10EB01,02
+6=[F] Frame Shot,10EB00,04,10EB01,01
+7={F} Frame Shot (LargeT),10EB00,09,10EB01,01
+8=[H] Heavy Machingun,10EB00,05,10EB01,FF
+9={H} Heavy Machingun (Larget),10EB00,0A,10EB01,FF
+10=[L] Laser Shot,10EB00,06,10EB01,FF
+11={L}Laser Shot,10EB00,0B,10EB01,FF
+12=[C] Enemy Chaser,10EB00,0C,10EB01,03
+13=[I] Iron Lizard,10EB00,0D,10EB01,02
+14=[D] Drop Shot,10EB00,0E,10EB01,03
+15=[G] Super Granade,10EB00,0F,10EB01,02
+16=[?] Thunder Cloud,10EB00,11,10EB01,01
+17=[?] Slug's Cannon,10E800,01
+
+[8]
+Name=Infinite Slug's Energy (Unperfect)
+0=Off,0,0
+1=P1 On,10172A,30
+
+[9]
+Name=Infinite Slug's Cannon
+0=Off,0,0
+1=P1,10EC38,63
+2=P2,10EC64,63
+3=P1&P2,10EC38,63,10EC64,63
+
+[10]
+Name=Extra Shot Limit
+0=Off,0,0
+1=P1 Limit Off,10EAF0,00
+2=P2 Limit Off,10EB01,00
+3=P1&P2 Limit Off,10EAF0,00,10EB01,00
+
+[11]
+Name=Bomb Shot Limit
+0=Off,0,0
+1=P1 Limit Off,10EAF1,00
+2=P2 Limit Off,10EAFF,00
+3=P1&P2 Limit Off,10EAF1,00,10EAFF,00
+
+[12]
+Name=P1 Body Type
+0=Off,0,0
+1=Human Type1,10058E,00,10EAF6,00,10EAF7,00
+2=Human Type2,10058E,01,10EAF6,00,10EAF7,00
+3=Fat,10058E,02,10EAF6,FF,10EAF7,FF
+4=Mummy,10058E,03,10EAF6,00,10EAF7,00
+5=Swim Type1,10058E,04,10EAF6,00,10EAF7,00
+6=Swim Type2,10058E,05,10EAF6,00,10EAF7,00
+7=Snowman,10058E,06,10EAF6,00,10EAF7,00
+8=Zombie,10058E,07,10EAF6,00,10EAF7,00
+
+[13]
+Name=P2 Body Type
+0=Off,0,0
+1=Human Type1,10063E,00,10EB04,00,10EB05,00
+2=Human Type2,10063E,01,10EB04,00,10EB05,00
+3=Fat,10063E,02,10EB04,FF,10EB05,FF
+4=Mummy,10063E,03,10EB04,00,10EB05,00
+5=Swim Type1,10063E,04,10EB04,00,10EB05,00
+6=Swim Type2,10063E,05,10EB04,00,10EB05,00
+7=Snowman,10063E,06,10EB04,00,10EB05,00
+8=Zombie,10063E,07,10EB04,00,10EB05,00
+
+[14]
+Name=Saved 15 Prisoners
+0=Off,0,0
+1=P1,10ED04,0f
+2=P2,10ED0C,0f
+3=P1&P2,10ED04,0f,10ED0C,0f
+

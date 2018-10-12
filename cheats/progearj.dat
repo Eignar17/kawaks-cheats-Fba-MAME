@@ -1,0 +1,100 @@
+[0]
+Name=P1 生命数无限
+0=OFF,0,0
+1=ON,FF3F72,0A
+Default=1
+
+[1]
+Name=P1 炸弹无限
+0=OFF,0,0
+1=ON,FF4304,05
+Default=1
+
+[2]
+Name=P1 无敌
+0=OFF,0,0
+1=ON,FF4321,FF
+Default=1
+
+[3]
+Name=P1 火力最大
+0=OFF,0,0
+1=ON,FF4302,08
+Default=1
+
+[4]
+Name=P1 活跃度全满
+0=OFF,0,0
+1=ON,FF3782,48
+Default=1
+
+[5]
+Name=P1 安全度全满
+0=OFF,0,0
+1=ON,FF3784,48
+Default=1
+
+[6]
+Name=P1 好感度全满
+0=OFF,0,0
+1=ON,FF3786,48
+Default=1
+
+[7]
+Name=P2 生命数无限
+0=OFF,0,0
+1=ON,FF3F74,0A
+Default=0
+
+[8]
+Name=P2 炸弹无限
+0=OFF,0,0
+1=ON,FF4364,05
+Default=0
+
+[9]
+Name=P2 无敌
+0=OFF,0,0
+1=ON,FF4381,FF
+Default=0
+
+[10]
+Name=P2 火力最大
+0=OFF,0,0
+1=ON,FF4362,08
+Default=0
+
+[11]
+Name=P2 活跃度全满
+0=OFF,0,0
+1=ON,FF3788,48
+Default=0
+
+[12]
+Name=P2 安全度全满
+0=OFF,0,0
+1=ON,FF378A,48
+Default=0
+
+[13]
+Name=P2 好感度全满
+0=OFF,0,0
+1=ON,FF378C,48
+Default=0
+[Region]
+Default=0
+
+[14]
+Name=Open Shadow Stages
+0=OFF,0,0
+1=On,FF3EB4,0,FF3EB8,0
+Default=1
+
+[15]
+Name=Select The End
+0=OFF,0,0
+1=P1 Perfect,FF3782,48,FF3784,48,FF3786,48
+2=P1 Bad,FF3782,0,FF3784,0,FF3786,0
+3=P2 Perfect,FF3788,48,FF378A,48,FF378C,48
+4=P2 Bad,FF3788,0,FF378A,0,FF378C,0
+Default=1

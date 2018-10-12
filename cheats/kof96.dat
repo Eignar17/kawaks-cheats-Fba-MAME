@@ -1,0 +1,142 @@
+[0]
+Name=Infinite Time Limit
+0=Off,0,0
+1=Infinite Count Value,10A83B,60
+2=Infinite Cycle Timer,10A83A,2F
+
+[1]
+Name=P1 Health Gauge
+0=Off,0,0
+1=Infinite,108238,67
+2=Red,108238,20
+
+[2]
+Name=P2 Health Gauge
+0=Off,0,0
+1=Infinite,108438,67
+2=Red,108438,20
+
+[3]
+Name=P1 Power Gauge
+0=Off,0,0
+1=Nothing,1081EB,00
+2=Maximum(Extra),1081E9,80
+3=Maximum(Advanced),1081EB,40,1081E9,80
+
+[4]
+Name=P2 Power Gauge
+0=Off,0,0
+1=Nothing,1083EB,00
+2=Maximum(Extra),1083E9,80
+3=Maximum(Advanced),1083EB,40,1083E9,80
+
+[5]
+Name=P1 Power Stock
+0=Off,0,0
+1=Nothing,1082E2,00
+2=3 Stocks,1082E2,03
+
+[6]
+Name=P2 Power Stock
+0=Off,0,0
+1=Nothing,1084E2,00
+2=3 Stocks,1084E2,03
+
+[7]
+Name=P1 Character 1
+0=Off,0,0
+1=Kyo Kusanagi,10A847,00
+2=Benimaru Nikaidou,10A847,01
+3=Goro Daimon,10A847,02
+4=Terry Bogard,10A847,03
+5=Andy Bogard,10A847,04
+6=Joe Higashi,10A847,05
+7=Ryo Sakazaki,10A847,06
+8=Robert Garcia,10A847,07
+9=Yuri Sakazaki,10A847,08
+10=Leona,10A847,09
+11=Ralf,10A847,0A
+12=Clark,10A847,0B
+13=Atena Asamiya,10A847,0C
+14=Sie Kensou,10A847,0D
+15=Chin Gentsai,10A847,0E
+16=Kasumi Todo,10A847,0F
+17=Mai Siranui,10A847,10
+18=King,10A847,11
+19=Kim Kaphwan,10A847,12
+20=Chang Koehan,10A847,13
+21=Choi Bounge,10A847,14
+22=Iori Yagami,10A847,15
+23=Mature,10A847,16
+24=Vice,10A847,17
+25=Geese Howard,10A847,18
+26=Wolfgang Krauser,10A847,19
+27=Mr. BIG,10A847,1A
+28=Chizuru Kagura,10A847,1B
+29=Goenitz,10A847,1C
+
+[8]
+Name=P1 Character 2
+0=Off,0,0
+1=Kyo Kusanagi,10A846,00
+2=Benimaru Nikaidou,10A846,01
+3=Goro Daimon,10A846,02
+4=Terry Bogard,10A846,03
+5=Andy Bogard,10A846,04
+6=Joe Higashi,10A846,05
+7=Ryo Sakazaki,10A846,06
+8=Robert Garcia,10A846,07
+9=Yuri Sakazaki,10A846,08
+10=Leona,10A846,09
+11=Ralf,10A846,0A
+12=Clark,10A846,0B
+13=Atena Asamiya,10A846,0C
+14=Sie Kensou,10A846,0D
+15=Chin Gentsai,10A846,0E
+16=Kasumi Todo,10A846,0F
+17=Mai Siranui,10A846,10
+18=King,10A846,11
+19=Kim Kaphwan,10A846,12
+20=Chang Koehan,10A846,13
+21=Choi Bounge,10A846,14
+22=Iori Yagami,10A846,15
+23=Mature,10A846,16
+24=Vice,10A846,17
+25=Geese Howard,10A846,18
+26=Wolfgang Krauser,10A846,19
+27=Mr. BIG,10A846,1A
+28=Chizuru Kagura,10A846,1B
+29=Goenitz,10A846,1C
+
+[9]
+Name=P1 Character 3
+0=Off,0,0
+1=Kyo Kusanagi,10A849,00
+2=Benimaru Nikaidou,10A849,01
+3=Goro Daimon,10A849,02
+4=Terry Bogard,10A849,03
+5=Andy Bogard,10A849,04
+6=Joe Higashi,10A849,05
+7=Ryo Sakazaki,10A849,06
+8=Robert Garcia,10A849,07
+9=Yuri Sakazaki,10A849,08
+10=Leona,10A849,09
+11=Ralf,10A849,0A
+12=Clark,10A849,0B
+13=Atena Asamiya,10A849,0C
+14=Sie Kensou,10A849,0D
+15=Chin Gentsai,10A849,0E
+16=Kasumi Todo,10A849,0F
+17=Mai Siranui,10A849,10
+18=King,10A849,11
+19=Kim Kaphwan,10A849,12
+20=Chang Koehan,10A849,13
+21=Choi Bounge,10A849,14
+22=Iori Yagami,10A849,15
+23=Mature,10A849,16
+24=Vice,10A849,17
+25=Geese Howard,10A849,18
+26=Wolfgang Krauser,10A849,19
+27=Mr. BIG,10A849,1A
+28=Chizuru Kagura,10A849,1B
+29=Goenitz,10A849,1C

@@ -1,0 +1,150 @@
+[0]
+Name=Infinite Time
+0=Disabled
+1=Enabled,FF0ECC,09
+Default=0
+
+[1]
+Name=P1 Inf Health
+0=Disabled
+1=Enabled,FF1174,30
+Default=0
+
+[2]
+Name=P1 Invincible
+0=Disabled
+1=Enabled,FF1191,59
+Default=0
+
+[3]
+Name=P1 Inf Missiles
+0=Disabled
+1=Enabled,FF117D,99
+Default=0
+
+[4]
+Name=P1 No Shot Range Limit
+0=Disabled
+1=Enabled,FF1387,FF,FF13C7,FF,FF1407,FF,FF1447,FF,FF1487,FF
+Default=0
+
+[5]
+Name=P1 Weapon Power
+0=Disabled
+1=Level 1,FF1189,00
+2=Level 2,FF1189,01
+3=Level 3,FF1189,02
+4=Level 4,FF1189,03
+5=Level 5,FF1189,04
+6=Level 6,FF1189,05
+7=Level 7,FF1189,06
+8=Level 8,FF1189,07
+9=Level 9,FF1189,08
+10=Level 10,FF1189,09
+Default=0
+
+[6]
+Name=P1 Weapon Type
+0=Disabled
+1=Machine Gun,FF1184,00
+2=Fire Burner,FF1184,01
+3=Shotgun,FF1184,02
+4=Grenade Launcher,FF1184,03
+Default=0
+
+[7]
+Name=P2 Inf Health
+0=Disabled
+1=Enabled,FF1224,30
+Default=0
+
+[8]
+Name=P2 Invincible
+0=Disabled
+1=Enabled,FF1241,59
+Default=0
+
+[9]
+Name=P2 Inf Missiles
+0=Disabled
+1=Enabled,FF122D,99
+Default=0
+
+[10]
+Name=P2 Weapon Power
+0=Disabled
+1=Level 1,FF1239,00
+2=Level 2,FF1239,01
+3=Level 3,FF1239,02
+4=Level 4,FF1239,03
+5=Level 5,FF1239,04
+6=Level 6,FF1239,05
+7=Level 7,FF1239,06
+8=Level 8,FF1239,07
+9=Level 9,FF1239,08
+10=Level 10,FF1239,09
+Default=0
+
+[11]
+Name=P2 Weapon Type
+0=Disabled
+1=Machine Gun,FF1234,00
+2=Fire Burner,FF1234,01
+3=Shotgun,FF1234,02
+4=Grenade Launcher,FF1234,03
+Default=0
+
+[12]
+Name=P3 Inf Health
+0=Disabled
+1=Enabled,FF12D4,30
+Default=0
+
+[13]
+Name=P3 Invincible
+0=Disabled
+1=Enabled,FF12F1,59
+Default=0
+
+[14]
+Name=P3 Inf Missiles
+0=Disabled
+1=Enabled,FF12DD,99
+Default=0
+
+[15]
+Name=P3 Weapon Power
+0=Disabled
+1=Level 1,FF12E9,00
+2=Level 2,FF12E9,01
+3=Level 3,FF12E9,02
+4=Level 4,FF12E9,03
+5=Level 5,FF12E9,04
+6=Level 6,FF12E9,05
+7=Level 7,FF12E9,06
+8=Level 8,FF12E9,07
+9=Level 9,FF12E9,08
+10=Level 10,FF12E9,09
+Default=0
+
+[16]
+Name=P3 Weapon Type
+0=Disabled
+1=Machine Gun,FF12E4,00
+2=Fire Burner,FF12E4,01
+3=Shotgun,FF12E4,02
+4=Grenade Launcher,FF12E4,03
+Default=0
+
+[17]
+Name=Mission Select
+0=Disabled
+1=Mission 1,FF0E8A,00
+2=Mission 2,FF0E8A,01
+3=Mission 3,FF0E8A,02
+4=Mission 4,FF0E8A,03
+5=Mission 5,FF0E8A,04
+6=Mission 6,FF0E8A,05
+7=Last Mission,FF0E8A,06
+Default=0
+

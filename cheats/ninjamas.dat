@@ -1,0 +1,85 @@
+[0]
+Name=Infinite Time Limit
+0=Off,0,0
+1=On,10C020,99
+
+[1]
+Name=P1 Health Gauge
+0=Off,0,0
+1=Max,100051,D0
+2=Red,100051,34
+
+[2]
+Name=P1 Power Gauge
+0=Off,0,0
+1=Nothing,1000AF,00
+2=Power Max,1000AF,60,1000AD,02
+3=Power Hyper,1000AF,60,1000AD,04
+4=Power Lock,1000AF,60,1000AD,07
+
+[3]
+Name=P2 Health Gauge
+0=Off,0,0
+1=Max,101051,D0
+2=Red,101051,34
+
+[4]
+Name=P2 Power Gauge
+0=Off,0,0
+1=Nothing,1010AF,00
+2=Power Max,1010AF,60,1010AD,02
+3=Power Hyper,1010AF,60,1010AD,04
+4=Power Lock,1010AF,60,1010AD,07
+
+[5]
+Name=P1 Character Select
+0=Off,0,0
+1=Sasuke(サスケ),10C045,00
+2=Kamui(カムイ),10C045,01
+3=Raiga(雷牙),10C045,02
+4=Tenhou(天和),10C045,03
+5=Karasu(鴉),10C045,04
+6=Houou(鳳凰),10C045,05
+7=Natsume(ナツメ),10C045,06
+8=Goemon(ゴエモン),10C045,07
+9=Unsen(雲仙),10C045,08
+10=Kasumi(霞),10C045,09
+11=Ranmaru(蘭丸),10C045,0A
+12=Npbunaga(信長),10C045,0B
+
+[6]
+Name=P2 Character Select
+0=Off,0,0
+1=Sasuke(サスケ),10C085,00
+2=Kamui(カムイ),10C085,01
+3=Raiga(雷牙),10C085,02
+4=Tenhou(天和),10C085,03
+5=Karasu(鴉),10C085,04
+6=Houou(鳳凰),10C085,05
+7=Natsume(ナツメ),10C085,06
+8=Goemon(ゴエモン),10C085,07
+9=Unsen(雲仙),10C085,08
+10=Kasumi(霞),10C085,09
+11=Ranmaru(蘭丸),10C085,0A
+12=Npbunaga(信長),10C085,0B
+
+[7]
+Name=P1 Weapon Status
+0=Off,0,0
+1=Not Equip,100089,02
+2=Equip,100089,03
+3=Lost,100089,01
+
+[8]
+Name=P2 Weapon Status
+0=Off,0,0
+1=Not Equip,101089,02
+2=Equip,101089,03
+3=Lost,101089,01
+
+[9]
+Name=99 Hit Combo
+0=Off,0,0
+1=P1,10564A,98,10564B,98
+2=P2,10664A,98,10664B,98
+3=P1&P2,10564A,98,10564B,98,10664A,98,10664B,98

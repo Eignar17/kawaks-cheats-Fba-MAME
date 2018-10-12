@@ -1,0 +1,79 @@
+[0]
+Name=Infinite Time Limit
+0=Off,0,0
+1=On,106E92,63
+
+[1]
+Name=Infinite Lives
+0=Off,0,0
+1=P1 On,100376,63
+
+[2]
+Name=Infinite Bombs
+0=Off,0,0
+1=P1 On,1004C1,63
+
+[3]
+Name=Invulnerabirity
+0=Off,0,0
+1=P1 On(No Flash),100484,ff
+2=P1 On(Flash),100484,ff,100498,ff
+
+[4]
+Name=Infinite Extra Shot
+0=Off,0,0
+1=P1 On,1004C2,E7,1004C3,03
+
+[5]
+Name=P1 Extra Shot Select
+0=Off,0,0
+1=Hand Gun,1004B0,00
+2=Shot Gun,1004B0,01
+3=Frame,1004B0,02
+4=Rocket Launcher,1004B0,03
+5=Heavy Machinegun,1004B0,04
+
+[6]
+Name=Infinite Slug's Energy
+0=Off,0,0
+1=P1 On,1005E6,30
+
+[7]
+Name=Infinite Slug's Cannon
+0=Off,0,0
+1=P1 On,100611,63
+
+[8]
+Name=Invulnerabirity (Metal Slug)
+0=Off,0,0
+1=P1 On,1005C4,ff
+
+[9]
+Name=Extra Shot Limit
+0=Off,0,0
+1=P1 Limit Off,1004C5,00
+
+[10]
+Name=Bomb Shot Limit
+0=Off,0,0
+1=P1 Limit Off,1004C0,00
+
+[11]
+Name=P1 Ride-on Metal-Slug
+0=Off,0,0
+1=Flag Off,1005EC,FF
+2=Flag On,1005EC,01
+
+[12]
+Name=Saved 15 Soldiers
+0=Off,0,0
+1=P1 On,106F4C,f
+
+[13]
+Name=P1 Flying Body (Display Only)
+0=Off,0,0
+1=Default Position,1004BE,00
+2=Flying 1,1004BE,10
+3=Flying 2,1004BE,20
+4=Flying 3,1004BE,30
+5=Flying 4,1004BE,40

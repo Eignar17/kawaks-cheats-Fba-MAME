@@ -1,0 +1,104 @@
+[0]
+Name=Region
+0=Disabled
+1=Japan,FF8036,00
+2=USA,FF8036,02
+3=ETC,FF8036,04
+Default=0
+
+[1]
+Name=P1 Top Shape
+0=Disabled
+1=Green,FF88F5,00
+2=Red,FF88F5,01
+3=Blue,FF88F5,02
+4=Yellow,FF88F5,03
+5=Cyan,FF88F5,04
+6=Pink,FF88F5,05
+7=Orange,FF88F5,06
+8=Purple,FF88F5,07
+9=Green Star,FF88F5,08
+10=Red Star,FF88F5,09
+11=Blue Star,FF88F5,0A
+12=Yellow Star,FF88F5,0B
+13=Cyan Star,FF88F5,0C
+14=Pink Star,FF88F5,0D
+15=Orange Star,FF88F5,0E
+16=Purple Star,FF88F5,0F
+Default=0
+
+[2]
+Name=P1 Bottom Shape
+0=Disabled
+1=Green,FF88F4,00
+2=Red,FF88F4,01
+3=Blue,FF88F4,02
+4=Yellow,FF88F4,03
+5=Cyan,FF88F4,04
+6=Pink,FF88F4,05
+7=Orange,FF88F4,06
+8=Purple,FF88F4,07
+9=Green Star,FF88F4,08
+10=Red Star,FF88F4,09
+11=Blue Star,FF88F4,0A
+12=Yellow Star,FF88F4,0B
+13=Cyan Star,FF88F4,0C
+14=Pink Star,FF88F4,0D
+15=Orange Star,FF88F4,0E
+16=Purple Star,FF88F4,0F
+Default=0
+
+[3]
+Name=P1 Last Level
+0=Disabled
+1=Enabled,FF8645,63
+Default=0
+
+[4]
+Name=P2 Top Shape
+0=Disabled
+1=Green,FF8955,00
+2=Red,FF8955,01
+3=Blue,FF8955,02
+4=Yellow,FF8955,03
+5=Cyan,FF8955,04
+6=Pink,FF8955,05
+7=Orange,FF8955,06
+8=Purple,FF8955,07
+9=Green Star,FF8955,08
+10=Red Star,FF8955,09
+11=Blue Star,FF8955,0A
+12=Yellow Star,FF8955,0B
+13=Cyan Star,FF8955,0C
+14=Pink Star,FF8955,0D
+15=Orange Star,FF8955,0E
+16=Purple Star,FF8955,0F
+Default=0
+
+[5]
+Name=P2 Bottom Shape
+0=Disabled
+1=Green,FF8954,00
+2=Red,FF8954,01
+3=Blue,FF8954,02
+4=Yellow,FF8954,03
+5=Cyan,FF8954,04
+6=Pink,FF8954,05
+7=Orange,FF8954,06
+8=Purple,FF8954,07
+9=Green Star,FF8954,08
+10=Red Star,FF8954,09
+11=Blue Star,FF8954,0A
+12=Yellow Star,FF8954,0B
+13=Cyan Star,FF8954,0C
+14=Pink Star,FF8954,0D
+15=Orange Star,FF8954,0E
+16=Purple Star,FF8954,0F
+Default=0
+
+[6]
+Name=P2 Last Level
+0=Disabled
+1=Enabled,FF8665,63
+Default=0
+

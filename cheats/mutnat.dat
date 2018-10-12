@@ -1,0 +1,50 @@
+[0]
+Name=Infinite Time Limit
+0=Off,0,0
+1=On,101563,63
+
+
+[1]
+Name=Infinite Health
+0=Off,0,0
+1=P1 On,102018,40
+
+
+[2]
+Name=Infinite Special Attack
+0=Off,0,0
+1=P1 On,10153E,05
+
+
+[3]
+Name=P1 Special Attack Select
+0=Off,0,0
+1=Nothing,10153F,00
+2=Type A,10153F,01
+3=Type B,10153F,02
+4=Type C,10153F,03
+5=Type D,10153F,04
+
+
+[4]
+Name=Infinite Special Keep Time
+0=Off,0,0
+1=P1 On,102074,00
+
+
+[5]
+Name=Max Special Power Gauge
+0=Off,0,0
+1=P1 On,102072,50
+
+
+[6]
+Name=Endless Special Attack
+0=Off,0,0
+1=P1 On,1020B8,FF
+
+
+[7]
+Name=1 hit out
+0=Off,0,0
+1=P1 On,10203A,FF,10203B,FF

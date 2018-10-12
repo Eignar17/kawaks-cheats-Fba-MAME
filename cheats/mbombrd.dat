@@ -1,0 +1,41 @@
+[0]
+Name=Region
+0=Disabled
+1=Japan,FF9C0A,00
+2=USA,FF9C0A,01
+3=ETC,FF9C0A,02
+4=Asia,FF9C0A,03
+5=Hispanic,FF9C0A,04
+6=Japan(E),FF9C0A,05
+Default=0
+
+[1]
+Name=Infinite Time
+0=Disabled
+1=Enabled,FFA00E,01
+Default=0
+
+[2]
+Name=P1 Inf Energy
+0=Disabled
+1=Enabled,FF907A,FF
+Default=0
+
+[3]
+Name=P2 Inf Energy
+0=Disabled
+1=Enabled,FF927A,FF
+Default=0
+
+[4]
+Name=P3 Inf Energy
+0=Disabled
+1=Enabled,FF947A,FF
+Default=0
+
+[5]
+Name=P4 Inf Energy
+0=Disabled
+1=Enabled,FF967A,FF
+Default=0
+

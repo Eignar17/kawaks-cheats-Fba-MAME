@@ -1,0 +1,73 @@
+[0]
+Name=Infinite Time
+0=Disabled
+1=Enabled,FF18AA,BF
+Default=0
+
+[1]
+Name=Always Gun
+0=Disabled
+1=Enabled,FF5D97,01
+Default=0
+
+[2]
+Name=P1 Inf Lives
+0=Disabled
+1=Enabled,FF5BA5,03
+Default=0
+
+[3]
+Name=P1 Inf Energy
+0=Disabled
+1=Enabled,FF8E9E,88
+Default=0
+
+[4]
+Name=P1 Inf Bombs
+0=Disabled
+1=Enabled,FF5BCB,09
+Default=0
+
+[5]
+Name=P1 Invincible
+0=Disabled
+1=Enabled,FF8EB4,03
+Default=0
+
+[6]
+Name=P2 Inf Lives
+0=Disabled
+1=Enabled,FF5BA4,03
+Default=0
+
+[7]
+Name=P2 Inf Energy
+0=Disabled
+1=Enabled,FF8F9E,88
+Default=0
+
+[8]
+Name=P2 Inf Bombs
+0=Disabled
+1=Enabled,FF5BCA,09
+Default=0
+
+[9]
+Name=P2 Invincible
+0=Disabled
+1=Enabled,FF8FB4,03
+Default=0
+
+[10]
+Name=Stage Select
+0=Disabled
+1=Stage 1,FF5BB8,00
+2=Stage 2,FF5BB8,01
+3=Stage 3,FF5BB8,02
+4=Stage 4,FF5BB8,03
+5=Stage 5,FF5BB8,04
+6=Last Stage,FF5BB8,05
+7=Bonus Stage,FF5BB8,06
+8=Bonus Stage 2,FF5BB8,07
+Default=0
+

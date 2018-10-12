@@ -1,0 +1,90 @@
+[0]
+Name=Infinite Time Limit
+0=Off,0,0
+1=On,1013DF,63
+
+[1]
+Name=P1 Character
+0=Off,0,0
+1=Marco,101287,00
+2=Eri,101287,01
+3=Tarmo,101287,02
+4=Pio,101287,03
+
+[2]
+Name=Infinite Lives
+0=Off,0,0
+1=P1 On,101289,63
+
+[3]
+Name=Invulnerabirity
+0=Off,0,0
+1=P1 On,101548,FF
+
+[4]
+Name=Infinite Bombs
+0=Off,0,0
+1=P1 On,10C721,63
+
+[5]
+Name=P1 Extra Shot Type
+0=Off,0,0
+1=Default,10C71F,00
+2=Heavy Machingun,10C71F,05
+3=Heavy Machingun Type.2,10C71F,0A
+4=Cannon,10C71F,01
+5=Cannon Type.2,10C71F,0F
+6=Bazooka,10C71F,02
+7=Bazooka Type.2,10C71F,07
+8=Enemy Chaser,10C71F,03
+9=Enemy Chaser Type.2,10C71F,08
+10=Enemy Chaser Type.3,C71F,0C
+11=Fire Burner,10C71F,04
+12=Fire Burner Type.2,10C71F,09
+13=Laser,10C71F,06
+14=Laser Type.2,10C71F,0B
+15=Mouse Missile,10C71F,0D
+16=Slime Shot,10C71F,0E
+17=Slug Cannon,10C71F,01
+18=Super Grenade,10C71F,0F 
+
+[6]
+Name=Infinite Extra Shot
+0=Off,0,0
+1=On,10C724,E7,10C725,03
+
+[7]
+Name=Infinite Arm's Energy
+0=Off,0,0
+1=On,10C620,30
+
+[8]
+Name=Infinite Arm's Cannon
+0=Off,0,0
+1=On,10C626,63
+
+[9]
+Name=Statue
+0=Off,0,0
+1=P1 Human,101556,00
+2=P1 Zombie,101556,03
+
+[10]
+Name=Saved 15 Soldiers
+0=Off,0,0
+1=P1 On,10C5FC,0F
+
+[11]
+Name=P1 Bomb
+0=Off,0,0
+1=Normal,10C723,01
+2=Fire,10C723,02
+3=Stone,10C723,03
+
+[12]
+Name=P2 Bomb
+0=Off,0,0
+1=Normal,10C722,01
+2=Fire,10C722,02
+3=Stone,10C722,03
+

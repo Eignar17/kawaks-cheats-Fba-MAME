@@ -1,0 +1,100 @@
+[0]
+Name=Infinite Time
+0=Disabled
+1=Enabled,FF8524,59
+Default=0
+
+[1]
+Name=P1 Inf Lives
+0=Disabled
+1=Enabled,FF8399,0A
+Default=0
+
+[2]
+Name=P1 Inf Super Attacks
+0=Disabled
+1=Enabled,FF838D,01,FF838C,08
+Default=0
+
+[3]
+Name=P1 Invincible
+0=Disabled
+1=Enabled,FF838E,30
+Default=0
+
+[4]
+Name=P1 Power Up
+0=Disabled
+1=Level 1,FF83B1,00
+2=Level 2,FF83B1,01
+3=Level 3,FF83B1,02
+4=Level 4,FF83B1,03
+Default=0
+
+[5]
+Name=P1 Step On Enemy
+0=Disabled
+1=100% Get 9000 Point,FF8333,20
+2=100% Appear Item,FF833E,33
+3=100% Get 9000 Point + Item,FF8333,20,FF833E,33
+Default=0
+
+[6]
+Name=P2 Inf Lives
+0=Disabled
+1=Enabled,FF8499,0A
+Default=0
+
+[7]
+Name=P2 Inf Super Attacks
+0=Disabled
+1=Enabled,FF848D,01,FF848C,08
+Default=0
+
+[8]
+Name=P2 Invincible
+0=Disabled
+1=Enabled,FF848E,30
+Default=0
+
+[9]
+Name=P2 Power Up
+0=Disabled
+1=Level 1,FF84B1,00
+2=Level 2,FF84B1,01
+3=Level 3,FF84B1,02
+4=Level 4,FF84B1,03
+Default=0
+
+[10]
+Name=P2 Step On Enemy
+0=Disabled
+1=100% Get 9000 Point,FF8433,20
+2=100% Appear Item,FF843E,33
+3=100% Get 9000 Point + Item,FF8433,20,FF843E,33
+Default=0
+
+[11]
+Name=Kill Stage 3 & 5 Boss
+0=Disabled
+1=Enabled,FFCCAE,00
+Default=0
+
+[12]
+Name=Kill Stage 4 Boss
+0=Disabled
+1=Enabled,FFB12E,00
+Default=0
+
+[13]
+Name=Stage Select
+0=Disabled
+1=Stage 1,FF8514,00,FF8DAF,00
+2=Stage 2,FF8514,02,FF8DAF,02
+3=Stage 3,FF8514,03,FF8DAF,03
+4=Stage 4,FF8514,05,FF8DAF,02
+5=Stage 5,FF8514,06,FF8DAF,02
+6=Stage 6,FF8514,07,FF8DAF,02
+7=Stage 7,FF8514,08,FF8DAF,00
+Default=0
+

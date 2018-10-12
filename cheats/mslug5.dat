@@ -1,0 +1,146 @@
+...for Metal Slug 5... (mslug5.dat)
+
+[0]
+Name=Infinite time
+0=Off,0,0
+1=On,10D67F,99
+
+[1]
+Name=Infinite Lives
+0=Off,0,0
+1=P1,100A40,09
+2=P2,100B04,09
+3=Both,100B04,09,100A40,09
+
+[2]
+Name=Infinite Bombs
+0=Off,0,0
+1=P1,10d456,0A
+2=P2,10d466,0A
+3=Both,10d456,0A,10d466,0A
+
+[3]
+Name=Infinite Arms
+0=Off,0,0
+1=P1,10D45C,FF
+2=P2,10D46C,FF
+3=Both,10D45c,FF,10D46C,FF
+
+[4]
+Name=Infinite Cannon
+0=Off,0,0
+1=P1,10dcde,0A
+2=P2,10dd0a,0A
+3=Both,10dd0a,0A,10dcde,0A
+
+[5]
+Name=Infinite Vehicle Gas
+0=Off,0,0
+1=P1,101b2c,28,10dcd6,28
+2=P2,101b2c,28,10dd02,28
+3=Both,101b2c,28,10dd02,28,101b2c,28,10dcd6,28
+
+[6]
+Name=Invincibility
+0=Off,0,0
+1=P1,100D18,40
+2=P2,100E08,40
+3=Both,100E08,40,100D18,40
+
+[7]
+Name=P1 Bomb
+0=Off,0,0
+1=Normal,10D457,01
+2=Fire,10D457,02
+3=Rock,10D457,03
+
+[8]
+Name=P1 Char
+0=Off,0,0
+1=Marco,100A41,00
+2=Tarma,100A41,01
+3=Eri,100A41,02
+4=Fio,100A41,03
+
+[9]
+Name=P1 Weapon
+0=Off,0,0
+1=Normal,10D455,00,100D59,00
+2=Shotgun,10D455,02,100d59,01
+3=Rocket Launcher,10D455,03,100d59,01
+4=Flameshot,10D455,04,100d59,01
+5=Heavy Machinegun,10D455,05,100d59,01
+6=Lasergun,10D455,06,100d59,01
+7=Big Shotgun,10D455,07,100d59,01
+8=Big Rocket Launcher,10D455,08,100d59,01
+9=Big Flameshot,10D455,09,100d59,01
+10=Big Heavymachinegun,10D455,0A,100d59,01
+11=Big Lasergun,10D455,0B,100d59,01
+12=Enemy Chaser,10D455,0C,100d59,01
+13=Iron Lizard,10D455,0D,100d59,01
+14=Drop Shot,10D455,0E,100d59,01
+15=Super Grenade,10D455,0F,100d59,01
+16=Double Machinegun,10D455,12,100D59,02
+
+[10]
+Name=P2 Bomb
+0=Off,0,0
+1=Normal,10D467,01
+2=Fire,10D467,02
+3=Rock,10D467,03
+
+[11]
+Name=P2 Char
+0=Off,0,0
+1=Marco,100B05,00
+2=Tarma,100B05,01
+3=Eri,100B05,02
+4=Fio,100B05,03
+
+[12]
+Name=P2 Weapon
+0=Off,0,0
+1=Normal,10d465,00,100e49,00
+2=Shotgun,10d465,02,100e49,01
+3=Rocket Launcher,10d465,03,100e49,01
+4=Flameshot,10d465,04,100e49,01
+5=Heavy Machinegun,10d465,05,100e49,01
+6=Lasergun,10d465,06,100e49,01
+7=Big Shotgun,10d465,07,100e49,01
+8=Big Rocket Launcher,10d465,08,100e49,01
+9=Big Flameshot,10d465,09,100e49,01
+10=Big Heavymachinegun,10d465,0A,100e49,01
+11=Big Lasergun,10d465,0B,100e49,01
+12=Enemy Chaser,10d465,0C,100e49,01
+13=Iron Lizard,10d465,0D,100e49,01
+14=Drop Shot,10d465,0E,100e49,01
+15=Super Grenade,10d465,0F,100e49,01
+16=Double Machinegun,10d465,12,100e49,02
+
+[13]
+Name=Stage Select
+0=Off,0,0
+1=Mission 1,10D681,00
+2=Mission 2,10D681,01
+3=Mission 3,10D681,02
+4=Mission 4,10D681,03
+5=Final Mission,10D681,04
+6=Ending,10D681,05
+
+[14]
+Name=Language
+0=Off,0,0
+1=English,10FD90,00
+2=Portuguese,10FD90,01
+3=Spanish,10FD90,02
+4=Japanese,10FD90,03
+
+[15]
+Name=Blood
+0=Normal,0,0
+1=White,10FD93,00
+2=Red,10FD93,01
+
+[16]
+Name=If a cheat does not works
+0=Try to reset the game,0,0

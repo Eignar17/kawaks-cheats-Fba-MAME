@@ -1,0 +1,354 @@
+[0]
+Name=Infinite Time Limit
+0=Off,0,0
+1=Infinite Count Value,10A83B,60
+2=Infinite Cycle Timer,10A83A,2F
+
+[1]
+Name=P1 Health Gauge
+0=Off,0,0
+1=Infinite,108238,67
+2=Red,108238,20
+
+[2]
+Name=P2 Health Gauge
+0=Off,0,0
+1=Infinite,108438,67
+2=Red,108438,20
+
+[3]
+Name=P1 Power Gauge
+0=Off,0,0
+1=Nothing,1081EB,00
+2=Maximum(Extra),1081E9,80
+3=Maximum(Advanced),1081EB,40,1081E9,80
+
+[4]
+Name=P2 Power Gauge
+0=Off,0,0
+1=Nothing,1083EB,00
+2=Maximum(Extra),1083E9,80
+3=Maximum(Advanced),1083EB,40,1083E9,80
+
+[5]
+Name=P1 Power Stock
+0=Off,0,0
+1=Nothing,1082E2,00
+2=3 Stocks,1082E2,03
+
+[6]
+Name=P2 Power Stock
+0=Off,0,0
+1=Nothing,1084E2,00
+2=3 Stocks,1084E2,03
+
+[7]
+Name=P1 Battle Character
+0=Off,0,0
+1=Kyo Kusanagi,108170,00
+2=Benimaru Nikaidou,108170,01
+3=Goro Daimon,108170,02
+4=Terry Bogard,108170,03
+5=Andy Bogard,108170,04
+6=Joe Higashi,108170,05
+7=Ryo Sakazaki,108170,06
+8=Robert Garcia,108170,07
+9=Yuri Sakazaki,108170,08
+10=Leona,108170,09
+11=Ralf,108170,0A
+12=Clark,108170,0B
+13=Atena Asamiya,108170,0C
+14=Sie Kensou,108170,0D
+15=Chin Gentsai,108170,0E
+16=Chizuru Kagura,108170,0F
+17=Mai Siranui,108170,10
+18=King,108170,11
+19=Kim Kaphwan,108170,12
+20=Chang Koehan,108170,13
+21=Choi Bounge,108170,14
+22=Yashiro,108170,15
+23=Shermie,108170,16
+24=Chris,108170,17
+25=Yamazaki,108170,18
+26=Blue Mary,108170,19
+27=Billy Kane,108170,1A
+28=Iori Yagami,108170,1B
+29=Devil Iori,108170,1C
+30=Devil Leona,108170,1D
+31=Shingo Yabuki,108170,1F
+32=Orochi,108170,1E
+
+[8]
+Name=P2 Battle Character
+0=Off,0,0
+1=Kyo Kusanagi,108370,00
+2=Benimaru Nikaidou,108370,01
+3=Goro Daimon,108370,02
+4=Terry Bogard,108370,03
+5=Andy Bogard,108370,04
+6=Joe Higashi,108370,05
+7=Ryo Sakazaki,108370,06
+8=Robert Garcia,108370,07
+9=Yuri Sakazaki,108370,08
+10=Leona,108370,09
+11=Ralf,108370,0A
+12=Clark,108370,0B
+13=Atena Asamiya,108370,0C
+14=Sie Kensou,108370,0D
+15=Chin Gentsai,108370,0E
+16=Chizuru Kagura,108370,0F
+17=Mai Siranui,108370,10
+18=King,108370,11
+19=Kim Kaphwan,108370,12
+20=Chang Koehan,108370,13
+21=Choi Bounge,108370,14
+22=Yashiro,108370,15
+23=Shermie,108370,16
+24=Chris,108370,17
+25=Yamazaki,108370,18
+26=Blue Mary,108370,19
+27=Billy Kane,108370,1A
+28=Iori Yagami,108370,1B
+29=Devil Iori,108370,1C
+30=Devil Leona,108370,1D
+31=Shingo Yabuki,108370,1F
+32=Orochi,108370,1E
+
+[9]
+Name=P1 Character 1
+0=Off,0,0
+1=Kyo Kusanagi,10A84A,00
+2=Benimaru Nikaidou,10A84A,01
+3=Goro Daimon,10A84A,02
+4=Terry Bogard,10A84A,03
+5=Andy Bogard,10A84A,04
+6=Joe Higashi,10A84A,05
+7=Ryo Sakazaki,10A84A,06
+8=Robert Garcia,10A84A,07
+9=Yuri Sakazaki,10A84A,08
+10=Leona,10A84A,09
+11=Ralf,10A84A,0A
+12=Clark,10A84A,0B
+13=Atena Asamiya,10A84A,0C
+14=Sie Kensou,10A84A,0D
+15=Chin Gentsai,10A84A,0E
+16=Chizuru Kagura,10A84A,0F
+17=Mai Siranui,10A84A,10
+18=King,10A84A,11
+19=Kim Kaphwan,10A84A,12
+20=Chang Koehan,10A84A,13
+21=Choi Bounge,10A84A,14
+22=Yashiro,10A84A,15
+23=Shermie,10A84A,16
+24=Chris,10A84A,17
+25=Yamazaki,10A84A,18
+26=Blue Mary,10A84A,19
+27=Billy Kane,10A84A,1A
+28=Iori Yagami,10A84A,1B
+29=Devil Iori,10A84A,1C
+30=Devil Leona,10A84A,1D
+31=Shingo Yabuki,10A84A,1F
+32=Orochi,10A84A,1E
+
+[10]
+Name=P1 Character 2
+0=Off,0,0
+1=Kyo Kusanagi,10A84D,00
+2=Benimaru Nikaidou,10A84D,01
+3=Goro Daimon,10A84D,02
+4=Terry Bogard,10A84D,03
+5=Andy Bogard,10A84D,04
+6=Joe Higashi,10A84D,05
+7=Ryo Sakazaki,10A84D,06
+8=Robert Garcia,10A84D,07
+9=Yuri Sakazaki,10A84D,08
+10=Leona,10A84D,09
+11=Ralf,10A84D,0A
+12=Clark,10A84D,0B
+13=Atena Asamiya,10A84D,0C
+14=Sie Kensou,10A84D,0D
+15=Chin Gentsai,10A84D,0E
+16=Chizuru Kagura,10A84D,0F
+17=Mai Siranui,10A84D,10
+18=King,10A84D,11
+19=Kim Kaphwan,10A84D,12
+20=Chang Koehan,10A84D,13
+21=Choi Bounge,10A84D,14
+22=Yashiro,10A84D,15
+23=Shermie,10A84D,16
+24=Chris,10A84D,17
+25=Yamazaki,10A84D,18
+26=Blue Mary,10A84D,19
+27=Billy Kane,10A84D,1A
+28=Iori Yagami,10A84D,1B
+29=Devil Iori,10A84D,1C
+30=Devil Leona,10A84D,1D
+31=Shingo Yabuki,10A84D,1F
+32=Orochi,10A84D,1E
+
+[11]
+Name=P1 Character 3
+0=Off,0,0
+1=Kyo Kusanagi,10A84C,00
+2=Benimaru Nikaidou,10A84C,01
+3=Goro Daimon,10A84C,02
+4=Terry Bogard,10A84C,03
+5=Andy Bogard,10A84C,04
+6=Joe Higashi,10A84C,05
+7=Ryo Sakazaki,10A84C,06
+8=Robert Garcia,10A84C,07
+9=Yuri Sakazaki,10A84C,08
+10=Leona,10A84C,09
+11=Ralf,10A84C,0A
+12=Clark,10A84C,0B
+13=Atena Asamiya,10A84C,0C
+14=Sie Kensou,10A84C,0D
+15=Chin Gentsai,10A84C,0E
+16=Chizuru Kagura,10A84C,0F
+17=Mai Siranui,10A84C,10
+18=King,10A84C,11
+19=Kim Kaphwan,10A84C,12
+20=Chang Koehan,10A84C,13
+21=Choi Bounge,10A84C,14
+22=Yashiro,10A84C,15
+23=Shermie,10A84C,16
+24=Chris,10A84C,17
+25=Yamazaki,10A84C,18
+26=Blue Mary,10A84C,19
+27=Billy Kane,10A84C,1A
+28=Iori Yagami,10A84C,1B
+29=Devil Iori,10A84C,1C
+30=Devil Leona,10A84C,1D
+31=Shingo Yabuki,10A84C,1F
+32=Orochi,10A84C,1E
+
+[12]
+Name=P2 Character 1
+0=Off,0,0
+1=Kyo Kusanagi,10A859,00
+2=Benimaru Nikaidou,10A859,01
+3=Goro Daimon,10A859,02
+4=Terry Bogard,10A859,03
+5=Andy Bogard,10A859,04
+6=Joe Higashi,10A859,05
+7=Ryo Sakazaki,10A859,06
+8=Robert Garcia,10A859,07
+9=Yuri Sakazaki,10A859,08
+10=Leona,10A859,09
+11=Ralf,10A859,0A
+12=Clark,10A859,0B
+13=Atena Asamiya,10A859,0C
+14=Sie Kensou,10A859,0D
+15=Chin Gentsai,10A859,0E
+16=Chizuru Kagura,10A859,0F
+17=Mai Siranui,10A859,10
+18=King,10A859,11
+19=Kim Kaphwan,10A859,12
+20=Chang Koehan,10A859,13
+21=Choi Bounge,10A859,14
+22=Yashiro,10A859,15
+23=Shermie,10A859,16
+24=Chris,10A859,17
+25=Yamazaki,10A859,18
+26=Blue Mary,10A859,19
+27=Billy Kane,10A859,1A
+28=Iori Yagami,10A859,1B
+29=Devil Iori,10A859,1C
+30=Devil Leona,10A859,1D
+31=Shingo Yabuki,10A859,1F
+32=Orochi,10A859,1E
+
+[13]
+Name=P2 Character 2
+0=Off,0,0
+1=Kyo Kusanagi,10A85C,00
+2=Benimaru Nikaidou,10A85C,01
+3=Goro Daimon,10A85C,02
+4=Terry Bogard,10A85C,03
+5=Andy Bogard,10A85C,04
+6=Joe Higashi,10A85C,05
+7=Ryo Sakazaki,10A85C,06
+8=Robert Garcia,10A85C,07
+9=Yuri Sakazaki,10A85C,08
+10=Leona,10A85C,09
+11=Ralf,10A85C,0A
+12=Clark,10A85C,0B
+13=Atena Asamiya,10A85C,0C
+14=Sie Kensou,10A85C,0D
+15=Chin Gentsai,10A85C,0E
+16=Chizuru Kagura,10A85C,0F
+17=Mai Siranui,10A85C,10
+18=King,10A85C,11
+19=Kim Kaphwan,10A85C,12
+20=Chang Koehan,10A85C,13
+21=Choi Bounge,10A85C,14
+22=Yashiro,10A85C,15
+23=Shermie,10A85C,16
+24=Chris,10A85C,17
+25=Yamazaki,10A85C,18
+26=Blue Mary,10A85C,19
+27=Billy Kane,10A85C,1A
+28=Iori Yagami,10A85C,1B
+29=Devil Iori,10A85C,1C
+30=Devil Leona,10A85C,1D
+31=Shingo Yabuki,10A85C,1F
+32=Orochi,10A85C,1E
+
+[14]
+Name=P3 Character 3
+0=Off,0,0
+1=Kyo Kusanagi,10A85B,00
+2=Benimaru Nikaidou,10A85B,01
+3=Goro Daimon,10A85B,02
+4=Terry Bogard,10A85B,03
+5=Andy Bogard,10A85B,04
+6=Joe Higashi,10A85B,05
+7=Ryo Sakazaki,10A85B,06
+8=Robert Garcia,10A85B,07
+9=Yuri Sakazaki,10A85B,08
+10=Leona,10A85B,09
+11=Ralf,10A85B,0A
+12=Clark,10A85B,0B
+13=Atena Asamiya,10A85B,0C
+14=Sie Kensou,10A85B,0D
+15=Chin Gentsai,10A85B,0E
+16=Chizuru Kagura,10A85B,0F
+17=Mai Siranui,10A85B,10
+18=King,10A85B,11
+19=Kim Kaphwan,10A85B,12
+20=Chang Koehan,10A85B,13
+21=Choi Bounge,10A85B,14
+22=Yashiro,10A85B,15
+23=Shermie,10A85B,16
+24=Chris,10A85B,17
+25=Yamazaki,10A85B,18
+26=Blue Mary,10A85B,19
+27=Billy Kane,10A85B,1A
+28=Iori Yagami,10A85B,1B
+29=Devil Iori,10A85B,1C
+30=Devil Leona,10A85B,1D
+31=Shingo Yabuki,10A85B,1F
+32=Orochi,10A85B,1E
+
+[15]
+Name=P1 Extra Character Flag
+0=Off,0,0
+1=Char 1 Only,10A856,01
+2=Char 2 Only,10A856,02
+3=Char 3 Only,10A856,04
+4=Without Char 1,10A856,06
+5=Without Char 2,10A856,05
+6=Without Char 3,10A856,03
+7=All Char,10A856,07
+
+[16]
+Name=P2 Extra Character Flag
+0=Off,0,0
+1=Char 1 Only,10A865,01
+2=Char 2 Only,10A865,02
+3=Char 3 Only,10A865,04
+4=Without Char 1,10A865,06
+5=Without Char 2,10A865,05
+6=Without Char 3,10A865,03
+7=All Char,10A865,07
+

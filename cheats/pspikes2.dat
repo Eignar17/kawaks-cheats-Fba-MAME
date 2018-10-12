@@ -1,0 +1,16 @@
+[0]
+Name=P1血不减
+0=取消,0,0
+1=启动,1018f8,60
+Default=0
+
+[1]
+Name=P1能量不减
+0=取消,0,0
+1=启动,102cd8,30
+Default=0
+[Region]
+Default=0
+
+[域]
+Default=0

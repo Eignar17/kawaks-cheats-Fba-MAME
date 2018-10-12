@@ -1,0 +1,83 @@
+[0]
+Name=Infinite Time
+0=Disabled
+1=Enabled,FF8BAF,FA
+Default=0
+
+[1]
+Name=Service Items
+0=Disabled
+1=Enabled,FF94A0,FF
+Default=0
+
+[2]
+Name=Bubbles
+0=Disabled
+1=Stop,FF8BEC,12
+2=Restart,FF8BEC,00
+Default=0
+
+[3]
+Name=P1 Inf Lives
+0=Disabled
+1=Enabled,FF8BB5,09
+Default=0
+
+[4]
+Name=P1 Protected
+0=Disabled
+1=Enabled,FFABF5,01
+Default=0
+
+[5]
+Name=P1 Invincible
+0=Disabled
+1=Enabled,FFABB6,02
+Default=0
+
+[6]
+Name=P1 Weapon
+0=Disabled
+1=Normal,FFABC9,00
+2=Blocker,FFABC9,01
+3=Water,FFABC9,02
+4=Double,FFABC9,03
+5=Super,FFABC9,04
+Default=0
+
+[7]
+Name=P2 Inf Lives
+0=Disabled
+1=Enabled,FF8BB4,09
+Default=0
+
+[8]
+Name=P2 Protected
+0=Disabled
+1=Enabled,FFACB5,01
+Default=0
+
+[9]
+Name=P2 Invincible
+0=Disabled
+1=Enabled,FFAC76,02
+Default=0
+
+[10]
+Name=P2 Weapon
+0=Disabled
+1=Normal,FFAC89,00
+2=Blocker,FFAC89,01
+3=Water,FFAC89,02
+4=Double,FFAC89,03
+5=Super,FFAC89,04
+Default=0
+
+[11]
+Name=Last Level
+0=Disabled
+1=Beginner Mode,FF8BC7,09
+2=Normal Mode,FF8BC7,31
+3=Panic Mode,FF8BDE,61
+Default=0
+

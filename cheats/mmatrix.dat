@@ -1,0 +1,50 @@
+[0]
+Name=Infinite Credits
+0=Disabled
+1=Enabled,FF49A2,09
+Default=0
+
+[1]
+Name=Infinite Select Time
+0=Disabled
+1=Enabled,FF48F4,AF
+Default=0
+
+[2]
+Name=P1 Inf Lives*
+0=Disabled
+1=Enabled,FF49A8,09
+Default=0
+
+[3]
+Name=P1 Max Level
+0=Disabled
+1=Enabled,FF49B4,07
+Default=0
+
+[4]
+Name=P1 Ship Select
+0=Disabled
+1=Mosquito 01,FF49B6,00
+2=Mosquito 02,FF49B6,01
+Default=0
+
+[5]
+Name=P2 Inf Lives*
+0=Disabled
+1=Enabled,FF49CE,09
+Default=0
+
+[6]
+Name=P2 Max Level
+0=Disabled
+1=Enabled,FF49DA,07
+Default=0
+
+[7]
+Name=P2 Ship Select
+0=Disabled
+1=Mosquito 01,FF49DC,00
+2=Mosquito 02,FF49DC,01
+Default=0
+

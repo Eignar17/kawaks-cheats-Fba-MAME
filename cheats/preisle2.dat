@@ -1,0 +1,119 @@
+[0]
+Name=P1 Infinite HP
+0=Off,0,0
+1=Full(Default),105054,05
+2=Full(Ultimate),105054,0C
+3=Full(!?!?),105054,16
+
+[1]
+Name=P1 Infinite Bombs
+0=Off,0,0
+1=On,105070,0A
+
+[2]
+Name=P1 Invulnerabirity
+0=Off,0,0
+1=On,10507C,FF
+
+[3]
+Name=P1 Shot Type
+0=Off,0,0
+1=G (BLUE),105076,00
+2=G (GREEN),105076,04
+3=C (BLUE),105076,08
+4=C (GREEN),105076,0C
+
+[4]
+Name=P1 Shot Level
+0=Off,0,0
+1=Level 1,105077,00
+2=Level 2,105077,04
+3=Level 3,105077,08
+4=Level 4,105077,0C
+5=Level 5,105077,10
+
+[5]
+Name=P1 Missile Type (Use with Level Cheats)
+0=Off,0,0
+1=Nothing,105078,00
+2=M,105078,04,105079,04
+3=H,105078,08,105079,04
+4=N,105078,0C,105079,04
+5=S,105078,10,105079,04
+
+[6]
+Name=P1 Missile Level
+0=Off,0,0
+1=Level 1,105079,04
+2=Level 2,105079,08
+3=Level 3,105079,0C
+
+[7]
+Name=P1 Stars
+0=Off,0,0
+1=999 Stars,10506A,E7,10506B,03
+
+[8]
+Name=P1 Infinite Bonus Time
+0=Off,0,0
+1=On,10C1B8,20,10C1B9,01
+
+[9]
+Name=P2 Infinite HP Gauge
+0=Off,0,0
+1=Full(Default),1062D4,05
+2=Full(Ultimate),1062D4,0C
+3=Full(!?!?),1062D4,16
+
+[10]
+Name=P2 Infinite Bombs
+0=Off,0,0
+1=On,1062F0,0A
+
+[11]
+Name=P2 Invulnerabirity
+0=Off,0,0
+1=On,1062FC,FF
+
+[12]
+Name=P2 Shot Type
+0=Off,0,0
+1=G (YELLOW),1062F6,00
+2=G (RED),1062F6,04
+3=C (YELLOW),1062F6,08
+4=C (RED),1062F6,0C
+
+[13]
+Name=P2 Shot Level
+0=Off,0,0
+1=Level 1,1062F7,00
+2=Level 2,1062F7,04
+3=Level 3,1062F7,08
+4=Level 4,1062F7,0C
+5=Level 5,1062F7,10
+
+[14]
+Name=P2 Missile (Use With Level Cheats)
+0=Off,0,0
+1=Nothing,1062F8,00
+2=M,1062F8,04
+3=H,1062F8,08
+4=N,1062F8,0C
+5=S,1062F8,10
+
+[15]
+Name=P2 Missile Level
+0=Off,0,0
+1=Level 1,1062F9,04
+2=Level 2,1062F9,08
+3=Level 3,1062F9,0C
+
+[16]
+Name=P2 Stars
+0=Off,0,0
+1=999 Stars,1062EA,E7,1062EB,03
+
+[17]
+Name=P2 Infinite Bonus Time
+0=Off,0,0
+1=On,10D438,20,10D439,01

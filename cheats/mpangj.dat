@@ -1,0 +1,114 @@
+[0]
+Name=Region
+0=Disabled
+1=Japan,FF80A0,00
+2=USA,FF80A0,02
+3=Hispanic,FF80A0,04
+4=Oceania,FF80A0,06
+5=Asia,FF80A0,08
+6=Euro,FF80A0,0A
+7=Brazil,FF80A0,0C
+Default=0
+
+[1]
+Name=Infinite Time
+0=Disabled
+1=Enabled,FF8109,63,FF8108,3C
+Default=0
+
+[2]
+Name=Freeze Balls
+0=Disabled
+1=Enabled,FF810A,02
+Default=0
+
+[3]
+Name=P1 Inf Lives
+0=Disabled
+1=Enabled,FF8127,09
+Default=0
+
+[4]
+Name=P1 Invincible
+0=Disabled
+1=Enabled,FFA503,01
+Default=0
+
+[5]
+Name=P1 Always Shield
+0=Disabled
+1=Enabled,FFA502,01
+Default=0
+
+[6]
+Name=P1 No Shot Limit
+0=Disabled
+1=Enabled,FFA510,00
+Default=0
+
+[7]
+Name=P1 Keep Chain Wire
+0=Disabled
+1=Enabled,FFA96A,FF
+Default=0
+
+[8]
+Name=P1 Max Coin Bonus
+0=Disabled
+1=Enabled,FFA505,08
+Default=0
+
+[9]
+Name=P1 Weapon Select
+0=Disabled
+1=Single Shot,FFA50D,04
+2=Double Shot,FFA50D,00
+3=Sticky Shot,FFA50D,01
+4=Laser Gun,FFA50D,02
+Default=0
+
+[10]
+Name=P2 Inf Lives
+0=Disabled
+1=Enabled,FF8126,09
+Default=0
+
+[11]
+Name=P2 Invincible
+0=Disabled
+1=Enabled,FFA5C3,01
+Default=0
+
+[12]
+Name=P2 Always Shield
+0=Disabled
+1=Enabled,FFA5C2,01
+Default=0
+
+[13]
+Name=P2 No Shot Limit
+0=Disabled
+1=Enabled,FFA5D0,00
+Default=0
+
+[14]
+Name=P2 Keep Chain Wire
+0=Disabled
+1=Enabled,FFAD2A,FF
+Default=0
+
+[15]
+Name=P2 Max Coin Bonus
+0=Disabled
+1=Enabled,FFA5C5,08
+Default=0
+
+[16]
+Name=P2 Weapon Select
+0=Disabled
+1=Single Shot,FFA5CD,04
+2=Double Shot,FFA5CD,00
+3=Sticky Shot,FFA5CD,01
+4=Laser Gun,FFA5CD,02
+Default=0
+

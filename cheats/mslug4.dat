@@ -1,0 +1,116 @@
+[Region]
+Default=0
+[0]
+Name=Infinite Time Limit
+0=Off,0,0
+1=On,10ED5D,99
+Default=0
+
+[1]
+Name=P1 Character
+0=Off,0,0
+1=Marco,100A89,00
+2=Fio,100A89,03
+3=Trevor,100A89,01
+4=Nadia,100A89,02
+Default=0
+
+[2]
+Name=Infinite Lives
+0=Off,0,0
+1=P1 On,100A88,63
+Default=0
+
+[3]
+Name=Invulnerability
+0=Off,0,0
+1=P1 On,100D40,FF
+Default=0
+
+[4]
+Name=P1 Extra Shot Type
+0=Off,0,0
+1=Default,10EDEB,00
+2=[H] Heavy Machingun,10EDEB,05
+3={H} Heavy Machingun (Larget),10EDEB,0A
+4=[?] Slug's Cannon,10EDEB,01
+5=[?] Slug's Cannon Type.2,10EDEB,14
+6=[S] Shot Gun,10EDEB,02
+7={S} Shot Gun (Large),10EDEB,07
+8=[R] Rocket Launcher,10EDEB,03
+9=[R] Rocket Launcher Type.2,10EDEB,08
+10=[C] Enemy Chaser,10EDEB,0C
+11=[F] Frame Shot,10EDEB,04
+12={F} Frame Shot (Large),10EDEB,09
+13=[L] Laser Shot,10EDEB,06
+14={L} Laser Shot,10EDEB,0B
+15=[I] Iron Lizard,10EDEB,0D
+16=[D] Drop Shot,10EDEB,0E
+17=[G] Super Granade,10EDEB,0F
+18=[2] Twin Machingun,10EDEB,12
+19=[?] Upper Cannon,10EDEB,13
+20=[?] Upper Shotgun,10EDEB,15
+21=[?] Upper Enemy Chaser,10EDEB,16
+Default=0
+
+[5]
+Name=P1 Bomb Type
+0=Off,0,0
+1=Bomb,10EDED,01
+2=Fire Bomb,10EDED,02
+3=Stone,10EDED,03
+Default=0
+
+[6]
+Name=P1 Body Type
+0=Off,0,0
+1=Human,100D4E,00,10EDEE,00,10EDEF,00
+2=Fat,100D4E,02,10EDEE,FF,10EDEF,FF
+3=Mummy,100D4E,03,10EDEE,00,10EDEF,00
+4=Snow,100D4E,06,10EDEE,00,10EDEF,00
+5=Zonbie,100D4E,07,10EDEE,00,10EDEF,00
+6=Monkey,100D4E,08,10EDEE,00,10EDEF,00
+7=Equip Twin Machingun,100D4E,09
+Default=0
+
+[7]
+Name=Infinite Extra Shot
+0=Off,0,0
+1=On,10EDF2,E7,10EDF3,03
+Default=0
+
+[8]
+Name=Infinite Bombs
+0=Off,0,0
+1=P1 On,10EDEC,63
+Default=0
+
+[9]
+Name=Infinite Arm's Cannon
+0=Off,0,0
+1=On,10EDAC,63
+Default=0
+
+[10]
+Name=Infinite Arm's Energy
+0=Off,0,0
+1=On,102E0A,30
+Default=0
+
+[11]
+Name=Bullet Limit
+0=Off,0,0
+1=P1 Gun Limit Off,10EDE6,00
+Default=0
+
+[12]
+Name=Bullet Change
+0=Off,0,0
+1=P1 Everytime,100D51,16
+Default=0
+
+[13]
+Name=Infinite COMBO Timer (Buggy)
+0=Off,0,0
+1=P1 On,100A80,2C,100A81,01,100FF2,1F,100FF3,01
+Default=0

@@ -1,0 +1,1453 @@
+[0]
+Name=Region
+0=Disabled
+1=Japan,FF44B2,00
+2=USA,FF44B2,02
+3=Euro,FF44B2,04
+4=Brazil,FF44B2,06
+5=Hispanic,FF44B2,08
+6=Asia,FF44B2,0A
+Default=0
+
+[1]
+Name=Infinite Battle Time
+0=Disabled
+1=Enabled,FF4009,99
+Default=0
+
+[2]
+Name=Infinite Char Select Time
+0=Disabled
+1=Enabled,FF416F,14
+Default=0
+
+[3]
+Name=Speed Select
+0=Disabled
+1=Normal,FF418E,02
+2=Turbo,FF418E,00
+Default=0
+
+[4]
+Name=Char Unlock
+0=Disabled
+1=Enabled,FF4198,40,FF41C8,40
+Default=0
+
+[5]
+Name=Player Join In
+0=Disabled
+1=None,FF4100,00
+2=Player 1,FF4100,01
+3=Player 2,FF4100,02
+4=Both Players,FF4100,03
+Default=0
+
+[6]
+Name=P1 Inf Health
+0=Disabled
+1=Enabled,FF3270,90,FF3A70,90
+Default=0
+
+[7]
+Name=P1 Die Hard
+0=Disabled
+1=Enabled,FF30EA,02,FF38EA,02
+Default=0
+
+[8]
+Name=P1 Inf Power Level
+0=Disabled
+1=Enabled,FF3275,03,FF3A75,03
+Default=0
+
+[9]
+Name=P1 Inf Power Gauge
+0=Disabled
+1=Enabled,FF3272,8F,FF3A72,8F
+Default=0
+
+[10]
+Name=P1 Inf Helper
+0=Disabled
+1=Enabled,FF32C7,09,FF3AC7,09
+Default=0
+
+[11]
+Name=P1 Inf Recovery Bar
+0=Disabled
+1=Enabled,FF327A,90,FF3A7A,90
+Default=0
+
+[12]
+Name=P1 Inf Variable Cross Time
+0=Disabled
+1=Enabled,FF4034,8F,FF4035,02
+Default=0
+
+[13]
+Name=P1 Inf Air Jump
+0=Disabled
+1=Enabled,FF3153,00,FF3953,00
+Default=0
+
+[14]
+Name=P1 Action Speed Up
+0=Disabled
+1=Enabled,FF303E,01,FF383E,01
+Default=0
+
+[15]
+Name=P1 No Chain Limit
+0=Disabled
+1=Enabled,FF30B6,01,FF38B6,01
+Default=0
+
+[16]
+Name=P1 No Hit Stop
+0=Disabled
+1=Enabled,FF3084,00,FF3884,00
+Default=0
+
+[17]
+Name=P1 No Jump Attack Limit
+0=Disabled
+1=Enabled,FF3143,11
+Default=0
+
+[18]
+Name=P1 Cause Max Damage
+0=Disabled
+1=Enabled,FF3254,00
+Default=0
+
+[19]
+Name=P1 1 Character
+0=Disabled
+1=Enabled,FF3A70,00,FF3A7A,00
+Default=0
+
+[20]
+Name=P1 Controller Mode
+0=Disabled
+1=User Play,FF3002,01,FF3802,01
+2=Computer Play,FF3002,00,FF3802,00
+3=User/Computer,FF3002,01,FF3802,00
+4=Computer/User,FF3002,00,FF3802,01
+Default=0
+
+[21]
+Name=P1 Fighting Mode
+0=Disabled
+1=Manual Mode,FF32B8,00,FF3AB8,00
+2=Easy Mode,FF32B8,01,FF3AB8,01
+Default=0
+
+[22]
+Name=P1 Is Onslaught*
+0=Disabled
+1=Enabled,FF3052,22,FF40B0,22,FF40B2,22,FF415E,22,FF415F,22,FF3002,01,FF3802,01
+Default=0
+
+[23]
+Name=P1 Char 1 Select
+0=Disabled
+1=Captain America,FF3052,04
+2=Captain Commando,FF3052,14
+3=Carnage,FF3052,24
+4=Chun-Li,FF3052,16
+5=Gambit,FF3052,0A
+6=Hulk,FF3052,06
+7=Jin,FF3052,18
+8=Lilith,FF3052,2C
+9=Mega War Machine,FF3052,28
+10=Morrigan,FF3052,1E
+11=Onslaught (Bad Gfx),FF3052,22
+12=Orange Hulk,FF3052,26
+13=Rockman,FF3052,20
+14=Roll,FF3052,10
+15=Ryu,FF3052,12
+16=Shadow Lady,FF3052,2A
+17=Spider-Man,FF3052,0E
+18=Strider Hiryu,FF3052,1C
+19=Venom,FF3052,0C
+20=War Machine,FF3052,02
+21=Wolverine,FF3052,08
+22=Zangief,FF3052,1A
+Default=0
+
+[24]
+Name=P1 Char 2 Select
+0=Disabled
+1=Captain America,FF3852,04
+2=Captain Commando,FF3852,14
+3=Carnage,FF3852,24
+4=Chun-Li,FF3852,16
+5=Gambit,FF3852,0A
+6=Hulk,FF3852,06
+7=Jin,FF3852,18
+8=Lilith,FF3852,2C
+9=Mega War Machine,FF3852,28
+10=Morrigan,FF3852,1E
+11=Onslaught (Bad Gfx),FF3852,22
+12=Orange Hulk,FF3852,26
+13=Rockman,FF3852,20
+14=Roll,FF3852,10
+15=Ryu,FF3852,12
+16=Shadow Lady,FF3852,2A
+17=Spider-Man,FF3852,0E
+18=Strider Hiryu,FF3852,1C
+19=Venom,FF3852,0C
+20=War Machine,FF3852,02
+21=Wolverine,FF3852,08
+22=Zangief,FF3852,1A
+Default=0
+
+[25]
+Name=P1 Helper 1 Select
+0=Disabled
+1=Anita,FF309C,44
+2=Arthur,FF309C,20
+3=Colossus,FF309C,14
+4=Cyclops,FF309C,10
+5=Devilot,FF309C,48
+6=Iceman,FF309C,38
+7=Jubilee,FF309C,4C
+8=Juggernaut,FF309C,04
+9=Lou,FF309C,00
+10=Magneto,FF309C,08
+11=Miechele Heart,FF309C,28
+12=Psylocke,FF309C,0C
+13=Pure & Fur,FF309C,3C
+14=Rogue,FF309C,34
+15=Saki,FF309C,24
+16=Sentinel,FF309C,54
+17=Shadow,FF309C,50
+18=Storm,FF309C,30
+19=Thor,FF309C,2C
+20=Ton Pooh,FF309C,1C
+21=Unknown Soldier,FF309C,18
+22=U.S. Agent,FF309C,40
+Default=0
+
+[26]
+Name=P1 Helper 2 Select
+0=Disabled
+1=Anita,FF389C,44
+2=Arthur,FF389C,20
+3=Colossus,FF389C,14
+4=Cyclops,FF389C,10
+5=Devilot,FF389C,48
+6=Iceman,FF389C,38
+7=Jubilee,FF389C,4C
+8=Juggernaut,FF389C,04
+9=Lou,FF389C,00
+10=Magneto,FF389C,08
+11=Miechele Heart,FF389C,28
+12=Psylocke,FF389C,0C
+13=Pure & Fur,FF389C,3C
+14=Rogue,FF389C,34
+15=Saki,FF389C,24
+16=Sentinel,FF389C,54
+17=Shadow,FF389C,50
+18=Storm,FF389C,30
+19=Thor,FF389C,2C
+20=Ton Pooh,FF389C,1C
+21=Unknown Soldier,FF389C,18
+22=U.S. Agent,FF389C,40
+Default=0
+
+[27]
+Name=P1 Char 1 Colour Select
+0=Disabled
+1=Colour 1,FF3276,00
+2=Colour 2,FF3276,01
+Default=0
+
+[28]
+Name=P1 Char 2 Colour Select
+0=Disabled
+1=Colour 1,FF3A76,00
+2=Colour 2,FF3A76,01
+Default=0
+
+[29]
+Name=P1 Helper 1 Colour Select
+0=Disabled
+1=Colour 1,FF3094,00
+2=Colour 2,FF3094,01
+Default=0
+
+[30]
+Name=P1 Helper 2 Colour Select
+0=Disabled
+1=Colour 1,FF3894,00
+2=Colour 2,FF3894,01
+Default=0
+
+[31]
+Name=P1 Captain America - Shield
+0=Disabled
+1=Equip,FF3385,00,FF3B85,00
+2=No Shield,FF3385,01,FF3B85,01
+Default=0
+
+[32]
+Name=P1 Rockman - Shot
+0=Disabled
+1=No Shot,FF3191,00,FF3991,00
+2=Controllable Auto Shoot,FF3191,04,FF3991,04
+3=Auto Shot,FF3191,06,FF3991,06
+Default=0
+
+[33]
+Name=P1 Rockman - Charge
+0=Disabled
+1=No Charge,FF33A1,00,FF3BA1,00
+2=Char 1 Full Charge,FF33A1,11
+3=Char 2 Full Charge,FF3BA1,11
+4=Char 1 & Char 2 Full Charge,FF33A1,11,FF3BA1,11
+Default=0
+
+[34]
+Name=P1 Rockman - Weapon
+0=Disabled
+1=Rock Ball,FF3380,00,FF3B80,00
+2=Tornado Hold,FF3380,02,FF3B80,02
+3=Leaf Shield,FF3380,04,FF3B80,04
+4=Always Leaf Shield*,FF3380,04,FF3B80,04,FF33AA,01,FF3BAA,01
+Default=0
+
+[35]
+Name=P1 Rockman - Inf Beat Plane & Rush Drill Time
+0=Disabled
+1=Enabled,FF339E,B4,FF3B9E,B4
+Default=0
+
+[36]
+Name=P1 Roll - Weapon
+0=Disabled
+1=Rock Ball,FF3380,00,FF3B80,00
+2=Tornado Hold,FF3380,02,FF3B80,02
+3=Leaf Shield,FF3380,04,FF3B80,04
+4=Always Leaf Shield*,FF3380,04,FF3B80,04,FF33AA,01,FF3BAA,01
+Default=0
+
+[37]
+Name=P1 Roll - Inf Beat Plane & Rush Drill Time
+0=Disabled
+1=Enabled,FF339E,B4,FF3B9E,B4
+Default=0
+
+[38]
+Name=P1 Ryu - Fighting Mode
+0=Disabled
+1=Ryu Mode,FF3384,00,FF3B84,00
+2=Ken Mode,FF3384,02,FF3B84,02
+3=Akuma Mode,FF3384,04,FF3B84,04
+Default=0
+
+[39]
+Name=P1 Strider Hiryu - Inf Heki Hari Tsuki Time*
+0=Disabled
+1=Enabled,FF304F,01,FF304E,28,FF384F,01,FF384E,28
+Default=0
+
+[40]
+Name=P1 War Machine - Inf Hikou Time
+0=Disabled
+1=Enabled,FF33C1,01,FF33C0,DE,FF3BC1,01,FF3BC0,DE
+Default=0
+
+[41]
+Name=P1 Wolverine - Inf Berserker Charge Time
+0=Disabled
+1=Enabled,FF338B,01,FF338A,E0,FF3B8B,01,FF3B8A,E0
+Default=0
+
+[42]
+Name=P1 Zangief - Mode
+0=Disabled
+1=Zangief,FF30EA,00,FF38EA,00
+2=Mech-Zangief,FF30EA,02,FF38EA,02
+Default=0
+
+[43]
+Name=P1 Easy Variable Counter & Roll Recovery
+0=Disabled
+1=Enabled,FF31E9,06,FF31E8,06,FF39E9,06,FF39E8,06
+Default=0
+
+[44]
+Name=P1 Easy Crossover Combination
+0=Disabled
+1=Enabled,FF3209,06,FF3208,06,FF3A09,06,FF3A08,06
+Default=0
+
+[45]
+Name=P1 Easy Duo Team Attack
+0=Disabled
+1=Enabled,FF3219,06,FF3218,06,FF3A19,06,FF3A18,06
+Default=0
+
+[46]
+Name=P1 Easy Super Jump
+0=Disabled
+1=Enabled,FF3189,02,FF3188,02,FF3989,02,FF3988,02
+Default=0
+
+[47]
+Name=P1 Easy Dash
+0=Disabled
+1=Forward Dash,FF3181,02,FF3180,02,FF3182,02,FF3981,02,FF3980,02,FF3982,02
+2=Backward Dash,FF3181,02,FF3180,02,FF3182,01,FF3981,02,FF3980,02,FF3982,01
+Default=0
+
+[48]
+Name=P1 Easy Moves
+0=Disabled
+1=Onslaught - Hyper Gravitation & Magnetic Shockwave & Tempest & Head Crush & Mega Optic Blast & Sentinel Assist,FF3191,06,FF3190,06,FF3199,06,FF3198,06,FF31A9,06,FF31A8,06,FF31B1,06,FF31B0,06,FF31B9,06,FF31B8,06,FF31C1,06,FF31C0,06
+2=Onslaught - Partner Change & Magnetic Shockwave & Tempest & Head Crush & Mega Optic Blast & Sentinel Assist,FF31C9,06,FF31C8,06,FF3199,06,FF3198,06,FF31A9,06,FF31A8,06,FF31B1,06,FF31B0,06,FF31B9,06,FF31B8,06,FF31C1,06,FF31C0,06
+3=Onslaught - Warp & Head Crush & Mega Optic Blast & Sentinel Assist,FF31A1,06,FF31A0,06,FF31B1,06,FF31B0,06,FF31B9,06,FF31B8,06,FF31C1,06,FF31C0,06
+4=Onslaught Second Form - Dash Punch & Punch & Beam & Hyper Gravitation,FF31D1,06,FF31D0,06,FF31E9,06,FF31E8,06,FF31D9,06,FF31D8,06,FF31E1,06,FF31E0,06
+5=Onslaught Second Form - Rensha Beam & Beam & Hyper Gravitation,FF3221,06,FF3220,06,FF31D9,06,FF31D8,06,FF31E1,06,FF31E0,06
+Default=0
+
+[49]
+Name=P1 Char 1 Easy Moves
+0=Disabled
+1=Captain America - Stars & Stripes & Charging Star,FF31A9,06,FF31A8,06,FF31B9,06,FF31B8,06
+2=Captain America - Shield Slash & Charging Star,FF31B1,06,FF31B0,06,FF31B9,06,FF31B8,06
+3=Captain America - Zenten & Charging Star,FF31C1,0A,FF31C0,0A,FF31B9,06,FF31B8,06
+4=Captain Commando - Air & Captain Fire & Commando Strike,FF3199,06,FF3198,06,FF31B9,06,FF31B8,06,FF31A9,06,FF31A8,06
+5=Captain Commando - Air Captain Fire & Collider & Commando Strike,FF31A1,06,FF31A0,06,FF31B9,06,FF31B8,06,FF31A9,06,FF31A8,06
+6=Captain Commando - Air & Captain Fire & Kick,FF3199,06,FF3198,06,FF31C1,06,FF31C0,06,FF31A9,06,FF31A8,06
+7=Captain Commando - Air Captain Fire & Collider & Kick,FF31A1,06,FF31A0,06,FF31C1,06,FF31C0,06,FF31A9,06,FF31A8,06
+8=Carnage - Venom Crush & Storm & Charge & Air Dash,FF3191,06,FF3190,06,FF31B1,02,FF31B0,02,FF31B9,06,FF31B8,06,FF31C1,06,FF31C0,06
+9=Carnage - Web Throw & Venom Storm & Charge & Air Dash,FF3199,0A,FF3198,0A,FF31B1,02,FF31B0,02,FF31B9,06,FF31B8,06,FF31C1,06,FF31C0,06
+10=Chun-Li - Tenshou Kyaku & Kikou Ken & Air Dash,FF3199,06,FF3198,06,FF3191,0A,FF3190,0A,FF31D1,02,FF31D0,02
+11=Chun-Li - Sen'en Shuu & Kikou Ken & Air Dash,FF31A1,0A,FF31A0,0A,FF3191,0A,FF3190,0A,FF31D1,02,FF31D0,02
+12=Chun-Li - Heavy Hyakuretsu Kyaku & Kikou Ken & Air Dash,FF31C1,06,FF31C0,06,FF31C3,03,FF3191,0A,FF3190,0A,FF31D1,02,FF31D0,02
+13=Gambit - Air & Kinetic Card & Cajun Strike,FF3191,06,FF3190,06,FF31A9,08,FF31A8,08,FF31C9,06,FF31C8,06
+14=Gambit - Trick & Air Kinetic Card & Cajun Strike,FF3199,06,FF3198,06,FF31A9,08,FF31A8,08,FF31C9,06,FF31C8,06
+15=Gambit - Cajun Slash & Strike & Air Kinetic Card,FF31A1,06,FF31A0,06,FF31A9,08,FF31A8,08,FF31C9,06,FF31C8,06
+16=Gambit - Cajun Escape & Strike & Air Kinetic Card,FF31B9,08,FF31B8,08,FF31A9,08,FF31A8,08,FF31C9,06,FF31C8,06
+17=Gouki - Gou & Zankuu Hadou Ken & Air & Tatsumaki Zankuu Kyaku & Ashura Senkuu 1,FF31D9,06,FF31D8,06,FF3191,06,FF3190,06,FF31B1,06,FF31B0,06,FF31A1,06,FF31A0,06,FF31A9,06,FF31A8,06
+18=Gouki - Gou Shoryuu & Zankuu Hadou Ken & Air & Tatsumaki Zankuu Kyaku & Ashura Senkuu 1,FF31D9,06,FF31D8,06,FF3199,06,FF3198,06,FF31B1,06,FF31B0,06,FF31A1,06,FF31A0,06,FF31A9,06,FF31A8,06
+19=Gouki - Ken & Ryu Mode Change & Zankuu Hadou Ken & Air & Tatsumaki Zankuu Kyaku & Ashura Senkuu 1,FF31D9,06,FF31D8,06,FF3399,0A,FF3398,0A,FF31D1,0A,FF31D0,0A,FF31B1,06,FF31B0,06,FF31A1,06,FF31A0,06,FF31A9,06,FF31A8,06
+20=Gouki - Gou & Zankuu Hadou Ken & Tatsumaki Zankuu Kyaku & Tenma Kuujin Kyaku & Ashura Senkuu 1,FF31D9,06,FF31D8,06,FF3191,06,FF3190,06,FF31B1,06,FF31B0,06,FF31A1,06,FF31A0,06,FF3391,06,FF3390,06
+21=Gouki - Gou Shoryuu & Zankuu Hadou Ken & Tatsumaki Zankuu Kyaku & Tenma Kuujin Kyaku & Ashura Senkuu 1,FF31D9,06,FF31D8,06,FF3199,06,FF3198,06,FF31B1,06,FF31B0,06,FF31A1,06,FF31A0,06,FF3391,06,FF3390,06
+22=Gouki - Ken & Ryu Mode Change & Zankuu Hadou Ken & Tatsumaki Zankuu & Kuujin Kyaku & Ashura Senkuu 1,FF31D9,06,FF31D8,06,FF3399,0A,FF3398,0A,FF31D1,0A,FF31D0,0A,FF31B1,06,FF31B0,06,FF31A1,06,FF31A0,06,FF3391,06,FF3390,06
+23=Gouki - Gou & Zankuu Hadou Ken & Air & Tatsumaki Zankuu Kyaku & Ashura Senkuu 2,FF31E1,06,FF31E0,06,FF3191,06,FF3190,06,FF31B1,06,FF31B0,06,FF31A1,06,FF31A0,06,FF31A9,06,FF31A8,06
+24=Gouki - Gou Shoryuu & Zankuu Hadou Ken & Air & Tatsumaki Zankuu Kyaku & Ashura Senkuu 2,FF31E1,06,FF31E0,06,FF3199,06,FF3198,06,FF31B1,06,FF31B0,06,FF31A1,06,FF31A0,06,FF31A9,06,FF31A8,06
+25=Gouki - Ken & Ryu Mode Change & Zankuu Hadou Ken & Air & Tatsumaki Zankuu Kyaku & Ashura Senkuu 2,FF31E1,06,FF31E0,06,FF3399,0A,FF3398,0A,FF31D1,0A,FF31D0,0A,FF31B1,06,FF31B0,06,FF31A1,06,FF31A0,06,FF31A9,06,FF31A8,06
+26=Gouki - Gou & Zankuu Hadou Ken & Tatsumaki Zankuu Kyaku & Tenma Kuujin Kyaku & Ashura Senkuu 2,FF31E1,06,FF31E0,06,FF3191,06,FF3190,06,FF31B1,06,FF31B0,06,FF31A1,06,FF31A0,06,FF3391,06,FF3390,06
+27=Gouki - Gou Shoryuu & Zankuu Hadou Ken & Tatsumaki Zankuu Kyaku & Tenma Kuujin Kyaku & Ashura Senkuu 2,FF31E1,06,FF31E0,06,FF3199,06,FF3198,06,FF31B1,06,FF31B0,06,FF31A1,06,FF31A0,06,FF3391,06,FF3390,06
+28=Gouki - Ken & Ryu Mode Change & Zankuu Hadou Ken & Tatsumaki Zankuu & Kuujin Kyaku & Ashura Senkuu 2,FF31E1,06,FF31E0,06,FF3399,0A,FF3398,0A,FF31D1,0A,FF31D0,0A,FF31B1,06,FF31B0,06,FF31A1,06,FF31A0,06,FF3391,06,FF3390,06
+29=Hulk - Gamma Charge Taichi & Tornado,FF3191,08,FF3190,08,FF31A1,0A,FF31A0,0A
+30=Hulk - Gamma Charge Taikuu & Tornado,FF31A9,08,FF31A8,08,FF31A1,0A,FF31A0,0A
+31=Hulk - Gamma Charge Taichi & Slam,FF3191,08,FF3190,08,FF31B9,06,FF31B8,06
+32=Hulk - Gamma Charge Taikuu & Slam,FF31A9,08,FF31A8,08,FF31B9,06,FF31B8,06
+33=Jin - Saotome Typhoon & Crush,FF3191,08,FF3190,08,FF31B9,0A,FF31B8,0A
+34=Jin - Saotome Dynamite & Crush,FF3199,08,FF3198,08,FF31B9,0A,FF31B8,0A
+35=Ken - Air & Hadou Ken & Air & Tatsumaki Senpuu Kyaku,FF3191,06,FF3190,06,FF31B1,06,FF31B0,06,FF31A1,06,FF31A0,06,FF31A9,06,FF31A8,06
+36=Ken - Shoryuu Ken & Air & Tatsumaki Senpuu Kyaku,FF3199,06,FF3198,06,FF31A1,06,FF31A0,06,FF31A9,06,FF31A8,06
+37=Ken - Akuma & Ryu Mode Change & Air Hadou Ken & Air & Tatsumaki Senpuu Kyaku,FF31D1,0A,FF31D0,0A,FF33A1,0A,FF33A0,0A,FF31B1,06,FF31B0,06,FF31A1,06,FF31A0,06,FF31A9,06,FF31A8,06
+38=Lilith - Air & Soul Flash & Vania Dash,FF3199,06,FF3198,06,FF31E1,02,FF31E0,02,FF31D9,06,FF31D8,06
+39=Lilith - Shining Blade & Air Soul Flash & Vania Dash,FF31A1,06,FF31A0,06,FF31E1,02,FF31E0,02,FF31D9,06,FF31D8,06
+40=Lilith - Vector Drain & Air Soul Flash & Vania Dash,FF31A9,0A,FF31A8,0A,FF31E1,02,FF31E0,02,FF31D9,06,FF31D8,06
+41=Mech-Zangief - Flying Powerbomb & Vodka Fire,FF31B1,0A,FF31B0,0A,FF31A1,06,FF31A0,06
+42=Mech-Zangief - Aerial Russian Slam & Vodka Fire,FF31C1,06,FF31C0,06,FF31A1,06,FF31A0,06
+43=Mech-Zangief - Iron Body & Vodka Fire,FF31D1,06,FF31D0,06,FF31A1,06,FF31A0,06
+44=Mech-Zangief - Flying Powerbomb & Screw Piledriver,FF31B1,0A,FF31B0,0A,FF31A9,08,FF31A8,08
+45=Mech-Zangief - Aerial Russian Slam & Screw Piledriver,FF31C1,06,FF31C0,06,FF31A9,08,FF31A8,08
+46=Mech-Zangief - Iron Body & Screw Piledriver,FF31D1,06,FF31D0,06,FF31A9,08,FF31A8,08
+47=Mega War Machine - Low & Shoulder Cannon,FF31A1,06,FF31A0,06,FF31C1,06,FF31C0,06
+48=Morrigan - Air & Soul Fist & Vania Dash,FF3199,06,FF3198,06,FF31E1,02,FF31E0,02,FF31D9,06,FF31D8,06
+49=Morrigan - Shadow Blade & Air Soul Fist & Vania Dash,FF31A1,06,FF31A0,06,FF31E1,02,FF31E0,02,FF31D9,06,FF31D8,06
+50=Morrigan - Vector Drain & Air Soul Fist & Vania Dash,FF31A9,0A,FF31A8,0A,FF31E1,02,FF31E0,02,FF31D9,06,FF31D8,06
+51=Orange Hulk - Gamma Charge Taichi & Tornado,FF3191,08,FF3190,08,FF31A1,0A,FF31A0,0A
+52=Orange Hulk - Gamma Charge Taikuu & Tornado,FF31A9,08,FF31A8,08,FF31A1,0A,FF31A0,0A
+53=Orange Hulk - Gamma Charge Taichi & Slam,FF3191,08,FF3190,08,FF31B9,06,FF31B8,06
+54=Orange Hulk - Gamma Charge Taikuu & Slam,FF31A9,08,FF31A8,08,FF31B9,06,FF31B8,06
+55=Rockman - Charge Shot & Eddie Yobi,FF3191,02,FF3190,02,FF31C1,06,FF31C0,06
+56=Rockman - Mega Upper & Eddie Yobi,FF3199,06,FF3198,06,FF31C1,06,FF31C0,06
+57=Rockman - Item Kougeki & Eddie Yobi,FF31B1,06,FF31B0,06,FF31C1,06,FF31C0,06
+58=Roll - Roll Buster & Item Kougeki,FF3191,06,FF3190,06,FF31B1,06,FF31B0,06
+59=Roll - Hana-Taba Bakudan & Item Kougeki,FF3199,06,FF3198,06,FF31B1,06,FF31B0,06
+60=Roll - Roll Buster & Eddie Yobi,FF3191,06,FF3190,06,FF31C1,06,FF31C0,06
+61=Roll - Hana-Taba Bakudan & Eddie Yobi,FF3199,06,FF3198,06,FF31C1,06,FF31C0,06
+62=Ryu - Air & Hadou Ken & Air & Tatsumaki Senpuu Kyaku,FF3191,06,FF3190,06,FF31B1,06,FF31B0,06,FF31A1,06,FF31A0,06,FF31A9,06,FF31A8,06
+63=Ryu - Shoryuu Ken & Air Hadou Ken & Air & Tatsumaki Senpuu Kyaku,FF3199,06,FF3198,06,FF31B1,06,FF31B0,06,FF31A1,06,FF31A0,06,FF31A9,06,FF31A8,06
+64=Ryu - Akuma & Ken Mode Change & Air Hadou Ken & Air & Tatsumaki Senpuu Kyaku,FF3399,0A,FF3398,0A,FF33A1,0A,FF33A0,0A,FF31B1,06,FF31B0,06,FF31A1,06,FF31A0,06,FF31A9,06,FF31A8,06
+65=Shadow Lady - Sky Counter Crash & Miracle Drill & Air Dash,FF3191,06,FF3190,06,FF31A1,0A,FF31A0,0A,FF31D1,02,FF31D0,02
+66=Shadow Lady - Rainbow Missile & Miracle Drill & Air Dash,FF3191,06,FF3190,06,FF31A9,06,FF31A8,06,FF31D1,02,FF31D0,02
+67=Shadow Lady - Infinity Leg & Miracle Drill & Air Dash,FF3191,06,FF3190,06,FF31C1,06,FF31C0,06,FF31C3,03,FF31D1,02,FF31D0,02
+68=Shadow Lady - Sky Counter Crash & Plasma Barrier & Air Dash,FF31B9,06,FF31B8,06,FF31A1,0A,FF31A0,0A,FF31D1,02,FF31D0,02
+69=Shadow Lady - Rainbow Missile & Plasma Barrier & Air Dash,FF31B9,06,FF31B8,06,FF31A9,06,FF31A8,06,FF31D1,02,FF31D0,02
+70=Shadow Lady - Infinity Leg & Plasma Barrier & Air Dash,FF31B9,06,FF31B8,06,FF31C1,06,FF31C0,06,FF31C3,03,FF31D1,02,FF31D0,02
+71=Spider-Man - Spider Sting & Web Swing & Air Dash,FF3191,06,FF3190,06,FF31A1,06,FF31A0,06,FF31D1,02,FF31D0,02
+72=Spider-Man - Web Ball & Swing & Air Dash,FF3199,06,FF3198,06,FF31A1,06,FF31A0,06,FF31D1,02,FF31D0,02
+73=Spider-Man - Web Throw & Swing & Air Dash,FF31A9,0A,FF31A8,0A,FF31A1,06,FF31A0,06,FF31D1,02,FF31D0,02
+74=Strider Hiryu - Warp & Excalibur,FF3199,06,FF3198,06,FF31D9,06,FF31D8,06
+75=Strider Hiryu - Ame no Murakumo & Air & Gram 2,FF3191,06,FF3190,06,FF31B1,06,FF31B0,06,FF31B9,06,FF31B8,06
+76=Strider Hiryu - Air & Gram 1 & 2,FF31A9,06,FF31A8,06,FF31B1,06,FF31B0,06,FF31B9,06,FF31B8,06
+77=Strider Hiryu - Heki Hari Tsuki & Air & Gram 2,FF31C1,06,FF31C0,06,FF31B1,06,FF31B0,06,FF31B9,06,FF31B8,06
+78=Strider Hiryu - Formation B & Air & Gram 2,FF33A1,08,FF33A0,08,FF31B1,06,FF31B0,06,FF31B9,06,FF31B8,06
+79=Strider Hiryu - Ame no Murakumo & Formation A & Air Gram,FF3191,06,FF3190,06,FF31C9,06,FF31C8,06,FF31B9,06,FF31B8,06
+80=Strider Hiryu - Gram 1 & Formation A & Air Gram,FF31A9,06,FF31A8,06,FF31C9,06,FF31C8,06,FF31B9,06,FF31B8,06
+81=Strider Hiryu - Heki Hari Tsuki & Formation A & Air Gram,FF31C1,06,FF31C0,06,FF31C9,06,FF31C8,06,FF31B9,06,FF31B8,06
+82=Strider Hiryu - Formation A & B & Air Gram,FF33A1,08,FF33A0,08,FF31C9,06,FF31C8,06,FF31B9,06,FF31B8,06
+83=Strider Hiryu - Ame no Murakumo & Vajra & Air Gram,FF3191,06,FF3190,06,FF3391,06,FF3390,06,FF31B9,06,FF31B8,06
+84=Strider Hiryu - Gram 1 & Vajra & Air Gram,FF31A9,06,FF31A8,06,FF3391,06,FF3390,06,FF31B9,06,FF31B8,06
+85=Strider Hiryu - Heki Hari Tsuki & Vajra & Air Gram,FF31C1,06,FF31C0,06,FF3391,06,FF3390,06,FF31B9,06,FF31B8,06
+86=Strider Hiryu - Formation B & Vajra & Air Gram,FF33A1,08,FF33A0,08,FF3391,06,FF3390,06,FF31B9,06,FF31B8,06
+87=Strider Hiryu - Ame no Murakumo & Formation C & Air Gram,FF3191,06,FF3190,06,FF3399,08,FF3398,08,FF31B9,06,FF31B8,06
+88=Strider Hiryu - Gram 1 & Formation C & Air Gram,FF31A9,06,FF31A8,06,FF3399,08,FF3398,08,FF31B9,06,FF31B8,06
+89=Strider Hiryu - Heki Hari Tsuki & Formation C & Air Gram,FF31C1,06,FF31C0,06,FF3399,08,FF3398,08,FF31B9,06,FF31B8,06
+90=Strider Hiryu - Formation B & C & Air Gram,FF33A1,08,FF33A0,08,FF3399,08,FF3398,08,FF31B9,06,FF31B8,06
+91=Venom - Venom Fang & Rush & Air Dash,FF3191,06,FF3190,06,FF31B1,02,FF31B0,02,FF31B9,06,FF31B8,06
+92=Venom - Web Throw & Venom Rush & Air Dash,FF3199,0A,FF3198,0A,FF31B1,02,FF31B0,02,FF31B9,06,FF31B8,06
+93=War Machine - Repulsor Blast & Hikou,FF3191,0A,FF3190,0A,FF31B1,06,FF31B0,06
+94=War Machine - Shoulder Cannon & Hikou,FF31A1,06,FF31A0,06,FF31B1,06,FF31B0,06
+95=War Machine - Repulsor Blast & Low Shoulder Cannon,FF3191,0A,FF3190,0A,FF31C1,06,FF31C0,06
+96=War Machine - Low & Shoulder Cannon,FF31A1,06,FF31A0,06,FF31C1,06,FF31C0,06
+97=Wolverine - Tornado Claw,FF31A9,06,FF31A8,06
+98=Wolverine - Berserker Barrage,FF31B1,06,FF31B0,06
+99=Wolverine - Berserker Slash,FF31C9,06,FF31C8,06
+100=Zangief - Flying Powerbomb & Banishing Flat,FF31B1,0A,FF31B0,0A,FF31A1,06,FF31A0,06
+101=Zangief - Aerial Russian Slam & Banishing Flat,FF31C1,06,FF31C0,06,FF31A1,06,FF31A0,06
+102=Zangief - Iron Body & Banishing Flat,FF31D1,06,FF31D0,06,FF31A1,06,FF31A0,06
+103=Zangief - Flying Powerbomb & Screw Piledriver,FF31B1,0A,FF31B0,0A,FF31A9,08,FF31A8,08
+104=Zangief - Aerial Russian Slam & Screw Piledriver,FF31C1,06,FF31C0,06,FF31A9,08,FF31A8,08
+105=Zangief - Iron Body & Screw Piledriver,FF31D1,06,FF31D0,06,FF31A9,08,FF31A8,08
+Default=0
+
+[50]
+Name=P1 Char 2 Easy Moves
+0=Disabled
+1=Captain America - Stars & Stripes & Charging Star,FF39A9,06,FF39A8,06,FF39B9,06,FF39B8,06
+2=Captain America - Shield Slash & Charging Star,FF39B1,06,FF39B0,06,FF39B9,06,FF39B8,06
+3=Captain America - Zenten & Charging Star,FF39C1,0A,FF39C0,0A,FF39B9,06,FF39B8,06
+4=Captain Commando - Air & Captain Fire & Commando Strike,FF3999,06,FF3998,06,FF39B9,06,FF39B8,06,FF39A9,06,FF39A8,06
+5=Captain Commando - Air Captain Fire & Collider & Commando Strike,FF39A1,06,FF39A0,06,FF39B9,06,FF39B8,06,FF39A9,06,FF39A8,06
+6=Captain Commando - Air & Captain Fire & Kick,FF3999,06,FF3998,06,FF39C1,06,FF39C0,06,FF39A9,06,FF39A8,06
+7=Captain Commando - Air Captain Fire & Collider & Kick,FF39A1,06,FF39A0,06,FF39C1,06,FF39C0,06,FF39A9,06,FF39A8,06
+8=Carnage - Venom Crush & Storm & Charge & Air Dash,FF3991,06,FF3990,06,FF39B1,02,FF39B0,02,FF39B9,06,FF39B8,06,FF39C1,06,FF39C0,06
+9=Carnage - Web Throw & Venom Storm & Charge & Air Dash,FF3999,0A,FF3998,0A,FF39B1,02,FF39B0,02,FF39B9,06,FF39B8,06,FF39C1,06,FF39C0,06
+10=Chun-Li - Tenshou Kyaku & Kikou Ken & Air Dash,FF3999,06,FF3998,06,FF3991,0A,FF3990,0A,FF39D1,02,FF39D0,02
+11=Chun-Li - Sen'en Shuu & Kikou Ken & Air Dash,FF39A1,0A,FF39A0,0A,FF3991,0A,FF3990,0A,FF39D1,02,FF39D0,02
+12=Chun-Li - Heavy Hyakuretsu Kyaku & Kikou Ken & Air Dash,FF39C1,06,FF39C0,06,FF39C3,03,FF3991,0A,FF3990,0A,FF39D1,02,FF39D0,02
+13=Gambit - Air & Kinetic Card & Cajun Strike,FF3991,06,FF3990,06,FF39A9,08,FF39A8,08,FF39C9,06,FF39C8,06
+14=Gambit - Trick & Air Kinetic Card & Cajun Strike,FF3999,06,FF3998,06,FF39A9,08,FF39A8,08,FF39C9,06,FF39C8,06
+15=Gambit - Cajun Slash & Strike & Air Kinetic Card,FF39A1,06,FF39A0,06,FF39A9,08,FF39A8,08,FF39C9,06,FF39C8,06
+16=Gambit - Cajun Escape & Strike & Air Kinetic Card,FF39B9,08,FF39B8,08,FF39A9,08,FF39A8,08,FF39C9,06,FF39C8,06
+17=Gouki - Gou & Zankuu Hadou Ken & Air & Tatsumaki Zankuu Kyaku & Ashura Senkuu 1,FF39D9,06,FF39D8,06,FF3991,06,FF3990,06,FF39B1,06,FF39B0,06,FF39A1,06,FF39A0,06,FF39A9,06,FF39A8,06
+18=Gouki - Gou Shoryuu & Zankuu Hadou Ken & Air & Tatsumaki Zankuu Kyaku & Ashura Senkuu 1,FF39D9,06,FF39D8,06,FF3999,06,FF3998,06,FF39B1,06,FF39B0,06,FF39A1,06,FF39A0,06,FF39A9,06,FF39A8,06
+19=Gouki - Ken & Ryu Mode Change & Zankuu Hadou Ken & Air & Tatsumaki Zankuu Kyaku & Ashura Senkuu 1,FF39D9,06,FF39D8,06,FF3B99,0A,FF3B98,0A,FF39D1,0A,FF39D0,0A,FF39B1,06,FF39B0,06,FF39A1,06,FF39A0,06,FF39A9,06,FF39A8,06
+20=Gouki - Gou & Zankuu Hadou Ken & Tatsumaki Zankuu Kyaku & Tenma Kuujin Kyaku & Ashura Senkuu 1,FF39D9,06,FF39D8,06,FF3991,06,FF3990,06,FF39B1,06,FF39B0,06,FF39A1,06,FF39A0,06,FF3B91,06,FF3B90,06
+21=Gouki - Gou Shoryuu & Zankuu Hadou Ken & Tatsumaki Zankuu Kyaku & Tenma Kuujin Kyaku & Ashura Senkuu 1,FF39D9,06,FF39D8,06,FF3999,06,FF3998,06,FF39B1,06,FF39B0,06,FF39A1,06,FF39A0,06,FF3B91,06,FF3B90,06
+22=Gouki - Ken & Ryu Mode Change & Zankuu Hadou Ken & Tatsumaki Zankuu & Kuujin Kyaku & Ashura Senkuu 1,FF39D9,06,FF39D8,06,FF3B99,0A,FF3B98,0A,FF39D1,0A,FF39D0,0A,FF39B1,06,FF39B0,06,FF39A1,06,FF39A0,06,FF3B91,06,FF3B90,06
+23=Gouki - Gou & Zankuu Hadou Ken & Air & Tatsumaki Zankuu Kyaku & Ashura Senkuu 2,FF39E1,06,FF39E0,06,FF3991,06,FF3990,06,FF39B1,06,FF39B0,06,FF39A1,06,FF39A0,06,FF39A9,06,FF39A8,06
+24=Gouki - Gou Shoryuu & Zankuu Hadou Ken & Air & Tatsumaki Zankuu Kyaku & Ashura Senkuu 2,FF39E1,06,FF39E0,06,FF3999,06,FF3998,06,FF39B1,06,FF39B0,06,FF39A1,06,FF39A0,06,FF39A9,06,FF39A8,06
+25=Gouki - Ken & Ryu Mode Change & Zankuu Hadou Ken & Air & Tatsumaki Zankuu Kyaku & Ashura Senkuu 2,FF39E1,06,FF39E0,06,FF3B99,0A,FF3B98,0A,FF39D1,0A,FF39D0,0A,FF39B1,06,FF39B0,06,FF39A1,06,FF39A0,06,FF39A9,06,FF39A8,06
+26=Gouki - Gou & Zankuu Hadou Ken & Tatsumaki Zankuu Kyaku & Tenma Kuujin Kyaku & Ashura Senkuu 2,FF39E1,06,FF39E0,06,FF3991,06,FF3990,06,FF39B1,06,FF39B0,06,FF39A1,06,FF39A0,06,FF3B91,06,FF3B90,06
+27=Gouki - Gou Shoryuu & Zankuu Hadou Ken & Tatsumaki Zankuu Kyaku & Tenma Kuujin Kyaku & Ashura Senkuu 2,FF39E1,06,FF39E0,06,FF3999,06,FF3998,06,FF39B1,06,FF39B0,06,FF39A1,06,FF39A0,06,FF3B91,06,FF3B90,06
+28=Gouki - Ken & Ryu Mode Change & Zankuu Hadou Ken & Tatsumaki Zankuu & Kuujin Kyaku & Ashura Senkuu 2,FF39E1,06,FF39E0,06,FF3B99,0A,FF3B98,0A,FF39D1,0A,FF39D0,0A,FF39B1,06,FF39B0,06,FF39A1,06,FF39A0,06,FF3B91,06,FF3B90,06
+29=Hulk - Gamma Charge Taichi & Tornado,FF3991,08,FF3990,08,FF39A1,0A,FF39A0,0A
+30=Hulk - Gamma Charge Taikuu & Tornado,FF39A9,08,FF39A8,08,FF39A1,0A,FF39A0,0A
+31=Hulk - Gamma Charge Taichi & Slam,FF3991,08,FF3990,08,FF39B9,06,FF39B8,06
+32=Hulk - Gamma Charge Taikuu & Slam,FF39A9,08,FF39A8,08,FF39B9,06,FF39B8,06
+33=Jin - Saotome Typhoon & Crush,FF3991,08,FF3990,08,FF39B9,0A,FF39B8,0A
+34=Jin - Saotome Dynamite & Crush,FF3999,08,FF3998,08,FF39B9,0A,FF39B8,0A
+35=Ken - Air & Hadou Ken & Air & Tatsumaki Senpuu Kyaku,FF3991,06,FF3990,06,FF39B1,06,FF39B0,06,FF39A1,06,FF39A0,06,FF39A9,06,FF39A8,06
+36=Ken - Shoryuu Ken & Air & Tatsumaki Senpuu Kyaku,FF3999,06,FF3998,06,FF39A1,06,FF39A0,06,FF39A9,06,FF39A8,06
+37=Ken - Akuma & Ryu Mode Change & Air Hadou Ken & Air & Tatsumaki Senpuu Kyaku,FF39D1,0A,FF39D0,0A,FF3BA1,0A,FF3BA0,0A,FF39B1,06,FF39B0,06,FF39A1,06,FF39A0,06,FF39A9,06,FF39A8,06
+38=Lilith - Air & Soul Flash & Vania Dash,FF3999,06,FF3998,06,FF39E1,02,FF39E0,02,FF39D9,06,FF39D8,06
+39=Lilith - Shining Blade & Air Soul Flash & Vania Dash,FF39A1,06,FF39A0,06,FF39E1,02,FF39E0,02,FF39D9,06,FF39D8,06
+40=Lilith - Vector Drain & Air Soul Flash & Vania Dash,FF39A9,0A,FF39A8,0A,FF39E1,02,FF39E0,02,FF39D9,06,FF39D8,06
+41=Mech-Zangief - Flying Powerbomb & Vodka Fire,FF39B1,0A,FF39B0,0A,FF39A1,06,FF39A0,06
+42=Mech-Zangief - Aerial Russian Slam & Vodka Fire,FF39C1,06,FF39C0,06,FF39A1,06,FF39A0,06
+43=Mech-Zangief - Iron Body & Vodka Fire,FF39D1,06,FF39D0,06,FF39A1,06,FF39A0,06
+44=Mech-Zangief - Flying Powerbomb & Screw Piledriver,FF39B1,0A,FF39B0,0A,FF39A9,08,FF39A8,08
+45=Mech-Zangief - Aerial Russian Slam & Screw Piledriver,FF39C1,06,FF39C0,06,FF39A9,08,FF39A8,08
+46=Mech-Zangief - Iron Body & Screw Piledriver,FF39D1,06,FF39D0,06,FF39A9,08,FF39A8,08
+47=Mega War Machine - Low & Shoulder Cannon,FF39A1,06,FF39A0,06,FF39C1,06,FF39C0,06
+48=Morrigan - Air & Soul Fist & Vania Dash,FF3999,06,FF3998,06,FF39E1,02,FF39E0,02,FF39D9,06,FF39D8,06
+49=Morrigan - Shadow Blade & Air Soul Fist & Vania Dash,FF39A1,06,FF39A0,06,FF39E1,02,FF39E0,02,FF39D9,06,FF39D8,06
+50=Morrigan - Vector Drain & Air Soul Fist & Vania Dash,FF39A9,0A,FF39A8,0A,FF39E1,02,FF39E0,02,FF39D9,06,FF39D8,06
+51=Orange Hulk - Gamma Charge Taichi & Tornado,FF3991,08,FF3990,08,FF39A1,0A,FF39A0,0A
+52=Orange Hulk - Gamma Charge Taikuu & Tornado,FF39A9,08,FF39A8,08,FF39A1,0A,FF39A0,0A
+53=Orange Hulk - Gamma Charge Taichi & Slam,FF3991,08,FF3990,08,FF39B9,06,FF39B8,06
+54=Orange Hulk - Gamma Charge Taikuu & Slam,FF39A9,08,FF39A8,08,FF39B9,06,FF39B8,06
+55=Rockman - Charge Shot & Eddie Yobi,FF3991,02,FF3990,02,FF39C1,06,FF39C0,06
+56=Rockman - Mega Upper & Eddie Yobi,FF3999,06,FF3998,06,FF39C1,06,FF39C0,06
+57=Rockman - Item Kougeki & Eddie Yobi,FF39B1,06,FF39B0,06,FF39C1,06,FF39C0,06
+58=Roll - Roll Buster & Item Kougeki,FF3991,06,FF3990,06,FF39B1,06,FF39B0,06
+59=Roll - Hana-Taba Bakudan & Item Kougeki,FF3999,06,FF3998,06,FF39B1,06,FF39B0,06
+60=Roll - Roll Buster & Eddie Yobi,FF3991,06,FF3990,06,FF39C1,06,FF39C0,06
+61=Roll - Hana-Taba Bakudan & Eddie Yobi,FF3999,06,FF3998,06,FF39C1,06,FF39C0,06
+62=Ryu - Air & Hadou Ken & Air & Tatsumaki Senpuu Kyaku,FF3991,06,FF3990,06,FF39B1,06,FF39B0,06,FF39A1,06,FF39A0,06,FF39A9,06,FF39A8,06
+63=Ryu - Shoryuu Ken & Air Hadou Ken & Air & Tatsumaki Senpuu Kyaku,FF3999,06,FF3998,06,FF39B1,06,FF39B0,06,FF39A1,06,FF39A0,06,FF39A9,06,FF39A8,06
+64=Ryu - Akuma & Ken Mode Change & Air Hadou Ken & Air & Tatsumaki Senpuu Kyaku,FF3B99,0A,FF3B98,0A,FF3BA1,0A,FF3BA0,0A,FF39B1,06,FF39B0,06,FF39A1,06,FF39A0,06,FF39A9,06,FF39A8,06
+65=Shadow Lady - Sky Counter Crash & Miracle Drill & Air Dash,FF3991,06,FF3990,06,FF39A1,0A,FF39A0,0A,FF39D1,02,FF39D0,02
+66=Shadow Lady - Rainbow Missile & Miracle Drill & Air Dash,FF3991,06,FF3990,06,FF39A9,06,FF39A8,06,FF39D1,02,FF39D0,02
+67=Shadow Lady - Infinity Leg & Miracle Drill & Air Dash,FF3991,06,FF3990,06,FF39C1,06,FF39C0,06,FF39C3,03,FF39D1,02,FF39D0,02
+68=Shadow Lady - Sky Counter Crash & Plasma Barrier & Air Dash,FF39B9,06,FF39B8,06,FF39A1,0A,FF39A0,0A,FF39D1,02,FF39D0,02
+69=Shadow Lady - Rainbow Missile & Plasma Barrier & Air Dash,FF39B9,06,FF39B8,06,FF39A9,06,FF39A8,06,FF39D1,02,FF39D0,02
+70=Shadow Lady - Infinity Leg & Plasma Barrier & Air Dash,FF39B9,06,FF39B8,06,FF39C1,06,FF39C0,06,FF39C3,03,FF39D1,02,FF39D0,02
+71=Spider-Man - Spider Sting & Web Swing & Air Dash,FF3991,06,FF3990,06,FF39A1,06,FF39A0,06,FF39D1,02,FF39D0,02
+72=Spider-Man - Web Ball & Swing & Air Dash,FF3999,06,FF3998,06,FF39A1,06,FF39A0,06,FF39D1,02,FF39D0,02
+73=Spider-Man - Web Throw & Swing & Air Dash,FF39A9,0A,FF39A8,0A,FF39A1,06,FF39A0,06,FF39D1,02,FF39D0,02
+74=Strider Hiryu - Warp & Excalibur,FF3999,06,FF3998,06,FF39D9,06,FF39D8,06
+75=Strider Hiryu - Ame no Murakumo & Air & Gram 2,FF3991,06,FF3990,06,FF39B1,06,FF39B0,06,FF39B9,06,FF39B8,06
+76=Strider Hiryu - Air & Gram 1 & 2,FF39A9,06,FF39A8,06,FF39B1,06,FF39B0,06,FF39B9,06,FF39B8,06
+77=Strider Hiryu - Heki Hari Tsuki & Air & Gram 2,FF39C1,06,FF39C0,06,FF39B1,06,FF39B0,06,FF39B9,06,FF39B8,06
+78=Strider Hiryu - Formation B & Air & Gram 2,FF3BA1,08,FF3BA0,08,FF39B1,06,FF39B0,06,FF39B9,06,FF39B8,06
+79=Strider Hiryu - Ame no Murakumo & Formation A & Air Gram,FF3991,06,FF3990,06,FF39C9,06,FF39C8,06,FF39B9,06,FF39B8,06
+80=Strider Hiryu - Gram 1 & Formation A & Air Gram,FF39A9,06,FF39A8,06,FF39C9,06,FF39C8,06,FF39B9,06,FF39B8,06
+81=Strider Hiryu - Heki Hari Tsuki & Formation A & Air Gram,FF39C1,06,FF39C0,06,FF39C9,06,FF39C8,06,FF39B9,06,FF39B8,06
+82=Strider Hiryu - Formation A & B & Air Gram,FF3BA1,08,FF3BA0,08,FF39C9,06,FF39C8,06,FF39B9,06,FF39B8,06
+83=Strider Hiryu - Ame no Murakumo & Vajra & Air Gram,FF3991,06,FF3990,06,FF3B91,06,FF3B90,06,FF39B9,06,FF39B8,06
+84=Strider Hiryu - Gram 1 & Vajra & Air Gram,FF39A9,06,FF39A8,06,FF3B91,06,FF3B90,06,FF39B9,06,FF39B8,06
+85=Strider Hiryu - Heki Hari Tsuki & Vajra & Air Gram,FF39C1,06,FF39C0,06,FF3B91,06,FF3B90,06,FF39B9,06,FF39B8,06
+86=Strider Hiryu - Formation B & Vajra & Air Gram,FF3BA1,08,FF3BA0,08,FF3B91,06,FF3B90,06,FF39B9,06,FF39B8,06
+87=Strider Hiryu - Ame no Murakumo & Formation C & Air Gram,FF3991,06,FF3990,06,FF3B99,08,FF3B98,08,FF39B9,06,FF39B8,06
+88=Strider Hiryu - Gram 1 & Formation C & Air Gram,FF39A9,06,FF39A8,06,FF3B99,08,FF3B98,08,FF39B9,06,FF39B8,06
+89=Strider Hiryu - Heki Hari Tsuki & Formation C & Air Gram,FF39C1,06,FF39C0,06,FF3B99,08,FF3B98,08,FF39B9,06,FF39B8,06
+90=Strider Hiryu - Formation B & C & Air Gram,FF3BA1,08,FF3BA0,08,FF3B99,08,FF3B98,08,FF39B9,06,FF39B8,06
+91=Venom - Venom Fang & Rush & Air Dash,FF3991,06,FF3990,06,FF39B1,02,FF39B0,02,FF39B9,06,FF39B8,06
+92=Venom - Web Throw & Venom Rush & Air Dash,FF3999,0A,FF3998,0A,FF39B1,02,FF39B0,02,FF39B9,06,FF39B8,06
+93=War Machine - Repulsor Blast & Hikou,FF3991,0A,FF3990,0A,FF39B1,06,FF39B0,06
+94=War Machine - Shoulder Cannon & Hikou,FF39A1,06,FF39A0,06,FF39B1,06,FF39B0,06
+95=War Machine - Repulsor Blast & Low Shoulder Cannon,FF3991,0A,FF3990,0A,FF39C1,06,FF39C0,06
+96=War Machine - Low & Shoulder Cannon,FF39A1,06,FF39A0,06,FF39C1,06,FF39C0,06
+97=Wolverine - Tornado Claw,FF39A9,06,FF39A8,06
+98=Wolverine - Berserker Barrage,FF39B1,06,FF39B0,06
+99=Wolverine - Berserker Slash,FF39C9,06,FF39C8,06
+100=Zangief - Flying Powerbomb & Banishing Flat,FF39B1,0A,FF39B0,0A,FF39A1,06,FF39A0,06
+101=Zangief - Aerial Russian Slam & Banishing Flat,FF39C1,06,FF39C0,06,FF39A1,06,FF39A0,06
+102=Zangief - Iron Body & Banishing Flat,FF39D1,06,FF39D0,06,FF39A1,06,FF39A0,06
+103=Zangief - Flying Powerbomb & Screw Piledriver,FF39B1,0A,FF39B0,0A,FF39A9,08,FF39A8,08
+104=Zangief - Aerial Russian Slam & Screw Piledriver,FF39C1,06,FF39C0,06,FF39A9,08,FF39A8,08
+105=Zangief - Iron Body & Screw Piledriver,FF39D1,06,FF39D0,06,FF39A9,08,FF39A8,08
+Default=0
+
+[51]
+Name=P1 Char 1 Easy Hyper Combo
+0=Disabled
+1=Captain America - Hyper Stars & Stripes & Charging Star,FF3191,06,FF3190,06,FF31A1,06,FF31A0,06
+2=Captain America - Final Justice & Hyper Charging Star,FF3199,06,FF3198,06,FF31A1,06,FF31A0,06
+3=Captain Commando - Captain Sword & Storm,FF3191,06,FF3190,06,FF31B1,06,FF31B0,06
+4=Carnage - Venom Web & Death Bite,FF31A1,06,FF31A0,06,FF31A9,06,FF31A8,06
+5=Chun-Li - Senretsu & Shichisei Senkuu Kyaku & Kikou Shou,FF31B1,06,FF31B0,06,FF31C9,06,FF31C8,06,FF31A9,06,FF31A8,06
+6=Chun-Li - Hanzan Tenshou & Shichisei Senkuu Kyaku & Kikou Shou,FF31B9,06,FF31B8,06,FF31C9,06,FF31C8,06,FF31A9,06,FF31A8,06
+7=Gambit - Royal Flush & Cajun Explosion Kouhou,FF31B1,06,FF31B0,06,FF31D1,06,FF31D0,06
+8=Gambit - Royal Flush & Cajun Explosion Zenpou,FF31B1,06,FF31B0,06,FF31D9,06,FF31D8,06
+9=Gouki - Messatsu Gou Hadou & Tenma Gou Zankuu,FF31B9,06,FF31B8,06,FF3389,06,FF3388,06
+10=Gouki - Messatsu Gou Shoryuu & Tenma Gou Zankuu,FF31C1,06,FF31C0,06,FF3389,06,FF3388,06
+11=Gouki - Shun Goku Satsu & Tenma Gou Zankuu,FF31C9,08,FF31C8,08,FF3389,06,FF3388,06
+12=Hulk - Gamma Crush & Quake,FF3199,06,FF3198,06,FF31C1,06,FF31C0,06
+13=Hulk - Gamma Wave & Quake,FF31B1,06,FF31B0,06,FF31C1,06,FF31C0,06
+14=Jin - Blodia Vulcan & Saotome Cyclone,FF31A1,06,FF31A0,06,FF31B1,06,FF31B0,06
+15=Jin - Blodia Punch & Saotome Cyclone,FF31A9,06,FF31A8,06,FF31B1,06,FF31B0,06
+16=Ken - Shinryuu Ken & Shoryuu Reppa,FF31B9,06,FF31B8,06,FF31C1,06,FF31C0,06
+17=Ken - Shippu Jinrai Kyaku & Shoryuu Reppa,FF31D9,06,FF31D8,06,FF31C1,06,FF31C0,06
+18=Lilith - Brilliant Shower & Darkness Illusion,FF31B1,06,FF31B0,06,FF31B9,06,FF31B8,06
+19=Lilith - Splendor Love & Darkness Illusion,FF31C9,06,FF31C8,06,FF31B9,06,FF31B8,06
+20=Mech-Zangief - Final Atomic Buster & Siberian Blizzard,FF31B9,08,FF31B8,08,FF31D9,08,FF31D8,08
+21=Mega War Machine - Proton Cannon & War Destroyer,FF3199,06,FF3198,06,FF31B9,06,FF31B8,06
+22=Morrigan - Darkness Illusion & Soul Eraser,FF31B9,06,FF31B8,06,FF31C1,06,FF31C0,06
+23=Morrigan - Darkness Illusion & Silhouette Blade,FF31B9,06,FF31B8,06,FF31C9,06,FF31C8,06
+24=Morrigan - Eternal Slumber & Soul Eraser,FF31D1,08,FF31D0,08,FF31C1,06,FF31C0,06
+25=Morrigan - Eternal Slumber & Silhouette Blade,FF31D1,08,FF31D0,08,FF31C9,06,FF31C8,06
+26=Orange Hulk - Gamma Crush & Quake,FF3199,06,FF3198,06,FF31C1,06,FF31C0,06
+27=Orange Hulk - Gamma Wave & Quake,FF31B1,06,FF31B0,06,FF31C1,06,FF31C0,06
+28=Rockman - Rush Drill & Hyper Megaman,FF31A1,06,FF31A0,06,FF31B9,06,FF31B8,06
+29=Rockman - Beat Plane & Hyper Megaman,FF31A9,06,FF31A8,06,FF31B9,06,FF31B8,06
+30=Roll - Hyper Roll & Rush Drill,FF31B9,06,FF31B8,06,FF31A1,06,FF31A1,06
+31=Roll - Hyper Roll & Beat Plane,FF31B9,06,FF31B8,06,FF31A9,06,FF31A8,06
+32=Ryu - Shinkuu Hadou Ken & Tatsumaki Senpuu Kyaku,FF31B9,06,FF31B8,06,FF31C1,06,FF31C0,06
+33=Ryu - Shin Shoryuu Ken & Shinkuu Tatsumaki Senpuu Kyaku,FF31C9,06,FF31C8,06,FF31C1,06,FF31C0,06
+34=Shadow Lady - Big Bang Laser & Final Mission,FF3199,06,FF3198,06,FF31B1,0C,FF31B0,0C
+35=Shadow Lady - Big Bang Laser & Galaxy Missile,FF3199,06,FF3198,06,FF31C9,06,FF31C8,06
+36=Spider-Man - Maximum Spider & Crawler Assault,FF31B1,06,FF31B0,06,FF31B9,06,FF31B8,06
+37=Spider-Man - Ultimate Web Throw & Crawler Assault,FF31C9,06,FF31C8,06,FF31B9,06,FF31B8,06
+38=Strider Hiryu - Ouroboros & Legion,FF31A1,06,FF31A0,06,FF31D1,06,FF31D0,06
+39=Strider Hiryu - Ragnarok & Legion,FF31E1,06,FF31E0,06,FF31D1,06,FF31D0,06
+40=Venom - Venom Web & Death Bite,FF31A1,06,FF31A0,06,FF31A9,06,FF31A8,06
+41=War Machine - Proton Cannon & War Destroyer,FF3199,06,FF3198,06,FF31B9,06,FF31B8,06
+42=Wolverine - Weapon X & Fatal Claw,FF3199,06,FF3198,06,FF3191,06,FF3190,06
+43=Wolverine - Berserker Barrage X & Fatal Claw,FF31A1,06,FF31A0,06,FF3191,06,FF3190,06
+44=Wolverine - Berserker Charge & Fatal Claw,FF31B9,06,FF31B8,06,FF3191,06,FF3190,06
+45=Zangief - Ultra & Final Atomic Buster,FF31B9,08,FF31B8,08,FF31C9,08,FF31C8,08
+Default=0
+
+[52]
+Name=P1 Char 2 Easy Hyper Combo
+0=Disabled
+1=Captain America - Hyper Stars & Stripes & Charging Star,FF3991,06,FF3990,06,FF39A1,06,FF39A0,06
+2=Captain America - Final Justice & Hyper Charging Star,FF3999,06,FF3998,06,FF39A1,06,FF39A0,06
+3=Captain Commando - Captain Sword & Storm,FF3991,06,FF3990,06,FF39B1,06,FF39B0,06
+4=Carnage - Venom Web & Death Bite,FF39A1,06,FF39A0,06,FF39A9,06,FF39A8,06
+5=Chun-Li - Senretsu & Shichisei Senkuu Kyaku & Kikou Shou,FF39B1,06,FF39B0,06,FF39C9,06,FF39C8,06,FF39A9,06,FF39A8,06
+6=Chun-Li - Hanzan Tenshou & Shichisei Senkuu Kyaku & Kikou Shou,FF39B9,06,FF39B8,06,FF39C9,06,FF39C8,06,FF39A9,06,FF39A8,06
+7=Gambit - Royal Flush & Cajun Explosion Kouhou,FF39B1,06,FF39B0,06,FF39D1,06,FF39D0,06
+8=Gambit - Royal Flush & Cajun Explosion Zenpou,FF39B1,06,FF39B0,06,FF39D9,06,FF39D8,06
+9=Gouki - Messatsu Gou Hadou & Tenma Gou Zankuu,FF39B9,06,FF39B8,06,FF3B89,06,FF3B88,06
+10=Gouki - Messatsu Gou Shoryuu & Tenma Gou Zankuu,FF39C1,06,FF39C0,06,FF3B89,06,FF3B88,06
+11=Gouki - Shun Goku Satsu & Tenma Gou Zankuu,FF39C9,08,FF39C8,08,FF3B89,06,FF3B88,06
+12=Hulk - Gamma Crush & Quake,FF3999,06,FF3998,06,FF39C1,06,FF39C0,06
+13=Hulk - Gamma Wave & Quake,FF39B1,06,FF39B0,06,FF39C1,06,FF39C0,06
+14=Jin - Blodia Vulcan & Saotome Cyclone,FF39A1,06,FF39A0,06,FF39B1,06,FF39B0,06
+15=Jin - Blodia Punch & Saotome Cyclone,FF39A9,06,FF39A8,06,FF39B1,06,FF39B0,06
+16=Ken - Shinryuu Ken & Shoryuu Reppa,FF39B9,06,FF39B8,06,FF39C1,06,FF39C0,06
+17=Ken - Shippu Jinrai Kyaku & Shoryuu Reppa,FF39D9,06,FF39D8,06,FF39C1,06,FF39C0,06
+18=Lilith - Brilliant Shower & Darkness Illusion,FF39B1,06,FF39B0,06,FF39B9,06,FF39B8,06
+19=Lilith - Splendor Love & Darkness Illusion,FF39C9,06,FF39C8,06,FF39B9,06,FF39B8,06
+20=Mech-Zangief - Final Atomic Buster & Siberian Blizzard,FF39B9,08,FF39B8,08,FF39D9,08,FF39D8,08
+21=Mega War Machine - Proton Cannon & War Destroyer,FF3999,06,FF3998,06,FF39B9,06,FF39B8,06
+22=Morrigan - Darkness Illusion & Soul Eraser,FF39B9,06,FF39B8,06,FF39C1,06,FF39C0,06
+23=Morrigan - Darkness Illusion & Silhouette Blade,FF39B9,06,FF39B8,06,FF39C9,06,FF39C8,06
+24=Morrigan - Eternal Slumber & Soul Eraser,FF39D1,08,FF39D0,08,FF39C1,06,FF39C0,06
+25=Morrigan - Eternal Slumber & Silhouette Blade,FF39D1,08,FF39D0,08,FF39C9,06,FF39C8,06
+26=Orange Hulk - Gamma Crush & Quake,FF3999,06,FF3998,06,FF39C1,06,FF39C0,06
+27=Orange Hulk - Gamma Wave & Quake,FF39B1,06,FF39B0,06,FF39C1,06,FF39C0,06
+28=Rockman - Rush Drill & Hyper Megaman,FF39A1,06,FF39A0,06,FF39B9,06,FF39B8,06
+29=Rockman - Beat Plane & Hyper Megaman,FF39A9,06,FF39A8,06,FF39B9,06,FF39B8,06
+30=Roll - Hyper Roll & Rush Drill,FF39B9,06,FF39B8,06,FF39A1,06,FF39A1,06
+31=Roll - Hyper Roll & Beat Plane,FF39B9,06,FF39B8,06,FF39A9,06,FF39A8,06
+32=Ryu - Shinkuu Hadou Ken & Tatsumaki Senpuu Kyaku,FF39B9,06,FF39B8,06,FF39C1,06,FF39C0,06
+33=Ryu - Shin Shoryuu Ken & Shinkuu Tatsumaki Senpuu Kyaku,FF39C9,06,FF39C8,06,FF39C1,06,FF39C0,06
+34=Shadow Lady - Big Bang Laser & Final Mission,FF3999,06,FF3998,06,FF39B1,0C,FF39B0,0C
+35=Shadow Lady - Big Bang Laser & Galaxy Missile,FF3999,06,FF3998,06,FF39C9,06,FF39C8,06
+36=Spider-Man - Maximum Spider & Crawler Assault,FF39B1,06,FF39B0,06,FF39B9,06,FF39B8,06
+37=Spider-Man - Ultimate Web Throw & Crawler Assault,FF39C9,06,FF39C8,06,FF39B9,06,FF39B8,06
+38=Strider Hiryu - Ouroboros & Legion,FF39A1,06,FF39A0,06,FF39D1,06,FF39D0,06
+39=Strider Hiryu - Ragnarok & Legion,FF39E1,06,FF39E0,06,FF39D1,06,FF39D0,06
+40=Venom - Venom Web & Death Bite,FF39A1,06,FF39A0,06,FF39A9,06,FF39A8,06
+41=War Machine - Proton Cannon & War Destroyer,FF3999,06,FF3998,06,FF39B9,06,FF39B8,06
+42=Wolverine - Weapon X & Fatal Claw,FF3999,06,FF3998,06,FF3991,06,FF3990,06
+43=Wolverine - Berserker Barrage X & Fatal Claw,FF39A1,06,FF39A0,06,FF3991,06,FF3990,06
+44=Wolverine - Berserker Charge & Fatal Claw,FF39B9,06,FF39B8,06,FF3991,06,FF3990,06
+45=Zangief - Ultra & Final Atomic Buster,FF39B9,08,FF39B8,08,FF39C9,08,FF39C8,08
+Default=0
+
+[53]
+Name=P2 Inf Health
+0=Disabled
+1=Enabled,FF3670,90,FF3E70,90
+Default=0
+
+[54]
+Name=P2 Die Hard
+0=Disabled
+1=Enabled,FF34EA,02,FF3CEA,02
+Default=0
+
+[55]
+Name=P2 Inf Power Level
+0=Disabled
+1=Enabled,FF3675,03,FF3E75,03
+Default=0
+
+[56]
+Name=P2 Inf Power Gauge
+0=Disabled
+1=Enabled,FF3672,8F,FF3E72,8F
+Default=0
+
+[57]
+Name=P2 Inf Helper
+0=Disabled
+1=Enabled,FF36C7,09,FF3EC7,09
+Default=0
+
+[58]
+Name=P2 Inf Recovery Bar
+0=Disabled
+1=Enabled,FF367A,90,FF3E7A,90
+Default=0
+
+[59]
+Name=P2 Inf Variable Cross Time
+0=Disabled
+1=Enabled,FF4036,8F,FF4037,02
+Default=0
+
+[60]
+Name=P2 Inf Air Jump
+0=Disabled
+1=Enabled,FF3553,00,FF3D53,00
+Default=0
+
+[61]
+Name=P2 Action Speed Up
+0=Disabled
+1=Enabled,FF343E,01,FF3C3E,01
+Default=0
+
+[62]
+Name=P2 No Chain Limit
+0=Disabled
+1=Enabled,FF34B6,01,FF3CB6,01
+Default=0
+
+[63]
+Name=P2 No Hit Stop
+0=Disabled
+1=Enabled,FF3484,00,FF3C84,00
+Default=0
+
+[64]
+Name=P2 No Jump Attack Limit
+0=Disabled
+1=Enabled,FF3543,11
+Default=0
+
+[65]
+Name=P2 Cause Max Damage
+0=Disabled
+1=Enabled,FF3654,00
+Default=0
+
+[66]
+Name=P2 1 Character
+0=Disabled
+1=Enabled,FF3E70,00,FF3E7A,00
+Default=0
+
+[67]
+Name=P2 Controller Mode
+0=Disabled
+1=User Play,FF3402,01,FF3C02,01
+2=Computer Play,FF3402,00,FF3C02,00
+3=User/Computer,FF3402,01,FF3C02,00
+4=Computer/User,FF3402,00,FF3C02,01
+Default=0
+
+[68]
+Name=P2 Fighting Mode
+0=Disabled
+1=Manual Mode,FF36B8,00,FF3EB8,00
+2=Easy Mode,FF36B8,01,FF3EB8,01
+Default=0
+
+[69]
+Name=P2 Is Onslaught*
+0=Disabled
+1=Enabled,FF3452,22,FF40B4,22,FF40B6,22,FF415E,22,FF415F,22,FF3402,01,FF3C02,01
+Default=0
+
+[70]
+Name=P2 Char 1 Select
+0=Disabled
+1=Captain America,FF3452,04
+2=Captain Commando,FF3452,14
+3=Carnage,FF3452,24
+4=Chun-Li,FF3452,16
+5=Gambit,FF3452,0A
+6=Hulk,FF3452,06
+7=Jin,FF3452,18
+8=Lilith,FF3452,2C
+9=Mega War Machine,FF3452,28
+10=Morrigan,FF3452,1E
+11=Onslaught (Bad Gfx),FF3452,22
+12=Orange Hulk,FF3452,26
+13=Rockman,FF3452,20
+14=Roll,FF3452,10
+15=Ryu,FF3452,12
+16=Shadow Lady,FF3452,2A
+17=Spider-Man,FF3452,0E
+18=Strider Hiryu,FF3452,1C
+19=Venom,FF3452,0C
+20=War Machine,FF3452,02
+21=Wolverine,FF3452,08
+22=Zangief,FF3452,1A
+Default=0
+
+[71]
+Name=P2 Char 2 Select
+0=Disabled
+1=Captain America,FF3C52,04
+2=Captain Commando,FF3C52,14
+3=Carnage,FF3C52,24
+4=Chun-Li,FF3C52,16
+5=Gambit,FF3C52,0A
+6=Hulk,FF3C52,06
+7=Jin,FF3C52,18
+8=Lilith,FF3C52,2C
+9=Mega War Machine,FF3C52,28
+10=Morrigan,FF3C52,1E
+11=Onslaught (Bad Gfx),FF3C52,22
+12=Orange Hulk,FF3C52,26
+13=Rockman,FF3C52,20
+14=Roll,FF3C52,10
+15=Ryu,FF3C52,12
+16=Shadow Lady,FF3C52,2A
+17=Spider-Man,FF3C52,0E
+18=Strider Hiryu,FF3C52,1C
+19=Venom,FF3C52,0C
+20=War Machine,FF3C52,02
+21=Wolverine,FF3C52,08
+22=Zangief,FF3C52,1A
+Default=0
+
+[72]
+Name=P2 Helper 1 Select
+0=Disabled
+1=Anita,FF349C,44
+2=Arthur,FF349C,20
+3=Colossus,FF349C,14
+4=Cyclops,FF349C,10
+5=Devilot,FF349C,48
+6=Iceman,FF349C,38
+7=Jubilee,FF349C,4C
+8=Juggernaut,FF349C,04
+9=Lou,FF349C,00
+10=Magneto,FF349C,08
+11=Miechele Heart,FF349C,28
+12=Psylocke,FF349C,0C
+13=Pure & Fur,FF349C,3C
+14=Rogue,FF349C,34
+15=Saki,FF349C,24
+16=Sentinel,FF349C,54
+17=Shadow,FF349C,50
+18=Storm,FF349C,30
+19=Thor,FF349C,2C
+20=Ton Pooh,FF349C,1C
+21=Unknown Soldier,FF349C,18
+22=U.S. Agent,FF349C,40
+Default=0
+
+[73]
+Name=P2 Helper 2 Select
+0=Disabled
+1=Anita,FF3C9C,44
+2=Arthur,FF3C9C,20
+3=Colossus,FF3C9C,14
+4=Cyclops,FF3C9C,10
+5=Devilot,FF3C9C,48
+6=Iceman,FF3C9C,38
+7=Jubilee,FF3C9C,4C
+8=Juggernaut,FF3C9C,04
+9=Lou,FF3C9C,00
+10=Magneto,FF3C9C,08
+11=Miechele Heart,FF3C9C,28
+12=Psylocke,FF3C9C,0C
+13=Pure & Fur,FF3C9C,3C
+14=Rogue,FF3C9C,34
+15=Saki,FF3C9C,24
+16=Sentinel,FF3C9C,54
+17=Shadow,FF3C9C,50
+18=Storm,FF3C9C,30
+19=Thor,FF3C9C,2C
+20=Ton Pooh,FF3C9C,1C
+21=Unknown Soldier,FF3C9C,18
+22=U.S. Agent,FF3C9C,40
+Default=0
+
+[74]
+Name=P2 Char 1 Colour Select
+0=Disabled
+1=Colour 1,FF3676,00
+2=Colour 2,FF3676,01
+Default=0
+
+[75]
+Name=P2 Char 2 Colour Select
+0=Disabled
+1=Colour 1,FF3E76,00
+2=Colour 2,FF3E76,01
+Default=0
+
+[76]
+Name=P2 Helper 1 Colour Select
+0=Disabled
+1=Colour 1,FF3494,00
+2=Colour 2,FF3494,01
+Default=0
+
+[77]
+Name=P2 Helper 2 Colour Select
+0=Disabled
+1=Colour 1,FF3C94,00
+2=Colour 2,FF3C94,01
+Default=0
+
+[78]
+Name=P2 Captain America - Shield
+0=Disabled
+1=Equip,FF3785,00,FF3F85,00
+2=No Shield,FF3785,01,FF3F85,01
+Default=0
+
+[79]
+Name=P2 Rockman - Shot
+0=Disabled
+1=No Shot,FF3591,00,FF3D91,00
+2=Controllable Auto Shoot,FF3591,04,FF3D91,04
+3=Auto Shot,FF3591,06,FF3D91,06
+Default=0
+
+[80]
+Name=P2 Rockman - Charge
+0=Disabled
+1=No Charge,FF37A1,00,FF3FA1,00
+2=Char 1 Full Charge,FF37A1,11
+3=Char 2 Full Charge,FF3FA1,11
+4=Char 1 & Char 2 Full Charge,FF37A1,11,FF3FA1,11
+Default=0
+
+[81]
+Name=P2 Rockman - Weapon
+0=Disabled
+1=Rock Ball,FF3780,00,FF3F80,00
+2=Tornado Hold,FF3780,02,FF3F80,02
+3=Leaf Shield,FF3780,04,FF3F80,04
+4=Always Leaf Shield*,FF3780,04,FF3F80,04,FF37AA,01,FF3FAA,01
+Default=0
+
+[82]
+Name=P2 Rockman - Inf Beat Plane & Rush Drill Time
+0=Disabled
+1=Enabled,FF379E,B4,FF3F9E,B4
+Default=0
+
+[83]
+Name=P2 Roll - Weapon
+0=Disabled
+1=Rock Ball,FF3780,00,FF3F80,00
+2=Tornado Hold,FF3780,02,FF3F80,02
+3=Leaf Shield,FF3780,04,FF3F80,04
+4=Always Leaf Shield*,FF3780,04,FF3F80,04,FF37AA,01,FF3FAA,01
+Default=0
+
+[84]
+Name=P2 Roll - Inf Beat Plane & Rush Drill Time
+0=Disabled
+1=Enabled,FF379E,B4,FF3F9E,B4
+Default=0
+
+[85]
+Name=P2 Ryu - Fighting Mode
+0=Disabled
+1=Ryu Mode,FF3784,00,FF3F84,00
+2=Ken Mode,FF3784,02,FF3F84,02
+3=Akuma Mode,FF3784,04,FF3F84,04
+Default=0
+
+[86]
+Name=P2 Strider Hiryu - Inf Heki Hari Tsuki Time*
+0=Disabled
+1=Enabled,FF344F,01,FF344E,28,FF3C4F,01,FF3C4E,28
+Default=0
+
+[87]
+Name=P2 War Machine - Inf Hikou Time
+0=Disabled
+1=Enabled,FF37C1,01,FF37C0,DE,FF3FC1,01,FF3FC0,DE
+Default=0
+
+[88]
+Name=P2 Wolverine - Inf Berserker Charge Time
+0=Disabled
+1=Enabled,FF378B,01,FF378A,E0,FF3F8B,01,FF3F8A,E0
+Default=0
+
+[89]
+Name=P2 Zangief - Mode
+0=Disabled
+1=Zangief,FF34EA,00,FF3CEA,00
+2=Mech-Zangief,FF34EA,02,FF3CEA,02
+Default=0
+
+[90]
+Name=P2 Easy Variable Counter & Roll Recovery
+0=Disabled
+1=Enabled,FF35E9,06,FF35E8,06,FF3DE9,06,FF3DE8,06
+Default=0
+
+[91]
+Name=P2 Easy Crossover Combination
+0=Disabled
+1=Enabled,FF3609,06,FF3608,06,FF3E09,06,FF3E08,06
+Default=0
+
+[92]
+Name=P2 Easy Duo Team Attack
+0=Disabled
+1=Enabled,FF3619,06,FF3618,06,FF3E19,06,FF3E18,06
+Default=0
+
+[93]
+Name=P2 Easy Super Jump
+0=Disabled
+1=Enabled,FF3589,02,FF3588,02,FF3D89,02,FF3D88,02
+Default=0
+
+[94]
+Name=P2 Easy Dash
+0=Disabled
+1=Forward Dash,FF3581,02,FF3580,02,FF3582,02,FF3D81,02,FF3D80,02,FF3D82,02
+2=Backward Dash,FF3581,02,FF3580,02,FF3582,01,FF3D81,02,FF3D80,02,FF3D82,01
+Default=0
+
+[95]
+Name=P2 Easy Moves
+0=Disabled
+1=Onslaught - Hyper Gravitation & Magnetic Shockwave & Tempest & Head Crush & Mega Optic Blast & Sentinel Assist,FF3591,06,FF3590,06,FF3599,06,FF3598,06,FF35A9,06,FF35A8,06,FF35B1,06,FF35B0,06,FF35B9,06,FF35B8,06,FF35C1,06,FF35C0,06
+2=Onslaught - Partner Change & Magnetic Shockwave & Tempest & Head Crush & Mega Optic Blast & Sentinel Assist,FF35C9,06,FF35C8,06,FF3599,06,FF3598,06,FF35A9,06,FF35A8,06,FF35B1,06,FF35B0,06,FF35B9,06,FF35B8,06,FF35C1,06,FF35C0,06
+3=Onslaught - Warp & Head Crush & Mega Optic Blast & Sentinel Assist,FF35A1,06,FF35A0,06,FF35B1,06,FF35B0,06,FF35B9,06,FF35B8,06,FF35C1,06,FF35C0,06
+4=Onslaught Second Form - Dash Punch & Punch & Beam & Hyper Gravitation,FF35D1,06,FF35D0,06,FF35E9,06,FF35E8,06,FF35D9,06,FF35D8,06,FF35E1,06,FF35E0,06
+5=Onslaught Second Form - Rensha Beam & Beam & Hyper Gravitation,FF3621,06,FF3620,06,FF35D9,06,FF35D8,06,FF35E1,06,FF35E0,06
+Default=0
+
+[96]
+Name=P2 Char 1 Easy Moves
+0=Disabled
+1=Captain America - Stars & Stripes & Charging Star,FF35A9,06,FF35A8,06,FF35B9,06,FF35B8,06
+2=Captain America - Shield Slash & Charging Star,FF35B1,06,FF35B0,06,FF35B9,06,FF35B8,06
+3=Captain America - Zenten & Charging Star,FF35C1,0A,FF35C0,0A,FF35B9,06,FF35B8,06
+4=Captain Commando - Air & Captain Fire & Commando Strike,FF3599,06,FF3598,06,FF35B9,06,FF35B8,06,FF35A9,06,FF35A8,06
+5=Captain Commando - Air Captain Fire & Collider & Commando Strike,FF35A1,06,FF35A0,06,FF35B9,06,FF35B8,06,FF35A9,06,FF35A8,06
+6=Captain Commando - Air & Captain Fire & Kick,FF3599,06,FF3598,06,FF35C1,06,FF35C0,06,FF35A9,06,FF35A8,06
+7=Captain Commando - Air Captain Fire & Collider & Kick,FF35A1,06,FF35A0,06,FF35C1,06,FF35C0,06,FF35A9,06,FF35A8,06
+8=Carnage - Venom Crush & Storm & Charge & Air Dash,FF3591,06,FF3590,06,FF35B1,02,FF35B0,02,FF35B9,06,FF35B8,06,FF35C1,06,FF35C0,06
+9=Carnage - Web Throw & Venom Storm & Charge & Air Dash,FF3599,0A,FF3598,0A,FF35B1,02,FF35B0,02,FF35B9,06,FF35B8,06,FF35C1,06,FF35C0,06
+10=Chun-Li - Tenshou Kyaku & Kikou Ken & Air Dash,FF3599,06,FF3598,06,FF3591,0A,FF3590,0A,FF35D1,02,FF35D0,02
+11=Chun-Li - Sen'en Shuu & Kikou Ken & Air Dash,FF35A1,0A,FF35A0,0A,FF3591,0A,FF3590,0A,FF35D1,02,FF35D0,02
+12=Chun-Li - Heavy Hyakuretsu Kyaku & Kikou Ken & Air Dash,FF35C1,06,FF35C0,06,FF35C3,03,FF3591,0A,FF3590,0A,FF35D1,02,FF35D0,02
+13=Gambit - Air & Kinetic Card & Cajun Strike,FF3591,06,FF3590,06,FF35A9,08,FF35A8,08,FF35C9,06,FF35C8,06
+14=Gambit - Trick & Air Kinetic Card & Cajun Strike,FF3599,06,FF3598,06,FF35A9,08,FF35A8,08,FF35C9,06,FF35C8,06
+15=Gambit - Cajun Slash & Strike & Air Kinetic Card,FF35A1,06,FF35A0,06,FF35A9,08,FF35A8,08,FF35C9,06,FF35C8,06
+16=Gambit - Cajun Escape & Strike & Air Kinetic Card,FF35B9,08,FF35B8,08,FF35A9,08,FF35A8,08,FF35C9,06,FF35C8,06
+17=Gouki - Gou & Zankuu Hadou Ken & Air & Tatsumaki Zankuu Kyaku & Ashura Senkuu 1,FF35D9,06,FF35D8,06,FF3591,06,FF3590,06,FF35B1,06,FF35B0,06,FF35A1,06,FF35A0,06,FF35A9,06,FF35A8,06
+18=Gouki - Gou Shoryuu & Zankuu Hadou Ken & Air & Tatsumaki Zankuu Kyaku & Ashura Senkuu 1,FF35D9,06,FF35D8,06,FF3599,06,FF3598,06,FF35B1,06,FF35B0,06,FF35A1,06,FF35A0,06,FF35A9,06,FF35A8,06
+19=Gouki - Ken & Ryu Mode Change & Zankuu Hadou Ken & Air & Tatsumaki Zankuu Kyaku & Ashura Senkuu 1,FF35D9,06,FF35D8,06,FF3799,0A,FF3798,0A,FF35D1,0A,FF35D0,0A,FF35B1,06,FF35B0,06,FF35A1,06,FF35A0,06,FF35A9,06,FF35A8,06
+20=Gouki - Gou & Zankuu Hadou Ken & Tatsumaki Zankuu Kyaku & Tenma Kuujin Kyaku & Ashura Senkuu 1,FF35D9,06,FF35D8,06,FF3591,06,FF3590,06,FF35B1,06,FF35B0,06,FF35A1,06,FF35A0,06,FF3791,06,FF3790,06
+21=Gouki - Gou Shoryuu & Zankuu Hadou Ken & Tatsumaki Zankuu Kyaku & Tenma Kuujin Kyaku & Ashura Senkuu 1,FF35D9,06,FF35D8,06,FF3599,06,FF3598,06,FF35B1,06,FF35B0,06,FF35A1,06,FF35A0,06,FF3791,06,FF3790,06
+22=Gouki - Ken & Ryu Mode Change & Zankuu Hadou Ken & Tatsumaki Zankuu & Kuujin Kyaku & Ashura Senkuu 1,FF35D9,06,FF35D8,06,FF3799,0A,FF3798,0A,FF35D1,0A,FF35D0,0A,FF35B1,06,FF35B0,06,FF35A1,06,FF35A0,06,FF3791,06,FF3790,06
+23=Gouki - Gou & Zankuu Hadou Ken & Air & Tatsumaki Zankuu Kyaku & Ashura Senkuu 2,FF35E1,06,FF35E0,06,FF3591,06,FF3590,06,FF35B1,06,FF35B0,06,FF35A1,06,FF35A0,06,FF35A9,06,FF35A8,06
+24=Gouki - Gou Shoryuu & Zankuu Hadou Ken & Air & Tatsumaki Zankuu Kyaku & Ashura Senkuu 2,FF35E1,06,FF35E0,06,FF3599,06,FF3598,06,FF35B1,06,FF35B0,06,FF35A1,06,FF35A0,06,FF35A9,06,FF35A8,06
+25=Gouki - Ken & Ryu Mode Change & Zankuu Hadou Ken & Air & Tatsumaki Zankuu Kyaku & Ashura Senkuu 2,FF35E1,06,FF35E0,06,FF3799,0A,FF3798,0A,FF35D1,0A,FF35D0,0A,FF35B1,06,FF35B0,06,FF35A1,06,FF35A0,06,FF35A9,06,FF35A8,06
+26=Gouki - Gou & Zankuu Hadou Ken & Tatsumaki Zankuu Kyaku & Tenma Kuujin Kyaku & Ashura Senkuu 2,FF35E1,06,FF35E0,06,FF3591,06,FF3590,06,FF35B1,06,FF35B0,06,FF35A1,06,FF35A0,06,FF3791,06,FF3790,06
+27=Gouki - Gou Shoryuu & Zankuu Hadou Ken & Tatsumaki Zankuu Kyaku & Tenma Kuujin Kyaku & Ashura Senkuu 2,FF35E1,06,FF35E0,06,FF3599,06,FF3598,06,FF35B1,06,FF35B0,06,FF35A1,06,FF35A0,06,FF3791,06,FF3790,06
+28=Gouki - Ken & Ryu Mode Change & Zankuu Hadou Ken & Tatsumaki Zankuu & Kuujin Kyaku & Ashura Senkuu 2,FF35E1,06,FF35E0,06,FF3799,0A,FF3798,0A,FF35D1,0A,FF35D0,0A,FF35B1,06,FF35B0,06,FF35A1,06,FF35A0,06,FF3791,06,FF3790,06
+29=Hulk - Gamma Charge Taichi & Tornado,FF3591,08,FF3590,08,FF35A1,0A,FF35A0,0A
+30=Hulk - Gamma Charge Taikuu & Tornado,FF35A9,08,FF35A8,08,FF35A1,0A,FF35A0,0A
+31=Hulk - Gamma Charge Taichi & Slam,FF3591,08,FF3590,08,FF35B9,06,FF35B8,06
+32=Hulk - Gamma Charge Taikuu & Slam,FF35A9,08,FF35A8,08,FF35B9,06,FF35B8,06
+33=Jin - Saotome Typhoon & Crush,FF3591,08,FF3590,08,FF35B9,0A,FF35B8,0A
+34=Jin - Saotome Dynamite & Crush,FF3599,08,FF3598,08,FF35B9,0A,FF35B8,0A
+35=Ken - Air & Hadou Ken & Air & Tatsumaki Senpuu Kyaku,FF3591,06,FF3590,06,FF35B1,06,FF35B0,06,FF35A1,06,FF35A0,06,FF35A9,06,FF35A8,06
+36=Ken - Shoryuu Ken & Air & Tatsumaki Senpuu Kyaku,FF3599,06,FF3598,06,FF35A1,06,FF35A0,06,FF35A9,06,FF35A8,06
+37=Ken - Akuma & Ryu Mode Change & Air Hadou Ken & Air & Tatsumaki Senpuu Kyaku,FF35D1,0A,FF35D0,0A,FF37A1,0A,FF37A0,0A,FF35B1,06,FF35B0,06,FF35A1,06,FF35A0,06,FF35A9,06,FF35A8,06
+38=Lilith - Air & Soul Flash & Vania Dash,FF3599,06,FF3598,06,FF35E1,02,FF35E0,02,FF35D9,06,FF35D8,06
+39=Lilith - Shining Blade & Air Soul Flash & Vania Dash,FF35A1,06,FF35A0,06,FF35E1,02,FF35E0,02,FF35D9,06,FF35D8,06
+40=Lilith - Vector Drain & Air Soul Flash & Vania Dash,FF35A9,0A,FF35A8,0A,FF35E1,02,FF35E0,02,FF35D9,06,FF35D8,06
+41=Mech-Zangief - Flying Powerbomb & Vodka Fire,FF35B1,0A,FF35B0,0A,FF35A1,06,FF35A0,06
+42=Mech-Zangief - Aerial Russian Slam & Vodka Fire,FF35C1,06,FF35C0,06,FF35A1,06,FF35A0,06
+43=Mech-Zangief - Iron Body & Vodka Fire,FF35D1,06,FF35D0,06,FF35A1,06,FF35A0,06
+44=Mech-Zangief - Flying Powerbomb & Screw Piledriver,FF35B1,0A,FF35B0,0A,FF35A9,08,FF35A8,08
+45=Mech-Zangief - Aerial Russian Slam & Screw Piledriver,FF35C1,06,FF35C0,06,FF35A9,08,FF35A8,08
+46=Mech-Zangief - Iron Body & Screw Piledriver,FF35D1,06,FF35D0,06,FF35A9,08,FF35A8,08
+47=Mega War Machine - Low & Shoulder Cannon,FF35A1,06,FF35A0,06,FF35C1,06,FF35C0,06
+48=Morrigan - Air & Soul Fist & Vania Dash,FF3599,06,FF3598,06,FF35E1,02,FF35E0,02,FF35D9,06,FF35D8,06
+49=Morrigan - Shadow Blade & Air Soul Fist & Vania Dash,FF35A1,06,FF35A0,06,FF35E1,02,FF35E0,02,FF35D9,06,FF35D8,06
+50=Morrigan - Vector Drain & Air Soul Fist & Vania Dash,FF35A9,0A,FF35A8,0A,FF35E1,02,FF35E0,02,FF35D9,06,FF35D8,06
+51=Orange Hulk - Gamma Charge Taichi & Tornado,FF3591,08,FF3590,08,FF35A1,0A,FF35A0,0A
+52=Orange Hulk - Gamma Charge Taikuu & Tornado,FF35A9,08,FF35A8,08,FF35A1,0A,FF35A0,0A
+53=Orange Hulk - Gamma Charge Taichi & Slam,FF3591,08,FF3590,08,FF35B9,06,FF35B8,06
+54=Orange Hulk - Gamma Charge Taikuu & Slam,FF35A9,08,FF35A8,08,FF35B9,06,FF35B8,06
+55=Rockman - Charge Shot & Eddie Yobi,FF3591,02,FF3590,02,FF35C1,06,FF35C0,06
+56=Rockman - Mega Upper & Eddie Yobi,FF3599,06,FF3598,06,FF35C1,06,FF35C0,06
+57=Rockman - Item Kougeki & Eddie Yobi,FF35B1,06,FF35B0,06,FF35C1,06,FF35C0,06
+58=Roll - Roll Buster & Item Kougeki,FF3591,06,FF3590,06,FF35B1,06,FF35B0,06
+59=Roll - Hana-Taba Bakudan & Item Kougeki,FF3599,06,FF3598,06,FF35B1,06,FF35B0,06
+60=Roll - Roll Buster & Eddie Yobi,FF3591,06,FF3590,06,FF35C1,06,FF35C0,06
+61=Roll - Hana-Taba Bakudan & Eddie Yobi,FF3599,06,FF3598,06,FF35C1,06,FF35C0,06
+62=Ryu - Air & Hadou Ken & Air & Tatsumaki Senpuu Kyaku,FF3591,06,FF3590,06,FF35B1,06,FF35B0,06,FF35A1,06,FF35A0,06,FF35A9,06,FF35A8,06
+63=Ryu - Shoryuu Ken & Air Hadou Ken & Air & Tatsumaki Senpuu Kyaku,FF3599,06,FF3598,06,FF35B1,06,FF35B0,06,FF35A1,06,FF35A0,06,FF35A9,06,FF35A8,06
+64=Ryu - Akuma & Ken Mode Change & Air Hadou Ken & Air & Tatsumaki Senpuu Kyaku,FF3799,0A,FF3798,0A,FF37A1,0A,FF37A0,0A,FF35B1,06,FF35B0,06,FF35A1,06,FF35A0,06,FF35A9,06,FF35A8,06
+65=Shadow Lady - Sky Counter Crash & Miracle Drill & Air Dash,FF3591,06,FF3590,06,FF35A1,0A,FF35A0,0A,FF35D1,02,FF35D0,02
+66=Shadow Lady - Rainbow Missile & Miracle Drill & Air Dash,FF3591,06,FF3590,06,FF35A9,06,FF35A8,06,FF35D1,02,FF35D0,02
+67=Shadow Lady - Infinity Leg & Miracle Drill & Air Dash,FF3591,06,FF3590,06,FF35C1,06,FF35C0,06,FF35C3,03,FF35D1,02,FF35D0,02
+68=Shadow Lady - Sky Counter Crash & Plasma Barrier & Air Dash,FF35B9,06,FF35B8,06,FF35A1,0A,FF35A0,0A,FF35D1,02,FF35D0,02
+69=Shadow Lady - Rainbow Missile & Plasma Barrier & Air Dash,FF35B9,06,FF35B8,06,FF35A9,06,FF35A8,06,FF35D1,02,FF35D0,02
+70=Shadow Lady - Infinity Leg & Plasma Barrier & Air Dash,FF35B9,06,FF35B8,06,FF35C1,06,FF35C0,06,FF35C3,03,FF35D1,02,FF35D0,02
+71=Spider-Man - Spider Sting & Web Swing & Air Dash,FF3591,06,FF3590,06,FF35A1,06,FF35A0,06,FF35D1,02,FF35D0,02
+72=Spider-Man - Web Ball & Swing & Air Dash,FF3599,06,FF3598,06,FF35A1,06,FF35A0,06,FF35D1,02,FF35D0,02
+73=Spider-Man - Web Throw & Swing & Air Dash,FF35A9,0A,FF35A8,0A,FF35A1,06,FF35A0,06,FF35D1,02,FF35D0,02
+74=Strider Hiryu - Warp & Excalibur,FF3599,06,FF3598,06,FF35D9,06,FF35D8,06
+75=Strider Hiryu - Ame no Murakumo & Air & Gram 2,FF3591,06,FF3590,06,FF35B1,06,FF35B0,06,FF35B9,06,FF35B8,06
+76=Strider Hiryu - Air & Gram 1 & 2,FF35A9,06,FF35A8,06,FF35B1,06,FF35B0,06,FF35B9,06,FF35B8,06
+77=Strider Hiryu - Heki Hari Tsuki & Air & Gram 2,FF35C1,06,FF35C0,06,FF35B1,06,FF35B0,06,FF35B9,06,FF35B8,06
+78=Strider Hiryu - Formation B & Air & Gram 2,FF37A1,08,FF37A0,08,FF35B1,06,FF35B0,06,FF35B9,06,FF35B8,06
+79=Strider Hiryu - Ame no Murakumo & Formation A & Air Gram,FF3591,06,FF3590,06,FF35C9,06,FF35C8,06,FF35B9,06,FF35B8,06
+80=Strider Hiryu - Gram 1 & Formation A & Air Gram,FF35A9,06,FF35A8,06,FF35C9,06,FF35C8,06,FF35B9,06,FF35B8,06
+81=Strider Hiryu - Heki Hari Tsuki & Formation A & Air Gram,FF35C1,06,FF35C0,06,FF35C9,06,FF35C8,06,FF35B9,06,FF35B8,06
+82=Strider Hiryu - Formation A & B & Air Gram,FF37A1,08,FF37A0,08,FF35C9,06,FF35C8,06,FF35B9,06,FF35B8,06
+83=Strider Hiryu - Ame no Murakumo & Vajra & Air Gram,FF3591,06,FF3590,06,FF3791,06,FF3790,06,FF35B9,06,FF35B8,06
+84=Strider Hiryu - Gram 1 & Vajra & Air Gram,FF35A9,06,FF35A8,06,FF3791,06,FF3790,06,FF35B9,06,FF35B8,06
+85=Strider Hiryu - Heki Hari Tsuki & Vajra & Air Gram,FF35C1,06,FF35C0,06,FF3791,06,FF3790,06,FF35B9,06,FF35B8,06
+86=Strider Hiryu - Formation B & Vajra & Air Gram,FF37A1,08,FF37A0,08,FF3791,06,FF3790,06,FF35B9,06,FF35B8,06
+87=Strider Hiryu - Ame no Murakumo & Formation C & Air Gram,FF3591,06,FF3590,06,FF3799,08,FF3798,08,FF35B9,06,FF35B8,06
+88=Strider Hiryu - Gram 1 & Formation C & Air Gram,FF35A9,06,FF35A8,06,FF3799,08,FF3798,08,FF35B9,06,FF35B8,06
+89=Strider Hiryu - Heki Hari Tsuki & Formation C & Air Gram,FF35C1,06,FF35C0,06,FF3799,08,FF3798,08,FF35B9,06,FF35B8,06
+90=Strider Hiryu - Formation B & C & Air Gram,FF37A1,08,FF37A0,08,FF3799,08,FF3798,08,FF35B9,06,FF35B8,06
+91=Venom - Venom Fang & Rush & Air Dash,FF3591,06,FF3590,06,FF35B1,02,FF35B0,02,FF35B9,06,FF35B8,06
+92=Venom - Web Throw & Venom Rush & Air Dash,FF3599,0A,FF3598,0A,FF35B1,02,FF35B0,02,FF35B9,06,FF35B8,06
+93=War Machine - Repulsor Blast & Hikou,FF3591,0A,FF3590,0A,FF35B1,06,FF35B0,06
+94=War Machine - Shoulder Cannon & Hikou,FF35A1,06,FF35A0,06,FF35B1,06,FF35B0,06
+95=War Machine - Repulsor Blast & Low Shoulder Cannon,FF3591,0A,FF3590,0A,FF35C1,06,FF35C0,06
+96=War Machine - Low & Shoulder Cannon,FF35A1,06,FF35A0,06,FF35C1,06,FF35C0,06
+97=Wolverine - Tornado Claw,FF35A9,06,FF35A8,06
+98=Wolverine - Berserker Barrage,FF35B1,06,FF35B0,06
+99=Wolverine - Berserker Slash,FF35C9,06,FF35C8,06
+100=Zangief - Flying Powerbomb & Banishing Flat,FF35B1,0A,FF35B0,0A,FF35A1,06,FF35A0,06
+101=Zangief - Aerial Russian Slam & Banishing Flat,FF35C1,06,FF35C0,06,FF35A1,06,FF35A0,06
+102=Zangief - Iron Body & Banishing Flat,FF35D1,06,FF35D0,06,FF35A1,06,FF35A0,06
+103=Zangief - Flying Powerbomb & Screw Piledriver,FF35B1,0A,FF35B0,0A,FF35A9,08,FF35A8,08
+104=Zangief - Aerial Russian Slam & Screw Piledriver,FF35C1,06,FF35C0,06,FF35A9,08,FF35A8,08
+105=Zangief - Iron Body & Screw Piledriver,FF35D1,06,FF35D0,06,FF35A9,08,FF35A8,08
+Default=0
+
+[97]
+Name=P2 Char 2 Easy Moves
+0=Disabled
+1=Captain America - Stars & Stripes & Charging Star,FF3DA9,06,FF3DA8,06,FF3DB9,06,FF3DB8,06
+2=Captain America - Shield Slash & Charging Star,FF3DB1,06,FF3DB0,06,FF3DB9,06,FF3DB8,06
+3=Captain America - Zenten & Charging Star,FF3DC1,0A,FF3DC0,0A,FF3DB9,06,FF3DB8,06
+4=Captain Commando - Air & Captain Fire & Commando Strike,FF3D99,06,FF3D98,06,FF3DB9,06,FF3DB8,06,FF3DA9,06,FF3DA8,06
+5=Captain Commando - Air Captain Fire & Collider & Commando Strike,FF3DA1,06,FF3DA0,06,FF3DB9,06,FF3DB8,06,FF3DA9,06,FF3DA8,06
+6=Captain Commando - Air & Captain Fire & Kick,FF3D99,06,FF3D98,06,FF3DC1,06,FF3DC0,06,FF3DA9,06,FF3DA8,06
+7=Captain Commando - Air Captain Fire & Collider & Kick,FF3DA1,06,FF3DA0,06,FF3DC1,06,FF3DC0,06,FF3DA9,06,FF3DA8,06
+8=Carnage - Venom Crush & Storm & Charge & Air Dash,FF3D91,06,FF3D90,06,FF3DB1,02,FF3DB0,02,FF3DB9,06,FF3DB8,06,FF3DC1,06,FF3DC0,06
+9=Carnage - Web Throw & Venom Storm & Charge & Air Dash,FF3D99,0A,FF3D98,0A,FF3DB1,02,FF3DB0,02,FF3DB9,06,FF3DB8,06,FF3DC1,06,FF3DC0,06
+10=Chun-Li - Tenshou Kyaku & Kikou Ken & Air Dash,FF3D99,06,FF3D98,06,FF3D91,0A,FF3D90,0A,FF3DD1,02,FF3DD0,02
+11=Chun-Li - Sen'en Shuu & Kikou Ken & Air Dash,FF3DA1,0A,FF3DA0,0A,FF3D91,0A,FF3D90,0A,FF3DD1,02,FF3DD0,02
+12=Chun-Li - Heavy Hyakuretsu Kyaku & Kikou Ken & Air Dash,FF3DC1,06,FF3DC0,06,FF3DC3,03,FF3D91,0A,FF3D90,0A,FF3DD1,02,FF3DD0,02
+13=Gambit - Air & Kinetic Card & Cajun Strike,FF3D91,06,FF3D90,06,FF3DA9,08,FF3DA8,08,FF3DC9,06,FF3DC8,06
+14=Gambit - Trick & Air Kinetic Card & Cajun Strike,FF3D99,06,FF3D98,06,FF3DA9,08,FF3DA8,08,FF3DC9,06,FF3DC8,06
+15=Gambit - Cajun Slash & Strike & Air Kinetic Card,FF3DA1,06,FF3DA0,06,FF3DA9,08,FF3DA8,08,FF3DC9,06,FF3DC8,06
+16=Gambit - Cajun Escape & Strike & Air Kinetic Card,FF3DB9,08,FF3DB8,08,FF3DA9,08,FF3DA8,08,FF3DC9,06,FF3DC8,06
+17=Gouki - Gou & Zankuu Hadou Ken & Air & Tatsumaki Zankuu Kyaku & Ashura Senkuu 1,FF3DD9,06,FF3DD8,06,FF3D91,06,FF3D90,06,FF3DB1,06,FF3DB0,06,FF3DA1,06,FF3DA0,06,FF3DA9,06,FF3DA8,06
+18=Gouki - Gou Shoryuu & Zankuu Hadou Ken & Air & Tatsumaki Zankuu Kyaku & Ashura Senkuu 1,FF3DD9,06,FF3DD8,06,FF3D99,06,FF3D98,06,FF3DB1,06,FF3DB0,06,FF3DA1,06,FF3DA0,06,FF3DA9,06,FF3DA8,06
+19=Gouki - Ken & Ryu Mode Change & Zankuu Hadou Ken & Air & Tatsumaki Zankuu Kyaku & Ashura Senkuu 1,FF3DD9,06,FF3DD8,06,FF3F99,0A,FF3F98,0A,FF3DD1,0A,FF3DD0,0A,FF3DB1,06,FF3DB0,06,FF3DA1,06,FF3DA0,06,FF3DA9,06,FF3DA8,06
+20=Gouki - Gou & Zankuu Hadou Ken & Tatsumaki Zankuu Kyaku & Tenma Kuujin Kyaku & Ashura Senkuu 1,FF3DD9,06,FF3DD8,06,FF3D91,06,FF3D90,06,FF3DB1,06,FF3DB0,06,FF3DA1,06,FF3DA0,06,FF3F91,06,FF3F90,06
+21=Gouki - Gou Shoryuu & Zankuu Hadou Ken & Tatsumaki Zankuu Kyaku & Tenma Kuujin Kyaku & Ashura Senkuu 1,FF3DD9,06,FF3DD8,06,FF3D99,06,FF3D98,06,FF3DB1,06,FF3DB0,06,FF3DA1,06,FF3DA0,06,FF3F91,06,FF3F90,06
+22=Gouki - Ken & Ryu Mode Change & Zankuu Hadou Ken & Tatsumaki Zankuu & Kuujin Kyaku & Ashura Senkuu 1,FF3DD9,06,FF3DD8,06,FF3F99,0A,FF3F98,0A,FF3DD1,0A,FF3DD0,0A,FF3DB1,06,FF3DB0,06,FF3DA1,06,FF3DA0,06,FF3F91,06,FF3F90,06
+23=Gouki - Gou & Zankuu Hadou Ken & Air & Tatsumaki Zankuu Kyaku & Ashura Senkuu 2,FF3DE1,06,FF3DE0,06,FF3D91,06,FF3D90,06,FF3DB1,06,FF3DB0,06,FF3DA1,06,FF3DA0,06,FF3DA9,06,FF3DA8,06
+24=Gouki - Gou Shoryuu & Zankuu Hadou Ken & Air & Tatsumaki Zankuu Kyaku & Ashura Senkuu 2,FF3DE1,06,FF3DE0,06,FF3D99,06,FF3D98,06,FF3DB1,06,FF3DB0,06,FF3DA1,06,FF3DA0,06,FF3DA9,06,FF3DA8,06
+25=Gouki - Ken & Ryu Mode Change & Zankuu Hadou Ken & Air & Tatsumaki Zankuu Kyaku & Ashura Senkuu 2,FF3DE1,06,FF3DE0,06,FF3F99,0A,FF3F98,0A,FF3DD1,0A,FF3DD0,0A,FF3DB1,06,FF3DB0,06,FF3DA1,06,FF3DA0,06,FF3DA9,06,FF3DA8,06
+26=Gouki - Gou & Zankuu Hadou Ken & Tatsumaki Zankuu Kyaku & Tenma Kuujin Kyaku & Ashura Senkuu 2,FF3DE1,06,FF3DE0,06,FF3D91,06,FF3D90,06,FF3DB1,06,FF3DB0,06,FF3DA1,06,FF3DA0,06,FF3F91,06,FF3F90,06
+27=Gouki - Gou Shoryuu & Zankuu Hadou Ken & Tatsumaki Zankuu Kyaku & Tenma Kuujin Kyaku & Ashura Senkuu 2,FF3DE1,06,FF3DE0,06,FF3D99,06,FF3D98,06,FF3DB1,06,FF3DB0,06,FF3DA1,06,FF3DA0,06,FF3F91,06,FF3F90,06
+28=Gouki - Ken & Ryu Mode Change & Zankuu Hadou Ken & Tatsumaki Zankuu & Kuujin Kyaku & Ashura Senkuu 2,FF3DE1,06,FF3DE0,06,FF3F99,0A,FF3F98,0A,FF3DD1,0A,FF3DD0,0A,FF3DB1,06,FF3DB0,06,FF3DA1,06,FF3DA0,06,FF3F91,06,FF3F90,06
+29=Hulk - Gamma Charge Taichi & Tornado,FF3D91,08,FF3D90,08,FF3DA1,0A,FF3DA0,0A
+30=Hulk - Gamma Charge Taikuu & Tornado,FF3DA9,08,FF3DA8,08,FF3DA1,0A,FF3DA0,0A
+31=Hulk - Gamma Charge Taichi & Slam,FF3D91,08,FF3D90,08,FF3DB9,06,FF3DB8,06
+32=Hulk - Gamma Charge Taikuu & Slam,FF3DA9,08,FF3DA8,08,FF3DB9,06,FF3DB8,06
+33=Jin - Saotome Typhoon & Crush,FF3D91,08,FF3D90,08,FF3DB9,0A,FF3DB8,0A
+34=Jin - Saotome Dynamite & Crush,FF3D99,08,FF3D98,08,FF3DB9,0A,FF3DB8,0A
+35=Ken - Air & Hadou Ken & Air & Tatsumaki Senpuu Kyaku,FF3D91,06,FF3D90,06,FF3DB1,06,FF3DB0,06,FF3DA1,06,FF3DA0,06,FF3DA9,06,FF3DA8,06
+36=Ken - Shoryuu Ken & Air & Tatsumaki Senpuu Kyaku,FF3D99,06,FF3D98,06,FF3DA1,06,FF3DA0,06,FF3DA9,06,FF3DA8,06
+37=Ken - Akuma & Ryu Mode Change & Air Hadou Ken & Air & Tatsumaki Senpuu Kyaku,FF3DD1,0A,FF3DD0,0A,FF3FA1,0A,FF3FA0,0A,FF3DB1,06,FF3DB0,06,FF3DA1,06,FF3DA0,06,FF3DA9,06,FF3DA8,06
+38=Lilith - Air & Soul Flash & Vania Dash,FF3D99,06,FF3D98,06,FF3DE1,02,FF3DE0,02,FF3DD9,06,FF3DD8,06
+39=Lilith - Shining Blade & Air Soul Flash & Vania Dash,FF3DA1,06,FF3DA0,06,FF3DE1,02,FF3DE0,02,FF3DD9,06,FF3DD8,06
+40=Lilith - Vector Drain & Air Soul Flash & Vania Dash,FF3DA9,0A,FF3DA8,0A,FF3DE1,02,FF3DE0,02,FF3DD9,06,FF3DD8,06
+41=Mech-Zangief - Flying Powerbomb & Vodka Fire,FF3DB1,0A,FF3DB0,0A,FF3DA1,06,FF3DA0,06
+42=Mech-Zangief - Aerial Russian Slam & Vodka Fire,FF3DC1,06,FF3DC0,06,FF3DA1,06,FF3DA0,06
+43=Mech-Zangief - Iron Body & Vodka Fire,FF3DD1,06,FF3DD0,06,FF3DA1,06,FF3DA0,06
+44=Mech-Zangief - Flying Powerbomb & Screw Piledriver,FF3DB1,0A,FF3DB0,0A,FF3DA9,08,FF3DA8,08
+45=Mech-Zangief - Aerial Russian Slam & Screw Piledriver,FF3DC1,06,FF3DC0,06,FF3DA9,08,FF3DA8,08
+46=Mech-Zangief - Iron Body & Screw Piledriver,FF3DD1,06,FF3DD0,06,FF3DA9,08,FF3DA8,08
+47=Mega War Machine - Low & Shoulder Cannon,FF3DA1,06,FF3DA0,06,FF3DC1,06,FF3DC0,06
+48=Morrigan - Air & Soul Fist & Vania Dash,FF3D99,06,FF3D98,06,FF3DE1,02,FF3DE0,02,FF3DD9,06,FF3DD8,06
+49=Morrigan - Shadow Blade & Air Soul Fist & Vania Dash,FF3DA1,06,FF3DA0,06,FF3DE1,02,FF3DE0,02,FF3DD9,06,FF3DD8,06
+50=Morrigan - Vector Drain & Air Soul Fist & Vania Dash,FF3DA9,0A,FF3DA8,0A,FF3DE1,02,FF3DE0,02,FF3DD9,06,FF3DD8,06
+51=Orange Hulk - Gamma Charge Taichi & Tornado,FF3D91,08,FF3D90,08,FF3DA1,0A,FF3DA0,0A
+52=Orange Hulk - Gamma Charge Taikuu & Tornado,FF3DA9,08,FF3DA8,08,FF3DA1,0A,FF3DA0,0A
+53=Orange Hulk - Gamma Charge Taichi & Slam,FF3D91,08,FF3D90,08,FF3DB9,06,FF3DB8,06
+54=Orange Hulk - Gamma Charge Taikuu & Slam,FF3DA9,08,FF3DA8,08,FF3DB9,06,FF3DB8,06
+55=Rockman - Charge Shot & Eddie Yobi,FF3D91,02,FF3D90,02,FF3DC1,06,FF3DC0,06
+56=Rockman - Mega Upper & Eddie Yobi,FF3D99,06,FF3D98,06,FF3DC1,06,FF3DC0,06
+57=Rockman - Item Kougeki & Eddie Yobi,FF3DB1,06,FF3DB0,06,FF3DC1,06,FF3DC0,06
+58=Roll - Roll Buster & Item Kougeki,FF3D91,06,FF3D90,06,FF3DB1,06,FF3DB0,06
+59=Roll - Hana-Taba Bakudan & Item Kougeki,FF3D99,06,FF3D98,06,FF3DB1,06,FF3DB0,06
+60=Roll - Roll Buster & Eddie Yobi,FF3D91,06,FF3D90,06,FF3DC1,06,FF3DC0,06
+61=Roll - Hana-Taba Bakudan & Eddie Yobi,FF3D99,06,FF3D98,06,FF3DC1,06,FF3DC0,06
+62=Ryu - Air & Hadou Ken & Air & Tatsumaki Senpuu Kyaku,FF3D91,06,FF3D90,06,FF3DB1,06,FF3DB0,06,FF3DA1,06,FF3DA0,06,FF3DA9,06,FF3DA8,06
+63=Ryu - Shoryuu Ken & Air Hadou Ken & Air & Tatsumaki Senpuu Kyaku,FF3D99,06,FF3D98,06,FF3DB1,06,FF3DB0,06,FF3DA1,06,FF3DA0,06,FF3DA9,06,FF3DA8,06
+64=Ryu - Akuma & Ken Mode Change & Air Hadou Ken & Air & Tatsumaki Senpuu Kyaku,FF3F99,0A,FF3F98,0A,FF3FA1,0A,FF3FA0,0A,FF3DB1,06,FF3DB0,06,FF3DA1,06,FF3DA0,06,FF3DA9,06,FF3DA8,06
+65=Shadow Lady - Sky Counter Crash & Miracle Drill & Air Dash,FF3D91,06,FF3D90,06,FF3DA1,0A,FF3DA0,0A,FF3DD1,02,FF3DD0,02
+66=Shadow Lady - Rainbow Missile & Miracle Drill & Air Dash,FF3D91,06,FF3D90,06,FF3DA9,06,FF3DA8,06,FF3DD1,02,FF3DD0,02
+67=Shadow Lady - Infinity Leg & Miracle Drill & Air Dash,FF3D91,06,FF3D90,06,FF3DC1,06,FF3DC0,06,FF3DC3,03,FF3DD1,02,FF3DD0,02
+68=Shadow Lady - Sky Counter Crash & Plasma Barrier & Air Dash,FF3DB9,06,FF3DB8,06,FF3DA1,0A,FF3DA0,0A,FF3DD1,02,FF3DD0,02
+69=Shadow Lady - Rainbow Missile & Plasma Barrier & Air Dash,FF3DB9,06,FF3DB8,06,FF3DA9,06,FF3DA8,06,FF3DD1,02,FF3DD0,02
+70=Shadow Lady - Infinity Leg & Plasma Barrier & Air Dash,FF3DB9,06,FF3DB8,06,FF3DC1,06,FF3DC0,06,FF3DC3,03,FF3DD1,02,FF3DD0,02
+71=Spider-Man - Spider Sting & Web Swing & Air Dash,FF3D91,06,FF3D90,06,FF3DA1,06,FF3DA0,06,FF3DD1,02,FF3DD0,02
+72=Spider-Man - Web Ball & Swing & Air Dash,FF3D99,06,FF3D98,06,FF3DA1,06,FF3DA0,06,FF3DD1,02,FF3DD0,02
+73=Spider-Man - Web Throw & Swing & Air Dash,FF3DA9,0A,FF3DA8,0A,FF3DA1,06,FF3DA0,06,FF3DD1,02,FF3DD0,02
+74=Strider Hiryu - Warp & Excalibur,FF3D99,06,FF3D98,06,FF3DD9,06,FF3DD8,06
+75=Strider Hiryu - Ame no Murakumo & Air & Gram 2,FF3D91,06,FF3D90,06,FF3DB1,06,FF3DB0,06,FF3DB9,06,FF3DB8,06
+76=Strider Hiryu - Air & Gram 1 & 2,FF3DA9,06,FF3DA8,06,FF3DB1,06,FF3DB0,06,FF3DB9,06,FF3DB8,06
+77=Strider Hiryu - Heki Hari Tsuki & Air & Gram 2,FF3DC1,06,FF3DC0,06,FF3DB1,06,FF3DB0,06,FF3DB9,06,FF3DB8,06
+78=Strider Hiryu - Formation B & Air & Gram 2,FF3FA1,08,FF3FA0,08,FF3DB1,06,FF3DB0,06,FF3DB9,06,FF3DB8,06
+79=Strider Hiryu - Ame no Murakumo & Formation A & Air Gram,FF3D91,06,FF3D90,06,FF3DC9,06,FF3DC8,06,FF3DB9,06,FF3DB8,06
+80=Strider Hiryu - Gram 1 & Formation A & Air Gram,FF3DA9,06,FF3DA8,06,FF3DC9,06,FF3DC8,06,FF3DB9,06,FF3DB8,06
+81=Strider Hiryu - Heki Hari Tsuki & Formation A & Air Gram,FF3DC1,06,FF3DC0,06,FF3DC9,06,FF3DC8,06,FF3DB9,06,FF3DB8,06
+82=Strider Hiryu - Formation A & B & Air Gram,FF3FA1,08,FF3FA0,08,FF3DC9,06,FF3DC8,06,FF3DB9,06,FF3DB8,06
+83=Strider Hiryu - Ame no Murakumo & Vajra & Air Gram,FF3D91,06,FF3D90,06,FF3F91,06,FF3F90,06,FF3DB9,06,FF3DB8,06
+84=Strider Hiryu - Gram 1 & Vajra & Air Gram,FF3DA9,06,FF3DA8,06,FF3F91,06,FF3F90,06,FF3DB9,06,FF3DB8,06
+85=Strider Hiryu - Heki Hari Tsuki & Vajra & Air Gram,FF3DC1,06,FF3DC0,06,FF3F91,06,FF3F90,06,FF3DB9,06,FF3DB8,06
+86=Strider Hiryu - Formation B & Vajra & Air Gram,FF3FA1,08,FF3FA0,08,FF3F91,06,FF3F90,06,FF3DB9,06,FF3DB8,06
+87=Strider Hiryu - Ame no Murakumo & Formation C & Air Gram,FF3D91,06,FF3D90,06,FF3F99,08,FF3F98,08,FF3DB9,06,FF3DB8,06
+88=Strider Hiryu - Gram 1 & Formation C & Air Gram,FF3DA9,06,FF3DA8,06,FF3F99,08,FF3F98,08,FF3DB9,06,FF3DB8,06
+89=Strider Hiryu - Heki Hari Tsuki & Formation C & Air Gram,FF3DC1,06,FF3DC0,06,FF3F99,08,FF3F98,08,FF3DB9,06,FF3DB8,06
+90=Strider Hiryu - Formation B & C & Air Gram,FF3FA1,08,FF3FA0,08,FF3F99,08,FF3F98,08,FF3DB9,06,FF3DB8,06
+91=Venom - Venom Fang & Rush & Air Dash,FF3D91,06,FF3D90,06,FF3DB1,02,FF3DB0,02,FF3DB9,06,FF3DB8,06
+92=Venom - Web Throw & Venom Rush & Air Dash,FF3D99,0A,FF3D98,0A,FF3DB1,02,FF3DB0,02,FF3DB9,06,FF3DB8,06
+93=War Machine - Repulsor Blast & Hikou,FF3D91,0A,FF3D90,0A,FF3DB1,06,FF3DB0,06
+94=War Machine - Shoulder Cannon & Hikou,FF3DA1,06,FF3DA0,06,FF3DB1,06,FF3DB0,06
+95=War Machine - Repulsor Blast & Low Shoulder Cannon,FF3D91,0A,FF3D90,0A,FF3DC1,06,FF3DC0,06
+96=War Machine - Low & Shoulder Cannon,FF3DA1,06,FF3DA0,06,FF3DC1,06,FF3DC0,06
+97=Wolverine - Tornado Claw,FF3DA9,06,FF3DA8,06
+98=Wolverine - Berserker Barrage,FF3DB1,06,FF3DB0,06
+99=Wolverine - Berserker Slash,FF3DC9,06,FF3DC8,06
+100=Zangief - Flying Powerbomb & Banishing Flat,FF3DB1,0A,FF3DB0,0A,FF3DA1,06,FF3DA0,06
+101=Zangief - Aerial Russian Slam & Banishing Flat,FF3DC1,06,FF3DC0,06,FF3DA1,06,FF3DA0,06
+102=Zangief - Iron Body & Banishing Flat,FF3DD1,06,FF3DD0,06,FF3DA1,06,FF3DA0,06
+103=Zangief - Flying Powerbomb & Screw Piledriver,FF3DB1,0A,FF3DB0,0A,FF3DA9,08,FF3DA8,08
+104=Zangief - Aerial Russian Slam & Screw Piledriver,FF3DC1,06,FF3DC0,06,FF3DA9,08,FF3DA8,08
+105=Zangief - Iron Body & Screw Piledriver,FF3DD1,06,FF3DD0,06,FF3DA9,08,FF3DA8,08
+Default=0
+
+[98]
+Name=P2 Char 1 Easy Hyper Combo
+0=Disabled
+1=Captain America - Hyper Stars & Stripes & Charging Star,FF3591,06,FF3590,06,FF35A1,06,FF35A0,06
+2=Captain America - Final Justice & Hyper Charging Star,FF3599,06,FF3598,06,FF35A1,06,FF35A0,06
+3=Captain Commando - Captain Sword & Storm,FF3591,06,FF3590,06,FF35B1,06,FF35B0,06
+4=Carnage - Venom Web & Death Bite,FF35A1,06,FF35A0,06,FF35A9,06,FF35A8,06
+5=Chun-Li - Senretsu & Shichisei Senkuu Kyaku & Kikou Shou,FF35B1,06,FF35B0,06,FF35C9,06,FF35C8,06,FF35A9,06,FF35A8,06
+6=Chun-Li - Hanzan Tenshou & Shichisei Senkuu Kyaku & Kikou Shou,FF35B9,06,FF35B8,06,FF35C9,06,FF35C8,06,FF35A9,06,FF35A8,06
+7=Gambit - Royal Flush & Cajun Explosion Kouhou,FF35B1,06,FF35B0,06,FF35D1,06,FF35D0,06
+8=Gambit - Royal Flush & Cajun Explosion Zenpou,FF35B1,06,FF35B0,06,FF35D9,06,FF35D8,06
+9=Gouki - Messatsu Gou Hadou & Tenma Gou Zankuu,FF35B9,06,FF35B8,06,FF3789,06,FF3788,06
+10=Gouki - Messatsu Gou Shoryuu & Tenma Gou Zankuu,FF35C1,06,FF35C0,06,FF3789,06,FF3788,06
+11=Gouki - Shun Goku Satsu & Tenma Gou Zankuu,FF35C9,08,FF35C8,08,FF3789,06,FF3788,06
+12=Hulk - Gamma Crush & Quake,FF3599,06,FF3598,06,FF35C1,06,FF35C0,06
+13=Hulk - Gamma Wave & Quake,FF35B1,06,FF35B0,06,FF35C1,06,FF35C0,06
+14=Jin - Blodia Vulcan & Saotome Cyclone,FF35A1,06,FF35A0,06,FF35B1,06,FF35B0,06
+15=Jin - Blodia Punch & Saotome Cyclone,FF35A9,06,FF35A8,06,FF35B1,06,FF35B0,06
+16=Ken - Shinryuu Ken & Shoryuu Reppa,FF35B9,06,FF35B8,06,FF35C1,06,FF35C0,06
+17=Ken - Shippu Jinrai Kyaku & Shoryuu Reppa,FF35D9,06,FF35D8,06,FF35C1,06,FF35C0,06
+18=Lilith - Brilliant Shower & Darkness Illusion,FF35B1,06,FF35B0,06,FF35B9,06,FF35B8,06
+19=Lilith - Splendor Love & Darkness Illusion,FF35C9,06,FF35C8,06,FF35B9,06,FF35B8,06
+20=Mech-Zangief - Final Atomic Buster & Siberian Blizzard,FF35B9,08,FF35B8,08,FF35D9,08,FF35D8,08
+21=Mega War Machine - Proton Cannon & War Destroyer,FF3599,06,FF3598,06,FF35B9,06,FF35B8,06
+22=Morrigan - Darkness Illusion & Soul Eraser,FF35B9,06,FF35B8,06,FF35C1,06,FF35C0,06
+23=Morrigan - Darkness Illusion & Silhouette Blade,FF35B9,06,FF35B8,06,FF35C9,06,FF35C8,06
+24=Morrigan - Eternal Slumber & Soul Eraser,FF35D1,08,FF35D0,08,FF35C1,06,FF35C0,06
+25=Morrigan - Eternal Slumber & Silhouette Blade,FF35D1,08,FF35D0,08,FF35C9,06,FF35C8,06
+26=Orange Hulk - Gamma Crush & Quake,FF3599,06,FF3598,06,FF35C1,06,FF35C0,06
+27=Orange Hulk - Gamma Wave & Quake,FF35B1,06,FF35B0,06,FF35C1,06,FF35C0,06
+28=Rockman - Rush Drill & Hyper Megaman,FF35A1,06,FF35A0,06,FF35B9,06,FF35B8,06
+29=Rockman - Beat Plane & Hyper Megaman,FF35A9,06,FF35A8,06,FF35B9,06,FF35B8,06
+30=Roll - Hyper Roll & Rush Drill,FF35B9,06,FF35B8,06,FF35A1,06,FF35A1,06
+31=Roll - Hyper Roll & Beat Plane,FF35B9,06,FF35B8,06,FF35A9,06,FF35A8,06
+32=Ryu - Shinkuu Hadou Ken & Tatsumaki Senpuu Kyaku,FF35B9,06,FF35B8,06,FF35C1,06,FF35C0,06
+33=Ryu - Shin Shoryuu Ken & Shinkuu Tatsumaki Senpuu Kyaku,FF35C9,06,FF35C8,06,FF35C1,06,FF35C0,06
+34=Shadow Lady - Big Bang Laser & Final Mission,FF3599,06,FF3598,06,FF35B1,0C,FF35B0,0C
+35=Shadow Lady - Big Bang Laser & Galaxy Missile,FF3599,06,FF3598,06,FF35C9,06,FF35C8,06
+36=Spider-Man - Maximum Spider & Crawler Assault,FF35B1,06,FF35B0,06,FF35B9,06,FF35B8,06
+37=Spider-Man - Ultimate Web Throw & Crawler Assault,FF35C9,06,FF35C8,06,FF35B9,06,FF35B8,06
+38=Strider Hiryu - Ouroboros & Legion,FF35A1,06,FF35A0,06,FF35D1,06,FF35D0,06
+39=Strider Hiryu - Ragnarok & Legion,FF35E1,06,FF35E0,06,FF35D1,06,FF35D0,06
+40=Venom - Venom Web & Death Bite,FF35A1,06,FF35A0,06,FF35A9,06,FF35A8,06
+41=War Machine - Proton Cannon & War Destroyer,FF3599,06,FF3598,06,FF35B9,06,FF35B8,06
+42=Wolverine - Weapon X & Fatal Claw,FF3599,06,FF3598,06,FF3591,06,FF3590,06
+43=Wolverine - Berserker Barrage X & Fatal Claw,FF35A1,06,FF35A0,06,FF3591,06,FF3590,06
+44=Wolverine - Berserker Charge & Fatal Claw,FF35B9,06,FF35B8,06,FF3591,06,FF3590,06
+45=Zangief - Ultra & Final Atomic Buster,FF35B9,08,FF35B8,08,FF35C9,08,FF35C8,08
+Default=0
+
+[99]
+Name=P2 Char 2 Easy Hyper Combo
+0=Disabled
+1=Captain America - Hyper Stars & Stripes & Charging Star,FF3D91,06,FF3D90,06,FF3DA1,06,FF3DA0,06
+2=Captain America - Final Justice & Hyper Charging Star,FF3D99,06,FF3D98,06,FF3DA1,06,FF3DA0,06
+3=Captain Commando - Captain Sword & Storm,FF3D91,06,FF3D90,06,FF3DB1,06,FF3DB0,06
+4=Carnage - Venom Web & Death Bite,FF3DA1,06,FF3DA0,06,FF3DA9,06,FF3DA8,06
+5=Chun-Li - Senretsu & Shichisei Senkuu Kyaku & Kikou Shou,FF3DB1,06,FF3DB0,06,FF3DC9,06,FF3DC8,06,FF3DA9,06,FF3DA8,06
+6=Chun-Li - Hanzan Tenshou & Shichisei Senkuu Kyaku & Kikou Shou,FF3DB9,06,FF3DB8,06,FF3DC9,06,FF3DC8,06,FF3DA9,06,FF3DA8,06
+7=Gambit - Royal Flush & Cajun Explosion Kouhou,FF3DB1,06,FF3DB0,06,FF3DD1,06,FF3DD0,06
+8=Gambit - Royal Flush & Cajun Explosion Zenpou,FF3DB1,06,FF3DB0,06,FF3DD9,06,FF3DD8,06
+9=Gouki - Messatsu Gou Hadou & Tenma Gou Zankuu,FF3DB9,06,FF3DB8,06,FF3F89,06,FF3F88,06
+10=Gouki - Messatsu Gou Shoryuu & Tenma Gou Zankuu,FF3DC1,06,FF3DC0,06,FF3F89,06,FF3F88,06
+11=Gouki - Shun Goku Satsu & Tenma Gou Zankuu,FF3DC9,08,FF3DC8,08,FF3F89,06,FF3F88,06
+12=Hulk - Gamma Crush & Quake,FF3D99,06,FF3D98,06,FF3DC1,06,FF3DC0,06
+13=Hulk - Gamma Wave & Quake,FF3DB1,06,FF3DB0,06,FF3DC1,06,FF3DC0,06
+14=Jin - Blodia Vulcan & Saotome Cyclone,FF3DA1,06,FF3DA0,06,FF3DB1,06,FF3DB0,06
+15=Jin - Blodia Punch & Saotome Cyclone,FF3DA9,06,FF3DA8,06,FF3DB1,06,FF3DB0,06
+16=Ken - Shinryuu Ken & Shoryuu Reppa,FF3DB9,06,FF3DB8,06,FF3DC1,06,FF3DC0,06
+17=Ken - Shippu Jinrai Kyaku & Shoryuu Reppa,FF3DD9,06,FF3DD8,06,FF3DC1,06,FF3DC0,06
+18=Lilith - Brilliant Shower & Darkness Illusion,FF3DB1,06,FF3DB0,06,FF3DB9,06,FF3DB8,06
+19=Lilith - Splendor Love & Darkness Illusion,FF3DC9,06,FF3DC8,06,FF3DB9,06,FF3DB8,06
+20=Mech-Zangief - Final Atomic Buster & Siberian Blizzard,FF3DB9,08,FF3DB8,08,FF3DD9,08,FF3DD8,08
+21=Mega War Machine - Proton Cannon & War Destroyer,FF3D99,06,FF3D98,06,FF3DB9,06,FF3DB8,06
+22=Morrigan - Darkness Illusion & Soul Eraser,FF3DB9,06,FF3DB8,06,FF3DC1,06,FF3DC0,06
+23=Morrigan - Darkness Illusion & Silhouette Blade,FF3DB9,06,FF3DB8,06,FF3DC9,06,FF3DC8,06
+24=Morrigan - Eternal Slumber & Soul Eraser,FF3DD1,08,FF3DD0,08,FF3DC1,06,FF3DC0,06
+25=Morrigan - Eternal Slumber & Silhouette Blade,FF3DD1,08,FF3DD0,08,FF3DC9,06,FF3DC8,06
+26=Orange Hulk - Gamma Crush & Quake,FF3D99,06,FF3D98,06,FF3DC1,06,FF3DC0,06
+27=Orange Hulk - Gamma Wave & Quake,FF3DB1,06,FF3DB0,06,FF3DC1,06,FF3DC0,06
+28=Rockman - Rush Drill & Hyper Megaman,FF3DA1,06,FF3DA0,06,FF3DB9,06,FF3DB8,06
+29=Rockman - Beat Plane & Hyper Megaman,FF3DA9,06,FF3DA8,06,FF3DB9,06,FF3DB8,06
+30=Roll - Hyper Roll & Rush Drill,FF3DB9,06,FF3DB8,06,FF3DA1,06,FF3DA1,06
+31=Roll - Hyper Roll & Beat Plane,FF3DB9,06,FF3DB8,06,FF3DA9,06,FF3DA8,06
+32=Ryu - Shinkuu Hadou Ken & Tatsumaki Senpuu Kyaku,FF3DB9,06,FF3DB8,06,FF3DC1,06,FF3DC0,06
+33=Ryu - Shin Shoryuu Ken & Shinkuu Tatsumaki Senpuu Kyaku,FF3DC9,06,FF3DC8,06,FF3DC1,06,FF3DC0,06
+34=Shadow Lady - Big Bang Laser & Final Mission,FF3D99,06,FF3D98,06,FF3DB1,0C,FF3DB0,0C
+35=Shadow Lady - Big Bang Laser & Galaxy Missile,FF3D99,06,FF3D98,06,FF3DC9,06,FF3DC8,06
+36=Spider-Man - Maximum Spider & Crawler Assault,FF3DB1,06,FF3DB0,06,FF3DB9,06,FF3DB8,06
+37=Spider-Man - Ultimate Web Throw & Crawler Assault,FF3DC9,06,FF3DC8,06,FF3DB9,06,FF3DB8,06
+38=Strider Hiryu - Ouroboros & Legion,FF3DA1,06,FF3DA0,06,FF3DD1,06,FF3DD0,06
+39=Strider Hiryu - Ragnarok & Legion,FF3DE1,06,FF3DE0,06,FF3DD1,06,FF3DD0,06
+40=Venom - Venom Web & Death Bite,FF3DA1,06,FF3DA0,06,FF3DA9,06,FF3DA8,06
+41=War Machine - Proton Cannon & War Destroyer,FF3D99,06,FF3D98,06,FF3DB9,06,FF3DB8,06
+42=Wolverine - Weapon X & Fatal Claw,FF3D99,06,FF3D98,06,FF3D91,06,FF3D90,06
+43=Wolverine - Berserker Barrage X & Fatal Claw,FF3DA1,06,FF3DA0,06,FF3D91,06,FF3D90,06
+44=Wolverine - Berserker Charge & Fatal Claw,FF3DB9,06,FF3DB8,06,FF3D91,06,FF3D90,06
+45=Zangief - Ultra & Final Atomic Buster,FF3DB9,08,FF3DB8,08,FF3DC9,08,FF3DC8,08
+Default=0
+
+[100]
+Name=BackGround Select
+0=Disabled
+1=BackGround 1,FF4112,00
+2=BackGround 2,FF4112,01
+3=BackGround 3,FF4112,02
+4=BackGround 4,FF4112,03
+5=BackGround 5,FF4112,04
+6=BackGround 6,FF4112,05
+7=BackGround 7,FF4112,06
+8=BackGround 8,FF4112,07
+9=BackGround 9,FF4112,08
+10=BackGround 10,FF4112,09
+Default=0
+
+[101]
+Name=Stage Select
+0=Disabled
+1=Stage 1,FF4080,00
+2=Stage 2,FF4080,01
+3=Stage 3,FF4080,02
+4=Stage 4,FF4080,03
+5=Stage 5,FF4080,04
+6=Stage 6,FF4080,05
+7=Stage 7,FF4080,06
+8=Stage 8,FF4080,07
+Default=0
+

@@ -1,0 +1,291 @@
+[0]
+Name=Infinite Time Limit
+0=Off,0,0
+1=Infinite Count Value,10A837,60
+2=Infinite Cycle Timer,10A836,2F
+
+[1]
+Name=P1 Health Gauge
+0=Off,0,0
+1=Infinite,108220,CF
+2=Red,108220,40
+
+[2]
+Name=P2 Health Gauge
+0=Off,0,0
+1=Infinite,108420,CF
+2=Red,108420,40
+
+[3]
+Name=P1 Power Gauge
+0=Off,0,0
+1=Nothing,108218,00
+2=Maximum,108218,7F
+
+[4]
+Name=P2 Power Gauge
+0=Off,0,0
+1=Nothing,108418,00
+2=Maximum,108418,7F
+
+[5]
+Name=P1 Battle Character
+0=Off,0,0
+1=Heidern,108170,00
+2=Ralf,108170,01
+3=Clark,108170,02
+4=Atena Asamiya,108170,03
+5=Sie Kensou,108170,04
+6=Chin Gentsai,108170,05
+7=Kyo Kusanagi,108170,06
+8=Benimaru Nikaidou,108170,07
+9=Goro Daimon,108170,08
+10=Iori Yagami,108170,09
+11=Eiji Kisaragi,108170,0A
+12=Billy Kane,108170,0B
+13=Kim Kaphwan,108170,0C
+14=Chang Koehan,108170,0D
+15=Choi Bounge,108170,0E
+16=Terry Bogard,108170,0F
+17=Andy Bogard,108170,10
+18=Joe Higashi,108170,11
+19=Ryo Sakazaki,108170,12
+20=Robert Garcia,108170,13
+21=Takuma Sakazaki,108170,14
+22=Yuri Sakazaki,108170,15
+23=Mai Siranui,108170,16
+24=King,108170,17
+25=Saisyu Kusanagi,108170,18
+26=Omega Rugal,108170,19
+
+[6]
+Name=P2 Battle Character
+0=Off,0,0
+1=Heidern,108370,00
+2=Ralf,108370,01
+3=Clark,108370,02
+4=Atena Asamiya,108370,03
+5=Sie Kensou,108370,04
+6=Chin Gentsai,108370,05
+7=Kyo Kusanagi,108370,06
+8=Benimaru Nikaidou,108370,07
+9=Goro Daimon,108370,08
+10=Iori Yagami,108370,09
+11=Eiji Kisaragi,108370,0A
+12=Billy Kane,108370,0B
+13=Kim Kaphwan,108370,0C
+14=Chang Koehan,108370,0D
+15=Choi Bounge,108370,0E
+16=Terry Bogard,108370,0F
+17=Andy Bogard,108370,10
+18=Joe Higashi,108370,11
+19=Ryo Sakazaki,108370,12
+20=Robert Garcia,108370,13
+21=Takuma Sakazaki,108370,14
+22=Yuri Sakazaki,108370,15
+23=Mai Siranui,108370,16
+24=King,108370,17
+25=Saisyu Kusanagi,108370,18
+26=Omega Rugal,108370,19
+
+[7]
+Name=P1 Character 1
+0=Off,0,0
+1=Heidern,108233,00
+2=Ralf,108233,01
+3=Clark,108233,02
+4=Atena Asamiya,108233,03
+5=Sie Kensou,108233,04
+6=Chin Gentsai,108233,05
+7=Kyo Kusanagi,108233,06
+8=Benimaru Nikaidou,108233,07
+9=Goro Daimon,108233,08
+10=Iori Yagami,108233,09
+11=Eiji Kisaragi,108233,0A
+12=Billy Kane,108233,0B
+13=Kim Kaphwan,108233,0C
+14=Chang Koehan,108233,0D
+15=Choi Bounge,108233,0E
+16=Terry Bogard,108233,0F
+17=Andy Bogard,108233,10
+18=Joe Higashi,108233,11
+19=Ryo Sakazaki,108233,12
+20=Robert Garcia,108233,13
+21=Takuma Sakazaki,108233,14
+22=Yuri Sakazaki,108233,15
+23=Mai Siranui,108233,16
+24=King,108233,17
+25=Saisyu Kusanagi,108233,18
+26=Omega Rugal,108233,19
+
+[8]
+Name=P1 Character 2
+0=Off,0,0
+1=Heidern,108232,00
+2=Ralf,108232,01
+3=Clark,108232,02
+4=Atena Asamiya,108232,03
+5=Sie Kensou,108232,04
+6=Chin Gentsai,108232,05
+7=Kyo Kusanagi,108232,06
+8=Benimaru Nikaidou,108232,07
+9=Goro Daimon,108232,08
+10=Iori Yagami,108232,09
+11=Eiji Kisaragi,108232,0A
+12=Billy Kane,108232,0B
+13=Kim Kaphwan,108232,0C
+14=Chang Koehan,108232,0D
+15=Choi Bounge,108232,0E
+16=Terry Bogard,108232,0F
+17=Andy Bogard,108232,10
+18=Joe Higashi,108232,11
+19=Ryo Sakazaki,108232,12
+20=Robert Garcia,108232,13
+21=Takuma Sakazaki,108232,14
+22=Yuri Sakazaki,108232,15
+23=Mai Siranui,108232,16
+24=King,108232,17
+25=Saisyu Kusanagi,108232,18
+26=Omega Rugal,108232,19
+
+[9]
+Name=P1 Character 3
+0=Off,0,0
+1=Heidern,108235,00
+2=Ralf,108235,01
+3=Clark,108235,02
+4=Atena Asamiya,108235,03
+5=Sie Kensou,108235,04
+6=Chin Gentsai,108235,05
+7=Kyo Kusanagi,108235,06
+8=Benimaru Nikaidou,108235,07
+9=Goro Daimon,108235,08
+10=Iori Yagami,108235,09
+11=Eiji Kisaragi,108235,0A
+12=Billy Kane,108235,0B
+13=Kim Kaphwan,108235,0C
+14=Chang Koehan,108235,0D
+15=Choi Bounge,108235,0E
+16=Terry Bogard,108235,0F
+17=Andy Bogard,108235,10
+18=Joe Higashi,108235,11
+19=Ryo Sakazaki,108235,12
+20=Robert Garcia,108235,13
+21=Takuma Sakazaki,108235,14
+22=Yuri Sakazaki,108235,15
+23=Mai Siranui,108235,16
+24=King,108235,17
+25=Saisyu Kusanagi,108235,18
+26=Omega Rugal,108235,19
+
+[10]
+Name=P2 Character 1
+0=Off,0,0
+1=Heidern,108383,00
+2=Ralf,108383,01
+3=Clark,108383,02
+4=Atena Asamiya,108383,03
+5=Sie Kensou,108383,04
+6=Chin Gentsai,108383,05
+7=Kyo Kusanagi,108383,06
+8=Benimaru Nikaidou,108383,07
+9=Goro Daimon,108383,08
+10=Iori Yagami,108383,09
+11=Eiji Kisaragi,108383,0A
+12=Billy Kane,108383,0B
+13=Kim Kaphwan,108383,0C
+14=Chang Koehan,108383,0D
+15=Choi Bounge,108383,0E
+16=Terry Bogard,108383,0F
+17=Andy Bogard,108383,10
+18=Joe Higashi,108383,11
+19=Ryo Sakazaki,108383,12
+20=Robert Garcia,108383,13
+21=Takuma Sakazaki,108383,14
+22=Yuri Sakazaki,108383,15
+23=Mai Siranui,108383,16
+24=King,108383,17
+25=Saisyu Kusanagi,108383,18
+26=Omega Rugal,108383,19
+
+[11]
+Name=P2 Character 2
+0=Off,0,0
+1=Heidern,108382,00
+2=Ralf,108382,01
+3=Clark,108382,02
+4=Atena Asamiya,108382,03
+5=Sie Kensou,108382,04
+6=Chin Gentsai,108382,05
+7=Kyo Kusanagi,108382,06
+8=Benimaru Nikaidou,108382,07
+9=Goro Daimon,108382,08
+10=Iori Yagami,108382,09
+11=Eiji Kisaragi,108382,0A
+12=Billy Kane,108382,0B
+13=Kim Kaphwan,108382,0C
+14=Chang Koehan,108382,0D
+15=Choi Bounge,108382,0E
+16=Terry Bogard,108382,0F
+17=Andy Bogard,108382,10
+18=Joe Higashi,108382,11
+19=Ryo Sakazaki,108382,12
+20=Robert Garcia,108382,13
+21=Takuma Sakazaki,108382,14
+22=Yuri Sakazaki,108382,15
+23=Mai Siranui,108382,16
+24=King,108382,17
+25=Saisyu Kusanagi,108382,18
+26=Omega Rugal,108382,19
+
+[12]
+Name=P2 Character 3
+0=Off,0,0
+1=Heidern,108385,00
+2=Ralf,108385,01
+3=Clark,108385,02
+4=Atena Asamiya,108385,03
+5=Sie Kensou,108385,04
+6=Chin Gentsai,108385,05
+7=Kyo Kusanagi,108385,06
+8=Benimaru Nikaidou,108385,07
+9=Goro Daimon,108385,08
+10=Iori Yagami,108385,09
+11=Eiji Kisaragi,108385,0A
+12=Billy Kane,108385,0B
+13=Kim Kaphwan,108385,0C
+14=Chang Koehan,108385,0D
+15=Choi Bounge,108385,0E
+16=Terry Bogard,108385,0F
+17=Andy Bogard,108385,10
+18=Joe Higashi,108385,11
+19=Ryo Sakazaki,108385,12
+20=Robert Garcia,108385,13
+21=Takuma Sakazaki,108385,14
+22=Yuri Sakazaki,108385,15
+23=Mai Siranui,108385,16
+24=King,108385,17
+25=Saisyu Kusanagi,108385,18
+26=Omega Rugal,108385,19
+
+[13]
+Name=Action Speed Up
+0=Off,0,0
+1=P1 On,10817B,00
+2=P2 On,10837B,00
+3=P1&P2,10817B,00,10837B,00
+
+[14]
+Name=No Hit Stop(Bug?)
+0=Off,0,0
+1=P1 On,10817A,00
+2=P2 On,10837A,00
+3=P1&P2,10817A,00,10837A,00
+
+[15]
+Name=No Guard Stop(Bug?)
+0=Off,0,0
+1=P1 On,1083D0,00
+2=P2 On,1081D0,00
+3=P1&P2,1083D0,00,1081D0,00
+

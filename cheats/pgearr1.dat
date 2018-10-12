@@ -1,0 +1,231 @@
+[0]
+Name=Infinite Time
+0=Disabled
+1=Enabled,FF1E66,00
+Default=0
+
+[1]
+Name=Infinite Combine Time
+0=Disabled
+1=Enabled,FF1E92,99
+Default=0
+
+[2]
+Name=Shooting Mode
+0=Disabled
+1=Enabled,FFF74A,01
+Default=0
+
+[3]
+Name=Get Combine Item
+0=Disabled
+1=Enabled,FFF74E,01
+Default=0
+
+[4]
+Name=P1 Inf Lives
+0=Disabled
+1=Enabled,FF96E2,04
+Default=0
+
+[5]
+Name=P1 Inf Energy*
+0=Disabled
+1=Enabled,FF95DC,50
+Default=0
+
+[6]
+Name=P1 Invincible
+0=Disabled
+1=Enabled,FF9656,FE
+Default=0
+
+[7]
+Name=P1 Inf Bullets*
+0=Disabled
+1=Enabled,FF95FB,01
+Default=0
+
+[8]
+Name=P1 Char Select
+0=Disabled
+1=Bloodia,FF95DB,00,FF965D,00
+2=Reptos,FF95DB,01,FF965D,01
+3=Guldin,FF95DB,02,FF965D,02
+4=Fordy,FF95DB,03,FF965D,03
+Default=0
+
+[9]
+Name=P1 Arm Type
+0=Disabled
+1=P. Knuckle,FF965F,00
+2=D. Drill,FF965F,01
+3=C. Spark,FF965F,02
+4=F. Claw,FF965F,03
+5=L. Blade,FF965F,04
+6=Shield,FF965F,05
+Default=0
+
+[10]
+Name=P1 Shoulder Weapon
+0=Disabled
+1=Vulcan,FF965E,00
+2=Missile,FF965E,01
+3=Guided,FF965E,02
+4=Laser,FF965E,03
+5=Flame,FF965E,04
+6=Bomb,FF965E,05
+7=Napalm,FF965E,06
+Default=0
+
+[11]
+Name=P1 Legs Type
+0=Disabled
+1=Normal,FF965C,00
+2=Treads,FF965C,01
+3=Power Bug,FF965C,02
+4=Turbo Jet,FF965C,03
+Default=0
+
+[12]
+Name=P2 Inf Lives
+0=Disabled
+1=Enabled,FF98A2,04
+Default=0
+
+[13]
+Name=P2 Inf Energy*
+0=Disabled
+1=Enabled,FF979C,50
+Default=0
+
+[14]
+Name=P2 Invincible
+0=Disabled
+1=Enabled,FF9816,FE
+Default=0
+
+[15]
+Name=P2 Inf Bullets*
+0=Disabled
+1=Enabled,FF97BB,01
+Default=0
+
+[16]
+Name=P2 Char Select
+0=Disabled
+1=Bloodia,FF979B,00,FF985D,00
+2=Reptos,FF979B,01,FF985D,01
+3=Guldin,FF979B,02,FF985D,02
+4=Fordy,FF979B,03,FF985D,03
+Default=0
+
+[17]
+Name=P2 Arm Type
+0=Disabled
+1=P. Knuckle,FF981F,00
+2=D. Drill,FF981F,01
+3=C. Spark,FF981F,02
+4=F. Claw,FF981F,03
+5=L. Blade,FF981F,04
+6=Shield,FF981F,05
+Default=0
+
+[18]
+Name=P2 Shoulder Weapon
+0=Disabled
+1=Vulcan,FF981E,00
+2=Missile,FF981E,01
+3=Guided,FF981E,02
+4=Laser,FF981E,03
+5=Flame,FF981E,04
+6=Bomb,FF981E,05
+7=Napalm,FF981E,06
+Default=0
+
+[19]
+Name=P2 Legs Type
+0=Disabled
+1=Normal,FF981C,00
+2=Treads,FF981C,01
+3=Power Bug,FF981C,02
+4=Turbo Jet,FF981C,03
+Default=0
+
+[20]
+Name=P3 Inf Lives
+0=Disabled
+1=Enabled,FF9A62,04
+Default=0
+
+[21]
+Name=P3 Inf Energy*
+0=Disabled
+1=Enabled,FF995C,50
+Default=0
+
+[22]
+Name=P3 Invincible
+0=Disabled
+1=Enabled,FF99D6,FE
+Default=0
+
+[23]
+Name=P3 Inf Bullets*
+0=Disabled
+1=Enabled,FF99AB,01
+Default=0
+
+[24]
+Name=P3 Char Select
+0=Disabled
+1=Bloodia,FF994B,00,FF9A5D,00
+2=Reptos,FF994B,01,FF9A5D,01
+3=Guldin,FF994B,02,FF9A5D,02
+4=Fordy,FF994B,03,FF9A5D,03
+Default=0
+
+[25]
+Name=P3 Arm Type
+0=Disabled
+1=P. Knuckle,FF99DF,00
+2=D. Drill,FF99DF,01
+3=C. Spark,FF99DF,02
+4=F. Claw,FF99DF,03
+5=L. Blade,FF99DF,04
+6=Shield,FF99DF,05
+Default=0
+
+[26]
+Name=P3 Shoulder Weapon
+0=Disabled
+1=Vulcan,FF99DE,00
+2=Missile,FF99DE,01
+3=Guided,FF99DE,02
+4=Laser,FF99DE,03
+5=Flame,FF99DE,04
+6=Bomb,FF99DE,05
+7=Napalm,FF99DE,06
+Default=0
+
+[27]
+Name=P3 Legs Type
+0=Disabled
+1=Normal,FF99DC,00
+2=Treads,FF99DC,01
+3=Power Bug,FF99DC,02
+4=Turbo Jet,FF99DC,03
+Default=0
+
+[28]
+Name=Stage
+0=Disabled
+1=Stage 1,FF81D1,00
+2=Stage 2,FF81D1,01
+3=Stage 3,FF81D1,02
+4=Stage 4,FF81D1,03
+5=Stage 5,FF81D1,04
+6=Stage 6,FF81D1,05
+7=Stage 7,FF81D1,06
+Default=0
+
