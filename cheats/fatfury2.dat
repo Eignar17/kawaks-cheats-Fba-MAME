@@ -1,0 +1,62 @@
+[0]
+Name=Infinite Time Limit
+0=Off,0,0
+1=On,10092B,90
+
+[1]
+Name=P1 Health
+0=Off,0,0
+1=Infinite,1003CA,60
+2=Red,1003CA,1F
+
+[2]
+Name=P2 Health
+0=Off,0,0
+1=Infinite,1004CA,60
+2=Red,1004CA,1F
+
+[3]
+Name=P1 Character
+0=Off,0,0
+1=Terry Bogard,10035C,01,10419A,01
+2=Andy Bogard,10035C,02,10419A,02
+3=Joe Higashi,10035C,03,10419A,03
+4=Big Bear,10035C,04,10419A,04
+5=Jubei Yamada,10035C,05,10419A,05
+6=Cheng Sinzan,10035C,06,10419A,06
+7=Kim Kaphwan,10035C,07,10419A,07
+8=Mai Shiranui,10035C,08,10419A,08
+9=Billy Kane,10035C,09,10419A,09
+10=Axel Hawk,10035C,0A,10419A,0A
+11=Laurence Blood,10035C,0B,10419A,0B
+12=Wolfgang Krauser,10035C,0C,10419A,0C
+
+[4]
+Name=P2 Character
+0=Off,0,0
+1=Terry Bogard,10045C,01,10419C,01
+2=Andy Bogard,10045C,02,10419C,02
+3=Joe Higashi,10045C,03,10419C,03
+4=Big Bear,10045C,04,10419C,04
+5=Jubei Yamada,10045C,05,10419C,05
+6=Cheng Sinzan,10045C,06,10419C,06
+7=Kim Kaphwan,10045C,07,10419C,07
+8=Mai Shiranui,10045C,08,10419C,08
+9=Billy Kane,10045C,09,10419C,09
+10=Axel Hawk,10045C,0A,10419C,0A
+11=Laurence Blood,10045C,0B,10419C,0B
+12=Wolfgang Krauser,10045C,0C,10419C,0C
+
+[5]
+Name=Action Speed Up
+0=Off,0,0
+1=P1 On,100376,01
+2=P2 On,100476,01
+3=P1&P2,100376,01,100476,01
+
+[6]
+Name=No Hit Stop
+0=Off,0,0
+1=P1 On,10FD98,01
+2=P2 On,10FD9E,01
+3=P1&P2,10FD98,01,10FD9E,01

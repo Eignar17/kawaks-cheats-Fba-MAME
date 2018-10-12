@@ -1,0 +1,239 @@
+[0]
+Name=Region
+0=Disabled
+1=Japan,FF8C0A,00
+2=USA,FF8C0A,01
+3=Asia,FF8C0A,02
+4=Hispanic,FF8C0A,03
+5=Euro,FF8C0A,04
+6=Brazil,FF8C0A,05
+7=Oceania,FF8C0A,06
+8=Korea,FF8C0A,07
+Default=0
+
+[1]
+Name=Infinite Credits
+0=Disabled
+1=Enabled,FF8AE8,09
+Default=0
+
+[2]
+Name=Infinite Time
+0=Disabled
+1=Enabled,FF8C95,FF
+Default=0
+
+[3]
+Name=Secret Chars
+0=Disabled
+1=Enabled,FF8BFB,FF
+Default=0
+
+[4]
+Name=Dunk Stars - P1 Infinite Select Time
+0=Disabled
+1=Enabled,FF0E3E,FF
+Default=0
+
+[5]
+Name=Dunk Stars - P1 Team
+0=Disabled
+1=Brazil,FF0E37,03
+2=China,FF0E37,01
+3=Italy,FF0E37,05
+4=Korea,FF0E37,00
+5=Philippines,FF0E37,04
+6=Russia,FF0E37,06
+7=Taiwan,FF0E37,02
+8=USA,FF0E37,07
+9=USA/Gold Team,FF0E37,08
+Default=0
+
+[6]
+Name=Dunk Stars - P1 Score = 99
+0=Disabled
+1=Enabled,FF8C98,63
+Default=0
+
+[7]
+Name=Dunk Stars - P2 Infinite Select Time
+0=Disabled
+1=Enabled,FF0E4E,FF
+Default=0
+
+[8]
+Name=Dunk Stars - P2 Team
+0=Disabled
+1=Brazil,FF0E47,03
+2=China,FF0E47,01
+3=Italy,FF0E47,05
+4=Korea,FF0E47,00
+5=Philippines,FF0E47,04
+6=Russia,FF0E47,06
+7=Taiwan,FF0E47,02
+8=USA,FF0E47,07
+9=USA/Gold Team,FF0E47,08
+Default=0
+
+[9]
+Name=Dunk Stars - P2 Score = 99
+0=Disabled
+1=Enabled,FF8C9A,63
+Default=0
+
+[10]
+Name=Dunk Stars - Stage
+0=Disabled
+1=Quarterfinals,FF8CA1,00
+2=Semifinals,FF8CA1,01
+3=Finals,FF8CA1,02
+Default=0
+
+[11]
+Name=Kick Stars - P1 Infinite Select Time
+0=Disabled
+1=Enabled,FF0994,FF
+Default=0
+
+[12]
+Name=Kick Stars - P1 Team
+0=Disabled
+1=All Stars,FF098D,08
+2=Argentina,FF098D,06
+3=Brazil,FF098D,07
+4=France,FF098D,04
+5=Italy,FF098D,05
+6=Japan,FF098D,01
+7=Korea,FF098D,00
+8=Spain,FF098D,03
+9=Taiwan,FF098D,02
+Default=0
+
+[13]
+Name=Kick Stars - P1 Score = 99
+0=Disabled
+1=Enabled,FF8CB4,63
+Default=0
+
+[14]
+Name=Kick Stars - P2 Infinite Select Time
+0=Disabled
+1=Enabled,FF09A8,FF
+Default=0
+
+[15]
+Name=Kick Stars - P2 Team
+0=Disabled
+1=All Stars,FF09A1,08
+2=Argentina,FF09A1,06
+3=Brazil,FF09A1,07
+4=France,FF09A1,04
+5=Italy,FF09A1,05
+6=Japan,FF09A1,01
+7=Korea,FF09A1,00
+8=Spain,FF09A1,03
+9=Taiwan,FF09A1,02
+Default=0
+
+[16]
+Name=Kick Stars - P2 Score = 99
+0=Disabled
+1=Enabled,FF8CBA,63
+Default=0
+
+[17]
+Name=Kick Stars - Stage
+0=Disabled
+1=Quarterfinals,FF8C9D,00
+2=Semifinals,FF8C9D,01
+3=Finals,FF8C9D,02
+Default=0
+
+[18]
+Name=Smash Stars - P1 Infinite Select Time
+0=Disabled
+1=Enabled,FF0CAA,FF
+Default=0
+
+[19]
+Name=Smash Stars - P1 Team
+0=Disabled
+1=Amee (USA),FFAE86,0E
+2=Estella (Spain),FFAE86,0F
+3=Fei-Fei (Singapore),FFAE86,05
+4=Fang-Ming (Taiwan),FFAE86,07
+5=Florence (Italy),FFAE86,08
+6=Graft (Germany),FFAE86,0D
+7=Hikari (Japan),FFAE86,01
+8=Jana (Brazil),FFAE86,03
+9=Katrina (Russia),FFAE86,0A
+10=Laurie (UK),FFAE86,09
+11=Li-Li (China),FFAE86,02
+12=Melody (Love),FFAE86,10
+13=Myray (Philippines),FFAE86,06
+14=Natalie (France),FFAE86,0B
+15=Simmy (India),FFAE86,0C
+16=Sue (Korea),FFAE86,00
+17=Zina (Egypt),FFAE86,04
+Default=0
+
+[20]
+Name=Smash Stars - P1 Set Score = 40
+0=Disabled
+1=Enabled,FFAE15,03
+Default=0
+
+[21]
+Name=Smash Stars - P1 Match Score = 6
+0=Disabled
+1=Enabled,FFAE14,06
+Default=0
+
+[22]
+Name=Smash Stars - P2 Infinite Select Time
+0=Disabled
+1=Enabled,FF0CBE,FF
+Default=0
+
+[23]
+Name=Smash Stars - P2 Team
+0=Disabled
+1=Amee (USA),FFB386,0E
+2=Estella (Spain),FFB386,0F
+3=Fei-Fei (Singapore),FFB386,05
+4=Fang-Ming (Taiwan),FFB386,07
+5=Florence (Italy),FFB386,08
+6=Graft (Germany),FFB386,0D
+7=Hikari (Japan),FFB386,01
+8=Jana (Brazil),FFB386,03
+9=Katrina (Russia),FFB386,0A
+10=Laurie (UK),FFB386,09
+11=Li-Li (China),FFB386,02
+12=Melody (Love),FFB386,10
+13=Myray (Philippines),FFB386,06
+14=Natalie (France),FFB386,0B
+15=Simmy (India),FFB386,0C
+16=Sue (Korea),FFB386,00
+17=Zina (Egypt),FFB386,04
+Default=0
+
+[24]
+Name=Smash Stars - P2 Set Score = 40
+0=Disabled
+1=Enabled,FFB315,03
+Default=0
+
+[25]
+Name=Smash Stars - P2 Match Score = 6
+0=Disabled
+1=Enabled,FFB314,06
+Default=0
+
+[26]
+Name=Smash Stars - Stage*
+0=Disabled
+1=Quarterfinals,FF8CDB,00
+2=Semifinals,FF8CDB,01
+3=Finals,FF8CDB,02
+Default=0
+

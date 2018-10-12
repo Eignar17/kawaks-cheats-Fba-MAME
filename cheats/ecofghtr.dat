@@ -1,0 +1,133 @@
+[0]
+Name=Region
+0=Disabled
+1=Japan,FF03E8,00
+2=USA,FF03E8,01
+3=ETC,FF03E8,02
+4=Hispanic,FF03E8,03
+5=Asia,FF03E8,04
+Default=0
+
+[1]
+Name=Infinite Credits
+0=Disabled
+1=Enabled,FF02E9,09
+Default=0
+
+[2]
+Name=P1 Inf Lives
+0=Disabled
+1=Enabled,FFF5F3,02
+Default=0
+
+[3]
+Name=P1 Inf Power
+0=Disabled
+1=Enabled,FF3953,14
+Default=0
+
+[4]
+Name=P1 Invincible
+0=Disabled
+1=Enabled,FF877B,01
+Default=0
+
+[5]
+Name=P1 Max Weapon Power
+0=Disabled
+1=Enabled,FF8953,05
+Default=0
+
+[6]
+Name=P1 Primary Weapon
+0=Disabled
+1=Regular Shot,FF876D,01
+2=Black Ball,FF876D,02
+3=Laser,FF876D,03
+4=Spiked Ball,FF876D,04
+Default=0
+
+[7]
+Name=P1 Secondary Weapon
+0=Disabled
+1=None,FF8768,00
+2=Vulcan,FF8768,01
+3=Bomb,FF8768,02
+4=Homing,FF8768,03
+Default=0
+
+[8]
+Name=P1 Arm Level
+0=Disabled
+1=Level 1,FF8953,01
+2=Level 2,FF8953,02
+3=Level 3,FF8953,03
+4=Level 4,FF8953,04
+5=Max,FF8953,05
+Default=0
+
+[9]
+Name=P2 Inf Lives
+0=Disabled
+1=Enabled,FFF5F2,02
+Default=0
+
+[10]
+Name=P2 Inf Power
+0=Disabled
+1=Enabled,FF3952,14
+Default=0
+
+[11]
+Name=P2 Invincible
+0=Disabled
+1=Enabled,FF8D4B,01
+Default=0
+
+[12]
+Name=P2 Max Weapon Power
+0=Disabled
+1=Enabled,FF8F23,05
+Default=0
+
+[13]
+Name=P2 Primary Weapon
+0=Disabled
+1=Regular Shot,FF8D3D,01
+2=Black Ball,FF8D3D,02
+3=Laser,FF8D3D,03
+4=Spiked Ball,FF8D3D,04
+Default=0
+
+[14]
+Name=P2 Secondary Weapon
+0=Disabled
+1=None,FF8D38,00
+2=Vulcan,FF8D38,01
+3=Bomb,FF8D38,02
+4=Homing,FF8D38,03
+Default=0
+
+[15]
+Name=P2 Arm Level
+0=Disabled
+1=Level 1,FF8F23,01
+2=Level 2,FF8F23,02
+3=Level 3,FF8F23,03
+4=Level 4,FF8F23,04
+5=Max,FF8F23,05
+Default=0
+
+[16]
+Name=Stage Select
+0=Disabled
+1=Stage 1,FFF63C,01,FF80A0,01
+2=Stage 2,FFF63C,02,FF80A0,02
+3=Stage 3,FFF63C,03,FF80A0,03
+4=Stage 4,FFF63C,04,FF80A0,04
+5=Stage 5,FFF63C,05,FF80A0,05
+6=Stage 6,FFF63C,06,FF80A0,06
+7=Final Stage,FFF63C,07,FF80A0,07
+8=Ending,FFF63C,08,FF80A0,08
+Default=0
+

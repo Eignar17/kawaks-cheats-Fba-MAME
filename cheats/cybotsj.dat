@@ -1,0 +1,213 @@
+[0]
+Name=Region
+0=Disabled
+1=Japan,FF80A1,00
+2=USA,FF80A1,02
+3=Asia,FF80A1,04
+4=Hispanic,FF80A1,06
+5=Euro,FF80A1,08
+6=Brazil,FF80A1,0A
+Default=0
+
+[1]
+Name=Infinite Battle Time
+0=Disabled
+1=Enabled,FFEBA0,99
+Default=0
+
+[2]
+Name=P1 Inf Health
+0=Disabled
+1=Enabled,FF81E4,98
+Default=0
+
+[3]
+Name=P1 Inf Power
+0=Disabled
+1=Enabled,FF8535,3F
+Default=0
+
+[4]
+Name=P1 Inf Armour
+0=Disabled
+1=Enabled,FF830D,30
+Default=0
+
+[5]
+Name=P1 Inf Weapon
+0=Disabled
+1=Enabled,FF830F,30,FF8311,30
+Default=0
+
+[6]
+Name=P1 Inf Boost
+0=Disabled
+1=Enabled,FF830B,1D
+Default=0
+
+[7]
+Name=P1 Shining
+0=Disabled
+1=Enabled,FF8362,50
+Default=0
+
+[8]
+Name=P1 Pilot Select
+0=Disabled
+1=Arieta,FF8528,03,FF8511,03
+2=Bao & Mao,FF8528,05,FF8511,05
+3=Chiyomaru & Tessan,FF8511,07
+4=Devilotte,FF8511,06
+5=Gawaine,FF8528,04,FF8511,04
+6=G.O.D.,FF8511,09
+7=Jin,FF8528,00,FF8511,00
+8=Mary,FF8528,02,FF8511,02
+9=Santana,FF8528,01,FF8511,01
+10=Shade,FF8511,08
+Default=0
+
+[9]
+Name=P1 Body Type
+0=Disabled
+1=Blodia,FF8529,00
+2=Fordy,FF8529,02
+3=Guldin,FF8529,03
+4=Reptos,FF8529,01
+Default=0
+
+[10]
+Name=P1 Machine Select
+0=Disabled
+1=Blodia,FF8510,00,FF852D,00,FF8513,00
+2=Cyclone,FF8510,08,FF852D,08,FF8513,08
+3=Gaits,FF8510,0D,FF852D,0D,FF8513,0D
+4=Guldin,FF8510,03,FF852D,03,FF8513,03
+5=Helion,FF8510,0B,FF852D,0B,FF8513,0B
+6=Jackal,FF8510,06,FF852D,06,FF8513,06
+7=Killer Bee,FF8510,0F,FF852D,0F,FF8513,0F
+8=Lightning,FF8510,05,FF852D,05,FF8513,05
+9=Reptos,FF8510,01,FF852D,01,FF8513,01
+10=Riot,FF8510,09,FF852D,09,FF8513,09
+11=Rordy,FF8510,02,FF852D,02,FF8513,02
+12=Super-8,FF8510,0C,FF852D,0C,FF8513,0C
+13=Swordsman,FF8510,04,FF852D,04,FF8513,04
+14=Tarantula,FF8510,0A,FF852D,0A,FF8513,0A
+15=Vise,FF8510,07,FF852D,07,FF8513,07
+16=Warlock,FF8510,0E,FF852D,0E,FF8513,0E
+Default=0
+
+[11]
+Name=P2 Inf Health
+0=Disabled
+1=Enabled,FF85E4,98
+Default=0
+
+[12]
+Name=P2 Inf Power
+0=Disabled
+1=Enabled,FF8935,3F
+Default=0
+
+[13]
+Name=P2 Inf Armour
+0=Disabled
+1=Enabled,FF870D,30
+Default=0
+
+[14]
+Name=P2 Inf Weapon
+0=Disabled
+1=Enabled,FF870F,30,FF8711,30
+Default=0
+
+[15]
+Name=P2 Inf Boost
+0=Disabled
+1=Enabled,FF870B,1D
+Default=0
+
+[16]
+Name=P2 Shining
+0=Disabled
+1=Enabled,FF8762,50
+Default=0
+
+[17]
+Name=P2 Pilot Select
+0=Disabled
+1=Arieta,FF8528,03,FF8911,03
+2=Bao & Mao,FF8528,05,FF8911,05
+3=Chiyomaru & Tessan,FF8911,07
+4=Devilotte,FF8911,06
+5=Gawaine,FF8928,04,FF8911,04
+6=G.O.D.,FF8911,09
+7=Jin,FF8928,00,FF8911,00
+8=Mary,FF8928,02,FF8911,02
+9=Santana,FF8928,01,FF8911,01
+10=Shade,FF8911,08
+Default=0
+
+[18]
+Name=P2 Body Type
+0=Disabled
+1=Blodia,FF8929,00
+2=Fordy,FF8929,02
+3=Guldin,FF8929,03
+4=Reptos,FF8929,01
+Default=0
+
+[19]
+Name=P2 Machine Select
+0=Disabled
+1=Blodia,FF8910,00,FF892D,00,FF8913,00
+2=Cyclone,FF8910,08,FF892D,08,FF8913,08
+3=Gaits,FF8910,0D,FF892D,0D,FF8913,0D
+4=Guldin,FF8910,03,FF892D,03,FF8913,03
+5=Helion,FF8910,0B,FF892D,0B,FF8913,0B
+6=Jackal,FF8910,06,FF892D,06,FF8913,06
+7=Killer Bee,FF8910,0F,FF892D,0F,FF8913,0F
+8=Lightning,FF8910,05,FF892D,05,FF8913,05
+9=Reptos,FF8910,01,FF892D,01,FF8913,01
+10=Riot,FF8910,09,FF892D,09,FF8913,09
+11=Rordy,FF8910,02,FF892D,02,FF8913,02
+12=Super-8,FF8910,0C,FF892D,0C,FF8913,0C
+13=Swordsman,FF8910,04,FF892D,04,FF8913,04
+14=Tarantula,FF8910,0A,FF892D,0A,FF8913,0A
+15=Vise,FF8910,07,FF892D,07,FF8913,07
+16=Warlock,FF8910,0E,FF892D,0E,FF8913,0E
+Default=0
+
+[20]
+Name=BackGround Select
+0=Disabled
+1=BackGround 1,FFEA2C,00
+2=BackGround 2,FFEA2C,01
+3=BackGround 3,FFEA2C,02
+4=BackGround 4,FFEA2C,03
+5=BackGround 5,FFEA2C,04
+6=BackGround 6,FFEA2C,05
+7=BackGround 7,FFEA2C,06
+8=BackGround 8,FFEA2C,07
+9=BackGround 9,FFEA2C,08
+10=BackGround 10,FFEA2C,09
+11=BackGround 11,FFEA2C,0A
+12=BackGround 12,FFEA2C,0B
+13=BackGround 13,FFEA2C,0C
+14=BackGround 14,FFEA2C,0D
+15=BackGround 15,FFEA2C,0E
+16=BackGround 16,FFEA2C,0F
+Default=0
+
+[21]
+Name=Stage Select
+0=Disabled
+1=Stage 1,FF8531,01,FF852B,01,FFEB37,01
+2=Stage 2,FF8531,02,FF852B,02,FFEB37,02
+3=Stage 3,FF8531,03,FF852B,03,FFEB37,03
+4=Stage 4,FF8531,04,FF852B,04,FFEB37,04
+5=Stage 5,FF8531,05,FF852B,05,FFEB37,05
+6=Stage 6,FF8531,06,FF852B,06,FFEB37,06
+7=Stage 7,FF8531,07,FF852B,07,FFEB37,07
+8=Stage 8,FF8531,08,FF852B,08,FFEB37,08
+Default=0
+

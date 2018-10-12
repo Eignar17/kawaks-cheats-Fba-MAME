@@ -1,0 +1,118 @@
+[0]
+Name=Infinte Time Limit
+0=Off,0,0
+1=On,108407,60
+
+[1]
+Name=P1 Health Gauge
+0=Off,0,0
+1=Max(Default),1092EC,60,10870B,0C
+2=Max(Ultimate),1092EC,80,10870B,10
+3=Can use Hidden Attack,1092EC,20
+
+[2]
+Name=P1 Power Gauge
+0=Off,0,0
+1=Max(Default),1094A5,60,10870A,0C
+2=Max(Ultimate),1094A5,80,10870A,10
+3=Nothing,1094A5,00
+
+[3]
+Name=P2 Health Gauge
+0=Off,0,0
+1=Max(Default),1093EC,60,10880B,0C
+2=Max(Ultimate),1093EC,80,10880B,10
+3=Can use Hidden Attack,1093EC,20
+
+[4]
+Name=P2 Power Gauge
+0=Off,0,0
+1=Max(Default),1095A5,60,10880A,0C
+2=Max(Ultimate),1095A5,80,10880A,10
+3=Nothing,1095A5,00
+
+[5]
+Name=P1 Extra Ability
+0=Off,0,0
+1=Get All Ability,108449,01,10870A,10,10870B,10
+2=Can Use Special Arts,108449,01
+3=Ultimate Health Limit,10870A,10
+4=Ultimate Power Limit,10870B,10
+
+[6]
+Name=P2 Extra Ability
+0=Off,0,0
+1=Get All Ability,108549,01,10880A,10,10880B,10
+2=Can Use Special Arts,108549,01
+3=Ultimate Health Limit,10880A,10
+4=Ultimate Power Limit,10880B,10
+
+[7]
+Name=P1 Character
+0=Off,0,0
+1=Ryo Sakazaki,1092E2,01
+2=Robert Garcia,1092E2,02
+3=Eiji Kisaragi,1092E2,03
+4=Jack Terner,1092E2,04
+5=Lee Pai Long,1092E2,05
+6=King,1092E2,06
+7=Mickey Rogers,1092E2,07
+8=John Crawley,1092E2,08
+9=Mr. BIG,1092E2,09
+10=Takuma Sakazaki,1092E2,0A
+11=Yuri Sakazaki,1092E2,0B
+12=Temjin,1092E2,0C
+13=Geese Howard,1092E2,0D
+
+[8]
+Name=P2 Character
+0=Off,0,0
+1=Ryo Sakazaki,1093E2,01
+2=Robert Garcia,1093E2,02
+3=Eiji Kisaragi,1093E2,03
+4=Jack Terner,1093E2,04
+5=Lee Pai Long,1093E2,05
+6=King,1093E2,06
+7=Mickey Rogers,1093E2,07
+8=John Crawley,1093E2,08
+9=Mr. BIG,1093E2,09
+10=Takuma Sakazaki,1093E2,0A
+11=Yuri Sakazaki,1093E2,0B
+12=Temjin,1093E2,0C
+13=Geese Howard,1093E2,0D
+
+[9]
+Name=P1 Palette Number
+0=Off,0,0
+1=1 (Button A),1094F6,00
+2=2 (Button B),1094F6,01
+3=3 (Button C),1094F6,02
+4=4 (Button D),1094F6,03
+
+[10]
+Name=P2 Palette Number
+0=Off,0,0
+1=1 (Button A),1095F6,00
+2=2 (Button B),1095F6,01
+3=3 (Button C),1095F6,02
+4=4 (Button D),1095F6,03
+
+[11]
+Name=P1 Winning Points
+0=Off,0,0
+1=0 Point,1090F2,00
+2=1 Point,1090F2,01
+
+[12]
+Name=P2 Winning Points
+0=Off,0,0
+1=0 Point,1091F2,00
+2=1 Point,1091F2,01
+
+[13]
+Name=No Hit Stop
+0=Off,0,0
+1=P1 Only,1092C2,01
+2=P2 Only,1093C2,01
+3=P1&P2,1092C2,01,1093C2,01
+

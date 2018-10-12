@@ -1,0 +1,16 @@
+[Region]
+0=Japan,c1,0
+1=USA,c1,1
+2=Asia,c1,2
+3=Hispanic,c1,3
+4=Euro,c1,4
+5=Brazil,c1,5
+6=Oceania,c1,6
+7=Korea,c1,7
+Default=2
+
+[0]
+Name=Character Unlock
+0=OFF,0,0
+1=On,FF8c20,FF,FF8c21,FF
+Default=0

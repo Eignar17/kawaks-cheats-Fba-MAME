@@ -1,0 +1,28 @@
+[0]
+Name=Infinite Ships
+0=Off,0,0
+1=P1 On,100342,08
+
+[1]
+Name=Ultimate Shot Power
+0=Off,0,0
+1=P1 On,100351,07,100350,05,100352,07,100353,07
+
+[2]
+Name=P1 Shot Type
+0=Off,0,0
+1=Type 1,10034D,00
+2=Type 2,10034D,01
+3=Type 3,10034D,02
+4=Type 4,10034D,03
+
+[3]
+Name=Full Gauge
+0=Off,0,0
+1=P1 On,10034E,80
+
+[4]
+Name=P1 Bomber Time Limit
+0=Off,0,0
+1=Endless,100376,FF
+2=Nothing(Autofire),100376,01

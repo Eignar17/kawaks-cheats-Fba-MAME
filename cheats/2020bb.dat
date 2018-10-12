@@ -1,0 +1,46 @@
+[0]
+Name=Infinite time
+0=Cancel,0,0
+1=start,ff4291,59
+Default=0
+[1]
+Name=Select time
+0=Cancel,0,0
+1=start,ff5BA5,2
+Default=0
+[2]
+Name=Score Record
+0=Cancel,0,0
+1=start,ff0690,99,ff0691,99,ff0692,99,ff0693,99
+Default=0
+[3]
+Name=Computer score is zero
+0=Cancel,0,0
+1=start,ff198A,0,ff3a0a,0
+Default=0
+[4]
+Name=P1 score
+0=Cancel,0,0
+1=start,ff198B,9
+Default=0
+[5]
+Name=P1 Unlimited Bat
+0=Cancel,0,0
+1=start,ff1987,0
+Default=0
+[6]
+Name=P1 unlimited pitching
+0=Cancel,0,0
+1=start,ff1986,0
+Default=0
+[7]
+Name=P1 is out of bounds
+0=Cancel,0,0
+1=start,ff1989,0
+Default=0
+
+Producer:Wang Weijian
+Address:Shenyang people
+QQ number:78919008
+[Region]
+Default=0

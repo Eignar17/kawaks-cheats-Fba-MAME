@@ -1,0 +1,74 @@
+[0]
+Name=Infinite Time Limit
+0=Off,0,0
+1=On,108407,99
+
+[1]
+Name=P1 Health Gauge
+0=Off,0,0
+1=Infinite(Default),1092CC,60,10870A,0C
+2=Infinite(Ultimate),1092CC,80,10870A,10
+3=Infinite(red),1092CC,20
+
+[2]
+Name=P1 Power Gauge
+0=Off,0,0
+1=Infinite(Default),1094A5,60,10870B,0C
+2=Infinite(Ultimate),1094A5,80,10870B,10
+3=Nothing,1094A5,00
+
+[3]
+Name=P2 Health Gauge
+0=Off,0,0
+1=Infinite(Default),1093CC,60,10880A,0C
+2=Infinite(Ultimate),1093CC,80,10880A,10
+3=Infinite(red),1093CC,20
+
+[4]
+Name=P2 Power Gauge
+0=Off,0,0
+1=Infinite(Default),1095A5,60,10880B,0C
+2=Infinite(Ultimate),1095A5,80,10880B,10
+3=Nothing,1095A5,00
+
+[5]
+Name=Can Use Special Arts
+0=Off,0,0
+1=P1,108449,01
+2=P2,108549,01
+3=P1&P2,108449,01,108549,01
+
+[6]
+Name=P1 Character Select
+0=Off,0,0
+1=Ryo Sakazaki,1092C2,00
+2=Robert Garcia,1092C2,01
+3=Todo,1092C2,02
+4=Jack Terner,1092C2,03
+5=Lee Pai Long,1092C2,04
+6=King,1092C2,05
+7=Mickey Rogers,1092C2,06
+8=John Crawley,1092C2,07
+9=Mr. BIG,1092C2,08
+10=Mr. Karate,1092C2,09
+
+[7]
+Name=P2 Character Select
+0=Off,0,0
+1=Ryo Sakazaki,1093C2,00
+2=Robert Garcia,1093C2,01
+3=Todo,1093C2,02
+4=Jack Terner,1093C2,03
+5=Lee Pai Long,1093C2,04
+6=King,1093C2,05
+7=Mickey Rogers,1093C2,06
+8=John Crawley,1093C2,07
+9=Mr. BIG,1093C2,08
+10=Mr. Karate,1093C2,09
+
+[8]
+Name=No Hit Stop
+0=Off,0,0
+1=P1,1093B2,01
+2=P2,1094B2,01
+3=P1&P2n,1093B2,01,1094B2,01

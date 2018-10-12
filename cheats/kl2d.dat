@@ -1,0 +1,106 @@
+[0]
+Name=Infinite Time
+0=Disabled
+1=Enabled,FF84E8,09
+Default=0
+
+[1]
+Name=Infinite Char Select Time
+0=Disabled
+1=Enabled,FF8634,0A
+Default=0
+
+[2]
+Name=P1 Inf Lives
+0=Disabled
+1=Enabled,FFB316,03
+Default=0
+
+[3]
+Name=P1 Inf Energy
+0=Disabled
+1=Enabled,FFB2E0,64
+Default=0
+
+[4]
+Name=P1 Invincible
+0=Disabled
+1=Enabled,FFB361,01,FFB360,68
+Default=0
+
+[5]
+Name=P1 Char Select
+0=Disabled
+1=Jack.T,FFB276,00,FF863B,00
+2=Hannah.D,FFB276,02,FF863B,01
+3=Mustapha.C,FFB276,01,FF863B,02
+4=Mess.O,FFB276,03,FF863B,03
+Default=0
+
+[6]
+Name=P2 Inf Lives
+0=Disabled
+1=Enabled,FFB496,03
+Default=0
+
+[7]
+Name=P2 Inf Energy
+0=Disabled
+1=Enabled,FFB460,64
+Default=0
+
+[8]
+Name=P2 Invincible
+0=Disabled
+1=Enabled,FFB4E1,01,FFB4E0,68
+Default=0
+
+[9]
+Name=P2 Char Select
+0=Disabled
+1=Jack.T,FFB3F6,00,FF8647,00
+2=Hannah.D,FFB3F6,02,FF8647,01
+3=Mustapha.C,FFB3F6,01,FF8647,02
+4=Mess.O,FFB3F6,03,FF8647,03
+Default=0
+
+[10]
+Name=P3 Inf Lives
+0=Disabled
+1=Enabled,FFB616,03
+Default=0
+
+[11]
+Name=P3 Inf Energy
+0=Disabled
+1=Enabled,FFB5E0,64
+Default=0
+
+[12]
+Name=P3 Invincible
+0=Disabled
+1=Enabled,FFB661,01,FFB660,68
+Default=0
+
+[13]
+Name=P3 Char Select
+0=Disabled
+1=Jack.T,FFB576,00,FF8653,00
+2=Hannah.D,FFB576,02,FF8653,01
+3=Mustapha.C,FFB576,01,FF8653,02
+4=Mess.O,FFB576,03,FF8653,03
+Default=0
+
+[14]
+Name=Stage Select
+0=Disabled
+1=Stage 1,FF84D8,00
+2=Stage 2,FF84D8,01
+3=Stage 3,FF84D8,02
+4=Stage 4,FF84D8,03
+5=Stage 5,FF84D8,04
+6=Stage 6,FF84D8,05
+7=Stage 7,FF84D8,06
+8=Stage 8,FF84D8,07
+Default=0
+

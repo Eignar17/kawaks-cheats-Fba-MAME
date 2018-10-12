@@ -1,0 +1,138 @@
+[0]
+Name=Infinite Time
+0=Disabled
+1=Enabled,FF06D2,59
+Default=0
+
+[1]
+Name=Invincibility
+0=Disabled
+1=Enabled,FF0930,FF
+Default=0
+
+[2]
+Name=Always Have Powerup
+0=Disabled
+1=Enabled,FF095F,01
+Default=0
+
+[3]
+Name=Always Be Duck (Buggy)
+0=Disabled
+1=Enabled,FF07AD,04
+Default=0
+
+[4]
+Name=Always Be Old Man (Buggy)
+0=Disabled
+1=Enabled,FF07C5,42
+Default=0
+
+[5]
+Name=Dance Routine (Buggy)
+0=Disabled
+1=Enabled,FF07C5,44
+Default=0
+
+[6]
+Name=Never Become Duck
+0=Disabled
+1=Enabled,FFD0BA,00
+Default=0
+
+[7]
+Name=Inf Shadow Limit
+0=Disabled
+1=Enabled,FFC175,FF
+Default=0
+
+[8]
+Name=No Shot Count Limiter
+0=Disabled
+1=Enabled,FF0993,00,FF0992,00,FF0994,00,FF0996,00,FF0999,00,FFD0DD,00
+Default=0
+
+[9]
+Name=Magic
+0=Disabled
+1=Can Not Use Magic,FF095F,00
+2=Can Use Magic,FF095F,01
+Default=0
+
+[10]
+Name=Treasure Box Type
+0=Disabled
+1=Only Weapon,FFD6E6,02
+2=Only Armour,FFD6E6,03
+Default=0
+
+[11]
+Name=P1 Inf Lives
+0=Disabled
+1=Enabled,FF07AC,08
+Default=0
+
+[12]
+Name=P1 Armour
+0=Disabled
+1=None,FF07AB,00,FF07AD,01
+2=Golden,FF07AB,01,FF07AD,03
+3=Silver,FF07AB,01,FF07AD,02
+Default=0
+
+[13]
+Name=P1 Weapon
+0=Disabled
+1=Lance,FF07C7,00
+2=Knife,FF07C7,01
+3=Torch,FF07C7,02
+4=Sword,FF07C7,03
+5=Axe,FF07C7,04
+6=Shield,FF07C7,05
+7=Fireball,FF07C7,06
+Default=0
+
+[14]
+Name=P2 Inf Lives
+0=Disabled
+1=Enabled,FF080C,08
+Default=0
+
+[15]
+Name=P2 Armour
+0=Disabled
+1=None,FF080B,00,FF080D,01
+2=Golden,FF080B,01,FF080D,03
+3=Silver,FF080B,01,FF080D,02
+Default=0
+
+[16]
+Name=P2 Weapon
+0=Disabled
+1=Lance,FF0827,00
+2=Knife,FF0827,01
+3=Torch,FF0827,02
+4=Sword,FF0827,03
+5=Axe,FF0827,04
+6=Shield,FF0827,05
+7=Fireball,FF0827,06
+Default=0
+
+[17]
+Name=Stage Clear
+0=Disabled
+1=Enabled,FF0954,1C,FF0955,C3
+Default=0
+
+[18]
+Name=Stage Select*
+0=Disabled
+1=Stage 1,FF07C9,02,FF0954,1C,FF0955,C3
+2=Stage 2,FF07C9,00,FF0954,1C,FF0955,C3
+3=Stage 3,FF07C9,01,FF0954,1C,FF0955,C3
+4=Stage 4,FF07C9,03,FF0954,1C,FF0955,C3
+5=Stage 5,FF07C9,05,FF0954,1C,FF0955,C3
+6=Stage 6,FF07C9,07,FF0954,1C,FF0955,C3
+7=Last Boss,FF07C9,07,FF0954,1C,FF07D4,01,FF07C7,06,FF0955,C3
+Default=0
+

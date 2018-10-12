@@ -1,0 +1,102 @@
+[0]
+Name=P1 Invincible
+0=Disabled
+1=Enabled,FF82E7,0E
+Default=0
+
+[1]
+Name=P1 Inf Energy
+0=Disabled
+1=Enabled,FF8288,99,FF8289,09
+Default=0
+
+[2]
+Name=P1 Maximum Char Level
+0=Disabled
+1=Enabled,FF82EF,07
+Default=0
+
+[3]
+Name=P1 Maximum Experience
+0=Disabled
+1=Enabled,FF82EA,99,FF82EB,99
+Default=0
+
+[4]
+Name=P1 Maximum Weapon Level
+0=Disabled
+1=Enabled,FF82E8,07
+Default=0
+
+[5]
+Name=P1 Maximum Weapon Power
+0=Disabled
+1=Enabled,FF82E3,0B,FF82EE,07
+Default=0
+
+[6]
+Name=P1 Maximum Blue Balls
+0=Disabled
+1=Enabled,FF82E0,02
+Default=0
+
+[7]
+Name=P1 Special Weapon
+0=Disabled
+1=Stone,FF81D4,00
+2=Guardian,FF81D4,02
+3=Fire Arrow,FF81D4,04
+4=Explosion,FF81D4,06
+Default=0
+
+[8]
+Name=P2 Invincible
+0=Disabled
+1=Enabled,FF8387,0E
+Default=0
+
+[9]
+Name=P2 Inf Energy
+0=Disabled
+1=Enabled,FF8328,99,FF8329,09
+Default=0
+
+[10]
+Name=P2 Maximum Char Level
+0=Disabled
+1=Enabled,FF838F,07
+Default=0
+
+[11]
+Name=P2 Maximum Experience
+0=Disabled
+1=Enabled,FF838A,99,FF838B,99
+Default=0
+
+[12]
+Name=P2 Maximum Weapon Level
+0=Disabled
+1=Enabled,FF8388,07
+Default=0
+
+[13]
+Name=P2 Maximum Weapon Power
+0=Disabled
+1=Enabled,FF8383,0B,FF838E,07
+Default=0
+
+[14]
+Name=P2 Maximum Blue Balls
+0=Disabled
+1=Enabled,FF8380,02
+Default=0
+
+[15]
+Name=P2 Special Weapon
+0=Disabled
+1=Stone,FF8274,00
+2=Guardian,FF8274,02
+3=Fire Arrow,FF8274,04
+4=Explosion,FF8274,06
+Default=0
+

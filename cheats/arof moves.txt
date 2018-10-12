@@ -1,0 +1,2797 @@
+------------------
+Art Of Fighting 2:
+------------------
+ 
+Last update on 7/23/2003
+  I added and corrected many things to make the FAQ more understandable 
+and readable.
+
+-------------------------------------------
+A Word Before We Get Down To The Real Talk:
+-------------------------------------------
+  This FAQ has everything about Art of Fighting 2. If you are one of 
+those who want everything in one FAQ then this is the right choice for 
+you (though it will be hard since it will be pretty long)! ^_^
+
+===================================================== 
+
+  As the old guy said in that movie, "It's da fundamentals, my boy, da 
+fundamentals dat's impotant (sic)."
+
+  Whatever the old guy meant, we don't know but what we do know is that 
+there are a variety of varicolored attacks and defenses in the new Art 
+Of Fighting 2. In clutch battles and at long distance, your character 
+must master a variety of unique attacks and methods of self-defense to 
+crawl your way to the top. There vary with each character, so your 
+concentration and study is required. (And you thought you could get away 
+from concentration and study. Well, guess again!)
+
+================================
+Dash Attack and Flyback Retreat:
+================================
+  Quickly press the joystick forward twice to use the Dash Attack. 
+Quickly pressing the joystick twice backward will allow you to jump back 
+from your opponent. 
+
+===============
+Punch A Button:
+===============
+  Tapping the button will result in a light punch. Depressing the button 
+will let you ruin your opponent's dental work with a super-powered 
+punch.
+
+==============
+Kick B Button:
+==============
+  Tapping the button will result a light kick. Depressing the button 
+will send your opponent into orbit with bombastic boot of marvelous 
+destruction. But kids, please don't try this at home!
+
+==============================
+C+A Button Uppercut To Heaven:
+==============================
+  While pressing the C button, press the A button to deliver a painful 
+uppercut to your opponent. Remember, aim for the head.
+
+====================
+C+B Button Low Kick:
+====================
+  While pressing the C button, press the B button to topple your 
+opponent with really powerful low kick.
+
+========================================
+A, B, C, Button Recovering From Attacks:
+========================================
+  If Body Tossed by your opponent, push the A, B or C button using the 
+proper timing to recover and land on your feet.
+
+====================================
+C Button Light Punch and Light Kick:
+====================================
+  Taking some distance between you and your opponent will allow you to 
+smack or kick your opponent. Of course, you need to push the A or B 
+button in combination. *Tap the A or B buttons for light attacks or use 
+these buttons in combination with the C button. Use the C button and now 
+strong kicks or punches for you, young man.
+
+====================================
+C Button Body Toss or Contact Moves:
+====================================
+  In close battle, press this button to grab your opponent and slam the 
+impertinent whelp to the pavement. Judge your timing correctly or you 
+could get smacked yourself. A hard move to pull off but when you do 
+ooooh, what a feeling!
+
+================
+The Raz Buttton:
+================
+  Cut your opponent's Rage Gauge to render him or her impotent, in terms 
+of psychic attacks, that is. While your opponent attempts to restore his 
+or her power, he or she is totally defenseless, so you got it made! Push 
+the D button to raz your opponent into ineffectiveness. 
+
+=========================================
+Psychic Attacks From The Arsenal of Ouch:
+=========================================
+  Based on certain combinations of joystick movement and buttons, your 
+character can produce eye-popping attacks more powerful than punches and 
+kicks. Each attack uses a certain amount of rage gauge power, so use 
+these babies wisely.
+
+=========================
+Restoring The Rage Gauge:
+=========================
+  If the psychic power of your character shown by the Rage Gauge is 
+depleted, your character can not use full-powered attacks. To restore 
+your power, eat more yellow vegetables and carbohydrates before a match, 
+or follow these simple steps: Smack down the A, B or C buttons and keep 
+pressing on them until your Rage Gauge is restored.
+
+=============================================
+
+             Art of Fighting 2
+                Prologue: 
+
+  The ascetic warrior, Ryo Sakazaki. The pretty-boy rough guy, Robert 
+Garcia. One year has passed since their adventures in the den of 
+iniquity known as... Southtown. Saving Ryo''s sister Yuri and uncovering 
+the mysterious secret of Mister Karate, they now wait for their next 
+challenge. 
+
+  Then, it comes. A mysterious summons from the hive of evil and 
+treachery known as... Southtown. A mysterious figure has called our 
+heroes, along with some of the toughest dudes and dudettes in the world, 
+to the old neighborhood, the neighborhood of shadows and illusions, the 
+neighborhood of despair and fear, the neighborhood known as, you guessed 
+it... Southtown. 
+
+  What secret lies behind this call to the contest known as "The King Of 
+Fighters", a contest offering unheard of fame and wealth? Who will steal 
+the laurels victory and what depth of wickedness will these laurels 
+plunge the winner of this match of brawn and wits?
+
+=============================================
+
+-----
+Name: Ryo Sakazaki (The Wild Karate Guy)
+-----
+Age: 22 
+-----
+Height: 179cm
+-----
+Weight: 68kg
+-----
+Blood Type: O
+-----
+Country: Japan
+-----
+Style: Kyoku Gen Karate   
+-----
+Voice Actor: Masaki Usui 
+-----
+Stage: National Park
+-----
+
+Story: 
+  Scion of the creator of "Kyoku Gen Karate", Takuma Sakazaki, he has 
+been passing the previous year since the rescue of his cute kid sister 
+Yuri in the Japanese Alps, bathing in the frigid streams and dancing on 
+the sharp rocks of Mt. Yuwannafaito. Hearing of the mysterious "King Of 
+Fighters" competition, he ventures once again to his old hunting 
+grounds.
+
++++++++++++++
+Command List:
++++++++++++++
+1)Tiger Flame Punch: Quarter circle forward + A
+-
+2)Flying Tiger Flame Punch: In the air... Quarter circle forward + A or 
+B
+-
+3)Thousand Kick Crunch: Forward, backward, forward + A
+-
+4)Koho: Forward, down, down/forward + A
+-
+5)Lighting Legs Knock-Out Kick: Down/backward, forward + B
+-
+6)Kyokugenryu-Renbu-Ken: Quarter circle backward + A
+
++++++++++++
+Super Move:
++++++++++++
+7)Haoh Sho Koh Ken: Forward, half circle forward + A
+
+++++++++++++++++++
+Hidden Super Move: 
+++++++++++++++++++
+8)Ryuko Ranbu: Quarter circle forward, half circle backward + C
+
+++++++++++++++
+Beating Geese:
+++++++++++++++
+  When the match begins jump up to avoid Geese's Reppu Ken, he then will 
+walk to you, walk to him and grab him then if he recovers the throw... 
+do Haoh Sho Koh Ken and if not then do Tiger Flame Punch to make him get 
+dizzy. And then recharage... then do everything over and over again 
+until he suffers and dies. 
+
+  If he jumps, just do standing hard kick. Do not do his Thousand Kick 
+Crunch because it is a waste of good and needed Rage Gauge. Always go 
+for something saver and better. Geese will go mad and try to jump 
+again... just follow up with the standing hard kick and do not get 
+confused by his madness. 
+
+  If you do not control the match calmly with Ryo, you will be kicked 
+out in no time. If you did what I told you above, then I think you did 
+very good and I think that is the best strategy I can offer.   
+
+  Geese does not defend Ryuko Ranbu, Haoh Sho Koh Ken, Flying Tiger 
+Flame Punch (sometimes), Flying Tiger Flame Punch (sometimes) and 
+Lighting Legs Knock-Out Kick. He defends Kyokugenryu-Renbu-Ken, Koho and 
+Thousand Kick Crunch. Ryo will not be able to perform Koho, Thousand 
+Kick Crunch, Haoh Sho Koh Ken and Ryuko Ranbu when he loses his Rage 
+Gauge.
+
+++++++++++++++++++++
+Perfect Possibility:
+++++++++++++++++++++
+  There is a good possibility to win perfect by following the below 
+method,
+  
+  When the match begins, fast crouch and Geese will throw a Reppu Ken at 
+you, then break it by your crouching light kick and stay. He will charge 
+and then do it over, over and over again. Just do the same... so he 
+throws a Reppu Ken then you break it by crouching light kick, then he 
+will recharge and throw another Reppu Ken and you will break it again by 
+your crouching light kick and so on. 
+
+  When the time at five seconds, fast when he performs his Reppu Ken, 
+just perform your Lighting Leg Knock-Out Kick and then jump backward. 
+And you will get the perfect... remember, one mistake and you will be 
+out easily.   
+
+  The possibility to get perfect is 64%
+
+-------
+Intros:
+-------
+Ryo: I have seen you before, stud!
+Ryo: Let's see who is who, funny face!
+
+Ryo: What is this? You have bought a new car again! Whoa!
+Robert: Hey, you can't understand the coolness of a car like this.
+
+Ryo: Oh, sis. You should really think of this over again!
+Yuri: Oooh, scary. Please, let me off easy this time... not!
+
+Ryo: You are my dad and I love you, but I'm going to knock you silly!
+Takuma: You should have stayed a glint in my eye, smart guy... waah!
+
+Ryo: Oooh! You are so feminine. I like it...
+King: I didn't come here to listen to your pick-up lines! Enough!
+
+Ryo: You again? You move quite well considering your age. Grampus!
+Jack: You really know how to frost my cake, sonny. Eat my shoes bug.
+
+Ryo: The monkey-man comes. It's banana split time, pop.
+Lee: I'm at the top of my form, boy. I'm going to make a monkey of you!
+
+Ryo: Wow, this is the first time to fight a ninja. Cool!
+Eiji: So you're a user of Kyoku Gen! I hate Karate and people who 
+practice it!
+
+Ryo: How about it, Mr. under world champ. Have you been training hard?
+Mickey: Heh, heh! You gotta big mouth, junior. Why not come and see!
+
+Ryo: Quit the life in the service? You're probably a couch potato.
+John: I'm gonna teach you never to use "potato" in a demeaning vein!
+
+Ryo: Oooh, be sure not to hurt me, ya big Mongolian madman, you!
+Temjin: You're about to learn your error in teasing a Mongolian sumo!
+
+Ryo: Long time no see, Big! Haven't yet quit using toys?
+Mr. Big: Let's say, I know which holes in which to put my pegs, pal!
+
+---------------
+Winning Poses:
+---------------
+Against Ryo: I am the original Ryo Sakazaki!
+1)It seems my Kyoku Gen Karate was too much for you!
+2)Whew! Talk about kicking major butt, that was a chore!
+
+----------------------------
+Before The Fight With Geese:
+----------------------------
+Geese's Bodyguard: Mr. Ryo Sakazaki? The police commissioner would like 
+a word with you. Could you walk this way?
+Ryo: If I could walk that way, sure I'll come along...
+
+-----------------
+Vs. Geese Howard:
+-----------------
+Geese: So you're Takuma's little brat? A pleasure to meet you!
+Ryo: You must be duck!
+
+Geese: That's Geese, fool! A sad pun, I know. But... the fowl leader of 
+Southtown. That's not the point. It's you I seek, care to join forces 
+with me and kick some Southtown butt?
+Ryo: You are Geese, my father's enemy. I know about your sick plans. 
+They are kinda cool, but no!
+
+Geese: Then face my wrath, wimp!!!
+
+------------------------
+After Ryo defeats Geese:
+------------------------
+Ryo: I will never forgive you!
+Geese: Heh! It's all over.
+
+Ryo: Eat this! Ha oh... waaah. What the heck...!
+Geese's Bodyguard: This way, Mr. Geese.
+Geese: I have lost this time, but I'll be back. For now my farewell...
+
+Ryo: Wait! Where...? Geese!!!
+
+-------
+Ending:
+-------
+Ryo: Yes, I won! Whoo... whooo!
+Robert: Oh yeah, Ryo. I'm proud to be your buddy and rival.
+
+Ryo: Gosh, thanks, Robert!
+Robert: By the way, with travel fees. Your loans and other debts. I 
+thought I would take it out with your prize money. Here, three bucks.
+
+Ryo: No way, dude! Wanna start something?
+Robert: No, I'm gonna finish something!
+
+Ryo: You rich twit!
+Robert: Shut up, peasant!
+
+======================================================
+
+-----
+Name: Robert Garcia (The pretty-Boy Master Of Mayhem)
+-----
+Age: 22
+-----
+Height: 180cm
+-----
+Weight: 85kg
+-----
+Blood Type: AB
+-----
+Country: Italy
+-----
+Style: Kyoku Gen Karate
+-----     
+Voice Actor: Key Inage 
+-----
+Stage: The Garcia House
+-----
+
+Story: 
+  Son of the multi-zillionaire industrialist Albert Moralista Del Gusto 
+De Braha Garcia. Robert has forsaken the wishes of his father, left the 
+prestigious Emperor University, and has followed the pursuit of Kyoku 
+Gen Karate mastership. The rival of Ryo, Robert is one fop who packs a 
+wallop.
+
++++++++++++++
+Command List:
++++++++++++++
+1)Dragon Blast Punch: Quarter circle forward + A
+-
+2)Flying Dragon God Kick: While jumping... Quarter circle backward + B
+-
+3)Great Spirit Kick: Forward, backward, forward + B
+-
+4)Lighting Legs Knock-Out Kick: Down/backward, forward + B
+-
+5)Ryuga: Forward, down, down/forward + A
+-
+6)Kyokugenryu-Renbu-Ken: Quarter circle backward + A
+
++++++++++++
+Super Move:
++++++++++++
+7)Haoh Sho Koh Ken: Forward, half circle forward + A
+
+++++++++++++++++++
+Hidden Super Move: 
+++++++++++++++++++
+8)Ryuko Ranbu: Quarter circle forward, half circle backward + C
+
+++++++++++++++
+Beating Geese:
+++++++++++++++
+  Nothing hard with Robert. When the fight begins, jump back to avoid 
+Geese's Reppu Ken. Then when Geese gets near you, He will then jump at 
+you then distance hard kick... then either Flying Sawblade Slicer or 
+Reppu Ken. Here, you have to be very very very focused in order to win 
+perfect. It is less than a moment to perform Flying Sawblade Slicer or 
+Reppu Ken, if he does Flying Sawblade Slicer, FAST A+C, and if the Reppu 
+Ken then FAST crouching light kick. Okay with the Flying Sawblade Slicer 
+case just run and throw him then Dragon Blast Punch. If he did not 
+recover from the throw then do not perform the Special Move, just run 
+toward and then crouching hard kick. He will not defend. Time your 
+attacks... and then go with the same method. 
+
+  If he performs Reppu Ken, then break it by crouching light kick and 
+wait until he performs his Flying Sawblade Slicer then go with the above 
+method. You will not feel tired because Robert throws his opponent near 
+him, so you can fast run and then crouching hard kick, if Geese 
+recovered from the throw that is... if not then perform Dragon Blast 
+Punch.
+
+  By that you can finish the match in no time. Also, Geese does not 
+defend when you perform Flying Dragon God Kick, Dragon Blast Punch, 
+Lighting Legs Knock-Out Kick, Haoh Sho Koh Ken and Ryuko Ranbu. He will 
+either mash or by mistake defend... it depends on the distance between 
+the both of you. Forget about his Ryuga, Great Spirit Kick and 
+Kyokugenryu-Renbu-Ken. 
+
+  If it is hard to time the A+C when Geese performs his Flying Sawblade 
+Slicer, then when the match begins, stand still and Geese will perform 
+his Reppu Ken, then jump up... Geese then will walk to you, you then 
+walk to him and easily grab him. Then do the method above. A very easy 
+one... you can do this with all the characters, so I will not bother to 
+mention it everytime. 
+  
+  Robert will not be able to perform Great Spirit Kick, Ryuga, Flying 
+Dragon God Kick, Haoh Sho Koh Ken and Ryuko Ranbu when he loses his Rage 
+Gauge... that is why Robert is so underated. And his normals have no 
+invincibilty. So you always have to recharge if you want to do Haoh Sho 
+Koh Ken or Ryuko Ranbu. And remember, when Geese jumps, just do distance 
+hard kick.
+
+
+++++++++++++++++++++
+Perfect Possibility:
+++++++++++++++++++++
+  The possibilility to get perfect with Robert is very high, it all 
+depends on making Geese falls down so that you could get near him to do 
+crouching hard kick or to throw him. There is another hard way to get 
+perfect...
+
+  When the match begins, fast crouch and Geese will throw a Reppu Ken at 
+you, then break it by your crouching light kick and stay. He will charge 
+and then do it over, over and over again. Just do the same... so he 
+throws a Reppu Ken then you break it by crouching light kick, then he 
+will recharge and throw another Reppu Ken and you will break it again by 
+your crouching light kick and so on. 
+
+  When the time at five seconds, fast when he performs his Reppu Ken, 
+just perform your Lighting Leg Knock-Out Kick and then jump backward. 
+And you will get the perfect... remember, one mistake and you will be 
+out easily. 
+
+  The possibility to get perfect is 100%.
+
+-------
+Intros:
+-------
+Robert: Oh, look! It's the great pretender. Meet Mr. reality!
+Robert: I may look like you, but that's where the someness ends, twit!
+
+Robert: There is only one person who can be the champ, me.
+Ryo: Sorry, roster. You're about to be a grape at a beaujolais disco.
+
+Robert: Oh, Yuri! I've been waiting for a little one-on-one.
+Yuri: Always the king feminist. Now shut up and show me your stuff!
+
+Robert: Oh no... it's you! This could be interesting.
+Takuma: Come at me with all you got, Robby-boy!
+
+Robert: So I'm about to fight a woman! I like it.
+King: Macho meathead, 3 minutes. And it'll be over, come on wimp!
+
+Robert: Wow, old guy. I think you should reconsider this!
+Temjin: Heh, heh! I'll clean my teeth with you, so of a tapeworm.
+
+Robert: Who are you and what are those clothes, nerd king?
+Eiji: Coming from a guy with a pony tail. I really must laugh, heh!
+
+Robert: Wow, nice shades there, Johnny. They are mine after this fight, 
+huh?
+John: You talk a good fight. Bobster bring it on! You pong-tailed putz.
+
+Robert: Mickey! The man is back in the big time, oh yeah!
+Mickey: You will make a fine punching bag, bobby boy!
+
+Robert: Face the fury of me, Jack. The biking Beelzebub from Bakers 
+Town.
+Jack: You worn! I'm from Osh Kosh! Feel the wrath of a cheese head!
+
+Robert: Watch it, old guy! Exercising too much is bad for you health.
+Lee: Impertinent whelp! Eat my steel, tumor of a dragon's wart!
+
+Robert: Long time no see, lead buns! Ready for a new beating?
+Mr. Big: If you think I'm like I was, you're in for a treat!
+
+---------------
+Winning Poses:
+---------------
+Against Robert: Imitation maybe a form of flattery, but what a wimp!
+1)I told you! Guys with cool hair always win, muzzle face!
+2)Are you okay? Have you had enough?
+
+----------------------------
+Before The Fight With Geese:
+----------------------------
+Geese's Bodyguard: Mr. Robert Garcia? The police commissioner would like 
+a word with you. Could you walk this way?
+Robert: What? He wants to see me! Look I swear she was over sixteen...
+
+----------
+Vs. Geese:
+----------
+Geese: Welcome my friend, Robert. It's a pleasure to meet you.
+Robert: I bet it is, rooster. Nice place you got here.
+
+Geese: The name is Geese, fancy pants. Geese Howard... ruler of 
+Shouthtown. I need young men like you to join me in my plans. How about 
+it? Care to join me?
+Robert: Why? Are you coming apart? You rascal, eat Geese knuckles!
+
+---------------------------
+After Robert defeats Geese:
+---------------------------
+Robert: I'm too much for you, huh!
+Geese: Heh, it's all over!
+
+Robert: What's going on bud? Get back!
+Geese's Bodyguard: This way, Mr. Geese.
+Geese: I have lost this time, but I'll be back. For now my farewell!
+
+Robert: Hey, get your chicken yellow backside back here!
+
+-------
+Ending:
+-------
+Yuri: Yeah, yeah Robert! Robbie pooh! Congratulations, ya big lug.
+Robert: Why thank you, Yuri! You should not have...
+
+Yuri: But I was rooting for you!
+Robert: Heh, heh... really? I bet it was tough. Heh, watching me, worry.
+
+Yuri: Oh, Robert. Oh, geez... are you okay?
+Robert: Oh, geez... watch that punch, Yuri! Oww!!!
+
+======================================================
+
+-----
+Name: Yuri Sakazaki (The Fabulous Karate Babe)
+-----
+Age: 18  
+-----
+Height: 168cm
+-----
+Weight: 50kg
+-----
+Blood Type: A
+-----
+Country: Japan
+-----
+Style: Kyoku Gen Karate    
+-----     
+Voice Actress: Kaori Horie 
+-----
+Stage: Fitness Club
+-----
+
+Story: 
+  Ryo's beloved kid sister. Anxious to learn the ways of Kyoku Gen. She 
+learns from her father, Takuma, she studies with her father while 
+pretending to attend a fitness club to appease her brother, Ryo, who 
+objects to Yuri's studies. Achieving momentous success in a brief period 
+of training. Yuri joins the competition to show her big brother what 
+she's really made of.
+
+-----
+Name: Yuri Sakazaki (The Fabulous Karate Babe)
+-----
+Age: 18  
+-----
+Height: 168cm
+-----
+Weight: 50kg
+-----
+Blood Type: A
+-----
+Country: Japan
+-----
+Style: Kyoku Gen Karate    
+-----     
+Voice Actress: Kaori Horie 
+-----
+Stage: Fitness Club
+-----
+
+Story: 
+  Ryo's beloved kid sister. Anxious to learn the ways of Kyoku Gen. She 
+learns from her father, Takuma, she studies with her father while 
+pretending to attend a fitness club to appease her brother, Ryo, who 
+objects to Yuri's studies. Achieving momentous success in a brief period 
+of training. Yuri joins the competition to show her big brother what 
+she's really made of.
+
++++++++++++++
+Command List:
++++++++++++++
+1)Tiger Flame Punch: Quarter circle forward + A
+-
+2)Raioh-Ken: Quarter circle forward + B
+-
+3)Slipstream Slap: Forward, backward, forward + A
+-
+4)Kyokugenryu-Saiha: Quarter circle backward + A
+-
+5)Enbu Kick: Quarter circle backward + B
+
++++++++++++
+Super Move:
++++++++++++
+6)Haoh Sho Koh Ken: Forward, half circle forward + A
+
+++++++++++++++++++
+Hidden Super Move: 
+++++++++++++++++++
+7)Flying Phoenix Kick: Forward, backward, half circle backward + B+C
+
+++++++++++++++
+Beating Geese:
+++++++++++++++
+  It is a bit hard to beat Geese with this babe. But there are many 
+strategies to beat him with her. 
+
+  Jump back when the fight starts. Wait until he gets near you, when he 
+performs his Flying Sawblade Slicer, fast throw him. Yuri sucks pretty 
+much when it comes to throwing. She does a pose when she throws her 
+opponent which gives her opponent the time to get up and not worry to 
+make her get near him or her. So, you cannot run and then do crouching 
+hard kick or Tiger Flame Punch. Geese will be up and then will make you 
+sorry if you do so.
+
+  So, just do her Super Move, Haoh Sho Koh Ken. He will not defend. Do 
+not do her other moves. Focus on her Haoh Sho Koh Ken, Tiger Flame Punch 
+and Flying Phoenix Kick. So go with the same method over and over again 
+and when you have a little life bar, use her Flying Phoenix Kick. 
+
+  Yuri will not be able to perform Slipstream Slap, Haoh Sho Koh Ken and 
+Flying Phoenix Kick when she loses her Rage Gauge. Also Geese will not 
+defend when you perform Tiger Flame Punch, Hoah Sho Koh Ken and Flying 
+Phoenix Kick. And will defend Slipstream Slap, Kyokugenryu-Saiha, Enbu 
+Kick and Raioh-Ken. And sometimes, he blocks Yuri's Tiger Flame Punch. 
+
+++++++++++++++++++++
+Perfect Possibility:
+++++++++++++++++++++
+  You can get get perfect by going with the same method I mentioned for 
+Ryo and Robert.
+
+  When the match begins, fast crouch and Geese will throw a Reppu Ken at 
+you, then break it by your crouching light kick and stay. He will charge 
+and then do it over, over and over again. Just do the same... so he 
+throws a Reppu Ken then you break it by crouching light kick, then he 
+will recharge and throw another Reppu Ken and you will break it again by 
+your crouching light kick and so on. 
+
+  When the time at five seconds, break the last Reppu Ken he performs 
+and then perform her Tiger Flame Punch and fast go back. If you do not 
+use the move right away, Geese will throw another Reppu Ken and it will 
+take too much damage. So, no mistakes to get this perfect.
+
+  The possibility to get perfect is 23%.  
+
+-------
+Intros:
+-------
+Yuri: What are you? My legs aren't fat! How rude!!
+Yuri: Hey, you called me pirate's dream first!
+
+Yuri: I fight better than you do! Hah ha haah hah, silly brother!
+Ryo: I think you have taken too many shots to the head recently.
+
+Yuri: Ooh, Robert. You're so handsome. I can't concentrate... not!
+Robert: That girllish spirit will make it hard for me to cripple you!
+
+Yuri: Oh no, if dad is going to fight me I'll lose for sure!
+Takuma: What kind of attitude is that? What have I taught you?!
+
+Yuri: Hmmm, you look kinda strong but you smell... to fight me, you need 
+hands of steel!
+King: Oh come on, I don't smell that bad! Looking forward to the 
+clenches, honey!!!
+
+Yuri: Whoa! Strange hairstyle, cool! Who did your hair?
+Temjin: No fair! You shouldn't talk about my hair! No fair!
+
+Yuri: What a scary mask you have on!
+Eiji: All the better to slap you silly in, my dear.
+
+Yuri: Come and feel my fists of steel, you beast!
+John: Now I'm going to enjoy this fight a lot.
+
+Yuri: You dare to hit an innocent maid such as I?! Die, you pig!
+Mickey: Who are you calling pig? Look, this is a fight, okay?
+
+Yuri: Oh no, you look so strong! I may lose this time, wink... wink.
+Jack: Don't worry little lady. I'll take care of you!
+
+Yuri: Hyah, hah... hah! What a goofy looking mask! Act your age, you 
+silly! And not your shoe size!
+Lee: Hey, this was a gift from my mother! You're meat, toots!
+
+Yuri: Hey, no one said anything about weapons! You cheating coot!
+Mr. Big: Don't blame me for your ignorance, toots.
+
+---------------
+Winning Poses:
+---------------
+Against Yuri: I like your outfit, too much make up though!
+Against Ryo: Well, No more calling me "screamy mime" eh, big bro?
+Against Robert: Oh, Robert... I thought you were tougher! We are 
+through!
+Against Takuma: How do I do, Papa? Can I be a pro? Can I? Can I?
+Against King: Uh... are you okay? I didn't mean to push your face in!
+Against Temjin: You're weak, but you're kinda of cute! Busy!
+Against Eiji: Gee! Ninjas sure are strong. I am impressed!
+Against John: Wow, You were pretty weak. I guess it''s not shore leave, 
+huh!
+Against Mickey: Gee, boxers are really cream puffs.
+Against Jack: You're tough, but you really think of bathing!
+Against Lee: You lost because of that silly mask! Understand!
+Against Mr. Big: Hah, hah. Even with weapons you were only a bald guy 
+sans class!
+
+----------------------------
+Before The Fight With Geese:
+----------------------------
+Geese's Bodyguard: Ms. Yuri Sakazaki? The police commissioner would like 
+a word with you. Could you walk this way?
+Yuri: The commissioner? Why? Aw, geez! Look, I only skipped class once!
+
+----------
+Vs. Geese:
+----------
+Geese: Miss Yuri Sakazaki.
+Yuri: Hey, let me go ya big lug! How dare you treat a cutey-pie like 
+me...
+
+Geese: Please, forgive me. My name is Geese Howard and I just want to 
+say that I like your spunk, your looks and your cute little...
+Yuri: Watch it, pal. I may be cute, cuddly and one spunky little 
+bombshell, but I'll never be hit on a guy with a bad perm!
+
+-------------------------
+After Yuri defeats Geese:
+-------------------------
+Yuri: Aw, gee! What a wimp!
+Geese: Heh, it's all over!
+
+Yuri: Kyaaaah! Oh, no... what is this?
+Geese's Bodyguard: This way, Mr. Geese.
+Geese: I have lost this time, but I'll be back. For now my farewell!
+
+Yuri: Yaah, I can't see! Help me...!
+
+-------
+Ending:
+-------
+Robert: Congrats, Yuri! I always knew you could do it!
+Yuri: Liar, liar, pants on fire! Robbie-boy!
+
+Yuri's friends: Yuri!!!
+Yuri: Hey, where did you all come from?
+
+Yuri's friend 1: We heard about this match and came to cheer for you!
+Yuri: Thanks.
+
+Yuri's friend 2: Pretty cool, huh! Yuri Sakazaki fighting goddess!
+Yuri's friend 3: Great, Yuri. I admire you sooo much!
+Yuri: Thank you, friends...
+Robert: Oooh! This is too much, Yuri... ouch!
+
+======================================================
+
+-----
+Name: Takuma Sakazaki (Karate Of Kyoku Gen And One Really Swell Dad)
+-----
+Age: 48
+-----
+Height: 180cm
+-----
+Weight: 70kg
+-----
+Blood Type: O 
+-----
+Country: Japan
+-----
+Style: Kyoku Gen Karate    
+-----     
+Voice Actor: Eiji Tsuda 
+-----
+Stage: Karate Gym
+-----
+
+Story: 
+  Pioneer of the Kyoku Gen school of Karate, Takuma enters the 
+competition with an uneasy sense that something is just not adding up, 
+because of his superior Southtown organization but refused. Could this 
+competition be the work of his old enemies?
+
++++++++++++++
+Command List:
++++++++++++++
+1)Tiger Flame Punch: Quarter circle forward + A
+-
+2)Lighting Legs Knock-Out Kick: Down/backward, forward + B
+-
+3)Thousand Kick Crunch: Forward, backward, forward + A
+-
+4)Shoran-Kyaku: Half circle backward + B
+-
+5)Kishingeki: Quarter circle backward + A
++++++++++++
+Super Move:
++++++++++++
+6)Haoh Sho Koh Ken: Forward, half circle forward + A
+
+++++++++++++++++++
+Hidden Super Move: 
+++++++++++++++++++
+7)Ryuko Ranbu: Quarter circle forward, backward, forward + A+C
+
+++++++++++++++
+Beating Geese:
+++++++++++++++
+  Now you know how Geese perfectly plays and his good strategy, so no 
+need to say everything over and over again.
+
+  Takuma will have no trouble beating Geese. When the match begins, jump 
+back and then DO NOT defend but be ready for a good attack, Geese will 
+perform Flying Sawblade Slicer, fast do A+C... then fast if Geese 
+recovers, crocuhing hard kick and if not then do Tiger Flame Punch.
+
+  He will get dizzy, go very near him then do Haoh Sho Koh Ken, and the 
+run and throw him before he gets up, then go with the above method. This 
+will get one 100% perfect.
+
+  Geese does not defend Tiger Flame Punch, Shoran-Kyaku, Haoh Sho Koh 
+Ken and Ryuko Ranbu. And defends Lighting Legs Knock-Out Kick, Thousand 
+Kick Crunch and Kishingeki. Takuma will not be able to perform Thousand 
+Kick Crunch, Shoran-Kyaku, Haoh Sho Koh Ken and Ryuko Ranbu when he 
+loses his Rage Gauge.
+
+++++++++++++++++++++
+Perfect Possibility:
+++++++++++++++++++++
+  You can get get perfect by going with the same method I mentioned for 
+Ryo, Robert and Yuri.
+
+  When the match begins, fast crouch and Geese will throw a Reppu Ken at 
+you, then break it by your crouching light kick and stay. He will charge 
+and then do it over, over and over again. Just do the same... so he 
+throws a Reppu Ken then you break it by crouching light kick, then he 
+will recharge and throw another Reppu Ken and you will break it again by 
+your crouching light kick and so on. 
+
+  When the time at five seconds, fast when he performs his Reppu Ken, 
+just perform your Lighting Leg Knock-Out Kick and then jump backward. 
+And you will get the perfect... remember, one mistake and you will be 
+out easily. 
+
+  Also there is a very hard method, when the match starts, jump back and 
+wait for Geese to perform his Flying Sawblade Slicer and then do A+C... 
+run and throw him before he gets up and when he gets up (if he did not 
+recover the throw), do Tiger Flame Punch, then when he gets dizzy... raz 
+him to take out all his Rage Gauge. Then perform his Shoran-Kyaku, if 
+Geese defends then do it again and if not then recharage and then when 
+he gets up, do it again... Geese will not attack when you recharge so be 
+fast when he gets near you... fast do Shoran-Kyaku. Do this over and 
+over again and he will be doomed. 
+
+  If Geese gets very near you and you do not have Rage Gauge to perform 
+Shoran-Kyaku, then wait for him to perform Flying Sawblade Slicer, then 
+fast do A+C before he hits you and do everything over and over again. 
+
+  The possibility to get perfect is 100%
+
+-------
+Intros:
+-------
+Takuma: Kyoku Gen Karate isn't for every tom, dick or harry!
+Takuma: No, it's for every hiro, shin and taro. Hahaha...
+
+Takuma: Well, Ryo. Show me the fists of your labors.
+Ryo: Geez... dad, here? In front of everybody? Give me a break.
+
+Takuma: Show your father what you have learned. Kick in my teeth.
+Yuri: Okay, papa! Here I come, watch your teeth...!
+
+Takuma: Robert, you have become strong. But not as strong as me!
+Robert: We will have to see about that, sensi!
+
+Takuma: Oh boy, a kick boxer. Nice gams, honey!
+King: These gams are going to send you to a very warm place!
+
+Takuma: You're one I know not! Attack and be brave!
+Temjin: Are you another fighter or an over-aged cheerleader?
+
+Takuma: Ryo has told me all about you. I fell asleep, though...
+Eiji: Wait a minute, that's an insult, right?
+
+Takuma: The true value of fighting lies not in slaughter of your 
+enemies!
+John: No, in shutting up old bores like you!
+
+Takuma: It seems boxing is a mere sport. Face the harsh facts!
+Mickey: face my fists, you pansy Karate fool.
+
+Takuma: It seems you have lost your savage spirit, my friend!
+Jack: Oh, shut up. I think I ate a bad side of beef or something.
+
+Takuma: The disciple of Gaku Suu. Don't shame the name of your master.
+Lee: Ke, ke, ke... I don't need your advice. Taste my steel.
+
+Takuma: At last the final battle has come. Let's finish this soon.
+Mr. Big: Heh, heh! It has been a long time since we have mixed it up!
+
+---------------
+Winning Poses:
+---------------
+Against Takuma: A small world with a double for everyone. Interesting, 
+huh!
+1)Maybe you should become a banker instead, mush head!
+2)Good, but not good enough to match the power of Kyoku Gen.
+
+----------------------------
+Before The Fight With Geese:
+----------------------------
+Geese's Bodyguard: Ms. Takuma Sakazaki? The police commissioner would 
+like a word with you. Could you walk this way?
+Takuma: The commissioner? I wonder what this could be... a trap? Wah!
+
+----------
+Vs. Geese:
+----------
+Geese: Long time no see, Takuma! How is your daughter?
+Takuma: Geese? You...!
+
+Geese: People should learn to finish their sentences. But I'm happy you 
+remembered my name, ya... big galoat! Care to make up?
+Takuma: I said it before and I'm sayin' it again... no, no, no! Okay?!
+
+-------------------------
+After Takuma defeats Geese:
+-------------------------
+Geese: Is this how you treat your kind benefactor? Oh, cruel world!
+Takuma: Quiet! Now I pay you back for everything! Ha oh... eh! What the 
+heck...?
+
+Geese's Bodyguard: This way, Mr. Geese.
+Geese: I have lost this time, but I'll be back. For now my farewell!
+Takuma: Wait, the battle isn't over yet, Geese!
+
+-------
+Ending:
+-------
+Ryo: Way to bog, daddy!
+Yuri: Hoooroy, papa!
+Takuma: Oh, Ryo, Yuri. I guess I did okay, huh? Oooh!
+
+Yuri: Papa! Aaah! Hang in there!
+Ryo: Daddy!
+Takuma: I'm... okay! But my arm hurts like all get out! Oh, my days as 
+fighting God have come to an end! Ryo, Yuri, your age is downing, make a 
+name for yourselves and remember your old dear, dad. Even when I start 
+to drool, and...
+
+Ryo: Okay, dad. We understand!
+
+======================================================
+
+-----
+Name: King (The Gorgeous, Kick-Boxing Lady)
+-----
+Age: 22 
+-----
+Height: 175cm
+-----
+Weight: 58kg
+-----
+Blood Type: A
+-----
+Country: France
+-----
+Style: Kick-Boxing    
+-----     
+Voice Actress: Harumi Ikoma 
+-----
+Stage: Southtown Park
+-----
+
+Story: 
+  The former bouncer of La Maison, defeated by Ryo and Robert one year 
+ago, was rumored to have forsaken the world of the streets to make an 
+honest living as a political consultant. Finding the trade perverse and 
+inhuman, she has resurfaced on the streets, kick-boxing her way to a 
+showdown with her old pals and hoping for the prize money. But for what 
+and...?
+
+
++++++++++++++
+Command List:
++++++++++++++
+1)Venom Strike: Quarter circle forward + B
+-
+2)Trap Shot: Down, up + B
+-
+3)Tornade Kick: Forward, backward, forward + B
+-
+4)Combination Attacks: Quarter circle backward + B
+
++++++++++++
+Super Move:
++++++++++++
+5)Double Strike: Forward, backward, forward, forward/down, down + B
+
+++++++++++++++++++
+Hidden Super Move: 
+++++++++++++++++++
+6)Surprise Rose: Backward, forward, forward/down, down, backward/down + 
+B+C
+
+++++++++++++++
+Beating Geese:
+++++++++++++++
+  King does not make the opponent falls down when she does crouching 
+hard kick, so there is a good strategy to get perfect.
+
+  When the match starts, jump back as always and wait for him to perform 
+his Flying Sawblade Slicer, then when he performs it, do A+C then run to 
+throw him... then perform Venom Strike TWICE to make him gets dizzy. 
+Then recharge FAST and then run to throw him before he wakes from his 
+dizziness. And do everything over and over again.
+
+  When he is about to die, do her Double Strike. If it is hard for you 
+to do the perfect method (will get perfect), then try to make your life 
+bar so little to do her Hidden Super Move... 
+
+  Just wait for Geese to do Flying Sawblade Slicer, then defend and then 
+throw him away then perform her Surprise Rose. Then fast recharge and do 
+Surprise Rose again. Geese will either recharge or tease you, so do not 
+worry. A sure win.
+
+  Geese will not defend (not always) when you do Venom Strike, 
+Combination Attacks, Double Strike and Surprise Rose. And will defend 
+when you do Trap Shot and Tornade Kick. She will not be able to perform 
+Trap Shot, Double Strike and Surprise Rose when she loses her Rage 
+Gauge. 
+
+++++++++++++++++++++
+Perfect Possibility:
+++++++++++++++++++++
+  There is a laughable staretgy to get perfect other than the one 
+mentioned above.
+
+  Just stand still and DO NOT move at all, when Geese performs Reppu 
+Ken, break it by crouching light kick and do so everytime he performs 
+it. When he walks to you walk to him and throw him (do not run, only 
+walk). You can do Venom Strike twice to make him dizzy and go with them 
+method again. 
+
+  And if you want it to become more hard, then do not perform her Venom 
+Strike, but instead when you throw him, wait again and until he walks to 
+you or jumps... he will not attack if you throw him fast. Just remember, 
+do not run, attack or do anything other than walking and throwing him. 
+
+  The possibility to get perfect is 98%
+
+-------
+Intros:
+-------
+King: Oh boy, stereo King. But don't you think you're a little loud?
+King: Hey, I don't think you have a right to comment on style!
+
+King: The famous Ryo. Show me what you been doing all this time.
+Ryo: Okay, but I can't show you all the things I've been doing, heh heh.
+
+King: I'm not as weak as I used to be. Come and fight pony-tail head
+Robert: I hate people who take shots on at my hair. Die, thou foul 
+thing.
+
+King: This is no place for a cute thing like you, go home.
+Yuri: The way this day has been going I would love to! You're too 
+creepy.
+
+King: You're quite a fighter. Let's get some coffee together.
+Takuma: No thanks, I'm too tense... not! But first let's boogie, toots!
+
+King: Oh, hi Jack. Get it? Hi Jack, are we going to Cuba or what? Heh 
+heh.
+Jack: I never got your stupid jokes, die! Nymph from hell!
+
+King: What a strang old guy! Don't come too close to me.
+Lee: Heh heh, before I get close to you, my talons will rip you up.
+
+King: If youse don't wanna get hoist, act like yogurt and flow.
+Eiji: You're good with words, but your metaphors need help!
+
+King: Mickey, it has been a while since I kicked in your teeth.
+Mickey: You're one loud chick. I'm gonna teach you the joys of silence.
+
+King: The famous mad seaman. It's shoretwave time for you, come!
+John: If any other lady said that I would be happy, not sick!
+
+King: You can't win. Hey, are you listening to me?
+Temjin: Heh! Sorry, I kind of drifted off there. Oh... sorry! Go ahead!
+
+King: Big! Well, it was fun in the past, but now, I'm a free agent.
+Mr. Big: Heh heh, no hard feelings, King. I don't care, not! Die!
+
+---------------
+Winning poses:
+---------------
+Against King: The original King lives. Waaooh!
+1)Whoops! I got a little too enthused. Are you okay?
+2)I'm a woman. Feel my kick and moan.
+
+----------------------------
+Before The Fight With Geese:
+----------------------------
+Geese's Bodyguard: Ah, Mr.? Ms. King? The police commissioner would like 
+a word with you. Could you walk this way?
+King: Why? With such fine escorts. Who could refuse?!
+
+-----------------
+Vs. Geese Howard:
+-----------------
+Geese: King! Enchanter... you're as charming as ever.
+King: Before you start your woo... tell me your name, slick!
+
+Geese: Oh, forgive me. Geese, Geese Howard... I have brought you here to 
+offer you a proposition you can't refuse.
+King: Well, since you put it that way, I guess I should refuse, see you! 
+Later, wet head, or better yet...
+
+------------------------
+After King defeats Geese:
+------------------------
+King: What a breeze! Buzz off, boob!
+Geese: Heh! It's all over.
+
+King: What! I don't believe it!
+Geese's Bodyguard: This way, Mr. Geese.
+Geese: I have lost this time, but I'll be back. For now my farewell...
+
+King: Get back here! You weasel slime!
+
+-------
+Ending:
+-------
+Jan: Sis!
+King: Jan, you can walk!! Oh, I'm so happy, but now!
+
+Jan: I had an operation, now I can walk... see!
+King: But how did you get the operation? Who?!
+
+Jan: Those two paid for it.
+Robert: We have paid our debt. Later...
+Ryo: A wise investment
+King: Thank you! Oh, I could kiss you both... oh, maybe not... thank 
+you!
+
+Jan: You promised me to take me somewhere when I could walk!
+King: You''re right! I promised. Where shall we go Jan?
+
+======================================================
+
+-----
+Name: Temjin (The Titan Of The Tundra)
+-----
+Age: 34 
+-----
+Height: 150cm
+-----
+Weight: 85kg
+-----
+Blood Type: A
+-----
+Country: Mongolia 
+-----
+Style: Mongolian Wrestling   
+-----     
+Voice Actor: Yoshinori Shima 
+-----
+Stage: Port Town Docks
+-----
+
+Story: 
+  The one and only Mongolian dock worker at the Southtown port, Tem 
+resigned himself to a period of menial work as a manure loader. Finding 
+the job 25 bucks and hour. Tem stayed on, earning money for the small 
+school in Mongolia where he dreams of teaching one day. A pure heart who 
+fights for the good of others.
+
++++++++++++++
+Command List:
++++++++++++++
+1)Mongolian Tornade Dive: Half circle forward + A
+-
+2)Mongolian Thunder Drop: Near opponent... Half circle backward + A 
+(Neutral position) 
+-
+3)Big Discus Bash: Near opponent... Half circle backward + B (same as 
+before)
+-
+4)Wall of No Return: Quarter circle forward + A
+-
+5)Mongolian Renbu-Ken: Quarter circle backward + A
+
++++++++++++
+Super Move:
++++++++++++
+6)Super Mongolian Fire Tuckle: Backward, forward, half circle forward + 
+A
+
+++++++++++++++++++
+Hidden Super Move: 
+++++++++++++++++++
+7)Mongolian Temjin-Renbu: Half circle backward, forward, forward/down, 
+down + A+C
+
+++++++++++++++
+Beating Geese:
+++++++++++++++
+  Ladies and gentlemen, this fight is one of the best in the game. The 
+strategy here is so deep and anyone who could go with this strategy and 
+get perfect, I am sure he will say as I said. 
+
+  Temjin has a throw that cannot be recovered, which is down/backward or 
+down/forward + C. It is better than backward or forward + C.
+
+  So when the fight begins, DO NOT jump back, because Temjin's A+C will 
+not take out Geese's Flying Sawblade Slicer. His hand is shorter than 
+Geese's. So, you must do his Mongolian Tornade Dive VERY FAST when the 
+match starts, Geese will surely raz you. So if you do not do it fast, 
+you will get hit by his Reppu Ken and lose your chance to get perfect, 
+because the start is very important. 
+
+  So when you do his Mongolian Tornade Dive, you will not be able to hit 
+him because you will be just near him and he is going to tease you. So, 
+the trick is to get near him then fast down/forward + C to throw him, 
+then run to get near him and do Wall of No Return. He will be dizzy, you 
+can do this over and over again until he dies.
+
+  If it is hard, then do the normal throw then run to him, if he did not 
+recover then run and Wall of No Return... perform it near him and very 
+near, because if you do not then he will crouch hard kick and you will 
+trade hit and lose the perfect. So very near to make him dizzy and then 
+do it over and over again.
+
+  If he recoves, fast run then crouch hard kick... here he will either 
+defend it or not, if not then run again and throw him to do the above 
+method. If he defended the crouch hard kick, then you MUST do either Big 
+Discus Bash or Mongolian Thunder Drop to grab him right after his 
+crouching hard kick. So you do crouching hard kick and then Mongolian 
+Thunder Drop or Big Discus Bash to grab him, if Geese did not defend 
+then he will not grab him and if he did then he will grab him. 
+
+  Yes, Temjin can grab you if you defend his normals... also, he can 
+grab after his Super move is defended. Pretty much scary. His Big Discus 
+Bash takes a lot of damage, can finish off the opponent if performed 
+three times and on Geese four times. 
+
+  If you suck pretty much and you are so lously, then only defend and 
+when Geese performs Flying Sawblade Slicer, defend it and then grab him 
+and do Super Mongolian Fire Tuckle, if he defends Super Mongolian Fire 
+Tuckle, then do Big Discus Bash right away. And do this over and over, 
+when you have a little life bar left, wait again and when he uses his 
+Flying Sawblade Slicer, grab him then do Mongolian Temjin-Renbu. When 
+Geese is far away, take your time to recharge, and when he jumps, do not 
+do A+C, but do Wall of No Return. Pretty much easy.
+
+  Temjin will not be able to perform Super Mongolian Fire Tuckle and 
+Mongolian Temjin-Renbu when he loses his Rage Gauge. And can perform all 
+his Special Moves. Geese will not defend Wall of No Return, Super 
+Mongolian Fire Tuckle and Mongolian Temjin-Renbu and will always defend 
+Mongolian Tornade Dive and Mongolian Renbu-Ken. 
+ 
+  Be fully careful here, Geese performs his Special Move, Hard Blow, A 
+LOT. So, focus on the strategy if you do not want to get kicked. 
+
+++++++++++++++++++++
+Perfect Possibility:
+++++++++++++++++++++
+  The strategy will be pretty much complicated for those who do not like 
+Temjin and not used to choose him. But it is a very fun and good 
+strategy to beat Geese. With the above strategy, you can get perfectwith 
+having fun and doing something very hard to do. 
+
+  The possibility to get perfect is 85%
+
+-------
+Intros:
+-------
+Temjin: Oh no, a clone! Talk about your occult phenomena!
+Temjin: It's a wild world we live in, huh?
+
+Temjin: Whenever you are ready, you small yuppy, you!
+Ryo: What! Nervous? Resorting to silly insults won't save you!
+
+Temjin: Wow, you're one stylish dude. I'm impressed!
+Robert: Well, what can I say? I'm cool, stylish and... sniff... unloved!
+
+Temjin: A girl? You can't hope to oppose me, oh!
+Yuri: Hah hah hah hah... what a haircut... hah hah hah hah... what a 
+bozo.
+
+Temjin: Karate? It's no use... I don't know Karate, you won't win!
+Takuma: Yes, but I know Karate and I'll win!
+
+Temjin: I sense a feeling of death here. I must be careful.
+King: If you keep fiddling around, I'm gonna kill you!
+
+Temjin: Taste the rage coursing through my blubber.
+Eiji: I'm sure that there will be much to taste, pork belly!
+
+Temjin: A boxer! I wish I was a boxer, teach me... huh? Teach me!
+Mickey: Okay... you can study after you come out of traction.
+
+Temjin: Whoa, another dandy! You sure know your style.
+John: Heh heh, thanks! But I'm still going to crush you!
+
+Temjin: Oh no, the ultimate enemy! What a power house!
+Jack: Stop it! You're embarrassing me to no end!
+
+Temjin: The masked avenger rides again! Hah hah, what a fluster!
+Lee: Keee! Shut up, weed head!
+
+Temjin: No fair using things like that to fight me!
+Mr. Big: Hey, we have already begun, watch yourself.
+
+---------------
+Winning poses:
+---------------
+Against Temjin: I can't help feeling we have met before. Oh, I need a 
+nap.
+1)Maybe I should have become a teacher, I'm getting bored.
+2)All those looks and all that money, and still a wimp! Tragic!
+
+----------------------------
+Before The Fight With Geese:
+----------------------------
+Geese's Bodyguard: Mr. Temjin? The police commissioner would like a word 
+with you. Could you walk this way?
+Temjin: Whoa! You bet! Nice car here. Are we taking this? Cool!
+
+-----------------
+Vs. Geese Howard:
+-----------------
+Geese: The mysterious Mongolian!
+Temjin: The... hey! Who are you? Is this heaven?
+
+Geese: No, my confused friend. I'm the one and only Geese Howard. I have 
+brought you here...
+Temjin: Thanks... ohhh, look at the time! Gotta get going.
+
+---------------------------
+After Temjin defeats Geese:
+---------------------------
+Temjin: How about that?! Mongol magic!
+Geese: Heh, it's all over!
+
+Temjin: Uuuooh! What's this?
+Geese's Bodyguard: This way, Mr. Geese.
+Geese: I have lost this time, but I'll be back. For now my farewell!
+
+Temjin: Where are you off to? Wait!
+
+-------
+Ending:
+-------
+Tem Buster: Good morning, principal Temjin.
+Temjin: Morning, Tem Buster. I just love kids, so innocent and sweet.
+
+Tem Buster: Waa! What a strange haircut! Wah hah hah!
+Kids: Principal has a weird head... principal has a weird head...
+Temjin: You little demons! Make fun of me, will you!
+
+======================================================
+
+-----
+Name: Eiji Kisaragi (The Mysterious Manipulator Of Ninja Arts)
+-----
+Age: 26
+-----
+Height: 172cm
+-----
+Weight: 70kg
+-----
+Blood Type: 
+-----
+Country: Japan
+-----
+Style: Kisaragi Ninjutsu 
+-----     
+Voice Actor: Yoshinori Shima 
+-----
+Stage: Airport
+-----
+
+Story: 
+  Master of the ancient ways of the ninja and sworn enemy of the 
+Sakazaki clan whose devotion to the school of Kyoku Gen school of Karate 
+is an insult to Kisaragi's being. An enigmatic soul who thirst for 
+revenge, and a glance of his former love, lost to the arms of a long-
+haired blond guy. But such is life.
+
++++++++++++++
+Command List:
++++++++++++++
+1)Ki Kou Hou: Quarter circle forwrad + A
+-
+2)Ryu Kei Jin: Down, up + A
+-
+3)Kasumi Kiri: Quarter circle backward + A
+-
+4)Pegasus Kick: Down/backward, forward + B
+-
+5)Koppakiri: Forward, backward, forward + A
+-
+6)Kisaragiryu-Renbu-Ken: Quarter circle backward + B
+
++++++++++++
+Super Move:
++++++++++++
+7)Steel Cutter Wave: Half circle forward, half circle backward + A
+
+++++++++++++++++++
+Hidden Super Move: 
+++++++++++++++++++
+8)Zantetsu Touro Ken: Half circle forward, down/forward, down + B
+
+++++++++++++++
+Beating Geese:
+++++++++++++++
+  This fight is pretty tough for Eiji to get perfect, be there is a very 
+hard starategy to get perfect.
+
+  Anyway, when the match starts, Geese will throw a Reppu Ken if you do 
+not move, do fast Steel Cutter Wave when the match starts. Then go grab 
+him, if he recovers then do either Kasumi Kiri or Ryu Kei Jin, do not... 
+and I mean DO NOT do his Ki Kou Hou if he recovers from the throw... 
+because he sometimes defends it... and when he defends it, he will do 
+crouching hard kick and you really do not want him to do that, do you?
+
+  If he did not recover from the throw, fast do his Ki Kou Hou... Geese 
+will get dizzy. Then do Steel Cutter Wave, run and then grab him and 
+then recharge when he recovers from the throw, and if did not then fast 
+run and do Ki Kou Hou. Do not bother when he hits you... just defend and 
+then when you have a little life bar left... grab Geese after he 
+performs Flying Sawblade Slicer, then do Zantetsu Touro Ken. Do it fast 
+because sometimes Geese break it by his crouching hard punches. 
+
+  Eiji cannot perform Zantetsu Touro Ken, Steel Cutter Wave when he 
+loses his Rage Gauge. Geese will not defend Ki Kou Hou (sometimes), Ryu 
+Kei Jin, Kasumi Kiri, Steel Cutter Wave, Zantetsu Touro Ken. And will 
+defend if you do Pegasus Kick, Koppakiri and Kisaragiryu-Renbu-Ken. 
+
+++++++++++++++++++++
+Perfect Possibility:
+++++++++++++++++++++
+  If you want a sure perfect to beat Geese. Then when the match begins, 
+fast do Steel Cutter Wave and Geese will throw a Reppu Ken at you, but 
+the Steel Cutter Wave will hit him, then wait for him to throw another 
+Reppu Ken and then break it by your crouching light kick and stay. He 
+will recharge and then do it over, over and over again. Just do the 
+same... so he throws a Reppu Ken then you break it by crouching light 
+kick, then he will recharge and throw another Reppu Ken and you will 
+break it again by your crouching light kick and so on.
+
+  Sometimes he gets very mad at the end of the match and gets a little 
+near you to throw his Reppu Ken, do not worry. Continue with the same 
+method and in the last five seconds he will get very near and perform 
+many Reppu Kens without charging, so just stay calm and crouching light 
+kick to each Reppu Ken. But he does not go off like this so much... so 
+do not worry. You just have to hit him with your Steel Cutter Wave then 
+break all the Reppu Kens with your crouching light kicks. 
+
+  The possibility to get perfect is 43% 
+
+-------
+Intros:
+-------
+Eiji: A guy I can relate to!
+Eiji: You bet you can. Now, let's go!
+
+Eiji: At last, I've found you Sakazaki.
+Ryo: That's my name, don't wear it out.
+
+Eiji: Those who have faced me never live to tell the tale.
+Robert: It's probably your breath. Whoo baby.
+
+Eiji: I have no interest in injuring a lady.
+Yuri: Me too. Let's go home.
+
+Eiji: Come learn the meaning of excruciating pain.
+Takuma: So you think what excruciating means, huh?!
+
+Eiji: Yes. Finally, full contact with a fabulous babe.
+King: Watch your blood pressure, ninja boy!
+
+Eiji: A Mongolian sumo wrestler. I have heard it all.
+Temjin: Everyone is a comedian! Come on, you pansy.
+
+Eiji: Must I always meet up with these psycho military dudes?!
+John: Must I always meet up with these ninja wanna-be?!
+
+Eiji: You have the technique of a mosquito on a cool day!
+Mickey: What the heck does that mean, muzzle face?!
+
+Eiji: Try to read my movements and know the skill of ninja.
+Jack: Oh, shut up. I read your movements before!
+
+Eiji: The legendary Kempo master. Can you defeat me?
+Lee: I'm gonna turn you into shark bait, buster!
+
+Eiji: Oh, great. A guy with a pole. Very freudian.
+Mr. Big: I'm a Jungian myself. Now to knock your super-ego off.
+
+---------------
+Winning poses:
+---------------
+Against Eiji: You fought well my friend. I admire your spunk.
+1)What a slimy guy. Wash your face off and enter like a gent.
+2)You got style, Bobbie-boy. But not much else!
+
+----------------------------
+Before The Fight With Geese:
+----------------------------
+Geese's Bodyguard: Mr. Eiji Kisaragi? The police commissioner would like 
+a word with you. Could you walk this way?
+Eiji: Whoooa! What a great welcome. I'm flattered.
+
+-----------------
+Vs. Geese Howard:
+-----------------
+Geese: Welcome, my little ninja boy. It's an honor to finally meet.
+Eiji: The honor is all yours, I'm sure. Who may you be?
+
+Geese: Forgive my rudeness. Geese... Geese Howard. I brought you here to 
+discuss... an alliance. An alliance between you and me.
+Eiji: Heh! You and me? I don't associate with maggots!
+
+---------------------------
+After Eiji defeats Geese:
+---------------------------
+Eiji: What's up? Given up so soon?!
+Geese: Heh, it's all over!
+
+Eiji: Eh! What the heck...?!
+Geese's Bodyguard: This way, Mr. Geese.
+Geese: I have lost this time, but I'll be back. For now my farewell!
+
+Eiji: Wow, no fair... escaping?!!
+
+-------
+Ending:
+-------
+Eiji: Kyoku Gen Karate wasn't all it seemed to be. I remain the 
+strongest, yet... I remain alone. Yes, alone. I'll train... I'll 
+fight... but also, I'll not love. Good night, Mai Shiranui. Wherever you 
+are!
+
+======================================================
+
+-----
+Name: John Crawley (The supersonic Psycho Flyboy)
+-----
+Age: 30
+-----
+Height: 182cm
+-----
+Weight: 76kg
+-----
+Blood Type: B
+-----
+Country: U.S.A
+-----
+Style: Martial arts and original style    
+-----     
+Voice Actor: Masaki Usui 
+-----
+Stage: Crawley's Air Field
+-----
+
+Story: 
+  Once a pilot of unparalleled skill, the marine took a air-to-air 
+missile to his eye. Unable to fly, the dejected pilot was driven to 
+drinking and unsociable behavior. Years later, he was drummed out of the 
+service after being implicated on gun running missions supplying the 
+evil, Mr. Big. Insisting he was framed, the dejected, former ruler of 
+skies now comes to Southtown to set history right.
+
++++++++++++++
+Command List:
++++++++++++++
+1)Mega Smash: Quarter circle forward + A
+-
+2)Flying Attack: Quarter circle backward + A
+-
+3)Spiral Leg Bomber: Down, up + B
+-
+4)Over Drive Kick: Quarter circle backward + B
+
++++++++++++
+Super Move:
++++++++++++
+6)Mega Smasher: Forward, half circle forward + A
+
+++++++++++++++++++
+Hidden Super Move: 
+++++++++++++++++++
+7)Atomic Smash: Forward, half circle forward + B+C
+
+++++++++++++++
+Beating Geese:
+++++++++++++++
+  John... heh, okay... a fact is a fact. John owns everyone if we talk 
+about fighting the CPU. He owns all for free and can get as many perfect 
+matches as he can with no trouble. He owns Mr. Big and Geese for free. 
+He is a powerhouse compared to them. But if vs. human, they own him for 
+free and eat him alive. 
+
+  I have many strategies to get perfect with John. Okay when the match 
+starts, jump back to avoid being hit by Geese's Reppu Ken, then Geese 
+will jump and then do standing hard kick... HERE, before he performs it, 
+run and grab him, BE SO FAST. Then everything will be easy from here. 
+the first method is, Geese will be falling in the corner where you want 
+him to be in. 
+
+  Before he gets up, do Spiral Leg Bomber... he will not defend it. Then 
+do it over, over and over again until he dies. This is the first method. 
+The second method is when he falls, get near him and do crouching hard 
+kick. He will not defend it... do it over, over and over again until he 
+dies. 
+
+  The third method is when he falls from your grab, go near him and then 
+crouching hard kick then grab him. If he recovers, then fast do 
+crouching hard kick and if not then do Mega Smash. He will get dizzy, do 
+the same thing over and over again until he dies. 
+
+  The fourth method is when you grab him do Mega Smash if he did not 
+recover and then Mega Smasher, then always crouching hard kick. And if 
+he recovered from the throw then do Mega Smasher and then always keep up 
+with the crouching hark kicks until he dies. 
+
+  The last well-known method is when the match starts, fast do Spiral 
+Leg Bomber. He will do Reppu Ken... you will not hit each other, you 
+will find yourselves near each other. Fast, crouch and then hard kick 
+then run backward and crouch... he will throw Reppu Ken, then break it 
+by your crouching light kick. And he will recharage and do the same 
+thing again and you just keep up with breaking his Reppu Kens with your 
+crouching light kick until the match finishes. 
+
+  Geese will ne defend Mega Smash, Spiral Leg Bomber, Mega Smasher (low) 
+and Atomic Smash (sometimes). And will defend Atomic Smash (sometimes), 
+Over Drive Kick, Flying Attack and Mega Smasher (mid and high). John 
+will not be able to perform Atomic Smash and Mega Smasher when he loses 
+his Rage Gauge.
+
+++++++++++++++++++++
+Perfect Possibility:
+++++++++++++++++++++
+  See? John is pretty easy to use and so easy to beat all the CPU 
+fighters with many perfect matches (if not all). If you want to reach 
+Geese so fast, then choose John.
+
+  The possibility to get perfect is 100%  
+
+-------
+Intros:
+-------
+John: One John Crawley is enough in this crazy world.
+John: Hey, one is the loneliest number that you will ever know, pal!
+
+John: I'm going to teach you the true terrors of physical contact.
+Ryo: Thanks, sea boy. I should always keep up on my studies.
+
+John: What's wrong, sonny... corporal got your tongue?!
+Robert: Don't be silly. Hey, are those sunglasses expensive?!
+
+John: You're good, but you aren't in my league.
+Takuma: That's right! I gave up the bush league years ago.
+
+John: Hey, girls who fight can't get boyfriends.
+Yuri: That's okay! With boys like you, I don't need one.
+
+John: Hey, you're a woman! Go back to the kitchen, babe!
+King: Face it, sea boy! You're in love with me, right? Kiss... kiss.
+
+John: If you fear not this blue blaze of terror, attack and burn.
+Temjin: Whoops! Dozed off again. Could you repeat that once again?
+
+John: I have heard the ninja are very clever!
+Eiji: Yup. Oh, look...! Your shoe is untied!
+
+John: Nice footwork and a fine build. Marry me, you fool!
+Mickey: Ooh, yuch. I'm gonna bust you up good.
+
+John: Oh boy! A victim to try my new move on.
+Jack: Don't make me laugh. The new army is old hat.
+
+John: I've seen too many jungle Monkeys. I hate Monkeys, die!
+Lee: Hyo hyo hyo! I'm going to show you the terror of Monkey rage.
+
+John: Well, Big. I have to defeat you. Sorry!
+Mr. Big: Don't be. I'm not worried because you can't! Hah hah.
+
+---------------
+Winning poses:
+---------------
+Against John: You were quite good, but lack identity... nice sunglasses!
+1)Will the disappointment never ends? Wimps all!
+2)I've smelled napalm in the morning, you didn't scare me!
+
+----------------------------
+Before The Fight With Geese:
+----------------------------
+Geese's Bodyguard: Mr. John Crawley? The police commissioner would like 
+a word with you. Could you walk this way?
+John: Really?! Party, dude. Let's go. Can I drive?
+
+-----------------
+Vs. Geese Howard:
+-----------------
+Geese: Corporal John Crawley.
+John: Nice digs ya got here. Am I on a hidden camera show?
+
+Geese: Always the cool one. I'm known as Geese Howard. I offer you work 
+in my outfit. How about it?
+John: Thanks, but I quit the outfit, the blood, pain and cries of the 
+young... we are fun, but it's time for peace, for love... die!
+
+---------------------------
+After John defeats Geese:
+---------------------------
+John: What a cake walk for me! I've won it all!
+Geese: Heh, it's all over!
+
+John: Eh! What the heck...?
+Geese's Bodyguard: This way, Mr. Geese.
+Geese: I have lost this time, but I'll be back. For now my farewell!
+
+John: Get back here! You weasel slime!
+
+-------
+Ending:
+-------
+John: Whew! Just as I thought, hands down... the winner... hey? General 
+Thundertrunks! What are you doing here?
+General: John, the president's canary is being held hostage in Syria. 
+Only you can save poor tweeter. How about it? One more time!
+
+John: General, I'm touched. However, the life of warrior-patriot isn't 
+for me. It's tempting, but I say no.
+General: John, do I have to wait all day? Hurry up! Hurry up or I'll 
+leave you behind!
+
+John: Wait, snuggle buns. Sorry, general... hasta la vista.
+General: John, think of poor tweeter! Wait!
+
+======================================================
+
+-----
+Name: Mickey Rogers (The Tragic Champ From The Lower East Side)
+-----
+Age:  27
+-----
+Height: 189cm
+-----
+Weight: 80kg
+-----
+Blood Type: A
+-----
+Country: U.S.A
+-----
+Style: Boxing  
+-----     
+Voice Actor: Key Inage 
+-----
+Stage: Boxing Gym
+-----
+
+Story: 
+  To escape a life of abject poverty, Mickey sought the crown of 
+heavyweight boxing. A freak accident sidelined his hopes, sending the 
+Mickster back to the means treets. After paying his dues to the society 
+that scorned him, Mickey looks for a new shot at the title and has 
+entered the contest to polish his technique.
+
++++++++++++++
+Command List:
++++++++++++++
+1)Burning Upper: Quarter circle forward + A
+-
+2)Rolling Upper: Quarter circle forward + B
+-
+3)Chopping Right: Quarter circle backward + B
+-
+4)Crazy Upper: Down, up + A
+-
+5)Combination 1: Half circle backward + A
+-
+6)Combination 2: Quarter circle backward + A+C
+
++++++++++++
+Super Move:
++++++++++++
+7)Comet Gale: Forward, half circle forward + A
+
+++++++++++++++++++
+Hidden Super Move: 
+++++++++++++++++++
+8)Rush Bomber: Quarter circle backward, down/backward, down + A
+
+++++++++++++++
+Beating Geese:
+++++++++++++++
+  The little Mickey is no less than his friend, John. But John is the 
+master of beating the CPU. 
+
+  Mickey's grab cannot be recovered because he punches you. So, he is 
+good. And Mickey has an infinity. A very handy thing. 
+
+  When the match starts, fast jump back to avoid the Reppu Ken, Geese 
+will jump and then standing hard kick, here, you have to run and grab 
+him before he hits with his standing hard kick. Then when you grab him, 
+run again before he gets up and then grab him again... or you can walk 
+and then before he gets up, grab him. You have to time everything to 
+perfect it. It is a very good infinity. This is a sure perfect. 
+
+  You can grab him and then do Rolling Upper over and over again until 
+you lose your Rage Gauge, and then run to grab again until he dies. And 
+you can have fun by doing one time Rolling Upper and then grab... then 
+Comet Gale and then grab. Have fun and you still will get perfect. The 
+only trouble that Mickey has, is that he cannot break the low Special 
+Moves. Like Geese's Reppu Ken... he must do the Rolling Upper in order 
+to break it. 
+
+  Mickey will not be able to perform Comet Gale, Rush Bomber and Crazy 
+Upper when he loses his Rage Gauge. Geese will not defend Rush Bomber, 
+Comet Gale, Burning Upper and Rolling Upper (sometimes). He will block 
+Chopping Right, Crazy Upper, Combination 1 and Combination 2.
+
+++++++++++++++++++++
+Perfect Possibility:
+++++++++++++++++++++
+  Who is idiot enough not to get perfect in this match?
+  
+  The possibility to get perfect is 100%  
+
+-------
+Intros:
+-------
+Mickey: Hey, I've seen you before! Gee, you're ugly.
+Mickey: This line has been said before, be original... clone boy!
+
+Mickey: Hey, boy. I hope you can avoid my death punch. Now chill, dude.
+Ryo: I'm okay. I just never met a valley boxer before.
+
+Mickey: Don't think of my punch as dangerous... think that it's a gift.
+Robert: All in all. I would rather have a nice tie!
+
+Mickey: This is no place for a child, but you're kind of cute.
+Yuri: Thanks! I'll remember that... I'll remember that when I kick you, 
+senseless.
+
+Mickey: Ring the bell now because this will be over quick.
+Takuma: Quite an ego for a tenth rate amateur.
+
+Mickey: King, my mixed up little friend returns. I must break you, 
+toots.
+King: You got a big mouth for an amateur, Mickey.
+
+Mickey: What do you think of my punch? Scary, huh?
+Temjin: It's not your punch, it's your breath. Whew baby!
+
+Mickey: If you go home now, I won't tell your mommy.
+Eiji: If I kill you, you still won't tell her, slick!
+
+Mickey: Well, boss. It's come to this, at last I did it my way...
+John: Hard knocks. I've had my shore... oh, enough. Let's battle.
+
+Mickey: Hey, it's the walking punching bag. Back for a return trounce?
+Jack: Ha ha ha. The boxing comic speaks. Ho ho ho... funny? Not!
+
+Mickey: Your speed or my punch... which shall prevail?
+Lee: Hmmm, let me get back to you on that.
+
+Mickey: With those twigs... do you think you can win?
+Mr. Big: Coming from a pug like you... oh, I forgot my witty retort.
+
+---------------
+Winning poses:
+---------------
+Against Mickey: The end was for egone. I'm just too totally terrific.
+1)You did quite well for a corpse, my friend. Rest in peace.
+2)Thanks for the fight. You made a swell punching bag.
+
+----------------------------
+Before The Fight With Geese:
+----------------------------
+Geese's Bodyguard: Mr. Mickey Rogers? The police commissioner would like 
+a word with you. Could you walk this way?
+Mickey: Okay, but I need to be back at the gym by six! Training.
+
+-----------------
+Vs. Geese Howard:
+-----------------
+Geese: Why? It's Mickey Rogers, swell.
+Mickey: Who are you, duck face?
+
+Geese: That's goose face, relax. My name... my name is Geese Howard. I 
+offer you a little help in becoming the king of the realm of boxing. How 
+about it?
+Mickey: Well, thanks a lot Goose. But I'm a rebel. A lone wolf who is 
+not dependent on silly-named guys.
+
+---------------------------
+After Mickey defeats Geese:
+---------------------------
+Mickey: Who's the muscle head now?!
+Geese: Heh, it's all over!
+
+Mickey: Eh! What the heck...?!
+Geese's Bodyguard: This way, Mr. Geese.
+Geese: I have lost this time, but I'll be back. For now my farewell!
+
+Mickey: You, scum! Are you letting him go?!
+
+-------
+Ending:
+-------
+  Da da daah da daah...
+
+Announcer: The next boxing champ of the world, Mickey the mauler!
+people: Yeah... yeah!
+
+Pops: Mickey, your opportunity is Heah. The little bout!
+Mickey: Really, Pops? No lie?
+
+Pops: Mick, this is it. Your final chance! Don''t blow it this time... 
+around I'm begging yes!
+Mickey: I promise, Pops. This time I'll do it for youse and everybody!
+
+=======================================================
+
+-----
+Name: Jack Turner (The Muscle Devil From Dairyland)
+-----
+Age: 27
+-----
+Height: 184cm
+-----
+Weight: 138kg
+-----
+Blood Type: O
+-----: U.S.A
+-----
+Style: Original style   
+-----     
+Voice Actor: Unknown
+-----
+Stage: Mac's Bar
+-----
+
+Story: 
+  Dreaded leader of the urban gang, the Neo Black Cats. Jack quests 
+forthe control of Southtown and its envirous. To reestablish his old 
+group, he must first win them back from the evil clutches and shiny pate 
+of Mr. Big.
+
++++++++++++++
+Command List:
++++++++++++++
+1)Knuckles of Fury: Quarter circle forward + A
+-
+2)Super Drop Kick: Down/backward, up/forward + B
+-
+3)Jack The Dynamite: Forward, backward, forward + A
+-
+4)Brain Shock Punch: Near opponent... Forward, backward, forward + B
+-
+5)Bomber Dance: Half circle backward + A
+
++++++++++++
+Super Move:
++++++++++++
+6)Super Hip Attack: Backward, half circle backward + B
+
+++++++++++++++++++
+Hidden Super Move: 
+++++++++++++++++++
+7)Hell Diving: Near opponent... Half circle backward + A
+
+++++++++++++++
+Beating Geese:
+++++++++++++++
+  The big fatty dumb guy is good against Geese too. 
+
+  Jack owns Geese for free because he can finish him off SO FAST and 
+with a very sure perfect. When the match starts Geese will do Reppu Ken, 
+and of course in that time you will do Super Drop Kick, Geese will not 
+defend. Then grab Geese before he gets up, he will most of the time not 
+recover... do Knuckles of Fury, he will get dizzy the do the same thing 
+over and over again until you see he has so little life bar left... then 
+do Super Hip Attack for fun. 
+
+  If he recovers, then run then crouching hard kick and continue with 
+the same above method. This is very methodic if you want a very fast 
+perfect. The fastest in the game. 
+
+  Another good method is when the match starts, do Super Drop Kick, then 
+fast run backward and then do it again. Geese will never defend it. You 
+then just have to do it over and over again until he dies. 
+  
+  Another well-known method is when the match begins, fast crouch and 
+Geese will throw a Reppu Ken at you, then break it by your crouching 
+light kick and stay. He will charge and then do it over, over and over 
+again. Just do the same... so he throws a Reppu Ken then you break it by 
+crouching light kick, then he will recharge and throw another Reppu Ken 
+and you will break it again by your crouching light kick and so on.
+
+  When the time at five seconds, fast when he performs his Reppu Ken, 
+just perform your Super Drop Kick and then run backward. 
+
+  Geese will not defend Super Drop Kick, Super Hip Attack and Hell 
+Diving. And will defend Jack The Dynamite, Bomber Dance and Knuckles of 
+Fury (but not after you grab him). Jack will ne be able to perform Super 
+Hip Attack and Hell Diving when he loses his Rage Gauge. His Brain Shock 
+Punch is a complete waste of time, so do not bother with it. 
+
+++++++++++++++++++++
+Perfect Possibility:
+++++++++++++++++++++
+  Even a 10 year kid can do the method I mentioned above to get perfect.
+
+  The possibility to get perfect is 100%
+
+-------
+Intros:
+-------
+Jack: Oh my god! My evil twin! Wait a minute, am I that ugly?!
+Jack: Who are you calling ugly, Jack? I got the looks, dude.
+
+Jack: Well then, which bone shall I rip off first? The arm? The leg?
+Ryo: That's which limb should I rip off first, Idiot! Limb...!
+
+Jack: Oh, relax. I'm not gonna kill you. Well, maybe won't!
+Robert: Who's nervous? I just had too many cups of the oljoe today.
+
+Jack: Oh boy, dessert! I don't wanna hurt you. So why not submit now?!
+Yuri: This story seems to get darker with each guy I meet... grim city!
+
+Jack: Karate artist... sounds not much strong!
+Takuma: You don't seem to know the art of Karate or grammer.
+
+Jack: King! You look more and more feminine with each year.
+King: Feminine? Why you really know how to hit a nerve, you pig!
+
+Jack: Oh, you! Well, this should be a breeze.
+Temjin: I like a man with confidence. Lightly broiled, that is!
+
+Jack: Pack up your stuff and go home, muzzle face!
+Eiji: Thanks for the advice, smelly. But I'm staying... coronary!
+
+Jack: Oh no, a former marine. I eat marines for breakfast.
+John: Well, then come and get it, lard butt!
+
+Jack: Ohhh, trickey Mickey the boxer boy. Eat my shoe... boob boob 
+bedoo.
+Mickey: Read a lot of Yeats, huh! The poet of Southtown, pansy!
+
+Jack: The flying monkey man comes back. How about some peanuts?
+Lee: Kee, kee. How about a talon up your strap, pal?! Kee! Kee!
+
+Jack: What do you want to do with such a big stick?
+Mr. Big: It's a weapon, fatty. That only I can handle!
+
+---------------
+Winning poses:
+---------------
+Against Jack: Will the phoney Jack please lie face down on the pavement.
+1)Cake walk, dude. Go back to your mother's apron strings.
+2)I thought you had guts, kid! But you only have a lousy wardrobe.
+
+----------------------------
+Before The Fight With Geese:
+----------------------------
+Geese's Bodyguard: Mr. Jack Turner? The police commissioner would like a 
+word with you. Could you walk this way?
+Jack: Well, okay. But it doesn't look easy!
+
+-----------------
+Vs. Geese Howard:
+-----------------
+Geese: What's up, Jack? Cat got your tongue?
+Jack: Hmm mmm! Heh, heh. Just kidding. Who are you?
+
+Geese: They call me Geese... Geese Howard. I'm here to offer you a job.
+Jack: A job? Oooh boy! But first I would like your skull!
+
+---------------------------
+After Jack defeats Geese:
+---------------------------
+Jack: Eat my fist, goose head!
+Geese: Heh, it's all over!
+
+Jack: Eh! What the heck...?!
+Geese's Bodyguard: This way, Mr. Geese.
+Geese: I have lost this time, but I'll be back. For now my farewell!
+
+Jack: You, scum! Are you letting him go?!
+
+-------
+Ending:
+-------
+Jack Do you here me, friends? No more shall we cower in the shadows. We 
+shall begin a new gang... the Neo Black Cats. I made it up. I'll be the 
+leader! You will all follow my bidding!
+Jack's Followers: Whooa... JAAACK, JAAACK!
+
+Jack: Little did Jack's followers realize the Neo Black Cats were to 
+become a creative dance group.
+
+======================================================
+
+-----
+Name: Lee Pai Long (The Legendary, Taloned Acrobat)
+-----
+Age: 67
+-----
+Height: 171cm
+-----
+Weight: 62kg
+-----
+Blood Type: O
+-----
+Country: Taiwan
+-----
+Style: Chinese Kempo    
+-----     
+Voice Actor: Key Inage 
+-----
+Stage: China Town
+-----
+
+Story: 
+  The master Of Masters of Chinese Kempo. Well-versed in the mysterious 
+ways of Chinese medicine, this fighter/doctor hides his identity with a 
+hideous (some say ridiculous) mask of the monkey god, Who Hee Shiree. 
+Planning to use the prize money from his contest to further his medical 
+research, Lee looks to this battle as his final bolt in the arena of the 
+boulevard battlers.
+
++++++++++++++
+Command List:
++++++++++++++
+1)Iron Talon Slice: Quarter circle forward + A
+-
+2)Hawk's Talon Dropping: Down, up + A
+-
+3)The Hundred Blows of Hurt: Forward, backward, forward + A
+-
+4)Kacyu Mowan Kick: Quarter circle backward + A
+
++++++++++++
+Super Move:
++++++++++++
+5)Super Talon Slice: Forward, half circle forward + A
+
+++++++++++++++++++
+Hidden Super Move: 
+++++++++++++++++++
+6)Flying Monkey Claw: Quarter Circle backward, half circle forward + A
+
+++++++++++++++
+Beating Geese:
+++++++++++++++
+  Lee suffers from Geese a lot. His moves do not work against Geese that 
+much. And Geese breaks all his moves easily. Also his Super Move and 
+Hidden Super Move do not work well if not used well, because Geese 
+breaks them with his crouching hard punches or light punches easily. I 
+do not know, but I think Geese hates Lee so much... like I do. 
+
+  I will give you the most hard and sure strategy to get perfect, 
+because it is very hard to get perfect with Lee. The hardest character 
+that can take on Geese with a very sure perfect... anyway, on with it.      
+
+  When the match begins, stand still... Geese will throw a Reppu Ken. 
+Just jump up to avoid it. Geese then will walk to you, walk to him and 
+easily grab him... then go backward and crouch... then he will do the 
+same thing over again, you just have to do the same. Keep this up until 
+he dies, but it will get difficult when the time runs out. He will 
+change his pattern. So, you only need to always back off and focus on 
+his movement. Or when you grab him, just go backward and wait for the 
+Reppu Ken then break it by crouching light kick and do the same until 
+the time runs out and you win.   
+
+  Geese does not block Hawk's Talon Dropping (sometimes). And he blocks 
+and punches Flying Monkey Claw (a lot of times, but if not it will hit 
+him), Super Talon Slice, Kacyu Mowan Kick, The Hundred Blows of Hurt and 
+Iron Talon Slice. Lee will not be able to perform The Hundred Blows of 
+Hurt, Super Talon Slice and Flying Monkey Claw when he loses his Rage 
+Gauge.
+
+++++++++++++++++++++
+Perfect Possibility:
+++++++++++++++++++++
+  Hey, kidding. ^_^ how about an easy way to beat Geese and get a sure 
+perfect? So, do not worry. How about telling you about it? 
+
+  When the match begins, Geese will throw a Reppu Ken, jump up to avoid 
+it... then he will walk to you, just walk to him and calmly grab. Then 
+walk to him and B+C when he gets up. Then grab him and walk to him then 
+B+C before he gets up and do this method over and over again until he 
+dies. 
+
+  Okay, okay... how about a very easy way? When the match begins, jump 
+up to avoid Geese's Reppu ken, then he will walk to you, just walk to 
+him and then grab him... then he will fall in the corner. WALK to him 
+then B+C, stand still and when he gets up, again B+C. Do this method 
+over and over again until he dies. Pretty damn cheap, eh?
+
+  Geese really breaks everything that Lee has, but still Lee has some 
+methods that can take him on. 
+
+  The possibility to get perfect is 95%
+
+-------
+Intros:
+-------
+Lee: Hey, I've seen you somewhere before! But where?!
+Lee: Oh, I have a brother! Too bad I have to slice him up!
+
+Lee: Hey, it's the Karate rug rat. I hate pests!
+Ryo: Oh no! Monkey face, go find an organ grinder, peanut head!
+
+Lee: Long time since we last met! And a new hairstyle too!
+Robert: That's it! No monkey-faced twit knocks my hairstyle.
+
+Lee: Another young lady to grapple with! Old age is fun.
+Yuri: Old guys sure have warped sense of reality, huh?
+
+Lee: You once fought my master, I'm not my master. I'm Lee!
+Takuma: Could you please explain the first part again?
+
+Lee: A beautiful face is so much more fun to mutilate. Let's begin!
+King: Geez, I thought the fat guy was weird. I want to go home.
+
+Lee: Does the tern julian fry mean anything to you?
+Temjin: Coming from a man in a monkey mask. I can't be too scared.
+
+Lee: You're about to taste my steel, ninja boy! Kookeeee!
+Eiji: I think you overestimate yourself, you silly man.
+
+Lee: Training in the army will not be sufficient for me.
+John: Are you saying I'm thick? I'm not... I'm not. Stu--stu--dumb!
+
+Lee: Considering the speed of your punch, this will be easy.
+Mickey: All I need is one punch and you're monkey meat loaf.
+
+Lee: Wow, this will be quite a job slicing you to edible portions.
+Jack: Haah! Do you think those will work against my mass?
+
+Lee: Razor sharp steel or wooden sticks. Who has the edge? Hmmmm!
+Mr. Big: Sticks or fists... I'll kick your monkey backside.
+
+---------------
+Winning poses:
+---------------
+Against Lee: It was close there. an awesome opponent. Kee! Kee!
+1)When this guy falls around, he really falls around. Kee!
+2)You were... in a word... pathetic!
+
+----------------------------
+Before The Fight With Geese:
+----------------------------
+Geese's Bodyguard: Mr. Lee Pai Long? The police commissioner would like 
+a word with you. Could you walk this way?
+Lee: Okay. Is there free food and Chinese beer?
+
+-----------------
+Vs. Geese Howard:
+-----------------
+Geese: Nee-how, Lee Pai Long.
+Lee: Hey, I'm an American, pal. Speak English. Why am I here?
+
+Geese: Why any of us here?! Really, I mean, it's all a mystery to me. 
+But I do like your style.
+Lee: Good, I'll show you more while I waltz on your belly. Kee!
+
+---------------------------
+After Lee defeats Geese:
+---------------------------
+Lee: Kee! Victory is mine!
+Geese: Heh, it's all over!
+
+Lee: Heeh! What? Kee keeee.
+Geese's Bodyguard: This way, Mr. Geese.
+Geese: I have lost this time, but I'll be back. For now my farewell!
+
+Lee: Leaving so soon? Wait!
+
+-------
+Ending:
+-------
+Lee: My days of battle are over. Time to return to my profession... for 
+now I'll work on my cure for the world's greatest problem. A problem so 
+boggling, so perplexing...
+
+  Later on... 
+
+News Paper: Pai Long cures hemorrhoids!
+
+======================================================
+
+-----
+Name: Mister Big (The Glittering Sultan Of Southtown)
+-----
+Age: 33
+-----
+Height: 187cm
+-----
+Weight: 81kg
+-----
+Blood Type: B
+-----
+Country: Australia (unconfirmed)
+-----
+Style: Stick fighting    
+-----     
+Voice Actor: Unknown 
+-----
+Stage: Parking Garage
+-----
+
+Story: 
+  The leader of the dreaded Southtown Boys Club, known for their terror 
+and powers of persuasion. Sensing a threat to his rule, Big has polished 
+his scalp and entered the seemingly sinister King Of Fighters contest. 
+What fowl secret awaits him at the end of his battles? Will his ambition 
+translate into his downfall? Hey! He is a bad guy. Who cares?!!!
+
++++++++++++++
+Command List:
++++++++++++++
+1)Ground Blaster: Quarter circle forward + B
+-
+2)Cross Diving: Half circle forward + A
+-
+3)Spinning Lancer: Backward, half circle backward + B
+-
+4)Dram Shot: Down/backward, forward + A
+
++++++++++++
+Super Move:
++++++++++++
+5)Blaster Wave: Half circle forward, backward + A
+
+++++++++++++++++++
+Hidden Super Move: 
+++++++++++++++++++
+6)Rising Spear: Near opponent... Quarter circle forward, half circle 
+backward + A
+
+++++++++++++++
+Beating Geese:
+++++++++++++++
+  Big Vs. Geese...! Doesn't this sound so evilish? One of the best 
+matches...
+
+  When the match begins Geese will throw Reppu Ken, so you fast do Cross 
+Diving, then when he gets up... grab him and then throw a Ground 
+Blaster. He will get dizzy, grab him again and then throw your Ground 
+Blaster and continue with this method until he dies and you get perfect.
+
+  There is another one, when the match begins jump up to avoid the Reppu 
+Ken. He will walk to you, just walk to him and then grab him and then 
+throw Ground Blaster to make him get dizzy... recharge and then do 
+Ground Blaster until you lose your Rage Gauge thern fast recharge, Geese 
+will only jump... if he does so, then A+C and then Ground Blaster again 
+until you lose your Rage Gauge... continue with this easy method until 
+hem dies. 
+
+  Geese does not block Ground Blaster, Dram Shot (most of the time) and 
+Rising Spear. He blocks Cross Diving, Spinning Lancer and Blaster Wave 
+(most of the time). Big will not be able to perform Rising Spear and 
+Blaster Wave when he loses his Rage Gauge. 
+
+++++++++++++++++++++
+Perfect Possibility:
+++++++++++++++++++++
+  A very easy and sure perfect to Big. 
+
+  The possibility to get perfect is 100%  
+
+-------
+Intros:
+-------
+Mr. Big: You sure have a lot of courage with that get-up there, pal!
+Mr. Big: How would you like a namchuk in your nose?
+
+Mr. Big: You're Ryo! Huh, I gonna pay you back for the last fight.
+Ryo: Great. It should come to about $ 7.500 for the dent el work.
+
+Mr. Big: The little guy from Italy. Huh, go home, sonny.
+Robert: I'm from Spain, curd. And don't bring nations into this, baldy!
+
+Mr. Big: Oooh, such a pretty opponent... shall we?
+Yuri: Yaah! Get away, cue ball. I hate bald men, yaah!
+
+Mr. Big: It has been a long time, Takuma. So now I'll kill you.
+Takuma: Gee, Big. What a touching to say you love me, hoo hoo!
+
+Mr. Big: If you wish to keep that face the way it is, go home!
+King: Thank you for your concern, but I won't be hurt.
+
+Mr. Big: Hmm, I can't quite figure you out! Chinese?! Japanese?!
+Temjin: I'm Temjin, the strongest in Mongolia.
+
+Mr. Big: Fighting gnats like you is a major pain in the...
+Eiji: I'm not a gnat! Think of me as a fly in your scalp ointment.
+
+Mr. Big: So this is our first time together?
+John: So? For you, this is the first and last time.
+
+Mr. Big: So you're John's friend? Show me your stuff.
+Mickey: You're Big, huh? Could you turn down the clear of your skull?!
+
+Mr. Big: To call you dumb would be an insult to dumb people!
+Jack: Wait a second! Are you saying I'm stupid?
+
+Mr. Big: Look, I don't have time to fight with taoists.
+Lee: I'm confucian and I have a lot of time.
+
+---------------
+Winning poses:
+---------------
+Against Mr. Big: You fought well! Who is your pal, baldy?
+1)I thought so! The power of my pole is positively preposterous!
+2)Just be grateful I didn't use my Plumber's helper, pal!
+
+----------------------------
+Before The Fight With Geese:
+----------------------------
+Geese's Bodyguard: Mr. Big? The police commissioner would like a word 
+with you. Could you walk this way?
+Mr. Big: Hmm, okay. I'll go with you, but I can't walk that way... bad 
+leg.
+
+-----------------
+Vs. Geese Howard:
+-----------------
+Geese: Big, I can't allow this independent behavior in my town. Now, I 
+must ask you to take a trip.
+Mr. Big: Your town? After all I did for you?! Washing your car, your 
+dog. Why you...!
+
+---------------------------
+After Mr. Big defeats Geese:
+---------------------------
+Mr. Big: Game over, big guy!
+Geese: Don't believe it for a second! Fool!
+
+Mr. Big: Eh! What the heck...?
+Geese's Bodyguard: This way, Mr. Geese.
+Geese: I have lost this time, but I'll be back. For now my farewell!
+
+Mr. Big: Leaving so soon, Geese?
+
+---------
+Ending 2:
+---------
+Bodyguard: Geese has been chased out of the city, boss Big.
+Mr. Big: Huuh, he's probably on his way to Wisconsin by now! With this, 
+I'll be the only leader in the syndicate.
+
+Bodyguard: Well, boss. What shall we perform first?
+Mr. Big: Take it easy. Let's kick back and have some joy... then...
+
+---------
+Ending 1: (if you do not reach Geese)
+---------
+Bodyguard: Boss, all of the contestants in the King of Fighters battle 
+have been defeated. We are the victors.
+Mr. Big: As I thought, now they are all running back to their mmomies 
+and licking their wounds. Life is
+great. We are the champions, my friend. And we will keep victorious till 
+the end. Wah hah haaaaah!
+
+======================================================
+
+Name: Geese Howard (The Kingpin Of Southtown)
+-----
+Age: 27 
+-----
+Height: 183cm
+-----
+Weight: 82kg 
+-----
+Blood Type: B
+-----
+Country: U.S.A
+-----
+Style: Kobojutsu and Hakkyokuseiken  
+-----     
+Voice Actor: Kong Kuwata
+-----
+Stage: Special Stage (Geese Tower) 
+-----
+
+Story: 
+  He's a former champion of the National Martial Arts of America. Before 
+he became a champion, people in the underground were afraid of him and 
+he was nicknamed "Lone Wolf Killer Geese". Underhandedly, he achieved 
+fame and authority in Southtown. He trained under every martial arts 
+master around. He became a brutal killer and it is rumored that he is as 
+strong as a demon! And now he is here to gather more and more young 
+strong fighters for his plans.
+
++++++++++++++
+Command List:
++++++++++++++
+1)Reppu Ken 
+-
+2)Flying Sawblade Slicer
+
++++++++++++
+Super Move:
++++++++++++
+3)Hard Blow
+
+++++++++++++++++++
+Hidden Super Move: 
+++++++++++++++++++
+4)Deadly Rave (makes the opponent dizzy, but it is blockable) 
+
+-------
+Ending:
+-------
+Bodyguard: Mr. Geese, we are entering Japanese air space.
+Geese: I see. How goes Southtown?
+
+Bodyguard: Everything is going as planned. Just F-A-B, B-I-G- G-U-Y.
+Geese: Tell me more. Don't spell it out.
+
+Bodyguard: O.K. whoops, sorry. Anyway, it seems that Jeff Bogard is 
+checking up on you and your actions. We don't know who this guy is!
+Geese: Take care of him. Rub him out, rub him off, got it? Out! Twit, 
+kill him and get me control of Southtown, I have invested too much in 
+this to see my plans ended. The city will be mine, all mine... wah hah 
+haaaah!
+
+=======================================================
+
+--------------------
+The Full Percentage:
+--------------------
+ So, you know what full percentage. But the percentage changes... it 
+depends if you want to play cheap, use a strategy or do anything to get 
+perfect (Perfect Fight Percentage)... or play and just kill Geese 
+without carrying about the perfect (Normal Fight Percentage). It will be 
+like this...
+
+===========================
+Beating Geese - Percentage:
+===========================
+Name      P.F.P.   N.F.P.
+===========================
+Ryo        64%      73%
+===========================
+Robert    100%      89%
+===========================
+Yuri       23%      67%
+===========================
+Takuma    100%      93%
+===========================
+King       98%      75%
+===========================
+Temjin     85%      88%
+===========================
+Eiji       43%      82%
+===========================
+John      100%     100%
+===========================
+Micky     100%     100%
+===========================
+Jack      100%     100%
+===========================
+Lee        95%      54%
+===========================
+Big       100%     100%
+===========================
+ 
+=====================================================
+
+-----------------
+Characters Order:
+-----------------
+ The order to reach everyone is not random. It depends on whom you 
+choose "first". It is fun to know who you will reach everytime, 
+depending on the first character you chose to fight against. Example, I 
+do not like Lee and I love King's theme, I fight him first and then I 
+will get King in the eleventh match. 
+
+  You just have to know the order so that you could make everything as 
+want it to be. Unfortunately Jack is the only one who does not seem to 
+appear in the last matches. He always appears in 2nd, and 3rd stage... 
+and one in 4th and one in 6th stage. 
+
+  The best order is Lee's... every fight after him seems to get more 
+better and greater. Anyway, see and decide. This will help you a lot to 
+reach Geese.
+ 
+==========
+CPU Order:
+=====================================================
+Name     Ry  Ro  Yu  Ta  Ki  Te  Ei  Jo  Mi  Ja  Le
+=====================================================
+Ryo      1   9   11  9   10  8   7   6   5   7   7 
+=====================================================
+Robert   7   1   8   11  11  9   9   10  7   5   6  
+=====================================================
+Yuri     2   5   1   3   3   10  3   5   6   6   3
+=====================================================
+Takuma   10  10  7   1   9   7   6   8   9   11  9 
+=====================================================
+King     9   2   9   10  1   6   11  11  4   4   11 
+=====================================================
+Temjin   11  3   6   6   7   1   10  2   10  10  8 
+=====================================================
+Eiji     6   8   2   8   8   4   1   9   2   3   5    
+=====================================================
+John     8   11  5   7   6   11  5   1   11  9   10   
+=====================================================
+Micky    5   4   10  4   4   5   4   7   1   8   2
+=====================================================
+Jack     3   6   3   2   2   3   2   3   3   1   4
+=====================================================
+Lee      4   7   4   5   5   2   8   4   8   2   1
+=====================================================
+Big      12  12  12  12  12  12  12  12  12  12  12   
+=====================================================
+Geese    13  13  13  13  13  13  13  13  13  13  13
+=====================================================
+
+======================================================
+
+--------------------
+Questions & Answers:
+--------------------
+  This section is for those who E-Mailed me about a thing or two about 
+Geese or some aspects, instead of e-mailing them back, I will answer 
+here so that nobody would ask the same questions again:
+
+=====
+Maha:
+=====
+Q: Hey there, Basoooly! Yer really somethin', ya 'no? This's one of da 
+best FAQs I've ever read in this site. No wonder ya like Geese! I got a 
+question... w'ere da ya put Geese in the da ranking? Over or under-
+rated?
+
+A: Thanks...! It is good sometimes to see people thanking me for what I 
+do for them! As for your question, well... it is stupid to make him 
+under anyone. He is on top of everybody with no exception. Mickey and 
+Mr. Big come in the fifth and sixth place after him. Yup, pretty much 
+good.
+
+======
+Tariq:
+======
+Q: Hey there, Basol! May you just tell us AGAIN how to reach Geese?
+
+A: Easy and simple, Trooq. Do not lose any round... and if you did, let 
+the 2nd player come in and then knock him out and continue. With Mr. 
+Big, if you lose one round (after you win the first round) you will 
+still be able to reach Geese. So, this is pretty much it. 
+
+=====
+URWN:
+=====
+Q: Hi, Mr. Basel. Do you still remember me? I have a question. Did 
+Takuma really kill Jeff Bogard? And if not, then how come he knows him? 
+And why most of they guys say so? I will take your word since you are 
+the best one I know that knows many things about this game!
+
+A: Yeah, I still remember you URWN (Your Worst Nightmare)! About your 
+question, NO! Takuma did not kill or have anything to do with Jeff 
+Bogard. Geese is the one who did it. SNK proved it in Fatal Fury Wild 
+Ambition. Even in the first Fatal Fury's manual, it says Geese did. 
+
+  Those who say Takuma did are really drunk. In Art of Fighting, Geese 
+does not even know who Jeff was (read his ending in Art of Fighting 2). 
+Only on Nintendo, they screwed up everything, which I care not about. 
+But in the story of Art of Fighting Takuma had to fight his own son, 
+because he was forced to. His daughter was kidnapped for God's sake!
+
+  Read what happened in Art of Fighting 2 after "To Be Continued" in Art 
+of Fighting;
+
+  One year before...
+
+Yuri: Stop, Ryo. That guy with the big nose is...
+
+  Yes. The guy with the big beak was Ryo and Yuri's father! Takuma 
+Sakazaki who fled the dreaded Southtown syndicate and the powerful 
+figure who led this dreaded bunch of thugs. For his breaking of the 
+group code, Mr. Big kidnapped Yuri. Holding her histage to lure the 
+unsuspecting Mr. Karate, Takuma Sakazaki, into a trap involving Robert 
+and Ryo.
+
+  See? Takuma might (a big might) fought Jeff, but no way killed him. 
+And I am saying this only because Takuma said something about Jeff in 
+the King of Fighters'94... nothing else. Takuma is so pure, he cannot 
+kill a fly... unlike Geese who would kill his mother to reach what he 
+wants. 
+
+  Even after clearing everything in Wild Ambition and how Ryo got old... 
+still, I believe there is no connection between Art of Fighting and 
+Fatal Fury. The other thing they have in common is that they both have 
+the same tournament... which is The King of Fighters. 
+
+  If those guys are saying crap about this sensitive subject then let me 
+make many holes in their laughable theories:
+
+1)Geese entered the King of Fighters'96 and was aged, unlike the Art of 
+Fighting characters who were still young, may any explain this?
+
+2)In King of Fighters'96, the Art of Fighting team never cared about the 
+Boss team and did not say anything in their ending... did not they fight 
+Geese in Art of Fighting 2?
+
+3)Geese and Big seemed so friendly in King of Fighters'96, why did not 
+Big ask Geese; "Man, we were at the same age back in AoF, what happened 
+to you... you are over-aged!" instead of bullshitting about shotting 
+Geese, because he fooled him?
+
+  Puzzling, eh? Yup... no body cares! It should be in the 70's, but SNK 
+changed the timeline and placed the Art of Fighting characters at the 
+same age as the characters from Fatal Fury series (90's) to fit in the 
+King of Fighters series, but that does not change anything. It does not 
+ring a bell, because of Geese! Also, still, Ryo is aged in Fatal Fury: 
+Wild Ambition and Buriki One In Tokyo. So again, who cares?!
+
+=====================================================
+
+---------
+Fun Fact:
+---------
+  People seem to misunderstand many things. I just heard that SNK 
+screwed some endings when they translated them to English. Like Eiji's, 
+in the Japanese ending he was only training, but in the English ending 
+he was saying crap about Mai. 
+
+  I do not get it why the guys make it as if it is a big deal and as if 
+SNK screwed the ending! Wake up, smart heroes. Eiji REALLY has something 
+to towards Mai and AGAINST Andy Bogard... not because of the ending, but 
+because it seems that Andy kicked his sorry @$$ before... if you want a 
+powerful prove then read Eiji's background. He even appears in Mai's 
+backstage in Fatal Fury Special!
+
+  I cannot believe it, I waste my time on writing many important things, 
+and it seems nobody is reading! I feel so sorry. And who said "he's in 
+love" or anything? Even if SNK USA came up with it, I will go with them 
+since I do not understand Japanes, and I never cared to! 
+
+  I do not think either is wrong... I think we are the only ones to 
+blame since we come up with theories all the time! And that's a bull!
+
+=======================================================
+
+----------
+Last Word:
+----------
+  There you have it. If anything is wrong, just send mean E-Mail. Show 
+some respect for the hard work. 
+
+---------------
+Special Thanks:
+---------------
+1)To SNK.
+2)To Gamefaqs.
+3)To all my friends for the encouragement. 
+
+=======================================================
+Art of Fighting 2 is Copyright SNK Crop. This document Copyright 2003 
+Basel <Mr_Basel@yahoo.com>
+
+If you need to contact me to add or ask me about anything, E-Mail me at 
+Mr_Basel@yahoo.com or Mr_Geese@hotmail.com
+
+Credits for GameFAQs and SNK Crop.

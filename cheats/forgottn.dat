@@ -1,0 +1,132 @@
+[0]
+Name=Infinite Shop Time
+0=Disabled
+1=Enabled,FFE1D3,21
+Default=0
+
+[1]
+Name=P1 Inf Energy
+0=Disabled
+1=Enabled,FF9034,38
+Default=0
+
+[2]
+Name=P1 Invincible
+0=Disabled
+1=Enabled,FFB343,02,FFB38D,01,FF9034,C7
+Default=0
+
+[3]
+Name=P1 Inf Zenny*
+0=Disabled
+1=Enabled,FFE193,99,FFE192,99,FFE195,99
+Default=0
+
+[4]
+Name=P1 Equip Protecter
+0=Disabled
+1=Enabled,FFB385,09,FFB377,02
+Default=0
+
+[5]
+Name=P1 Equip Potion Of Resurrection
+0=Disabled
+1=Enabled,FFB386,01
+Default=0
+
+[6]
+Name=P1 Max Booster Level
+0=Disabled
+1=Enabled,FFB378,04,FFB38F,02
+Default=0
+
+[7]
+Name=P1 Max Flying Stone Level
+0=Disabled
+1=Enabled,FFE531,08,FFE2AE,08
+Default=0
+
+[8]
+Name=P1 Weapon
+0=Disabled
+1=Laser,FFCEE3,01,FFCF19,00
+2=Beam,FFCEE3,01,FFCF19,02
+3=Missile,FFCEE3,01,FFCF19,04
+4=Balcon Cannon,FFCEE3,01,FFCF19,06
+5=Napalm Bomb,FFCEE3,01,FFCF19,08
+6=V-Cannon,FFCEE3,01,FFCF19,0A
+7=Burner,FFCEE3,01,FFCF19,0C
+8=Multi-Way,FFCEE3,01,FFCF19,0E
+9=Bound Shot,FFCEE3,01,FFCF19,10
+10=Power Laser,FFCEE3,01,FFCF19,12
+11=Homing Laser,FFCEE3,01,FFCF19,14
+12=Firewall (Buggy),FFCEE3,01,FFCF19,16
+Default=0
+
+[9]
+Name=P2 Inf Energy
+0=Disabled
+1=Enabled,FF9054,38
+Default=0
+
+[10]
+Name=P2 Invincible
+0=Disabled
+1=Enabled,FFB393,02,FFB3DD,01,FF9054,C7
+Default=0
+
+[11]
+Name=P2 Inf Zenny*
+0=Disabled
+1=Enabled,FFE197,99,FFE196,99,FFE199,99
+Default=0
+
+[12]
+Name=P2 Equip Protecter
+0=Disabled
+1=Enabled,FFB3D5,09,FFB3C7,02
+Default=0
+
+[13]
+Name=P2 Equip Potion Of Resurrection
+0=Disabled
+1=Enabled,FFB3D6,01
+Default=0
+
+[14]
+Name=P2 Max Booster Level
+0=Disabled
+1=Enabled,FFB3C8,04,FFB3DF,02
+Default=0
+
+[15]
+Name=P2 Weapon
+0=Disabled
+1=Laser,FFCF33,01,FFCF69,00
+2=Beam,FFCF33,01,FFCF69,02
+3=Missile,FFCF33,01,FFCF69,04
+4=Balcon Cannon,FFCF33,01,FFCF69,06
+5=Napalm Bomb,FFCF33,01,FFCF69,08
+6=V-Cannon,FFCF33,01,FFCF69,0A
+7=Burner,FFCF33,01,FFCF69,0C
+8=Multi-Way,FFCF33,01,FFCF69,0E
+9=Bound Shot,FFCF33,01,FFCF69,10
+10=Power Laser,FFCF33,01,FFCF69,12
+11=Homing Laser,FFCF33,01,FFCF69,14
+12=Firewall (Buggy),FFCF33,01,FFCF69,16
+Default=0
+
+[16]
+Name=Stage Select
+0=Disabled
+1=Stage 1,FFB2B3,00
+2=Stage 2,FFB2B3,01
+3=Stage 3,FFB2B3,02
+4=Stage 4,FFB2B3,03
+5=Stage 5,FFB2B3,04
+6=Stage 6,FFB2B3,05
+7=Stage 7,FFB2B3,06
+8=Stage 8,FFB2B3,07
+9=Stage 9,FFB2B3,08
+Default=0
+

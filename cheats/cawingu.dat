@@ -1,0 +1,141 @@
+[0]
+Name=Infinite Time
+0=Disabled
+1=Enabled,FF800A,99
+Default=0
+
+[1]
+Name=P1 Invincible
+0=Disabled
+1=Enabled,FF8340,02
+Default=0
+
+[2]
+Name=P1 Inf Fuel
+0=Disabled
+1=Enabled,FF838C,70,FF838E,70,FF838D,00,FF838F,00
+Default=0
+
+[3]
+Name=P1 Inf Ammo
+0=Disabled
+1=Normal,FF83BA,99
+2=Special,FF83BA,FF
+Default=0
+
+[4]
+Name=P1 Inf Money
+0=Disabled
+1=Enabled,FF83B2,99,FF83B5,99
+Default=0
+
+[5]
+Name=P1 Inf Shield on Pickup
+0=Disabled
+1=Enabled,FF83DA,04
+Default=0
+
+[6]
+Name=P1 Max Weapon Level
+0=Disabled
+1=Enabled,FF83B1,05
+Default=0
+
+[7]
+Name=P1 Shot Type
+0=Disabled
+1=Yellow,FF83C9,00
+2=Blue,FF83C9,01
+3=Green,FF83C9,02
+Default=0
+
+[8]
+Name=P1 Weapon Select
+0=Disabled
+1=Dispenser (Level 1),FF83B0,01,FF83B7,01
+2=Dispenser (Level 2),FF83B0,01,FF83B7,03
+3=Dispenser (Level X),FF83B0,01,FF83B7,04
+4=Dispenser (Special),FF83B0,01,FF83B7,05
+5=Missile (Level 1),FF83B0,05,FF83B7,01
+6=Missile (Level 2),FF83B0,05,FF83B7,02
+7=Laser (Level 1),FF83B0,02,FF83B7,01
+8=Laser (Level 2),FF83B0,02,FF83B7,02
+9=Bomb,FF83B0,03,FF83B7,01
+10=Super Bomb,FF83B0,03,FF83B7,02
+Default=0
+
+[9]
+Name=P2 Invincible
+0=Disabled
+1=Enabled,FF8401,02
+Default=0
+
+[10]
+Name=P2 Inf Fuel
+0=Disabled
+1=Enabled,FF848C,70,FF848E,70,FF848D,00,FF848F,00
+Default=0
+
+[11]
+Name=P2 Inf Ammo
+0=Disabled
+1=Normal,FF84BA,99
+2=Special,FF84BA,FF
+Default=0
+
+[12]
+Name=P2 Inf Money
+0=Disabled
+1=Enabled,FF84B2,99,FF84B5,99
+Default=0
+
+[13]
+Name=P2 Inf Shield on Pickup
+0=Disabled
+1=Enabled,FF84DA,04
+Default=0
+
+[14]
+Name=P2 Max Weapon Level
+0=Disabled
+1=Enabled,FF84B1,05
+Default=0
+
+[15]
+Name=P2 Shot Type
+0=Disabled
+1=Yellow,FF84C9,00
+2=Blue,FF84C9,01
+3=Green,FF84C9,02
+Default=0
+
+[16]
+Name=P2 Weapon Select
+0=Disabled
+1=Dispenser (Level 1),FF84B0,01,FF84B7,01
+2=Dispenser (Level 2),FF84B0,01,FF84B7,03
+3=Dispenser (Level X),FF84B0,01,FF84B7,04
+4=Dispenser (Special),FF84B0,01,FF84B7,05
+5=Missile (Level 1),FF84B0,05,FF84B7,01
+6=Missile (Level 2),FF84B0,05,FF84B7,02
+7=Laser (Level 1),FF84B0,02,FF84B7,01
+8=Laser (Level 2),FF84B0,02,FF84B7,02
+9=Bomb,FF84B0,03,FF84B7,01
+10=Super Bomb,FF84B0,03,FF84B7,02
+Default=0
+
+[17]
+Name=Stage Select
+0=Disabled
+1=Stage 1,FF8500,00
+2=Stage 2,FF8500,01
+3=Stage 3,FF8500,02
+4=Stage 4,FF8500,03
+5=Stage 5,FF8500,04
+6=Stage 6,FF8500,05
+7=Stage 7,FF8500,06
+8=Stage 8,FF8500,07
+9=Stage 9,FF8500,08
+10=Stage 10,FF8500,09
+Default=0
+

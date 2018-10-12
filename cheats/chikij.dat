@@ -1,0 +1,149 @@
+[0]
+Name=Infinite Time
+0=Disabled
+1=Enabled,FF0F68,59
+Default=0
+
+[1]
+Name=Character Type
+0=Disabled
+1=Normal,FF0F74,00
+2=Flying,FF0F74,01
+3=Swimming,FF0F74,02
+4=Flying (Alt),FF0F74,03
+Default=0
+
+[2]
+Name=P1 Inf Lives
+0=Disabled
+1=Enabled,FF147A,03
+Default=0
+
+[3]
+Name=P1 Inf Health
+0=Disabled
+1=Enabled,FF14AA,40
+Default=0
+
+[4]
+Name=P1 Inf Magic
+0=Disabled
+1=Enabled,FF14D2,06
+Default=0
+
+[5]
+Name=P1 Invincible
+0=Disabled
+1=Enabled,FF149A,B4
+Default=0
+
+[6]
+Name=P1 Jump Shoes
+0=Disabled
+1=Enabled,FF14B3,01
+Default=0
+
+[7]
+Name=P1 Sword Level
+0=Disabled
+1=Level 1,FF14BE,00
+2=Level 2,FF14BE,01
+3=Level 3,FF14BE,02
+4=Level 4,FF14BE,03
+5=Level 5,FF14BE,04
+6=Level 6,FF14BE,05
+7=Level 7,FF14BE,06
+8=Level 8,FF14BE,07
+Default=0
+
+[8]
+Name=P1 Magic Type
+0=Disabled
+1=Bomber (Red),FF14B5,04
+2=Bomb (Yellow),FF14B5,06
+3=Tyhoon (Blue),FF14B5,08
+4=Bound (Green),FF14B5,0A
+Default=0
+
+[9]
+Name=P1 Helm Type
+0=Disabled
+1=None,FF14B2,00
+2=Flying,FF14B2,01
+3=Swimming,FF14B2,02
+Default=0
+
+[10]
+Name=P2 Inf Lives
+0=Disabled
+1=Enabled,FF153A,03
+Default=0
+
+[11]
+Name=P2 Inf Health
+0=Disabled
+1=Enabled,FF156A,40
+Default=0
+
+[12]
+Name=P2 Inf Magic
+0=Disabled
+1=Enabled,FF1592,06
+Default=0
+
+[13]
+Name=P2 Invincible
+0=Disabled
+1=Enabled,FF155A,B4
+Default=0
+
+[14]
+Name=P2 Jump Shoes
+0=Disabled
+1=Enabled,FF1573,01
+Default=0
+
+[15]
+Name=P2 Sword Level
+0=Disabled
+1=Level 1,FF157E,00
+2=Level 2,FF157E,01
+3=Level 3,FF157E,02
+4=Level 4,FF157E,03
+5=Level 5,FF157E,04
+6=Level 6,FF157E,05
+7=Level 7,FF157E,06
+8=Level 8,FF157E,07
+Default=0
+
+[16]
+Name=P2 Magic Type
+0=Disabled
+1=Bomber (Red),FF1575,04
+2=Bomb (Yellow),FF1575,06
+3=Tyhoon (Blue),FF1575,08
+4=Bound (Green),FF1575,0A
+Default=0
+
+[17]
+Name=P2 Helm Type
+0=Disabled
+1=None,FF1572,00
+2=Flying,FF1572,01
+3=Swimming,FF1572,02
+Default=0
+
+[18]
+Name=Stage Select
+0=Disabled
+1=Round 1,FF0F65,01
+2=Round 2,FF0F65,02
+3=Round 3,FF0F65,03
+4=Round 4-1,FF0F65,04
+5=Round 4-2,FF0F65,05
+6=Round 4-3,FF0F65,06
+7=Round 4-4,FF0F65,07
+8=Round 4-5,FF0F65,08
+9=Round 5,FF0F65,09
+Default=0
+

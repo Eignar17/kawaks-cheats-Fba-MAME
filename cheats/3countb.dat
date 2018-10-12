@@ -1,0 +1,16 @@
+[0]
+Name=Unlimited Time
+0=Disable,0,0
+1=Enable,ffA19E,49
+Default=0
+[1]
+Name=P1 Infinite Health
+0=Disable,0,0
+1=Enable,ff37A8,48
+Default=0
+[2]
+Name=P2 Infinite Health
+0=Disable,0,0
+1=Enable,ff38A8,48
+Default=0
+

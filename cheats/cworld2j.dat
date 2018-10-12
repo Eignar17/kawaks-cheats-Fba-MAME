@@ -1,0 +1,27 @@
+[0]
+Name=P1 Inf Vitality
+0=Disabled
+1=Enabled,FF11DA,05
+Default=0
+
+[1]
+Name=P2 Inf Vitality
+0=Disabled
+1=Enabled,FF14AA,05
+Default=0
+
+[2]
+Name=One Correct Answer Ends Quiz
+0=Disabled
+1=Enabled,FF10D6,00
+Default=0
+
+[3]
+Name=Good Answer
+0=Disabled
+1=Answer 1,FFEA02,00
+2=Answer 2,FFEA02,01
+3=Answer 3,FFEA02,02
+4=Answer 4,FFEA02,03
+Default=0
+

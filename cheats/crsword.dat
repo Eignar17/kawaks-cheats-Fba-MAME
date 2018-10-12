@@ -1,0 +1,74 @@
+[0]
+Name=Infinite Health
+0=Off,0,0
+1=P1 On,10405A,64
+2=P2 On,1040DA,64
+
+
+[1]
+Name=Infinite Golds
+0=Off,0,0
+1=P1 On,104066,FF,104067,FF
+2=P2 On,1040E6,FF,1040E7,FF
+
+
+[2]
+Name=Infinite Magic
+0=Off,0,0
+1=P1 On,10405D,63
+2=P2 On,1040DD,63
+
+
+[3]
+Name=Max Level and EXP
+0=Off,0,0
+1=P1 On,104063,0A,104064,E7,104065,03
+2=P2 On,1040E3,0A,1040E4,E7,1040E5,03
+
+
+[4]
+Name=Max Strength
+0=Off,0,0
+1=P1 On,104053,FF
+2=P2 On,1040D3,FF
+
+
+[5]
+Name=Max Bonus Points
+0=Off,0,0
+1=Stage Point,107150,FF,107151,FF
+2=Enemy Point,107152,FF,107153,FF
+3=Stage and Enemy Point,107150,FF,107151,FF,107152,FF,107153,FF
+
+
+[6]
+Name=Action Speed Up
+0=Off,0,0
+1=P1 On,104043,00,104044,02
+2=P2 On,1040C3,00,1040C4,02
+
+
+[7]
+Name=P1 Weapon Select
+0=Off,0,0
+1=Default,104069,00
+2=Mist Sword,104069,01
+3=Mist Sword Deluxe,104069,02
+4=Shield Axe,104069,06
+5=Shield Axe Deluxe,104069,07
+6=Thunder Sword,104069,09
+7=Secret Sword,104069,0B
+8=Fire Sword,104069,04
+
+
+[8]
+Name=P2 Weapon Select
+0=Off,0,0
+1=Default,1040E9,00
+2=Mist Sword,1040E9,01
+3=Mist Sword Deluxe,1040E9,02
+4=Shield Axe,1040E9,06
+5=Shield Axe Deluxe,1040E9,07
+6=Thunder Sword,1040E9,09
+7=Secret Sword,1040E9,0B
+8=Fire Sword,1040E9,04

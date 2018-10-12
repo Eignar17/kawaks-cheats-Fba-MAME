@@ -1,0 +1,270 @@
+[0]
+Name=Region
+0=Disabled
+1=Japan,FF81C8,00
+2=USA,FF81C8,02
+3=Hispanic,FF81C8,04
+4=Asia,FF81C8,06
+5=Euro,FF81C8,08
+Default=0
+
+[1]
+Name=Language
+0=Disabled
+1=Japanese,FF81CA,00
+2=English,FF81CA,02
+3=Spanish,FF81CA,04
+4=German,FF81CA,06
+5=French,FF81CA,08
+6=Italian,FF81CA,0A
+7=No Text,FF81CA,0C
+Default=0
+
+[2]
+Name=Infinite Time
+0=Disabled
+1=Enabled,FF8224,59
+Default=0
+
+[3]
+Name=Infinite Time Decrease
+0=Disabled
+1=Enabled,FF8220,3C
+Default=0
+
+[4]
+Name=Boss - One Hit Kill
+0=Disabled
+1=Enabled,FF1EA6,00,FFA400,00,FFA402,00,FF1E78,00,FF9500,00,FF9502,00
+Default=0
+
+[5]
+Name=P1 Inf Health
+0=Disabled
+1=Enabled,FF83C0,65
+Default=0
+
+[6]
+Name=P1 Inf Lives
+0=Disabled
+1=Enabled,FF8470,02
+Default=0
+
+[7]
+Name=P1 Inf Shot
+0=Disabled
+1=Enabled,FF840A,00,FF840D,40
+Default=0
+
+[8]
+Name=P1 Ultimate Shot
+0=Disabled
+1=Enabled,FF842E,58,FF842F,02
+Default=0
+
+[9]
+Name=P1 Inf Super
+0=Disabled
+1=Enabled,FF8430,E4
+Default=0
+
+[10]
+Name=P1 Invincible
+0=Disabled
+1=Enabled,FF83CD,01,FF83F1,10,FF8420,00,FF842A,00
+Default=0
+
+[11]
+Name=P1 Action Speed Up
+0=Disabled
+1=Enabled,FF838A,01
+Default=0
+
+[12]
+Name=P1 Linn's SP Quick Increase
+0=Disabled
+1=Enabled,FF8436,50
+Default=0
+
+[13]
+Name=P1 Char Select
+0=Disabled
+1=Predator Warrior,FF8453,00
+2=Major D. Schaefer,FF8453,01
+3=Predator Hunter,FF8453,02
+4=Lt. Linn Kurosawa,FF8453,03
+Default=0
+
+[14]
+Name=P1 Attack Mode
+0=Disabled
+1=Endless Grab Attack,FF8400,00
+2=2nd Attack,FF8400,01
+3=3rd Attack,FF8400,02
+4=4th Attack/Schaefer's Final Blow,FF8400,03
+5=Linn's Final Blow,FF8400,04
+6=Predator's Final Blow 1,FF8400,03,FF83DA,00
+7=Predator's Final Blow 2,FF8400,03,FF83DA,80
+Default=0
+
+[15]
+Name=P2 Inf Health
+0=Disabled
+1=Enabled,FF84C0,65
+Default=0
+
+[16]
+Name=P2 Inf Lives
+0=Disabled
+1=Enabled,FF8570,02
+Default=0
+
+[17]
+Name=P2 Inf Shot
+0=Disabled
+1=Enabled,FF850A,00,FF850D,40
+Default=0
+
+[18]
+Name=P2 Ultimate Shot
+0=Disabled
+1=Enabled,FF852E,58,FF852F,02
+Default=0
+
+[19]
+Name=P2 Inf Super
+0=Disabled
+1=Enabled,FF8530,E4
+Default=0
+
+[20]
+Name=P2 Invincible
+0=Disabled
+1=Enabled,FF84CD,01,FF84F1,10,FF8520,00,FF852A,00
+Default=0
+
+[21]
+Name=P2 Action Speed Up
+0=Disabled
+1=Enabled,FF848A,01
+Default=0
+
+[22]
+Name=P2 Linn's SP Quick Increase
+0=Disabled
+1=Enabled,FF8536,50
+Default=0
+
+[23]
+Name=P2 Char Select
+0=Disabled
+1=Predator Warrior,FF8553,00
+2=Major D. Schaefer,FF8553,01
+3=Predator Hunter,FF8553,02
+4=Lt. Linn Kurosawa,FF8553,03
+Default=0
+
+[24]
+Name=P2 Attack Mode
+0=Disabled
+1=Endless Grab Attack,FF8500,00
+2=2nd Attack,FF8500,01
+3=3rd Attack,FF8500,02
+4=4th Attack/Schaefer's Final Blow,FF8500,03
+5=Linn's Final Blow,FF8500,04
+6=Predator's Final Blow 1,FF8500,03,FF84DA,00
+7=Predator's Final Blow 2,FF8500,03,FF84DA,80
+Default=0
+
+[25]
+Name=P3 Inf Health
+0=Disabled
+1=Enabled,FF85C0,65
+Default=0
+
+[26]
+Name=P3 Inf Lives
+0=Disabled
+1=Enabled,FF8670,02
+Default=0
+
+[27]
+Name=P3 Inf Shot
+0=Disabled
+1=Enabled,FF860A,00,FF860D,40
+Default=0
+
+[28]
+Name=P3 Ultimate Shot
+0=Disabled
+1=Enabled,FF862E,58,FF862F,02
+Default=0
+
+[29]
+Name=P3 Inf Super
+0=Disabled
+1=Enabled,FF8630,E4
+Default=0
+
+[30]
+Name=P3 Invincible
+0=Disabled
+1=Enabled,FF85CD,01,FF85F1,10,FF8620,00,FF862A,00
+Default=0
+
+[31]
+Name=P3 Action Speed Up
+0=Disabled
+1=Enabled,FF858A,01
+Default=0
+
+[32]
+Name=P3 Linn's SP Quick Increase
+0=Disabled
+1=Enabled,FF8636,50
+Default=0
+
+[33]
+Name=P3 Char Select
+0=Disabled
+1=Predator Warrior,FF8653,00
+2=Major D. Schaefer,FF8653,01
+3=Predator Hunter,FF8653,02
+4=Lt. Linn Kurosawa,FF8653,03
+Default=0
+
+[34]
+Name=P3 Attack Mode
+0=Disabled
+1=Endless Grab Attack,FF8600,00
+2=2nd Attack,FF8600,01
+3=3rd Attack,FF8600,02
+4=4th Attack/Schaefer's Final Blow,FF8600,03
+5=Linn's Final Blow,FF8600,04
+6=Predator's Final Blow 1,FF8600,03,FF85DA,00
+7=Predator's Final Blow 2,FF8600,03,FF85DA,80
+Default=0
+
+[35]
+Name=Stage
+0=Disabled
+1=Round 1,FF81E8,02
+2=Round 1 Boss,FF81E8,04
+3=Round 2,FF81E8,06
+4=Round 2 Boss,FF81E8,08
+5=Round 3,FF81E8,0A
+6=Round 4,FF81E8,0C
+7=Round 4a,FF81E8,0E
+8=Round 5,FF81E8,10
+9=Round 6,FF81E8,12
+10=Round 6a,FF81E8,14
+11=Round 6b,FF81E8,16
+12=Round 6c,FF81E8,18
+13=Round 6 Boss,FF81E8,1A
+14=Round 7,FF81E8,1C
+15=Round 7a,FF81E8,1E
+16=Round 7b,FF81E8,20
+17=Round 7c,FF81E8,22
+18=Last Round,FF81E8,24
+Default=0
+

@@ -1,0 +1,72 @@
+[0]
+Name=Infinite Time Limit
+0=Off,0,0
+1=On,10B648,78
+
+[1]
+Name=P1 Health Gauge
+0=Off,0,0
+1=Infinite,100066,FF,100067,0B
+2=Red,100066,FF,100067,02
+
+[2]
+Name=P2 Health Gauge
+0=Off,0,0
+1=Infinite,100166,FF,100167,0B
+2=Red,100166,FF,100167,02
+
+[3]
+Name=P1 Power Gauge
+0=Off,0,0
+1=Blank,100073,00
+2=Max,100073,FF
+
+[4]
+Name=P2 Power Gauge
+0=Off,0,0
+1=Blank,100173,00
+2=Max,100173,FF
+
+[5]
+Name=No Decrease Power Gauge
+0=Off,0,0
+1=P1 On,10C02C,FF,10C02D,01
+2=P2 On,10C12C,FF,10C12D,01
+3=P1&P2 On,10C02C,FF,10C02D,01,10C12C,FF,10C12D,01
+
+
+[6]
+Name=P1 Character Select
+0=Off,0,0
+1=Kisara,10B088,01
+2=Fuuma,10B088,02
+3=Gou,10B088,03
+4=Leon,10B088,04
+5=Shin,10B088,05
+6=Joe,10B088,06
+7=Ree,10B088,07
+8=Bobby,10B088,08
+
+[7]
+Name=P2 Character Select
+0=Off,0,0
+1=Kisara,10B188,01
+2=Fuuma,10B188,02
+3=Gou,10B188,03
+4=Leon,10B188,04
+5=Shin,10B188,05
+6=Joe,10B188,06
+7=Ree,10B188,07
+8=Bobby,10B188,08
+
+[8]
+Name=P1 Special Attack Select
+0=Off,0,0
+1=Kisara,1000A8,07
+2=Fuuma,1000A8,02
+3=Gou,1000A8,01
+4=Joe,1000A8,03
+5=?Leon,1000A8,04
+6=?Shin,1000A8,05
+7=?Ree,1000A8,06
+8=?Bobby,1000A8,08

@@ -1,0 +1,85 @@
+[0]
+Name=Infinite Time Limit
+0=Off,0,0
+1=Infinite Count Value,10092B,99
+2=Infinite Cycle Timer,10092A,2F
+
+[1]
+Name=P1 Health Gauge
+0=Off,0,0
+1=Infinite,10049B,60
+2=Can use Special Arts,10049B,20
+
+[2]
+Name=P2 Health Gauge
+0=Off,0,0
+1=Infinite,10059B,60
+2=Can use Special Arts,10059B,20
+
+[3]
+Name=P1 Winning Point
+0=Off,0,0
+1=0 Point,100059,00
+2=1 Point,100059,01
+3=2 Points,100059,02
+
+[4]
+Name=P2 Winning Point
+0=Off,0,0
+1=0 Point,100159,00
+2=1 Point,100159,01
+3=2 Points,100159,02
+
+[5]
+Name=P1 Character
+0=Off,0,0
+1=Terry Bogard,10045C,01
+2=Andy Bogard,10045C,02
+3=Joe Higashi,10045C,03
+4=Big Bear,10045C,04
+5=Jubei Yamada,10045C,05
+6=Cheng Sinzan,10045C,06
+7=Kim Kaphwan,10045C,07
+8=Mai Shiranui,10045C,08
+9=Duck King,10045C,09
+10=Tung Fu Rue,10045C,0A
+11=Billy Kane,10045C,0B
+12=Axel Hawk,10045C,0C
+13=Laurence Blood,10045C,0D
+14=Geese Howard,10045C,0E
+15=Wolfgang Krauser,10045C,0F
+16=Ryo Sakazaki,10045C,10
+
+[6]
+Name=P1 Character
+0=Off,0,0
+1=Terry Bogard,10055C,01
+2=Andy Bogard,10055C,02
+3=Joe Higashi,10055C,03
+4=Big Bear,10055C,04
+5=Jubei Yamada,10055C,05
+6=Cheng Sinzan,10055C,06
+7=Kim Kaphwan,10055C,07
+8=Mai Shiranui,10055C,08
+9=Duck King,10055C,09
+10=Tung Fu Rue,10055C,0A
+11=Billy Kane,10055C,0B
+12=Axel Hawk,10055C,0C
+13=Laurence Blood,10055C,0D
+14=Geese Howard,10055C,0E
+15=Wolfgang Krauser,10055C,0F
+16=Ryo Sakazaki,10055C,10
+
+[7]
+Name=Action Speed Up
+0=Off,0,0
+1=P1 Only,100478,00
+2=P2 Only,100578,00
+3=P1&P2,100478,00,100578,00
+
+[8]
+Name=No Hit Stop
+0=Off,0,0
+1=P1 Only,1004C7,00
+2=P2 Only,1005C7,00
+3=P1&P2,1004C7,00,1005C7,00

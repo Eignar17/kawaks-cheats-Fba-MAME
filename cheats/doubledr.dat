@@ -1,0 +1,54 @@
+[0]
+Name=Infinite Time Limit
+0=Off,0,0
+1=On,102243,99
+
+[1]
+Name=Infinite Health
+0=Off,0,0
+1=P1 On,100451,00
+2=P2 On,100551,00
+3=P1&P2 On,100451,00,100551,00
+
+[2]
+Name=Ultimate Charge Gauge
+0=Off,0,0
+1=P1 On,100511,68
+2=P2 On,100611,68
+3=P1&P2 On,100511,68,100611,68
+
+[3]
+Name=P1 Character Select
+0=Off,0,0
+1=Billy,100444,00
+2=Billy(Charged),100444,01
+3=Jimmy,100444,02
+4=Jimmy(Charged),100444,03
+5=Marian,100444,04
+6=Abobo,100444,05
+7=Amon,100444,06
+8=Eddie,100444,07
+9=Rebecca,100444,08
+10=Dolton,100444,09
+11=Cheng Fu,100444,0A
+12=Burnov,100444,0B
+13=Duke,100444,0C
+14=Shoko,100444,0D
+
+[4]
+Name=P2 Character Select
+0=Off,0,0
+1=Billy,100544,00
+2=Billy(Charged),100544,01
+3=Jimmy,100544,02
+4=Jimmy(Charged),100544,03
+5=Marian,100544,04
+6=Abobo,100544,05
+7=Amon,100544,06
+8=Eddie,100544,07
+9=Rebecca,100544,08
+10=Dolton,100544,09
+11=Cheng Fu,100544,0A
+12=Burnov,100544,0B
+13=Duke,100544,0C
+14=Shoko,100544,0D

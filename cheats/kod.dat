@@ -1,0 +1,194 @@
+[0]
+Name=Infinite Time
+0=Disabled
+1=Enabled,FFE085,63
+Default=0
+
+[1]
+Name=Guardian One-Hit Kill
+0=Disabled
+1=Enabled,FF431A,00
+Default=0
+
+[2]
+Name=P1 Inf Lives
+0=Disabled
+1=Enabled,FF125C,03
+Default=0
+
+[3]
+Name=P1 Inf Energy
+0=Disabled
+1=Enabled,FF129A,63
+Default=0
+
+[4]
+Name=P1 Invincible
+0=Disabled
+1=Enabled,FF128F,64
+Default=0
+
+[5]
+Name=P1 Max Character Level
+0=Disabled
+1=Enabled,FF12A3,17,FF12C3,99,FF12C2,99,FF12C5,99,FF12C4,99
+Default=0
+
+[6]
+Name=P1 Max Weapon Level
+0=Disabled
+1=Enabled,FF12A2,07
+Default=0
+
+[7]
+Name=P1 Max Protection Level
+0=Disabled
+1=Enabled,FF12A5,07
+Default=0
+
+[8]
+Name=P1 Max Attack Power
+0=Disabled
+1=Enabled,FF129C,63
+Default=0
+
+[9]
+Name=P1 Max Defence Power
+0=Disabled
+1=Enabled,FF129E,63
+Default=0
+
+[10]
+Name=P1 Quick Attack
+0=Disabled
+1=Enabled,FF12AA,01
+Default=0
+
+[11]
+Name=P2 Inf Lives
+0=Disabled
+1=Enabled,FF135C,03
+Default=0
+
+[12]
+Name=P2 Inf Energy
+0=Disabled
+1=Enabled,FF139A,63
+Default=0
+
+[13]
+Name=P2 Invincible
+0=Disabled
+1=Enabled,FF138F,64
+Default=0
+
+[14]
+Name=P2 Max Character Level
+0=Disabled
+1=Enabled,FF13A3,17,FF13C3,99,FF13C2,99,FF13C5,99,FF13C4,99
+Default=0
+
+[15]
+Name=P2 Max Weapon Level
+0=Disabled
+1=Enabled,FF13A2,07
+Default=0
+
+[16]
+Name=P2 Max Protection Level
+0=Disabled
+1=Enabled,FF13A5,07
+Default=0
+
+[17]
+Name=P2 Max Attack Power
+0=Disabled
+1=Enabled,FF139C,63
+Default=0
+
+[18]
+Name=P2 Max Defence Power
+0=Disabled
+1=Enabled,FF139E,63
+Default=0
+
+[19]
+Name=P2 Quick Attack
+0=Disabled
+1=Enabled,FF13AA,01
+Default=0
+
+[20]
+Name=P3 Inf Lives
+0=Disabled
+1=Enabled,FF145C,03
+Default=0
+
+[21]
+Name=P3 Inf Energy
+0=Disabled
+1=Enabled,FF149A,63
+Default=0
+
+[22]
+Name=P3 Invincible
+0=Disabled
+1=Enabled,FF148F,64
+Default=0
+
+[23]
+Name=P3 Max Character Level
+0=Disabled
+1=Enabled,FF14A3,17,FF14C3,99,FF14C2,99,FF14C5,99,FF14C4,99
+Default=0
+
+[24]
+Name=P3 Max Weapon Level
+0=Disabled
+1=Enabled,FF14A2,07
+Default=0
+
+[25]
+Name=P3 Max Protection Level
+0=Disabled
+1=Enabled,FF14A5,07
+Default=0
+
+[26]
+Name=P3 Max Attack Power
+0=Disabled
+1=Enabled,FF149C,63
+Default=0
+
+[27]
+Name=P3 Max Defence Power
+0=Disabled
+1=Enabled,FF149E,63
+Default=0
+
+[28]
+Name=P3 Quick Attack
+0=Disabled
+1=Enabled,FF14AA,01
+Default=0
+
+[29]
+Name=Stage Select
+0=Disabled
+1=Stage 1,FF0E48,00
+2=Stage 2,FF0E48,01
+3=Stage 3,FF0E48,02
+4=Stage 4,FF0E48,03
+5=Stage 5,FF0E48,04
+6=Stage 6,FF0E48,05
+7=Stage 7,FF0E48,06
+8=Stage 8,FF0E48,07
+9=Stage 9,FF0E48,08
+10=Stage 10,FF0E48,09
+11=Stage 11,FF0E48,0A
+12=Stage 12,FF0E48,0B
+13=Stage 13,FF0E48,0C
+14=Stage 14,FF0E48,0D
+15=Stage 15,FF0E48,0E
+Default=0
+

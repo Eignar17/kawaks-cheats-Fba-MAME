@@ -1,0 +1,131 @@
+[0]
+Name=Infinite Time*
+0=Disabled
+1=Enabled,FF80AE,9A
+Default=0
+
+[1]
+Name=Normal Enemy - One Hit Kill*
+0=Disabled
+1=Enabled,FF8700,00,FF87C0,00,FF8880,00,FF8940,00,FF8A00,00,FF8AC0,00,FF8B80,00,FF8C40,00,FF8D00,00,FF8DC0,00,FF8E80,00,FF8F40,00,FF9000,00
+Default=0
+
+[2]
+Name=Boss - Two Hit Kill
+0=Disabled
+1=Enabled,FF9A80,00
+Default=0
+
+[3]
+Name=P1 Inf Health
+0=Disabled
+1=Enabled,FF8580,90,FF8582,90
+Default=0
+
+[4]
+Name=P1 Inf Lives
+0=Disabled
+1=Enabled,FF85E9,09
+Default=0
+
+[5]
+Name=P1 Invincible
+0=Disabled
+1=Enabled,FF85C8,B4
+Default=0
+
+[6]
+Name=P1 Action Speed Up
+0=Disabled
+1=Enabled,FF8591,01
+Default=0
+
+[7]
+Name=P1 Jump Attack Limit
+0=Disabled
+1=Enabled,FF860C,00
+Default=0
+
+[8]
+Name=P1 Attack Mode
+0=Disabled
+1=All - Endless Attack,FF860A,00
+2=Guy - Finish Blow,FF860A,06
+3=Cody - Finish Blow (Uppercut),FF860A,04
+4=Cody - Finish Blow (Body Blow),FF860A,02
+5=Haggar - Finish Blow,FF860A,02
+Default=0
+
+[9]
+Name=P1 Char Select
+0=Disabled
+1=Guy,FF857D,00
+2=Cody,FF857D,01
+3=Haggar,FF857D,02
+Default=0
+
+[10]
+Name=P2 Inf Health
+0=Disabled
+1=Enabled,FF8640,90,FF8642,90
+Default=0
+
+[11]
+Name=P2 Inf Lives
+0=Disabled
+1=Enabled,FF86A9,09
+Default=0
+
+[12]
+Name=P2 Invincible
+0=Disabled
+1=Enabled,FF8688,B4
+Default=0
+
+[13]
+Name=P2 Action Speed Up
+0=Disabled
+1=Enabled,FF8651,01
+Default=0
+
+[14]
+Name=P2 Jump Attack Limit
+0=Disabled
+1=Enabled,FF86CC,00
+Default=0
+
+[15]
+Name=P2 Attack Mode
+0=Disabled
+1=All - Endless Attack,FF86CA,00
+2=Guy - Finish Blow,FF86CA,06
+3=Cody - Finish Blow (Uppercut),FF86CA,04
+4=Cody - Finish Blow (Body Blow),FF86CA,02
+5=Haggar - Finish Blow,FF86CA,02
+Default=0
+
+[16]
+Name=P2 Char Select
+0=Disabled
+1=Guy,FF863D,00
+2=Cody,FF863D,01
+3=Haggar,FF863D,02
+Default=0
+
+[17]
+Name=Scene Clear*
+0=Disabled
+1=Enabled,FF8128,01
+Default=0
+
+[18]
+Name=Stage Select*
+0=Disabled
+1=Stage 1,FF80BF,00
+2=Stage 2,FF80BF,01
+3=Stage 3,FF80BF,02
+4=Stage 4,FF80BF,03
+5=Stage 5,FF80BF,04
+6=Stage 6,FF80BF,05
+Default=0
+

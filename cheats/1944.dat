@@ -1,0 +1,86 @@
+[0]
+Name=Infinite Credits
+0=Disabled
+1=Enabled,921D50,09
+Default=0
+
+[1]
+Name=P1 Inf Health
+0=Disabled
+1=Enabled,9226A4,4B
+Default=0
+
+[2]
+Name=P1 Invincible
+0=Disabled
+1=Enabled,9226EE,02,9228EE,02,9229EE,02
+Default=0
+
+[3]
+Name=P1 Inf Bombs
+0=Disabled
+1=Enabled,922404,0A
+Default=0
+
+[4]
+Name=P1 Inf Side Arm
+0=Disabled
+1=Enabled,9223FA,63
+Default=0
+
+[5]
+Name=P1 Always Max Charge
+0=Disabled
+1=Enabled,922418,B6
+Default=0
+
+[6]
+Name=P1 Max Fire Power
+0=Disabled
+1=Enabled,922428,03
+Default=0
+
+[7]
+Name=P1 Max Gold
+0=Disabled
+1=Enabled,9223FC,64
+Default=0
+
+[8]
+Name=P1 No Overheat
+0=Disabled
+1=Enabled,92242F,00
+Default=0
+
+[9]
+Name=P1 Always Big
+0=Disabled
+1=Enabled,922422,01
+Default=0
+
+[10]
+Name=P1 Always Charge Shot
+0=Disabled
+1=Enabled,92241A,FF
+Default=0
+
+[11]
+Name=Stage
+0=Disabled
+1=Stage 1,9221A8,00
+2=Stage 2,9221A8,01
+3=Stage 3,9221A8,02
+4=Stage 4,9221A8,03
+5=Stage 5,9221A8,04
+6=Stage 6,9221A8,05
+7=Stage 7,9221A8,06
+8=Stage 8,9221A8,07
+9=Stage 9,9221A8,08
+10=Stage 10,9221A8,09
+11=Stage 11,9221A8,0A
+12=Stage 12,9221A8,0B
+13=Stage 13,9221A8,0C
+14=Stage 14,9221A8,0D
+15=Stage 15,9221A8,0E
+Default=0
+

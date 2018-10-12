@@ -1,0 +1,58 @@
+[0]
+Name=Infinite Time Limit(Unperfect)
+0=Off,0,0
+1=On,103817,99,103917,99,103A17,99,103B17,99
+
+[1]
+Name=P1 Character
+0=Off,0,0
+1=戦国卍丸(Sengoku Manjimaru),1050B9,00
+2=極楽太郎(Gokuraku Taro),1050B9,01
+3=網手(Tsunade),1050B9,02
+4=大蛇丸(Orochimaru),1050B9,03
+5=八雲(Yagumo),1050B9,04
+6=自来也(Ziria),1050B9,05
+7=カブキ団十郎(Kabuki),1050B9,06
+8=絹(Kinu),1050B9,07
+9=マントー(Manto),1050B9,08
+10=カラクリ兵(Karakuri),1050B9,09
+
+[2]
+Name=P2 Character
+0=Off,0,0
+1=戦国卍丸(Sengoku Manjimaru),1050B8,00
+2=極楽太郎(Gokuraku Taro),1050B8,01
+3=網手(Tsunade),1050B8,02
+4=大蛇丸(Orochimaru),1050B8,03
+5=八雲(Yagumo),1050B8,04
+6=自来也(Ziria),1050B8,05
+7=カブキ団十郎(Kabuki),1050B8,06
+8=絹(Kinu),1050B8,07
+9=マントー(Manto),1050B8,08
+10=カラクリ兵(Karakuri),1050B8,09
+
+[3]
+Name=Infinite Health(1st Round Only)
+0=Off,0,0
+1=P1,101057,64
+2=P2,101257,64
+3=P1&P2,101057,64,101257,64
+
+
+[4]
+Name=Infinite Magic(1st/2nd Round Only)
+0=Off,0,0
+1=P1,10106F,3C,10306F,3C
+2=P2,10126F,3C,10326F,3C
+3=P1&P2,10106F,3C.10126F,3C,10306F,3C.10326F,3C
+
+[5]
+Name=P1 Equip Weapon(1st Round Only)
+0=System,0,0
+1=Nothing,101030,00
+2=Equip,101030,01
+
+[6]
+Name=Action Speed Up(1st Round Only)
+0=Off,0,0
+1=P1 On,1010BC,00

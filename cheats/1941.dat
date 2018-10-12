@@ -1,0 +1,121 @@
+[0]
+Name=Infinite Credits
+0=Disabled
+1=Enabled,FF0D58,09
+Default=0
+
+[1]
+Name=P1 Inf Vital/Rolls
+0=Disabled
+1=Enabled,FF0DA4,07
+Default=0
+
+[2]
+Name=P1 Fully Loaded Weapon
+0=Disabled
+1=Enabled,FFC579,07
+Default=0
+
+[3]
+Name=P1 Invincible
+0=Disabled
+1=Enabled,FF0DFB,01
+Default=0
+
+[4]
+Name=P1 Max Energy Value
+0=Disabled
+1=Enabled,FF0DA5,06
+Default=0
+
+[5]
+Name=P1 Class Level 8
+0=Disabled
+1=Enabled,FF0DCD,07
+Default=0
+
+[6]
+Name=P1 After Image
+0=Disabled
+1=Enabled,FF0DE3,01
+Default=0
+
+[7]
+Name=P1 Inf Weapon Time
+0=Disabled
+1=Enabled,FF0DE6,99
+Default=0
+
+[8]
+Name=P1 Gun Type
+0=Disabled
+1=Vulcan,FF0DC9,00
+2=Machine Gun,FF0DC9,01
+3=Super Shell,FF0DC9,02
+4=Missile,FF0DC9,03
+Default=0
+
+[9]
+Name=P1 Side Fighters
+0=Disabled
+1=Left Fighter,FF9A98,01,FF9A99,01,FF9A45,05
+2=Right Fighter,FF9A18,01,FF9A19,01,FF9A1A,01,FF9AC5,05
+3=Both Fighters,FF9A98,01,FF9A99,01,FF9A45,05,FF9A18,01,FF9A19,01,FF9A1A,01,FF9AC5,05
+Default=0
+
+[10]
+Name=P2 Inf Vital/Rolls
+0=Disabled
+1=Enabled,FF0DA6,07
+Default=0
+
+[11]
+Name=P2 Fully Loaded Weapon
+0=Disabled
+1=Enabled,FFC57D,07
+Default=0
+
+[12]
+Name=P2 Invincible
+0=Disabled
+1=Enabled,FF0DFA,01
+Default=0
+
+[13]
+Name=P2 Max Energy Value
+0=Disabled
+1=Enabled,FF0DA7,06
+Default=0
+
+[14]
+Name=P2 After Image
+0=Disabled
+1=Enabled,FF0DE2,01
+Default=0
+
+[15]
+Name=P2 Inf Weapon Time
+0=Disabled
+1=Enabled,FF0DE9,99
+Default=0
+
+[16]
+Name=P2 Gun Type
+0=Disabled
+1=Vulcan,FF0DCA,00
+2=Machine Gun,FF0DCA,01
+3=Super Shell,FF0DCA,02
+4=Missile,FF0DCA,03
+Default=0
+
+[17]
+Name=Stage Select
+0=Disabled
+1=Stage 1,FF0DAC,00
+2=Stage 2,FF0DAC,01
+3=Stage 3,FF0DAC,02
+4=Stage 4,FF0DAC,03
+5=Stage 5,FF0DAC,04
+6=Stage 6,FF0DAC,05
+Default=0
+

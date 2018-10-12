@@ -1,0 +1,60 @@
+[0]
+Name=Infinite Time Limit
+0=Off,0,0
+1=On,100452,63
+
+[1]
+Name=P1 Player Select
+0=Off,0,0
+1=Musashi,100302,00
+2=Suzume,100302,01
+
+[2]
+Name=Infinite Lives
+0=Off,0,0
+1=P1 On,1004A0,05
+
+[3]
+Name=Infinite Health
+0=Off,0,0
+1=P1 On,100480,0D
+
+[4]
+Name=Invulnerabirity
+0=Off,0,0
+1=P1 On,109D10,FF
+
+[5]
+Name=Infinite Weapon
+0=Off,0,0
+1=P1 On,100496,63
+
+[6]
+Name=Weapon Select
+0=Off,0,0
+1=Sword,100498,01
+2=Shot,100498,02
+3=Bomb,100498,03
+4=Ninjutsu,100498,04
+
+[7]
+Name=Shot Limit Off
+0=Off,0,0
+1=P1 On,109E94,00
+
+[8]
+Name=Quick Shot ?
+0=Off,0,0
+1=P1 On Type1,109D02,07
+2=P1 On Type2,109D02,00
+
+[9]
+Name=Quick Sliding and Move?
+0=Off,0,0
+1=P1 Quick,109CEA,06
+2=P1 Endless,109CEA,00
+
+[10]
+Name=Destroy Boss with 1 shot
+0=Off,0,0
+1=On,1070EC,01

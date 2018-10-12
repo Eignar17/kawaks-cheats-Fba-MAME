@@ -1,0 +1,66 @@
+[0]
+Name=Char Unlock
+0=Disabled
+1=Enabled,928A8A,01
+Default=0
+
+[1]
+Name=P1 Inf Lives
+0=Disabled
+1=Enabled,92804F,03
+Default=0
+
+[2]
+Name=P1 Inf Bombs
+0=Disabled
+1=Enabled,92804E,09
+Default=0
+
+[3]
+Name=P1 Invincible
+0=Disabled
+1=Enabled,FF10D4,B3
+Default=0
+
+[4]
+Name=P1 Max Power Charge
+0=Disabled
+1=Enabled,92807B,2F
+Default=0
+
+[5]
+Name=P1 Max Magic Power*
+0=Disabled
+1=Enabled,FF109C,03
+Default=0
+
+[6]
+Name=P2 Inf Lives
+0=Disabled
+1=Enabled,92814F,03
+Default=0
+
+[7]
+Name=P2 Inf Bombs
+0=Disabled
+1=Enabled,92814E,09
+Default=0
+
+[8]
+Name=P2 Invincible
+0=Disabled
+1=Enabled,FF1CD4,B3
+Default=0
+
+[9]
+Name=P2 Max Power Charge
+0=Disabled
+1=Enabled,92817B,2F
+Default=0
+
+[10]
+Name=P2 Max Magic Power*
+0=Disabled
+1=Enabled,FF1C9C,03
+Default=0
+
